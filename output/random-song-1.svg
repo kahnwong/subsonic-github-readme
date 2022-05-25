@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  width="540"
+  height="64"
+  viewBox="0 0 540 64"
+  data-reactroot=""
+><foreignObject width="540" height="64"><div
+      xmlns="http://www.w3.org/1999/xhtml"
+    ><style>
+              * {
+                margin: 0;
+                box-sizing: border-box;
+              }
+              :root {
+                color: rgb(36, 41, 46);
+                background: #FFF;
+              }
+
+              @media (prefers-color-scheme: dark) {
+                :root {
+                  color: rgb(201, 209, 217);
+                  background: rgb(13, 17, 23);
+                }
+
+                p {
+                  color: inherit !important;
+                }
+              }
+            </style><style>
+            .paused {
+              animation-play-state: paused !important;
+              background: #e1e4e8 !important;
+            }
+
+            img:not([src]) {
+              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              background: #FFF;
+              border: 1px solid #e1e4e8;
+            }
+
+            img {
+              border-radius: 3px;
+            }
+
+            p {
+              display: block;
+              opacity: 0;
+            }
+
+
+            #progress {
+              position: absolute;
+              top: -1px;
+              left: 0;
+              width: 100%;
+              height: 6px;
+              transform-origin: left center;
+              background-color: #24292e;
+              animation: progress 273333ms linear;
+              animation-delay: -1321ms;
+            }
+
+
+            #track,
+            #artist,
+            #cover {
+              opacity: 0;
+              animation: appear 300ms ease-out forwards;
+            }
+
+            #track {
+              animation-delay: 400ms;
+            }
+            #artist {
+              animation-delay: 500ms;
+            }
+
+
+            #cover {
+              animation-name: cover-appear;
+              animation-delay: 300ms;
+              box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
+            }
+
+            #cover:not([src]) {
+              box-shadow: none;
+            }
+
+            @keyframes cover-appear {
+              from {
+                opacity: 0;
+                transform: scale(0.8);
+              }
+              to {
+                opacity: 1;
+                transform: scale(1);
+              }
+            }
+
+            @keyframes appear {
+              from {
+                opacity: 0;
+                transform: translateX(-8px);
+              }
+              to {
+                opacity: 1;
+                transform: translateX(0);
+              }
+            }
+
+            @keyframes progress {
+              from {
+                transform: scaleX(0)
+              }
+              to {
+                transform: scaleX(1)
+              }
+            }
+        </style>
+
+        <div
+        class="disabled"
+        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
+      ><p
+          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+        >▶</p><img
+          id="cover"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJYoQ9vDKCjbiwmldj+5OeDjI7YPfPTtW6YrB2kYDzlVRtVZeSctuGCeMYHPQ9R1oaL/hJrpYrRYonkcRRwIucnHtWdL4Zksr97bUw0axna7RDcBkccjjv0rr5X0MbrqWJ7OzEzGKaNUyTATL/rfQbs8dvTHTipGmtZtMkWXC3aqcRiTPOGxg5ODwDg5zjHBNdfpfw0k1uzS9URRhzujldPvKo5J54HFW4Pg5eypGXudNl3qAJPnBxjg9eT0oad7BdHnbJbxS3dvHM6TM7vaAOCgVScAnPVgDj6D1q1qTWWp2lyxkAuINsagvnoeoP8QIz7j8jV/Xfh5q+laiLW2j+1M52o0aEDJ7c1gal4a1HSI5EvkCOzooCHcCcE9RxVcjW5N0z0Twjotteie4LmRrdFNl9nKrJEzqMswIwxyc4OcfkKI1srO9Sxa/mmhs7t5rqCcqRdSAHO6TgBhkAg8e+QKx7Ca7g0drPTrk232i4ZpZoshzGsQBAI9cjP0qlp9pNp+oWVvET5Mr4YM33Wyrbs/QkVGzEeo6J4t1NPC7xmziDR280jxw7OVXdtVWU7W6gZyaybrWNW0zRbbVLOJZLqaOMhXP7tQR8ys24AY55z2rA0S2t9F8S3MkEcgt0jBIyUQjJA4/i4CqcjvmovEcEGt60/2ZJE2WsqRB/nSNlyAcZwOOhA7etNTaWnYelzpp7aVBeXd7fTo+qOHhsIZGCwbkCmQyDJ5zuAGBkDk1QGnxWs9np1xfx3puJ181pEVXkRUY4CqT1Kg544Hvisq+N34h8RQ6TLfSeRZ2spLg7cS7fvfT0/GqF69xp17De3Db7myt3tw/QN8j4Yj1+apTYGd4ZuMQ5LBiGZQD1UEAn+VbmuXFq1lDLECGVi4I4xxjj8qbDodlBC6ecq87g/XcemK5rWRcxqITKBEDgnrgd6TITub+k661yJ45dru1vEN7nJzu5P6CrWTcanLFb+WIZLYpznAIPX9TXGW19ZwRqHuFUn7zArn8wK0H1qymgEcMgNwpyg3AKw9OnFUrDcZHXRxWGkT3kslxEZ2gIJSbeWJ68duvesLVNbtridz5ccjPGY2BO4Z+fHH5Vz/wBpiuUAxKGycncNpGfSqiatbRHZHYp5w4EkmW557dO/vUt2BI//2Q=="
+          width="48"
+          height="48"
+        /><div
+          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
+        ><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+            id="track"
+          ><tspan template-id="title">Both Sides Now</tspan></p><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
+            id="artist"
+          ><tspan template-id="artist">Gregorian</tspan></p><div
+            class="a"
+          /></div></div></div></foreignObject>
+
+
+      </svg>
