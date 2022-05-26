@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBHZWfhFUdMAVJGIWOGZhzgAKDTYpFjlLPEsq8ja1WFvZ/LCII0AAGVQZ46c9adwESCF2ABmJOBjyu+elN8qEAb2cHHI8up2ubu5bMtxI3Oclu/WmyXFw3LXEjEdMsT7U7+Qiq4iBwCx4/ugU1WADAopyMA+nvVt792wJ4oZgP7yAH8xg1TcqzsVXavZc5xSuMB941KBgZqNWwx4B57itCDUWgj2raWTe8kAc/rQkuonfoOsNKvtTl2WcW4AEszHagwCcEnjJAOB1NP1LSL/RL5rLU7fyLgIr7dwb5WGQcgkVtaN4pdL61tbqOzhsBIZWiigEau4UgFiDz6fSs+61qO9vHWa0t52DNtkctkj04PatuSnyXvqZc0+a1tDFkWoO5+ladzNA6Y+yRxn+9GzD9CTWacbjjP41i1ZmqdxP4j9akU8802SNkcg4Pfg5pMN6Gk0MkdN5B3YojjCPuY9OmKaGb0P5UZb0P5UAPlk3nOah7/AIUp3H+E0qxswdsDCrk5OKAP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDUQuSBjj1pXiaMAnGD6GmUUyTpvDvhG41uwub8yxQWkGA8sgJGfQAVk6nYLZynyZ454s4DoCOfoa9L8O2yT+ANNgttQ+zRS3WLvkEEEcg9wePwrzG7dmeRGlDqGO0juM0Rd4u4VYuMo2KVFFFABRVq00+4vcfZ1ViZBEAWwckE/lhTU8GiXtw6LGiHzPK2kvgESEhT+YP0oA2vDV4o0HVLNi0hYblgD7d3ynkeuCckdx9K5ZjxirUVrcJZi8QK0BO0kNypzwCOxPUeuD6U5tLuhpv9oEJ9m7sG5HLDkfVcfivqKOgXdyjRVy40y4tS/neWu1wn385bbuwPwIpl3Yz2QhM6hfOjWWP3UgEH9fzBoAgEjqAFdgA24AEjB9frTluJlOVmkByDkORyOn5dvSo6KAHb327d7YxjGeMZz/PmpptxhWRGIikJBTPAYYyMfkf/ANVJZC1N7AL0yi18xfOMWN+zPO3PGcVY1C5tTqMn9nxYsUkYwxyjJx2LepwBQAgtL+Ri5LFn4JMoy3H19Kr3AuEKxzs5wAVBfcAMY459APyo+0/OzCC3G4YI8vjt2/CiW481AvkwJg5zHHtNAH//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Lacrymosa</tspan></p><p
+          ><tspan template-id="title">Shots Fired</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Vitamin String Quartet</tspan></p><div
+          ><tspan template-id="artist">Le Castle Vania</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
