@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIYxsjjYoGVu3Sp4QhH91gcZNR2qpIAMAkDk1eLNFEERsenNbqN9TqS6kMvMi9OD0q1EeMb1APaoPtGDtOcquM7zU6XWVOMg7eDvJxTu+xQjfLuAYknBBzUNwxG9k4XP3c5xVss8sfzsT65rPu8Ix+UfXFJq2oMSyVdgJ4OOcCtSHTo5po0WQt5lp54XeA5fYTgDHTIFZenHbA2WHqc1flum3rJAzI6wLBnjoFwfw60pqTXuijawsOmRyRXVxLICsCkHEm35wyjBJHAwxOfarP9jpHclA8u3cWUMo3GPeoB4PdW3Z6YrNfULhfMy/EmQ4IBD5xnIxznA/KnpfXUjqTK7EZwSRkZxxnHTgcdOKz5a19yro0fLiSKV1jbKTGHmQc8Nz09hVC+CNnI4q1HJ/ojQlS0jTCUuemNpB/nmqN+zBfataaetwZSsZQmVbByORjkcVK8hC8DHpVONz8qmQKo9uRUolGxRnJ7+lEZWVjNPQ0o7CW5jVwBjt71Oti8Me9sbfUVQhYHJCjJq0OVBAH4CqtK+5aZYjYYIHIHSqF7k5IP4GnrIybuvsP50y6kzHIqtuQ9yuM/4Um+wNn/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJbjXVuP+We0+gqvBcpLLlohKoPKt3rY8DaTpGoT3v9s3X2ZEgMkeX27wAcj6cg/gRUnhF9KttVvGmktXKxyJaveD91I5BCErj12nBrF2u4robJOyk+o/QIWg1lVhkXydy+bhckJkHoa0/F1jANZlbz2khY74i6ANIOOw4HOemKspANKjePVb2x89woWeFdoGWTtgZIBORV1bcahefZdSvYZ/LcwmZMBlj3HaG4GG2nt2xWXKuYd2o6nmEsojlYBduDjAHpTo79UIG36k129/YeEbPxJY6fM8kttgea4l3MC/IBwPUg5JziuJ1a3ga8nuNPVzp2/ZFI4AJA4G70JxmtotS6ClFxV7m141khttdSTTnVYWtVQKhyFGCpXHpj+dYV5fC4mt3ihjijihjiVAByUUAsfUk5NMv1kTUJx5ZjPmNhDycEkjNPbVLxdKfTG8v7OziQ5jG7P+91pwVorqFSXNJvYbdX89zItwWCbJGKKnG0k7uPzqaw1C4FxcXEkzF2UFnY85HSqiCP7FKTHuc4w2fu8imDdHCwwPnbBB9qppMzu+ow7wQX3AvyCe49a3NCg+0XkSSYW0FxG0wboVUk49+9VU1O5uhcwiO3VJgCQIQSioOFUkEqAB2p0C3UhSKEA5GCEON3v9ambduxpTSvfdFfzZM7jK5Yf3sGqqxyzMdqs5HXHNSZx3zkdaiWR4juRireo/z7VURVC5a2km24V4ZTmJsFAT6GkmtpmsomMLlmZ2Y46Hj+lOi1GTaoIbKj5iJGG/r2HTr29KWe9Z4iFQoc5BEjHH50W1I6FILLbyfMjIcEYYY+tTwMSpDE4BzjJwKglmlmYGR2YgcFjUkLYVsAc+tEkVTep//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">A Necromancer</tspan></p><p
+          ><tspan template-id="title">どうして君を好きになってしまったんだろう？ -THE LEVEL Remix-</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Howard Shore</tspan></p><div
+          ><tspan template-id="artist">東方神起</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
