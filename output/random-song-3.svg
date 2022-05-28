@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iiigAooHXmrOoQx29/PDDv8ALRsLv6/jQBWooooAt6YYBqVubkKYd43Bun4+2a1xZLgI1qnm/wBnO5UR8795GR71ztKGYdCRj3oA3bkx2mh2cv2GJLppHhdnjBH7vBBwf4jvwe3yittmsZNfuVlsoJ3kvobdRsUbEPJPA5JIxn0zXDlmIwSSPrVvU7gTancyxvlXckEHqKANUwW66WszwRBWinBfbg79/wAmPf8Apmuepck9TSUAFFFFABRRRQAUUUUAf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAALAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOpitNiFirHHOFGSa1YtPBjI5544NN0m4t7+0W4t5opon5V4zkY7fjWsxjggeWVgkaKWZj0UAZJ/KsXO502sYN5fad4fto5NZ1C2tUdtkbOxG70AHJPHU1tRRq8Ssr70YZDA5BB6EGvAvGfia28WeI9P1PR4nd4ttqkN1ghn35QqM8BsjOe1e+6FazW+jWkFwIBKkYBFuCIx6BQecAcfhUsCRYNvHJGAADUgj96siMhduRuxTlhAHIG49SB1NK4XPkLw54r1XwxeLNp9wdgOWgk5Rvwr1jU/ilpviH4c6xErfY9Wa28s27HO4MwUlD34J968MzxyPxFGR61u4Ju5kpNaG54Tt/tHjLSLck7TexFvcKwY/oK+kPhldtqPgm3uiWKvcXHlgnO1PMbaB7AV8u6fqc+mahDe2wQTREldy5HII/ka2ofHevWnhRfDdrd+RYchvLGHZScld3UA98damcXLYpStdH1c2q6bFZS3sl/bC1hGZJvNUogzjkg15xdfGqwiuGS30yeeMEgSCZADz6V4JZavLZ6Te6dFHEEvGjMr7BvwhyFB7AnBI9hUAYkZDNSVPuS5lStjRJdOWG9j1J1VHiKxgx5Ic9GBx2/r3rLA9qkSWS3Jkico2MZFakm6llolpeIY7g3MU9tKYXnTKCQNheg9BnB70y8tfD3kZjv3SXyd6oq5BbYCBnH97IrPtb1pVmFzfvGWHGRkMRjg4B9xTZr+aa3kTziVfqMAZ5+lAkUVY9O1SbyAMU7apZsbev8ASjaPRfzoHY//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Winter (Four Seasons)</tspan></p><p
+          ><tspan template-id="title">藍色風暴 (Blue Storm)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Ulytau</tspan></p><div
+          ><tspan template-id="artist">周杰倫</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
