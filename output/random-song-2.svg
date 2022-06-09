@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdaTIHekZgO9ZepTyxRGaEFnTkoP4h6fWgDSM8S9XFRm9gH8Yryjxz4ql0M215HIWs7tSUb0YdVPvXH23xO3ygNKQPrQB9DreRMcBhmpwQRkV4P4e+I41HUxHv4LcZNe16XdC5tVcHORQBDrF3FBAd0yo3u2K87vviJFot4E1IF7QnBmj5K++O9dR43043envsWRmI6LXzXrHhnXft0ix2F4Y2PG4HB/CgD1H4o2drqngZ9X0S5hvNPkkWaRUYHy36eYvp6Mv4+teC16Jo/wl8eX1hIbe3FpbzD5o57jyxJ9V71x2v+HtU8Mao+m6vatb3KgNgkEMp6MpHBFAEnhlJX123WN9nzfM3oK+tPC7j+zolUkgKOTXyj4Rt5LjXoQgJx1r6u8LwNFYR7h2oA6B0DjB6VDHY2sUnmLAm/+8Rk1YooAK8b+O3h2XWW0Ga0jzOplic4/gO0j9c/nXslUr3Tor6SNpVDbBxmgDxn4f8Aw/axZZp0+c8kkV7XaW4t4VUDoKWC1igXCKBU9AH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APaaSl9qbJIsa7mOB9KBi5rim+J+jx2zzta3gCMqMvyEgsGP97/ZOfrXRSalcFmMNsojUZZ5CfyAAwT+NQw22lkKs+k2KMuBuW3TYM9MZGaAOU1D4qWKkxW0NxDMpdWE0KuCQpxjDjGGwTntWr4X8d2niDUX09FlMx8x1fywihVx8pG4knnr0rVvdDjmZUtrOyhj6MfJQHHTptPbNWrHR7exuDPGQzlduTEgIHHdVB7VN3fYvlVr3NHtWJcz/abuVHKGNCY1QqSW45PpjOfwHvW2OtYsQa0uTGzoD5hcKf4lJbPPuecdvwqiCeEGMYeMEBQFlDYLn6CmZIZ2GxQBkuG+bfnkEUsRMapIIdgC5J4yo68j/PWnSsWdmRYuQPLJPLY6/wCc0AWvtsYkVHV0ZiB8w4yTwKsCsKTDzwrGJPmnyCeFzkZA/AHH09q3aAF61mX9tIkv2mIsyHHmxgA5Azzg/Xn6ZrTooAyLaS3coSQ0hUqHbGcDtgcZFQzTQR7TuVAYyscm3a4GQOOwz0Fak1ja3JPmwKxJySCVJP4Yp0NlbQNvjgRX67sZP50AQWtmodLhwfM2jAYk7OMYGfb+Zq6KWkFAH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Requiem</tspan></p><p
+          ><tspan template-id="title">Keine Angst (Live in Münster)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Linkin Park</tspan></p><div
+          ><tspan template-id="artist">Silbermond</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
