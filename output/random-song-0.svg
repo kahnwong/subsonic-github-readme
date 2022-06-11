@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIPDkZ8KR+Ipb+Ewi8W3ltgPnAOeQe/Tp6VdvvDFjJ4vi03S71Z7GYRbbr7qBnAwD/AHcE4weeDXcWHizw7Y+GVb7NFvuLhXjjjiTb8kexg49OQenJJNc3pWqrHfrexaalzIdrFI1JRRkgMVOfm75HQmtXRcVdsqMoydrGFB4YSUa6n2pnn00YijiiLmdg207SOw5OfSm2Phpo9W0iK/3iK+aN9sYy3lNzux+f5GvQF8cXmmPqAtDBbmRN0ayBUMJHQA4yckkjPTArnNHntIra3hliD+bIIizneF4LEjBzk8+mOlXGhd2cgbW9jAGieT4mWxm8k28shSOfJMTLu27wRyVHJok8Mq+garq0N7EyWF0IWiGSWVjhXB9D711uuato9utlBoCzB9zJcb35lOR3/u9MDjtxUGiQWc9jqQaSNZxIwjBkCjKjgt2PXFTKl7yV9ATXK9Dz0TDyfLKjIOQ2Ofp9KlgvprcoUYgopVcHHXk1V70tZXZJuf2ff6pHFdm5ikd13OWf5lG7GW9h/KpJItRt7S5zcRiKI+YCG3ByGGCD6nnHfrVbQNXtNIuZ5rzTUvlki2KrNjYc53f0qvqWoxXkdulvbi3WOPa6rgB2z97A74xRdjKZlfzfMViGHINSxXjRxyKVRi+csygnn3qv3o+tF2ISl7U3PrS5pDFpOtGaTNADuaM8c0g6daXPFAH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGoo0LqrvtUnlsZxVk21r5gVbsbSpJYoeueBTFh3cDJPtUwspTIUAGcVVibjfsts0rKtw7qE3blTvuxyPoQajNnF5gXzX2lclvKPBzjGPpzVuHRridC8YJ24yFBJA9celV9QsXsrtohIXAAOQe5GaTQ7jlsYskGZj9Iznt2/E/l71VmjCSOgO4DjOMZ/ClVZCM/N+ZpGHrnPvQBpRLHBfQl3JjwS20Z7Vs6lcWB0l5tPmUT4QFNhyATg8/lWC1tLbKNrqd3GAccfX+lFvne4Lcv8pLZx64PFO4rG/Be2j200sTPE8ccZkZm2lnPBwM4x/OslL+0Ms0s6McsdvBJI7fjXS+ANFW6125a7WB447VmVJ2wrscKOfYEn8KydW0uCPWruCFItsT7AsSkg4HXHNArKxWgl065hxMhin3Ywh3KQenv7VBqkdtA2wEBx1XGDmqk0UUJR4SzEEHBA4+uKjnzeXUk7lY2cliGOAPpmhsdiaQ+ZcMPLLc52g8c+3SrUSM0sYEUiNjO4FeB6gVmbtyBG9PvAckelC2xY5Rg6juM8Uhm/IN7GS3nlR0HBcBiePYcVmvHfRGQkS/NlXYD73fFM+wTNGHh37QPvcrn9ajRZk3EvLycFgSQfxFAhHW5h4e3YHj73FMuoHQKWglUkbmLg8/jUjxGUnc74GBuYkqntnNVX3klTIxz3LHFIZ//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">光の中で</tspan></p><p
+          ><tspan template-id="title">Through Hell</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">和楽器バンド</tspan></p><div
+          ><tspan template-id="artist">We Are The Fallen</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
