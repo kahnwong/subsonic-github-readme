@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHdWtLWHwxoFxDbxx3E6T+fIs25pCsmF3L/AAYGB7jmsKug1lU/4Rfw4y+buMM4YsAF4mP3cdRz35z7Yrn6BBXpdt/x6w/9c1/kK80r0u2/49Yf+ua/yFd2C3ZjW2RLRRRXcYHG6xGqeF/DriVWLxXBKCIqU/enq38X4dOlSrJ4dMdqWAVk2NMPLb58A5H54qDVpUfw14fRXy8cU4Zd+7bmZiOP4evT8e9YdeLGXL0O1q51ED+GDIkU52wmSMNIsTlwm75z9cZxXS6nGq6vONHlL6VkfZi/DbMcZyM5H9K8yr0u2/49Yf8Armv8hXXhlzt9PQyqOyI7UXQLm5I5A2gEcdc9PwqzRRXdFWVjBu5xOqaRBZeHdD1CNbkTXyTNL5gGzKSbRsxz0xnPesWtjUp4pPD+ixJNC7xJNvRBh0zISN3rkcj2rHrxDsCvS7b/AI9Yf+ua/wAhXmlel23/AB6w/wDXNf5Cu7BbsxrbIloooruMD//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAACTgCniCRhkKT9KYrFWyKlNzJxg4x04pO5ceS2ozypAM+W2MZztNL9nmxnynx/umni6k43HIHbApzXsxIIcjHPSjUaULb/h/wSEwyqpYxuAOpKmmVP9rn2438e4FQsxY5Jo1Jaj0ZoHSJl02K+YgRSMVXdxkiqc0ZTblNoIyDnOa6PTVXUPDstjCt1NeecJPKVf3ZBGBzng9Pas/U4pvPhs3to4fs37olT8u4nPJ9ev5VEZO9maSirXRkrGzn5VJq6mkzSLndGnylgHbk4GelX9Q0m9026KtbvB8m4I2WJUAbmBxjbnvWXHcvHdLJu6Hnnt3obk/hLhGlFe/e5CYXWNXIO001tm0bQc981qXKTW9pJGABEQpB4OVJ4/UULZwNoPnsrJJuOJOoZgR8uM56HrjHFNS0uzJw1sV9Oe8M4jsYZJJjj5Y1JLY9QOorYu4rq/lhii0+Sa5eMvLACXbI4J45HY+2cc1z9tdT2cwlt5WjkHdTWpbeLdbs2DWt55DBt26GJIyT65UA0Si73QRkrWZ6R4GSaC5ub/xZbzlXgFvYJNErEhj820MegAAwB/KvLr7R73T9SNpd2dzA+QdkkRVtp74rab4i+JJJ47iW8jluYgBFPLAjSR8k8MRkcnNVJvG3iK5e4kudTlnknj8tpJAGYL0+U4yv4VMVNMqUoNFjxJZ2eyOTTppJLctiOPY3yLj39/TI9K514hHEC3mCTPQpgY+ta1p4qv7C2aKyjtbdnj8t5UhBdx7k5H5AVjyTSzHMsjuf9o5qoJrRkzlF6o//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Shape Of My Heart</tspan></p><p
+          ><tspan template-id="title">Forgiven (Acoustic)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Backstreet Boys</tspan></p><div
+          ><tspan template-id="artist">Within Temptation</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
