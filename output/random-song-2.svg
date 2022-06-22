@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOMPhBpoZWitpHwoEOTgFu5J7AdK5W90mexdlmKZUAkKc9a9Y8R+LRocot3sN0R+UFHH5fWuD1mB9UiudbtIJPsabQ5JBCn0OKmLfUuSS2OUxSYqSZ1aRii4UngelNHIqyS9ocUEutWy3UcskAYs6xHDYAP9cV12oJ4c+ySmKLUFuAhEe48F+x/3fX8awvCNmZ7+a4P3YY8fi3/6jWvqMYwcUgseheJdOg1WyFpKnzl90bL2b1rNuvD1voXw71S1jcyGSMyuxGMtx0/KumuIzKnBwcZB9KxfE99DB4WvIpZEGYtvJ5Y+wrBN6I3dtWeHFcGgcEUpbcc0+2iNxdRQry0jhR+JroMDu/DFk9loReaMpJO5fBHO3oKr6k4Ga27y4VRtBGAMCuY1CcMetShs9Sju3ksY2Y7d6j5sdK4bxy4jsYka5ilUn7oQAqR0PHP510Ut6txpp2SYkjY4Y+o9fYiuD8TX17cQYltQq95UAIP4jtWcFqOTOTzzXU6NcR28lncvYRyRpGuTkbgVyNw49SM1ypPNa1te20dtEjT3SuBhtsjgLjkYAPPNbEncPqkV184hjAdQ4AK9GAwDkZwe57Z4rB1Z2GnP/onkjcr7iRnDc9u3OKxze2qspS5uicfMdzg8dO9Q3NzbG1eOGe4ZmbO12bHXvk896QH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYQRQCM81Wvr630zT5767k8u2gQySPgnao9hzVPR/Emka7/AMg68WV/LWUxsCrhGGQ2084PrWVzU1OtVLuQQyxOcZVXIz0/hH9audO1V5eb6HP/ADzkP6rTEUxqoJAVQSSQAFbk4zU0N9HK6RkMJG9FOM/WodU8Q6Rox26jqEFu4QybGJL7R1baMnHvVy3uYL21iuraVJYJlDxyJyGU9CKQDp4Y7q2ltplDRSo0bqehUjBH5GvCtJ0u6ihudIikktdR0XUcC4VtrC2JJEg7EgbwDzjNe755rxPxj4kbw18XZrm7jZ7KSzSEqD0UgNkdvvZ+tc+KhOVJ+z+Jao1oyip+9sz0DQPF1ze+ELnUL20LajZWyzSwRcCTcpZME9CQOR2P1FQ+LPEl5Zw2iWEZjuZIY3mkcEGGKSRFO3tvHPXpjPcVf0vT7PWfBrRIHittThzyuGCEALkf7oH50/xJaLIkdwIzI9vC+5FHLxnAZf5H6ihyqOjdL3rbfoFoKpboeWPoU99c6Z4YnleTU9QnaXUbgvlhbqw3MOeN2xSfUivcIYIre3jghQJFEoREHRVAwB+VeG+GvEn9u/GnT7y0je3gMD2xDA5dQGJz75/LAzXunvRhoyjSXP8AE9X6sKrTm+XZAPWuQ8RfD/T/ABVqjXerSFo1CpFHENpCjk5Pck/yFdWDRnNdFzOwRRxwQpFGoVEUKoHYDgU0qGvMH/nif/QhTs81GrZvT7Qj/wBCNIDJtvBfh60vJrqHTY1mll88sCRh853Dng89q3S3am5NNYmi4H//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Tonight (I'm Fuckin' You)</tspan></p><p
+          ><tspan template-id="title">The Only Exception</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Enrique Iglesias feat. Ludacris &amp; DJ Frank E</tspan></p><div
+          ><tspan template-id="artist">Paramore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
