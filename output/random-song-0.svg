@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AK2l6VI0nkEnJ77eoroodLtkmvIZOkIR0kUg74wxSV8AZwjjkDnBzU8L29rtkkkVGXketa9veaT9ksGt7YrKu+GKZVw0W4fMR/e5A69+evNaO9rmUUuaxipo0LTLD5bCRvMXy9ygrIoJVCTxlgrYOcdOeaptpSs52o8hZAyIuFLgjtuAHXK4OCCDnHFegpsmMrwzTNF8snlLH8h2ryq5PUknr3H5s8r7NKYZJblwYUbcqY3YVc9+v7sjPGDJUNmqh2PN4tDS1dAd0drNM8K3EkJI84MAI26bCecE9xj61dQ0eRHBPQHHSvS4biz1UbJ0keWFRkzMw8wq2QWX7pORuHXHFY+s2oRXY4APOTTTJlGzszzmbWUs4reUxtKJJQrs2cqvc/59K6OeUDS5m08+e/ll4zj5CxHBHIzXl+r6i+F/fMYj84VT90gHp9STW5p+pXFroVm8UsxhEZaNlIO3/Z+oI/I1nzyWlx+yhvY3dD1me/k8pb2aCRP9fu6qOM4xxWhH4wfWZ5nWZ7IRRE7C5ZVUY6E8nOQD3zmuU8OQXFxYoIIS1xJJJvIO1jkhVUHtkk9ewNUdTs9SQzxS28YnjcPIkRO4DAHT68n60uZt6l8qSujs/CfiGS9u9QM00vlRMuyN48KFJwWBznrxVm41xtUW4hl/cz24BkRvcnH14Arz3RppHubj7PIQgZTNCvLGPk7lHcqc9fXNbOmImppqepSxyW2HVRubO9do/wA8Um3cfKmjg7x1MMUZXG5jlifaui0qFv8AhGGlQorvEW6jnJUZOfYVhtA2oSQxYRArbiXbAIx61rql1FpQ0tbjTwhj8suGOcf40mNHX6FNYWFpqBuCPsMTYuNqhmYDDEge/Qc96w7qawvNLhMPnLNDiKz2KJDMePkbPKnnOTkHOO1QwXd1At4PMsZBd4DJk4Hy7aNKfUNMeIxNp832feVM0x5ZgvPTqAoAoUmDitzG1e1l0fXne1J8iVQQC3zLnGVP+PofrT7PVbu2sb6B/uGXA4zyBg1Jrf23VNQW8kls4JFVVwkuVOG3dCPWsiV72OWWMSxkMxZijZBJ64oeobH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iiigAooooAKKKKACup8MWuhXEMY1VFJNyN7GQrtj+XPQ+5/I1y1KpCsCVDAHkHvQB3H9jeHo9RCGS3e2kt1AYTn5JN3zE88cVak0jwy8s3lQQJHGT5Zad/3gKufXsdgHrketcKbi34xZoD/vtjr9alGoKMAQkAcf65+nGB19h+QoA1vEdnpVvpmnvYxrHcPJMJlEhY7Q3ydTj7pHTrmubp7yPJjc7MB0BOcf5wPyplABRRRQAUUUUAFFFFAH/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Islands of the West Indies</tspan></p><p
+          ><tspan template-id="title">A Certain Gaudiness</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Brian Tyler</tspan></p><div
+          ><tspan template-id="artist">Nobuo Uematsu</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
