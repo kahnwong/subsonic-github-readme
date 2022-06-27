@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBKs2to12W2yIm3Gd569enr0qtT1kdEZVONxByOvGf8aTv0GjQXTFWNWkYc5GckdyOmD6Uh0wMCI3AOA2SxPGM+lIsj7PM8ksv3/wDWEcBfr+NCvMsWcSeWEDHDnoF69fcGlaXcehWubR7ZULOjb+gU8jgHn061Xp7Su6BXO7BJyeTk4/wplNX6iYZqdIY5R+7892HJCxZwPzpZrc29vbyupIlDEY9jipLJBNOIYllV264YDj35oHYabcxg7rOZh2dgy9/TH4UG3ZsD7FOgzywVm/TFbaaBczacbtZZdgk8sKxPJxn1pqaBdSxxyQ3YkVow7bXOUOSNv1yKXMh8rMN4oU+80656bosZ/WoK37vwxe2139mmfc4TcNrbwFxn+VOPg3V0mmiNqxkgj82RRzhMA7uO2DRdCsXLgSwaNpziNmtpo3VmKjB+YFl/MZ/Cn6hqLTagl1Hb24uGK/vNpYjtk568Ac+1Zlzf79J06JTgQb849WOf6VTS5JkUsT6fzpyikvM0lpKy8jpHv5JNH86Z3Rppm/epJgEhTkAds8Vds1h0mONVnMgmj3rE4A29Qfqea5lp430q1jZTlZCxIwDyPX8BV68v4nMEhzvjLhSOg5rFRfMl0KqyVm12Ogs7tbi4meVSWG8whSAMhMDg+vP5e1VYdeLz3HntFHLNGy/Lj5iwC7RzxgVzf9rGHz9rE5bIA/Ef1pkN1HbFz58Eu5cFV3ZOSD3A9KuMbbmbldH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCKkELmISbfkLbAfVvT9al/s6+HWyuemf8AVN/hViGy1BbcqtpdhXYH5bYnOORz9RTsSRfZk3SIYnDxjLDf93nBz+NIbdQqkQudy7wd3GAuT+nNWpbLUvMaWa1vRlCrO1qRkHOar5mwqnzsqpQDyegI24/KgCCazngQPJGVXgAnvkZH6VDVuZLgqVKzncwOGiI6Aj+tV2ikT70br9VIpAet/b4hbxoWIjjXMrbsj3xUEmvzXeII5fIth0G7Bce57D2rlJdTVlNsrfKo5IHX/wCtSRXJjthmVJHGOGPH5flWvMRyHRXN40yrHE5RwrMGLnqBnHpWV5N5OHnjc3GxDIwYgEADk5/pWebtpQCcZB4B9mB/pVie9jtNJCKxWVgM4HJNJspKxHFqEtxcW0EYZS0wjkBP06/gT+VGsXAt7uCW1fzYAnyl14fknJHvn8sdsVkadIkEjXEnVcbR2J6fyq/qOo219plnBDG6yxbmmZiOWPp6Dp+VJMdiK3TyrOU7x5xA+Ujoueuc+3SoFjfzFTcSX+6Sv6VD/b0fH+iAkDGcjkeh9qhOs5YN5IBA4xjr6n/PYVFyi+isYVlJ2qr7Dkd6l1WSRrOJdjGbcxBJ5K9zjtyCPwJrJGsusAiWMAbi5Pv2I44x/WmnVWabzTH8+ME57dKdxWLQA8kSKRsxjHuO9NWXyZYjFjex3Zxng9P61VhuTMyW6+XEpONzttX8TVho3t4HZZLMsBkstwC30A9aSGz/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Sultan</tspan></p><p
+          ><tspan template-id="title">One They Fear</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Fahir Atakoğlu</tspan></p><div
+          ><tspan template-id="artist">Jeremy Soule</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
