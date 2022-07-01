@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANeiir2mJG0rtIA2BwCK5j7OtVVKDm+hUjhllBMcbuB/dGaaVIJBBBHXI6V2FnHC5WMbIwMlc8DPvisyMSXdwZZICkIYq7MMbgOhGexrrpYeM9G7HhVc7qQvKNO6TXUwaKt31oYZWdF/dEkj/ZqmCCMg5Fc86coO0ke3QxNLEQU6bvcuafapeXSRNIFyw+Tuwzziuj1XStOsooo7cNDOQMFmzuPv/wDWrlraY211FcBFdozkBula15d/25cRyRFIZU+6JDnbjvnvXXhowqWjba9z5/OvrFOTm5e42kvL1X49RDcPBpkpdUW43ZjcyHG36VJputwvMlrNDK4Ee0vyw6cge3+FMv7M3M8U12Ea4YAt5SkIVB7DpWlrMU0MEE2miC3M78xyEBtv94eh+nrVTlZrlRwUYQknTm1q9/8Ag/8AAKOt+XZxWoEeU2DaSSPzzWHJHgtIDwT0HSuh1S90+7UR6lbSmeMfIY+jA9DmsG4nEzLtQIqLtA7n6+9aVsRH2LpvVmmV5dX+txxEVaC/y2/rQhpjIQ4kRmVh6HrT6K8+nUlTlzRZ9XicNSxNN06qun/V0bunXDeXFDcSRud/7tn6gHr3qbVIY7/VY3diBFjyc9h6/SudUlWDKcEdCKe1xMxy0rk4xnPb0rrhjFFuVtT52rw9NpRjNNeaL2uGP+0dsRGFjUEA5APes2njyyoyWDfTNIwQD5WJPuMVxTk5NyZ9Fh6ao040l0P/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APE7e2Z2T5E24HJHGMdSauBIU/5ZI30HFNj3LCmzOCoyKvx2bm3R1jZpXOEQDGR3J9KAKgjt5SwKwx7eobr9PrT5I7eIoFEEu4cbev4jsa3YtB1BIt0mmGSNgDGscq85PAOOep/Os69s5Lec/aNOkgK8lHbAyPw+hoAz9sL/APLFF+oqlc27Rs5MaY56Dj6g1rJbNJZtNhjKh2yLt/UfnVWRWkgfeThQcCgCzaojG2VmKrgZIGSOM07UZ2W8s/IkILBiTz1PB/wqO0YI1szKWXgEA4PSpNQEUF7ZySgiJMqx98g0AdNp2s3wheztbAySQsGDq7HGCMZH1qSbxHqtuWGoWrL5srSMWADEnAPBHQYHT0rG0fVDBrBuoz+7Z2GcZ4PQfypfEeqR3N4ZAw2YAzjHPpWDlU5tD040sO6XM2r+ut/QqW04a9vGkkLchskYyRwOn4VXuFRGuVVty4OCRg8ik0zZcXV3IuSrYUdeuSaLxlc3DKpA6YJyRW55hWhLPDHtzgKM1alkNxYiFvndDujzyPoaxre5eN1w67eOGPGPSrnnxvj94i+vNAGlaB5I0KGBWA6KsW4dPxBp2oCYB2l+zMxBYDZFn+XJrJlkjBBEy5PUq2M/WlR4hhvOXd6s2cfSgC9DIbew8lfkdzukI4H0FV5CY4ZN2QCpxTPOiXP71G9MmqVxdPJI2XXbzwDxjHQUAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">1분 1초</tspan></p><p
+          ><tspan template-id="title">7 Days to the Wolves (Live at Wembley 2015)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Epik High feat. 타루</tspan></p><div
+          ><tspan template-id="artist">Nightwish</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
