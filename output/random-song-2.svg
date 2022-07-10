@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf653VtQljmugLiNXgK+Vb42tJkA53FgOpP5V0VFAHLC9IlCrqlvsZtjMx6Ltzuxv8AX5f1qrbapNNHA00ywNJvDqzq3lbfu5w/8XbH41seKNZ/sfQryeCaAXqRFoY5HGWPsOp7nHtUeheI7a+03Thd3duNRuIlLwI4Lbsc/KOR/TNAEekajNLLaBp42ecN5tvjc0WAT94MR1/nXR0UUAFNkdY42d2CqoJLE4AAp1U9WGdGvge9vJ/6CaAPkrWvE17r3iy71S5m8q8lcqpT7sUag7QpHsMZ9896sad4mudC8aR6xpaxq6tENrNtWVCgDIfbJJJz79q528ezjMP2RJPtG3MzyAbQewQegHc+vaqloZXvUMilgckkjg8UxH3IjB0VgQQRkEHIp1V7AY0+2Gc4iT+QqxSGFQXsX2ixnhBx5kbJk9sjFT1E02JCnlSHHfbxQB8k+IvB15ounG6klEkaOEbCFfbPPuP1rU0n4YatfWUNwsyLHIqHJRjgNj/GvdvHPhb/AIS/Qn0yJnszKys8vkB8qDkrjcOeBXR2iR2NpHbQ2swSFFjXCjkD5fWncRagj8m3jjznYoX8hipKhS4Luq+RMuf4mUYH61NSGf/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APREt9qj5V6f3RTxDj+Ff++RWulmdo47U17YL2r0Hionue3izFmjG0lgMKCeABXjOp6tfaneyTrPJCYwX2hiAoB424r3G4T5WX1GK8u8SeHzpmjecLaVmiuTkxv8ro2CAcdOh/KuSvipKcOXY7KHI01LqJoeoy6lbt9oRFnhIDsOj5GQwFbkbgY7/hXGaTrml2jF7hZI5WjVAwXeuBnv1rct9Wsr6TbbXKuwGdoyDj8a99Vm4q55/srTfKe9rEmwDHaqdzGBnArlvFPjd9KMtvp7wNPBDmYSKTsdmQIOo/hZj+Armbvx7q0b3KiO2O25SBRtJ5IO49fUCvkK0pNRcFv/AMD/ADOGjSm3c6/VPOgtpZYk3Mg4B+uK8+1e/uJtI1qFyyiSO1DK3O8M7HH45U/Suz8Xaq+n+D5rlIFjnLrEBIvze+frkEV5Mmryvo95FIU82aaBlyD/AAlz+XQfjSwsZ1Gqm6PZwzTptSWt1+aMTUdJkt5U+beGiR8nryOlJpjvZXkVwoOFbn3HcVoXFxJfLFK6puVFiAA7IMA/WnQqqhcg8Y4xXue3koWaud9HCqbUz1jdFKN80ERZ9pdnQEnHTr1x2pzw2Ly4ZACTnPlrwc9frjH41UaVVVleXdG2MDbj/wCvUb3aKMJGPqRX5gnK/cyVC+w3xjqIvoLaGd/l8zcQiDk7Rkn/AD2rjIYbFonRfNMuEKhkG0Hcd3PXptx7k1tawkszwEvFjdwPMUf1rGjgkSVgGhJOR/rR69vyr6bAOo6blLdnq4ahCFBQTIJbUFcqpxGSp9OvFRCIVoGCXJXdFjd085cZ9etRi1dkL7ogBnrIoP5Zr0YVJJWZ2QUEtz//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Flipside Of The Coin</tspan></p><p
+          ><tspan template-id="title">The Glass House</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Niels Bye Nielsen</tspan></p><div
+          ><tspan template-id="artist">Tyler Bates &amp; Joel J. Richard</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
