@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP7W3Z8SDjjvWlb25DBJoxIerbsgEEDGCPxrN/tCVpGMUO4Z+UYq4uoeYUgNt5chByvc1dzZW6lWWEXQMcMaBe8hkAzzjPsO9Qf2PiQiORcBtvzMBx659z27VBJJbRuFBeTDZIjwAT7nvTZfLkJRWkgkPQS4K/mOlXzdyb6lz+zZId9xIy7YxlFBGWOcceoFZc8zvPuIG30qVVmtnZZVLSDqBz/AJFWBGrQmRkAJGcGjmubxXMjc0WKIu6zIqlPmLA4x7VR12dDJI8Odrt5ascZxjJ/oKhu75plKQ4Q55x3+tPt7m50+IiJhJkiR4ZFDLIvRhis7GTldWQvh7Q/7WmYyP5VtGRvfHf0HvW14utrWPSLVlgt4njlMatEmCygdz37VYtxIggTTII209/nV0mG5c8nK9cg8fhXN+MLm6fUorWRGjiijDIhPr3NK7cjmsyvZ3AFurupYI3lsfYjI/rVW9kCybovuntSYezhSCUMkjN5jp3Axhc/qakgkSZzuC5PYmqV2d0HeFiVrcFFJbEn6U1JJBPuR/uDhqdJKJ4gSQpA/GmK7lVVI+DwTV2RzImcbZUZ7eZCSDui4Gfp+I6etSatePqN79pSyfzUjVFMvI4B5x+f5U29vWSLau0kDnIqgt7MIy4ZcMMYwB69PzNLl1K6kEsskztJMcyHq3rSIpjIPUmonfLE9vSgOdnPbpmlsaJpH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIlZ5FVeuakuAtsxjYZfv7VoaNCqwyXTgYU4Un1q4PDn9pgzx3Kxyy/MEkBwBkDk4pzlGnFOXUVOMqkmo9DmvMDcEAelB64rV1Xw3eabO0b+XIF6mNwf0rKkGHI7is4zjLWLuaSpyh8SsMPWm9acaQgirIPU/CXh+O+8ORxyqCskpc4GTxxWxBpEMeov5dzEvlHmMNyigYAJqfwwhg8HGSMjfEGKlfX/Oa19MSwubMO0pW4YEOeOa8fHVqjqWPSw0YwhdHEa3pk0T3UjRZ8xGbPX9a4CCyNzcBS2wM23OM4/zxXukumD7NfoxaSMglWPTOOa8Uv4/st26AYKkgGry6s5tphjbSimit/ZjeaIy2CWx93t6/nxVa4t44mYI5facZxirLXL7t2efXv1zVeRtyYxxnivVPNPXfh1eRz20lix+ZjuB6j8a6GLR1sb1j9nKgnO7dkVxXhPUodCtk81VWeU8AnGR/jXR6x4piu7ONYyPMIwwzwD7HvWWJwFPEOOtvQKeLqUlLS50t3rWn2umOrSRsQpBA6E+leH67qtnf3jtBp0UPJ5DNk/rTtQ1y48yRedjH7prBkkEkhcZyapYeEGrdNBqrKUbNbiOy9kAzUZPalY54o83EPl7R97O7vWgj/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Élan (Live)</tspan></p><p
+          ><tspan template-id="title">Világposztolás</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nightwish</tspan></p><div
+          ><tspan template-id="artist">AWS</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
