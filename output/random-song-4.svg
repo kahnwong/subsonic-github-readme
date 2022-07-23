@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJLe1zjir01u1vZTTIm5kQkCrtlbZxxW1HAkcRd8BVGTnpWljG554b25KjN1gj+FVANJ9umX/lu7ezKK9l0vw3bHQw6WVs0sqk+aIwSM9SK5q/8AM6NJG4cgdxzWMalzplS5ThbW/W4fypgFY/dYdD7U+eDaTxVTUtPlsLl4nUgqcVrFTJaRSN95kBP5VqncwkrHTWKDArotPs7S8Lw3kqJEyEbWON/HSucsX4Fac4EllICSMDcCDgjFOSbVkKDSkmztfBNnFaaSkaOzJjIVj0rWvLJVigWP5yzHcOAQO361weleM9P0yNUkl3SdMJyD9P8K17j4iaFpqi6uf31yE/dxRDdIB7nov41x2kehzROC+IGjTW+vLDjcJGC7h3JrMvI1iURqPlUAD8Ks6348k17WIJ5rSK1tInycZd8Y7n/AAFV9QcHkHIIyK6qadtTiqNOWhYs7jpW/byptBLH/IriLW8MbAg81rwaq4PVR6nFVczsdNc2kV9ZzWqkI0qkK20cHr/SvOriyaBpvNjlV0I3R7hlSQTye/Tt610V34iNjbNLuR5CMIpz8x5/xrj579rkt5wjfcQed3ynn39zSbKiiy8ULPAmZDHIyruXGGyOo9MHseaS31ESx+Q2RsGEJPJHofeqbXjAqQsakOHLKp+Zh0J/+t61S3FWBB5HINK5Vrn/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBKs2to12W2yIm3Gd569enr0qtT1kdEZVONxByOvGf8aTv0GjQXTFWNWkYc5GckdyOmD6Uh0wMCI3AOA2SxPGM+lIsj7PM8ksv3/wDWEcBfr+NCvMsWcSeWEDHDnoF69fcGlaXcehWubR7ZULOjb+gU8jgHn061Xp7Su6BXO7BJyeTk4/wplNX6iYZqdIY5R+7892HJCxZwPzpZrc29vbyupIlDEY9jipLJBNOIYllV264YDj35oHYabcxg7rOZh2dgy9/TH4UG3ZsD7FOgzywVm/TFbaaBczacbtZZdgk8sKxPJxn1pqaBdSxxyQ3YkVow7bXOUOSNv1yKXMh8rMN4oU+80656bosZ/WoK37vwxe2139mmfc4TcNrbwFxn+VOPg3V0mmiNqxkgj82RRzhMA7uO2DRdCsXLgSwaNpziNmtpo3VmKjB+YFl/MZ/Cn6hqLTagl1Hb24uGK/vNpYjtk568Ac+1Zlzf79J06JTgQb849WOf6VTS5JkUsT6fzpyikvM0lpKy8jpHv5JNH86Z3Rppm/epJgEhTkAds8Vds1h0mONVnMgmj3rE4A29Qfqea5lp430q1jZTlZCxIwDyPX8BV68v4nMEhzvjLhSOg5rFRfMl0KqyVm12Ogs7tbi4meVSWG8whSAMhMDg+vP5e1VYdeLz3HntFHLNGy/Lj5iwC7RzxgVzf9rGHz9rE5bIA/Ef1pkN1HbFz58Eu5cFV3ZOSD3A9KuMbbmbldH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Electric Touch (Automatiks Remix)</tspan></p><p
+          ><tspan template-id="title">Kelebeğin Dansı (Dance Of The Butterfly)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
+          ><tspan template-id="artist">Aytekin Ataş</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
