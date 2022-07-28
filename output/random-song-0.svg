@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANw+tNNaCai8cMMYgtysZzzGDv6/e9etD6rKyOpgtxuYEkRgHHHyg/3eOlfQe92PnbR7mdQK0H1iYmQiC2Uuu0bYgNnX7voee1A1aQPG32a1wilQnkrtPTkjueOtHv8Ab8QtHuUxUmatDVZiEBhgO1txJiB3nn73r170smpSywyxmKFRIeWWMAgccA9hx0pe92H7vcYk9gsMKvaSM4OZW8zG4c8D07flQ9xpxRwtk4YsAp8wkBeO3c8Hn3pqRaeYYTJczCRj+8AjGEHPTnnt6U5otMCOVuZi2QqgoACOPmJzx34/Wn7t+v4h71un4Ctc6blylg4+XEYMpODzy397qPTpSC40wPGDYyFFU7h5xyzcc57Drx70NFpIL4urhgq5X92BvPPB5+Xt60gh0vfGpu58bSXcRDg8cAZ5780vd8/xH73l+A8XOn4TNk2d2ZMSEZHPA9Oo/KlkuLJopRHaFZG4Ri5IUcdu54PPvTRHphCH7ROCzfMNgOxeen949PSllTTxDK0c0zSDiNSgAPTknt34/Wj3b9fxH71un4EcemvJDDJ9ot1MpAVWk5HXlvQcUr6Uyo7farYhSFwHyS3HQdxz19qpHpSGrtLuZ3j2LzaQys4N5aYjXc5EmfX7v948frSDSXLRp9qtA7qW5l4UcdT2PPSqJoFO0v5gvHsXX04RxpIbqAq77VCtlsZPJHbpRJaRpG7C5Riv8I71UHapOtJqXcacex//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGLW38wj1PQVtafYrNOit8qZyzegqG0jaSEokRBDbtq84Fb9jHbhHjkZ0fGQFUHc3YHJGBXVGJxzkdf4YurLTJpY4FYJJgHnPQdazvF16mo3G2IEKnGcYyR34NR6VbSY3bSBnrTriK2hvP9NEohIJPlgFs446+9Xy63ORX5jhbiHaxBGD6Vm3EPylsYHrXS3UazOzDJPOM9TVDy3uW+zM4gthlnZ19OtRJHYpHUWt5badoMiptdpFyjsgDj3BHP61kRtlGmZ2Y5+6T+eaqQXBubdLgQbCEO8R8LkH7wGeDzTd4iutgRlUgEiUdT/wDXpxkDhoeheGJYWtZC+FIbIJXPbp1+n51Q8USx+dGAUVwu1wvb0/Ss/S2OVVcKEB5DZznn6e3FUdT1CRZgHxIIz+7B6DnkfSrv1MEruxDaky3e7yVVo+A6jHIPXHTNV9akVbmSMP8Au2yCExk88E8kehOCaZNM04e5RJlQnGM5VTjpnrULSKfnkjDR452j7p7ZNZzeh0whd6kNpp862X2uG6ikTacxh8OBjuDUsjz3hilleNd2IgcBQMeuOnXrWVZ6gUgXznaVIj5ixkgYPQ0rX9u+4JAFUdH3EkVmpNFWZ1VtDJCoC31kRjJKyn/CqlxbSTMS1zbDgncZcDvxnHXj9RWEJ7aTiG6kjyBuE3AHuMdvwpxIiVklVpcjIKzYUfXiq5yVGzJZHWFpFEuShxlTlW56g+lMuW3x5GVLkk5YY9uKkuJIYhE9lJbEEEvlT5sZ9DvyPoRx+NUbm7uFjEBuMpGOAGBUk9SPWpciktT/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">여행기</tspan></p><p
+          ><tspan template-id="title">Watercolour</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">東方神起</tspan></p><div
+          ><tspan template-id="artist">Pendulum</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
