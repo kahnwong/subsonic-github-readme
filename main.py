@@ -1,6 +1,5 @@
 import base64
 import os
-import random
 import shutil
 
 import requests
@@ -39,10 +38,12 @@ def get_now_playing(params=params):
         return None
 
 
-def get_random_songs(params=params):
-    r = requests.get(f"{BASE_URL}/rest/getRandomSongs", params=params).json()
-    r = r["subsonic-response"]["randomSongs"]["song"]
-    r = random.sample(r, 5)
+def get_random_albums(params=params):
+    params["type"] = "random"
+    params["size"] = 5
+
+    r = requests.get(f"{BASE_URL}/rest/getAlbumList", params=params).json()
+    r = r["subsonic-response"]["albumList"]["album"]
 
     return [_parse_track_info(i) for i in r]
 
@@ -76,7 +77,7 @@ if __name__ == "__main__":
         shutil.copy("template/now-playing-null.svg", "./output/now-playing.svg")
 
     ### random_songs
-    random_songs = get_random_songs()
+    random_songs = get_random_albums()
     for index, track_info in enumerate(random_songs):
         cover_art = get_cover_art(track_info["coverArt"])
-        _generate_svg(track_info, cover_art, f"random-song-{index}")
+        _generate_svg(track_info, cover_art, f"random-album-{index}")
