@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDtTGJIh/s0jgBLUe4qxf27T3MIyFVhjc3Qep/Cp7iyVTCVWQxrkqQPvKDgE+5IJ9gKADXASF+uP0qlD+4PliHzWcDBGf09aua5kBT717Z8LrGGfw7aT/Z4yVQAMVGc9+aAPHrfwxrl2huLfSrtk5+Zl2g/nisyKAwatbgqyMJNrowwVYHkV9UatPawQDzpIIwQQAzgZ+grwbxbpU//AAld1dRQqsMbRzuQez/KD+dAHH6tI4eOPd8oXpV6PE9nAS3LEMQTwAOpx36/jVW+aAzYmAPyrjrnrz+lTrJZm1iiyAoLNnB3EZ4Hvjjj60mxk3iAZ3LgABhjBzj8a9B+Gdvpl54dkupZpkvLTcrBLhkHAyp4I7fhxXAam1p5KiRj2BK54Oeo9fTFVtC1t9Hv5NryCznO2VUJHy54NAj6OGn6NPqE1zcW8Ml6oVy+AxwRkfSvK/iBrgXVG0xEKvcSwyMRjGxN2Ae+ckH8KG13StM07daTQvKMG2ht8lmY929+2OfrXJ+I4p7e/sZ9QcfbZd0kyA5MYONo9uKYHP6g26ZfZRUbv+6iGeRzS3n+vx6AVETwMnHFAF6W5a4UK5w38OF4qkGPmYJz83OafkNEepbsKiIIJHcUAaWm3t7YXLzWJEcmCu4RqxH0z0PvVO4mnlkd53d5GbLM5JJPqSa0oG3RKw7iqeoNnYPrQB//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHk4VSQSCelSxKOcnBzjk022UNjj15q3uaNNqtgdhWqXU8uc0nYY/LL7VKp4xuGDSefzgg8LjO41ILnIOAQccHceKpN9jJxVtyIgjPJ/OmS5XJXOM9M5xVku8iYZiap3HD9B9aGrIcJXdgtgNgPqOa0Y7GOSVFVy2+383bvG4ttJwBjpkCs6yOITkj8auvcNvDRFlIiEWcjptwf61MuZpcprBwUnz+Q6KwjaO4lldSsQI4fb84ZRg5HTBJz7VMdMVZym6QDdkBgMlN4AP4qQ2emKpNeTAv85w+dwIBDZxnPHPQU4Xc7uGaRmPPJP09vYflUWqX3N+bD8uqLGyNY3ZUPEhj5kHoTnp7VWudpzxxU6uPs3lbSXMu8sfoR/WqtySB7VtG6TucdTlc1y/1qVLKTaSp5z1GKmZiF4GPSqcbFeM4/DpUomO1Qcn14qFKysazheV0aMdlJPGGA4PT3qQ2kkUe9sbfUVTjOewzU3UZwKpJ3vcxk1a1iVSOaqXROcg/hThIy5/wps77lYKSRnuMZpyldWCnBqV2f/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ahde Vefa</tspan></p><p
+          ><tspan template-id="title">The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Tarkan</tspan></p><div
+          ><tspan template-id="artist">Howard Shore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
