@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNCflqnqEmy1EeeWOask9Ky79y1zjsoxQI1fCunf2h4o0e2I3B7hWdfYfMf5V9L2PjeyOpR6etrJIWYp5lrIkwUjruAwRjvjOK+ZPC2qf2N4r0vUcnEM6k/QnB/Qmvrax0rTsm8t4tvmZkKg/Lk8kgdsnn680mUixq2r2+k6c15NHNKg/hhTcx/z6mvnb4wX+m6xLp+pWVrBHMzMszpMjyHgYDheh/P619Hz28c0SROOMcY7V4r8cbHTtL0GzS3hH2m4uRvkbliqqcDPoOmKAPJkDuQEXPp798VQ1GPZcD1IHTvWjpVzPIVgiCkCUOGYkBDgjdx6AfrVuWW5UrIY7R7mElnMiHKLtGME/7OTj/a6ZWmSctyD1II7+lfVXw98Wx614Jiuo4zNc26eVcQIRuDge/qORXzM+sySbv3KKGIPBOQMENz/tZy3rgV3/wRN1F4jupIZGWHylSUA8HJ4yP89aTKR71Z6zNdXEcZ0y4jTbzI8qEL+AJNeC/G7XhqPieHTogfLs0yzH+Jm9PYAV9HEPJFtkKgHrjvXhPxm8IyT6hHq+nwyTOE2TxxIW2qOjcfjQB45bwzXVzFbwIzzSsERV6kk8CvUbz4Wx6L4P1DVL25aa7itGbavCxsccj1xyOfWuK8CTRweOdHklAKfaAOfUggV9CeMZ4J/CmqWJguHaW1bAhhL5H4cD8aGCPlxUaSRURcsxAAHc17f8KdDNhibzCGkVjOnY7HI4rxmy3RXkM+2QRhs7wvO3PJBwemetfUPhnSba1s4mVVVPLVERM4CjnqeSSTkk9aGCOsMhfGTwKc0kaoVVAc9feoOnams5PQcUgP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APElPHvVmLLADqfQVWUVraEWj1zT3QZZbqIge4cUARiGcf8ALCX/AL4P+FMMU/Ty5P8Avg19KvJq+pyO0jTRISeFPTmrtl4fQSI8plds87iOTmgD5Tk3ZOcgj1pi5bIHWtrxLAIvEmqIOi3kw/8AHzWNyhyODQAKAD1Fbvh0Z13TC2fLW7iJIH+2KwEIzyePatnStQt7JfnVmYOrjA7ggg/higD6ujFsq5QRAtns3qacXjCgBodxI2kocZ7V5rafGHQVtYlmTVPMUfMVRCCfxarQ+MvhzI/c6rwR/wAs0/8AiqAPH/FdpMmvalcPHJ5b3sy+ZsIQsHOQD0Nc4wFeneJvFnhrVvA/9mW0N2dQ+3PdK0kYAUs7FmznqQcY/wAK8ydcUARhzn/Up+RqVXP/ADxT8jUQv7j++PyFSLqNxn/WHH0FAG1a6ykEKodE0+UqPvOjEn9atDXU7+HtM/79P/8AFViQaxe28qSw3DI6nIYAZBroV+I3ivHOtXByMfdX/D3oAj/t5AOfDmlf9+n/APiqzNQvhdy7xptpb/7MKMB+prcPxI8VsP8AkMz57/In/wAT7mkb4i+KmBzrEpz1/dR//E+5oA//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Nolwenn Leroy</tspan></p><p
+          ><tspan template-id="title">Love Language (Acoustic) - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
+          ><tspan template-id="artist">Connor Price</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
