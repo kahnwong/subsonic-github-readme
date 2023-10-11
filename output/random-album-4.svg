@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APElPHvVmLLADqfQVWUVraEWj1zT3QZZbqIge4cUARiGcf8ALCX/AL4P+FMMU/Ty5P8Avg19KvJq+pyO0jTRISeFPTmrtl4fQSI8plds87iOTmgD5Tk3ZOcgj1pi5bIHWtrxLAIvEmqIOi3kw/8AHzWNyhyODQAKAD1Fbvh0Z13TC2fLW7iJIH+2KwEIzyePatnStQt7JfnVmYOrjA7ggg/higD6ujFsq5QRAtns3qacXjCgBodxI2kocZ7V5rafGHQVtYlmTVPMUfMVRCCfxarQ+MvhzI/c6rwR/wAs0/8AiqAPH/FdpMmvalcPHJ5b3sy+ZsIQsHOQD0Nc4wFeneJvFnhrVvA/9mW0N2dQ+3PdK0kYAUs7FmznqQcY/wAK8ydcUARhzn/Up+RqVXP/ADxT8jUQv7j++PyFSLqNxn/WHH0FAG1a6ykEKodE0+UqPvOjEn9atDXU7+HtM/79P/8AFViQaxe28qSw3DI6nIYAZBroV+I3ivHOtXByMfdX/D3oAj/t5AOfDmlf9+n/APiqzNQvhdy7xptpb/7MKMB+prcPxI8VsP8AkMz57/In/wAT7mkb4i+KmBzrEpz1/dR//E+5oA//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APK9N0UajPKHZ1UAsCq56Dp04z/SpZNJtYFDEEKcja4G8MOoJHbp+dallJI0U0dsDs4AjBPOOnTqfrSrBFITDhElIyUPRm75rn5yJSu7mE2m+YHYRgogz8hGQPXHXFbXh3yruC50S5G4yqWtW/uyDt9CM/lWzaafGl0sexdhUhWA+VsgbgCOv0qGzi03S9We4nutvlMJY/IbLMc9G/w9Kn2nMmjPUzLtILE6Tc3QYPKpEsOOdoOA34iny6PpdzPc3EGpwpEmHiRFyT7Edq0tQtbXWJmu7N5HOcNFIOY+34Co7Tw1dNHJ5kLwIoLGR0yvHYHpmpdNNc3NZndQzKdGn7PlTOVhu3iuJWhdo1jbhg2MCtqLyL6H7Zdl5TITtCnkgd/euYkPml/LbEZbcwHetaHU41tooZIEEScFmbn/AIDitGupE6a2Ruy6za2+jrbaekqlZBK0pXGGHTH/ANaubn1VFnEsymVpWPmOx5571c1DUGNosSvujOeQu4AHtn1rmpCBkEdewOcUoRTBQ5VqegXN5YTNBIty26OEIz/cZsc02bxe8enSW4mdo3OQobA4+v8AniuAjdigQu2P4QemafGwd8ydRwark7icINaEls37ySIk47EADFadpaPJahJ4GQK3yuGGCT2GfpWJHMYmLIdrY6jtT5L2R0VWdiF6fNnH0puL6D5kXHllYmJd+OnOG4+g4qrcK6nBiYMe5GKlF64thGGAwmBsGM896j+ediHck4ycA8UJWKtzaIYsOFSSYlUPI2nrUTfI4cBtjdN3Wp5ItjFSQPY5qCUkIFJ6DJ9qpaiacXZn/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Love Language (Acoustic) - Single</tspan></p><p
+          ><tspan template-id="title">Fall of the Song Dynasty</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Connor Price</tspan></p><div
+          ><tspan template-id="artist">Mysterain</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
