@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APZr68ni3eXIw2ykcY4Hy9c9uTVWPULtrzYJHKCUhuV6bsce2OPrVe8vZF1CaJAvUsSAASNi45PuGqC7uUgMbFjhEjfIIGG64AH15Hoahy0NbDPEHje00B5ElM0riMMIwQCSTxz+H5Vx+n+NvEohn1+ZQ2jxv80BI3bc87DjtWF4+dP+EhWSY5Sfyi7n+FdoBwK6e70fS4vD66ekMklrsZ0JdiASpwS3THNF0oq/U2jTTiek6dqcV/bRTxNuSRVYH6jNXw1eXaJ4jhghs7QTLKkEKo7RuGC4GD8w6+5HFdpb6ykqj5gvGQM9BUptHNYqTXSqSdql8cZHWqDXZvI5ITFGigEZAAIPr04NVLi7PlMjTqinkHbkr/hWfC8h12yjVmZJZFSQA9R1z+lc6ldWL6nNfEXTmtBYGZvMJjdVPcc5APrwRz9azrC283w/Z213qL20QIE0DzblkAPQjkDjGORXQ/FBXlnseV27HOM85zz+FcvoVtEumOzxrtMpXPU7uMDH0+tbJtxVjWSaVkbkU8dosqWtosdooxG4UEFeh3Hrz1z+ddDomrRNEIWXEEbk57n1z6/WuHeYWWAsvlwPyhUYyal0i5MUzBZDIhbOcYqYLV3M1bY7eIkSTTTbSVULleeKjsLqB9dhK/KY1P48HmuXtdRmlUbZvMMgwwJwcD1rRslKTfaE64K1F01qWlqaOuW8Woa4kkqCdFjwIj179P8APWs2ytPs3hnynPkqu6RwIstkHGR3yePyqz5373zGJV8FQarLJcGV0mmaSNvy69KuMrHS+VrTcx7yzuNbuQBsRAvyKcjA6li2MD8eB61GtqLEKqhBnoVdW/ka2BI9uZDGN5kBDFxwq9lAqhqN8JItghiT3VeTRzpKyOXl1uf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">Terra</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Laura Macrì</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
