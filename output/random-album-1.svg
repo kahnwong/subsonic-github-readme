@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACoAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOcELDB449KeIyMhgfb61sfYs9F+lXbbRxdNt3DOONwwPw/OuppIy5rnPx27NhgrAc8jmpJLVlJLKfyrr28PmGFlLQqwGOWwckHAyOtRf2GwGxvLLN3DH8P50uZD1OSNsAecj6Uxkcdj9K6WXSVt5mjmcq6gnCLuHtz+VU2sOuVPrgCqSTC50I0/5QSp56cVoadZlJQZBkcYz8uOR3raGne1VJLGbziPL2Rs6gE8g8jn26VEndERVmLcQkBdsELEgHG7b14P5Y/Ok8h28yaWOIHOAM8qAPX320y5j+ztlnwVUkCMfMMnP589f/102G38+No43Zi68K/UHkA/TmsrM1uire6f5ty8wGzJ+ZVwVz0qobA+grctbSeWZZHieSMkqGY/d59PSr/9mj0rVSsjOSbZ0H2I/wB2nCzHGV6HI471oUVhc1sYd/o5uUkZSQwU7UAwGPv606w0g2gBLs2RypGdp9j2raop8zCxSFqAMBcD6Un2X2q9RSuM/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOBvAIrEO+0fcO3HbctbGq28OoahpEEZBHlsSRxnkZrnLc3F1DJZLA07um6MIMkkEHI/qO4rqbaJbDXdPe/U2+y2ZzG6kEHPAx713UZHNiY3VzsPH9kf+Fd6LBGnMDJwAT0iaoI7ED4XXESKyMyk4II5JB711Lvb6joyJfu4ttoIhiyGIx3I+tUPEet2SeFxYWgdRt2KkqksB2Oe4zxVpactupxKSbu2cEohstNvIolXcmO2ecDmucij8+0YrtG0ZJI4rQlS/mS/EVnO5dA4Cxk4GBn8jWDdTTwQfZvs7QCJQrq33txAJJ9z+nSs6zsd1BaFCaZ/s6SQySK6OgBQ4bnI4r0zw7o8sd9Be6jdJdTGFVQTnc8ZJ5w3QY445rymzulgYNJ0DAr9fWuss/Ekn2QDcdyTqR6AE/8A1qyo7l1leB6l4jg+wXVtbG4uIohH5kkcYyzAKfunpyR1rndK0yfVrySK3nnkfHnojg5ABIySRx2596gtPF8H224g1KY7JHMiSxyFmU+nsDjp/wDWqa98WxF4YNAtssoDLLvKsWxwPcAk4B4/OtlKSdjgcIWM7Ub2ezeWEXT7CCsqqxXOR2xyD+NcFLiFpkeV5drsN7HJbngmtVNXuHuWWZdzbSJNw7j/AArnLmdnZ8/3jmsq0rs7qEWo6mcXO0A1eguTAvyjKONrA9//AK9ZoZT0HI9utOid0fJHyk8isFKxs1c6xLe3vLNLxJD9uRceUi8N1wCe3GKi8mX5L1pTHdJ0T7vKjqCPpmsaK8MSssLkNnIYcGmS3d9cqqySE46e1auqZeyVy3c6kokLRuzytncT0z61lmVn3HuTmmMrRnHU56Um5R1HP06Vk3c1Wh//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ballad Best</tspan></p><p
+          ><tspan template-id="title">Citadel</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">EXILE</tspan></p><div
+          ><tspan template-id="artist">Ne Obliviscaris</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
