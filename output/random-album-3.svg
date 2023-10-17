@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO8jMQz5iuf904pwa3ycxyEZ/vj/AAqKivCufR2JQYMYKSFj0+YDNLiEx5EcmSODuH8qjjVS+TnIFG8Z4Xqe1KLk2+ZegnoPJt8cJKD7sP8ACmuYiB5aupzzubNNb7xpKbY0goopyffFIYih93ynHBzkUqbwGKEK204LLkA0iwRySN8gA6gh85p0ccShtuM4wfmz2rSyM1J3IoxOqYndHfORtTbgfmadTnwTkH0ptZs0vccm3cN3SpEZAfujNRqqkHc4U+mCc0pCqpxKCSOm01S0Jeo4Sl3G7sMAAU0cs49aaDgg0cF+uAT19KVx2sJRUmyP/nsP++DTWVQPlkDf8BIpWHc//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOo0yG2e3R5TEzMBtBkAdeeOOnatT7LGsiuroiA7sMxwPfH+e1Z1pMYmURyxmLcGZggznGOf8a2oJd6Mpk3gHkkYBrmcK3O2noO8bGHrM12L2xtbW9itBdFme4KhmXGAAM8DOetEQl/tJoJ7r7RJEgInTChgDg7h0JBqp4uLWLWF1ugRpS9uCyDCZw2QDxnAIz9Kk0C5j1O8uZn8iQ28YiV41wJGbnJxwTgDp3qm5e0t0NlGHsb9TUliSXeUSOOZRlW2k/hisp4rlGBkkDBuTsPH5e9a15CRsXypA542J05759azpla3yvlleM7QP84rc5ixb2irEd/yt6jmuW8U+Mp/D86afpjxfamBeWR03eWp+6AOmTye/aukhn86MO5Ctnsc5rw3xTqJvfFN/dK+5GnKKfVVG0HH4VrSSbuyZbHW6R9v8Q3stxql6Li381Y5RONxII7HooBxwB3qxq9zf6PcwXOnSfZoEdoYvLXAYDBIYHg81U8JX9vDpN0kqCRpHD7CM5GAMD61P4u1K0nsIEhYGRJWYgqVOAOvP1A/Cr9nH23MPnfsuU6bwv40m1aaaC6eOOeJQ3BOHHQ8ducfnW68yNMXlBkDD+HnNeNeCr9oPFtq27iVngOD/eGP54r1GO/ijaRVhdsNgPnAPYnnsDxUVYpS0FBtown1HNncICN/lttPocV534d059Ukv4IgjP8AYGKBiBzuXoTwDxj3zWxFqYLBuPf3rjXkmtZJ0jO3DFCMZyAcjr9BURbs0imj0rwrpGpW9jIqqMbuCLmMhsEjjB6jDD60eJ9C1K58lFgCuWMYLXMYJ9BycdAfyNcXpevQ2tsolFx5wbOY0jx1z3707V9eiuon8trh5M5DSRpj39/xrK9bm3/B/wCY7RsS6rp8+javZRg+VKbe3lIVgSr9M5BxnivRri9d2ZndcnuO/wCFeR2s7XF/btI25VdcAjjA57V1D6oznO41rJuyT3Jij//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">C'est l'été, c'est l'été, c'est l'été - Single</tspan></p><p
+          ><tspan template-id="title">Så mycket bättre 2021 - Tolkningarna</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Félix Dyotte</tspan></p><div
+          ><tspan template-id="artist">Arvingarna</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
