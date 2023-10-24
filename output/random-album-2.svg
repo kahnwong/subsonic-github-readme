@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AODoopDkdBmgBaKTLf3f1oyf7v60ALRSAk9Vx+NLQAVi6xDNAFnt7i5G4kGNWJGcdfatqk3j+8PzoA5eLWLqziMbMZWZd2ZQQUb0560k+rX93bIse1CDktE3zN+HpXR3MEN3A0UoVgRwT1HuKLWCGzgWKLAAHJ7k+poAytFiuZ1eW6nuDtbARnIz71uUm8f3h+dLQAUmF/urS0HPagAwv9xaML/cWk59qOfagBcLj7q0UDPeigD/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAALwMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ALNpptldX1ve2cypcRnPy8Bx3FHjSXStMFteahppvBK23bu27W7c/pXOeFYZra4ijYMpLb8dxzXqfiDQ7TxB4fOn3Iwt0rBXx911GQc9q6p6HDT1PEfFGhXkOjaZJZaXNaDUbjYIt5kIPYEnuf6V1fhG8hu/AGnS3tpNJeW11JbLLG20+UOQSD1wTivStF1kT2emC5tnaVvkAjGeQpOT+XX6U2S4t9UNxAdGubWFmChp0VMknoAO/fis1LU2cfd0ONiv5bm+iklhdQjZOcnOO9bzpPd2hlj45H1/GkkhjW+eCRAkQ6cdRT9S1+w8OpGjzBkkXK/Lz+PpV3vsY8ttypDp0VvcCdV33ONrAdj/AHq6Ka4S30oHeGeIZZQM8EVxcGuS3UsfkRATOAkgJOfZs9qh1PxAYZLSGGGa5umc/uYm2gDplif84pzXcdN9i7aeOLLwqtxZXjuWSUS2hiTzA6ntjIz1PepLnxaNc1e1TTJnVLK0MztKNoMhGF4/EmltvD1hqd9b3N4Ee7RGAXkqinBIx/wEc/WuWuPI0rVptJtoGUSKyrLuKlSNxAz+OB9Kx+0dGvKd7p+rLqMccjyGOdRh0VsBvcetR+JNDsdes40ld1aM5WQckZ6j3FcFaeJJ4LqO2ubQwtkBmeT0Oc+/P513FteCSMKkvmqAOV71tytaow5k9GQxeHoZ7kyw+ZbOrAtHjG/A6E/3afeWtlbQSPMFjvdv7oxKcKfbir2reKdH0eP/AEZGm2jAAOcn2J61x97ruqa/IsosJordfuhRjI/r/KkouT1ByjFWRo+EdS/tDxDdqu9Z4rWT5mxtc9v5Vx3jy+udI8UzIhzG+HeM8FG7lT6HrXRafFqNpbXN1FA6yFCAv3i3GBn0q9qGiWPjfT4ruZZrfUE27sAhkIGCPcGk4a3Gqmljm/CeueH9RmeO+s5Vumwofdy3r83t6V1cWnNo2oG3gjZoZl3xzE5OPQ+9VbfwAkO24iLCbIID/WvSNJ0uGWyQ3DZmQbdpOQKptRJScz//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]</tspan></p><p
+          ><tspan template-id="title">Sarabande To Nihil - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Hans Zimmer &amp; James Newton Howard</tspan></p><div
+          ><tspan template-id="artist">Ne Obliviscaris</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
