@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AFvNXk0xo1SdQkrbOTjHvXG620l7qUMHnTvAzgHfkjNQaos0N2PPuTLGx4I/g9jmt/S4tOgia81S5jjsovm3b+fxH8hQBQ8QwRW9tb2UcYijB8wEdCTXV+CdHdNNWTcm1uWZCDmuJ134k6ZOwgstKNxGhws07bCQOOBzVzQfi3ZWqxW15pUkEKcCSCTfj6qQP50Aelapbt5MRTLFMg59DUOm3JgkaJTnOCPrTbbV7TVLEXVjcpdW8o+8p6e2OoPsahRwl0JE4FAHll/elrB0KKWfAO/qD14rjtWvjczeSjt5EfAXPBbua9DnvtD1L/WWK72wBIkwHPTOPSuUfQNHTzQ2pSO4OBsAOT7DvzQBy4UsQFBJPQCkrqLHQ9PkEkS3ryy7fmZF2hfXGeo9+KpXmj2trp8JNzi9blkJyu3kcYoAueCPEUuha5GjufsVywjmTPAzwG+oP6Zr2Y7i5A7HtXjlj4at10WDWLuVmg+0PFIqOBwFypXvnd2x2rtovEo1PTJkRMY2gsGIP40AeV78gEdv0q2JQkYO7LHO9h/If1NZyEqcHODUjOdgBJOM8elAGhaagkTMDGArDado5x6daguirTlkYlWGeeMVDshHS5U8Z+43XHT+lLIsB3L9rX5Rkfu2+bigC7DrBj0mXTmXfE8yzAliNrAEcD3B/StfRNRsore4V3MbMwYAnP61x+antnxJgnGeKAP/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNLqMtPdkFiyyv396rRKzMAxb35q/0ubps5/fOMn/eqNZPLuN6hSe24ZH5UF2EazkAJ8mT16GmfZZWYYt5OgP3SatPeSkH7hLcH5BxTDdXMbq5ACtypMYAYDuKAIFhjJIKjIOCDTXiRY9yqFZGGffmlknMkm8hAe4RcA0TN/ozH3H86ALRXN5d57zuP1qhI7BiOR9a0Sf8ASrtv+m8n86qSfMuSBketAE2nmznvI1vZzDbZ3SsBliB1CjuT2q14m8RPr+ppKIhDaW8QgtYF6RRjoPr3NYxRoyD2NJsZ3Jxx2oC4BqllOIGHYY/nQwwQcAewpr/8e759v50CLxYtNd9ATO/H41LZWDXs5iDbcqdrdt3RQfqcD8aqXM0cGoXSE4AmfjHvR9uhKFS5x1xg9e1AzQh0o3EUTQyeZuKI6lcNFIx+6R7joe5BHBFQpbWzKju8sW8fIHKjcQ4BGe2Ac8jtVE3cGSfmLE5JyRmmm7jD70dkcHIYM2QfrQBZvLYQCEgswkiEhyOmSwx+lU5T/o7j6fzpzXasmwzOV9CTj/PWopJYzEyqeT7UAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">While We Are Young - Single</tspan></p><p
+          ><tspan template-id="title">Angel: Live Fast, Die Never (Music From The TV Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Robert J. Kral</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
