@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNLqMtPdkFiyyv396rRKzMAxb35q/0ubps5/fOMn/eqNZPLuN6hSe24ZH5UF2EazkAJ8mT16GmfZZWYYt5OgP3SatPeSkH7hLcH5BxTDdXMbq5ACtypMYAYDuKAIFhjJIKjIOCDTXiRY9yqFZGGffmlknMkm8hAe4RcA0TN/ozH3H86ALRXN5d57zuP1qhI7BiOR9a0Sf8ASrtv+m8n86qSfMuSBketAE2nmznvI1vZzDbZ3SsBliB1CjuT2q14m8RPr+ppKIhDaW8QgtYF6RRjoPr3NYxRoyD2NJsZ3Jxx2oC4BqllOIGHYY/nQwwQcAewpr/8e759v50CLxYtNd9ATO/H41LZWDXs5iDbcqdrdt3RQfqcD8aqXM0cGoXSE4AmfjHvR9uhKFS5x1xg9e1AzQh0o3EUTQyeZuKI6lcNFIx+6R7joe5BHBFQpbWzKju8sW8fIHKjcQ4BGe2Ac8jtVE3cGSfmLE5JyRmmm7jD70dkcHIYM2QfrQBZvLYQCEgswkiEhyOmSwx+lU5T/o7j6fzpzXasmwzOV9CTj/PWopJYzEyqeT7UAf/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOIsrLldoz+Fb9vocjI0xGFXAORWXZRsHAVsZPrXY2MV3sRYpd3ZsP1rlnJpHbSgpPUitdCt7uJjDlmU4KsMH2NV59E2RZMTAj2rqPszxRoHHzEgkoM5PfJrJ1G9MeYtm3DkFi2f0qFKV7GjjB69DlZLBTMkcmFRmClm4wKo65olpBOVgkcrzgnHIzwePX/Gtq7lWRSpOVHP1qprEUUl7KyGIRkLtEP3RwOgrZHPJJOyGJbpG2UbOc7PY4Bwa0LW/miPyn5T1Hoax4JBNCpRs5AZSD0PvTrm5fynY5SUjBIPU+tLfcq9ndHVy+I5RAV84A45x1rEluDNIWLYU88msOKVt6h3JBySD6f5FOvGV9LZ2Z1VsYXPJ9R7DpSSUdhuTloS2OpNcebHMgSeI/OAcgjsQfSo5bp3wDERnG7JywP0rNtbiGF0mQsjtH355yeKkF4kcR+fcTk5C4/HNNtlKKSbIdIvXiXy2w6jqhYjg8YroJI7SSKOJpXVuQG4+Y9enrj8K42KREwDyXXOQcED+RqxbXQjZvLmGFOAu3aVPrj9Mf4UrdhaWszoGt4IQrfvmZlzt2DPPfrUN7bldOwzfMuMK3UZPtUCa0oQNIQ2OMEc/TrVW51ESrhgEXJwq4GfTNMEknqxsTRGJIzE0jLn5R2981Q1CZfMlRMBDyMn8qdFMg3DKtk/p2/rSXV5EWGwdBgDrn/CjqO/u2uf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Angel: Live Fast, Die Never (Music From The TV Series)</tspan></p><p
+          ><tspan template-id="title">Unyielding Heroine - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Robert J. Kral</tspan></p><div
+          ><tspan template-id="artist">Mysterain</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
