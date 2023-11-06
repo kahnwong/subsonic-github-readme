@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANnxF8SdK0qeS1mnG9QNwHJ+leWeIPiNb6kClvazMf7zkKPyrC1fTLnWfG1/bQ4BEzAu+dqgdMms280mOx09zPJi/M4Cwo6uvl4OSSCTnOPwoAzbiQy3DyEEFjnBrTtNEuJbK9lKt51uYx5II3fMSM49jtyP9r2rIOQcHqK1ItclSSSRoUeSVAkrZI3jj06HjqPU+tAFqx8PXl1qkNpKnliRym7cMZ6AZ92wM+9ZEg2SOuGGGIw3UfX3q+NcuBNv2ghXDoC7fKRjAznkcZ59/WoL3UPtgJNvFHI7+ZI6Zy7c9cn1JoA9eS3j03x/qdvPGqtJMWBI6g8ipfEXg7TrzzdQkmSABedpxmuG8T+N5NV8XHVYoTDGrKqqepQetReJPFFxfQLEkrCLHTPWgDlNSWFL+VYDmMHCn1qqOtKSWYk9TSUAPopKKANzxHeaFeapPPo1vcwW7N8scwHA/AmsWWYyYHYdKJmRpGaNNinouc4/GkiZVkBfO3nOBntQAyirguYcZZW3fL0Ax70n2iHb9xt2P7q9c/4D86AKtFTSyQtGojDhgxJLY6cY/lUNAH//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOT1/wAX3uqyOI5GiiJzjOD+Hp/P3rlHOe1OZwfSnQx+dMqZA3HGWPA96mMIwVkDk5PUrFeM1ERzXUJ9mstPku4ocQlvJhlkUF5W/iYZ+6APTuQPWsrU4LqK7kjkImQYZW2dVIyDke1VcVjIIweKaTz0qaRQDkDioWPNAi2STViyt5Lu6it4hmSRgq59T/Sqe4mrlnFdPuFvFIXdWAZBzj+LH4UN2Glc3tW1iBLlLXT4kmFsgggdhuVQOrAf3mOTn3x2rOurS6l04y3JlF0sv8RwXUj09sfrTYIL61tyLe2ljcjc0wQltvse3T61WbT72QGRo5zgBi3PQ9KjmRVik+ccknHrUD9K0p7W8+zNJLbykR4zKV6D3rLc9qpNPYlqxJnHGanjvbmJAkdzMiDoquQBVakzQ0nuCdi8L64cBWu58Bdo+Y9PT9TSG9nXKi6l27Qv3j0HQVS3UhalyofMy3JqF00Lwm6maN8blLkg46VSJyaUEngVvaR4XudRZXlBjizye/8A9b+dJuMFdjScj//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Yesterday's Tomorrow</tspan></p><p
+          ><tspan template-id="title">Story I - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sad Alice Said</tspan></p><div
+          ><tspan template-id="artist">Arch Echo</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
