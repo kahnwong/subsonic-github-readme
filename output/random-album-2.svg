@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAALwMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOatLfzZ50wMRsADj2zV17K3UBHiuGdh8pTbtGPXJzWjZ6Ld2VrfXt3byQxeczRodokm6AbFJyfrTLe9hvI/NMUkSRxmZhI6oHHTAJBz+lc9zpMU2CLOhHADDG7APWrKaW81w4jjZiXPCjPetC/t4k8JWuro32h5roDbsIEG0k4z05HBNdFpGpaPo9qdQvnjUSnzIfMcNn2UDnt6Z/Ci4HKSaW0RKvGVYdQRULaeCPu5r2DUdBh8Q28F7bJ9n8xd+GiCMwI4z3H096xbjwhBbBftN2IN33fMdFDH0GTz61TiyVJM4nW9Y1CJPLmtYULAI/8AEW45yecH05GPSueW6hELQu0qRuThc7iq54Ge9e5aho/h23uHiaw0wTTRs4SRV3u+cZweTxnmvBNbt3tb2UMm1S5AAI/KpkrOw4u6ua02tX1v4XOl8S2kkmQ+7AHOSB9evPvV3T7GLVNPgleaI/ZnEsiu+1lxgEdPm6duB+NcVHdzRo0YbMbHJU9DVyK9WSJoGZogxHI5xSsUmj6Z0u8t73SoZrKdJV8vAZWyN2Oc/jXn/ipG1PR55bxVmnaRUjHYAHt6cAn8ay/A3hbxNYam0s7SafBCyyeXI3/HwO4ABx6cnvVxba5dYJ715maEHEaqm0kjHzAknv71pJtozikmUdW1e3uvEWozpMlwjTELIjbhsAG3B9MV51qrK9y7qdwLkbs9a7V/BOs3PiCe3gSVbNFCJMyqqnjuRgH0yBnpxWi/wzmSDyxbQS+rK/zH8TzUW1uVdWseUV1GleGJbvwrd66kgf7NOI5IFGT5ePmc/Qkfhk10afDswn95pdw5/wB8sP0qz4c0HW/DPiNZYLS6m02dSlwhTnHbI749fc0AYlh4mvp4LrT7ieV/L8t4Zk3M7MjDaGIOB8pIz34zmt/7TcxX8rTTIbdyXV88ODyMZ4wK008IWWn6ouo6XH+7nJS4tJtysinrsGOf900upeGtQSwW2sR59w8hnME0gClem7kAqfbPOT6U7NhdI//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">Greatest Hits</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Palmy</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
