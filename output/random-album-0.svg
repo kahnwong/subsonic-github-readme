@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDWPPNNJpSCc0KjOwVQSTwAO9WMTNGasx2U0koiRS75xheeaWbT7mByjxsrDqCOar2crXsK6K2TQDTzBJx8p56cUmxh2qbNDLCQxZ+aUVu2Fgvl3EgVN0cW4HOM5IHA+ma50TlSCy7sdjWtpusWlrPvmtWkUrhl8zH9K66M4J6mc1J7HqHw48Prfys0cRTPytLtB2E9D9MZqPxZ4YumvdqbEWGUooyC0g9ePyrG8L+N76DVLeGGBUtTIMtEPmYehI5pdU8ZTXGqz3Fw0kcCykrEeC3oB3rqUru/Qwsc7q2hm1uJ4Xcr5cgAHPX0/Wsg6fLC58sBuSBuwB/OptU12e8nkZ5Ad7l2QD5R6Cso3khYHjIOeea5p1Kd9dzaMZFc0lKasRXUccSxvaQOQxJdlJY5xwecYH9a4zUhjlkibdG7I3qrEH9KGmkZtzMxb+8SSasm8gLhvsVuByMBTg8/WlN5AxY/YbdcnjCnj/x6j5gUvrRU1zPHMV8u2ihCjB8vPze5yTUIpAf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+itXRvD2pa9NKmn2ctwYl3uIx91fWqN1btbStE6sjqSrK3UEUDt1IKKt2tn5yodsjtI2yOOMZLH0o8mIzNA0bxSglfmOcH0NAipRQRgkHqKKAPRvh/wCIYvDOoXcU0crPcwlEaKXbtYcjI7jk56niuO1ycXl/LOo+82TyTk4GTzzyQT+NLqcbQ3JRoykqPhlbgqRUKQzXVyI4Y5JpZMhUQbmY/h1qIbXBSurG54Gj8zxLpayWa3IE7Yic4EgKHj3PFO8WO1z4vm3Wn2Z4OGV02u5ySCRn3H4AViWc8iMmwlJUcbWBwVYd81sXGn37B9SuBLI8rkvK5yzEkAk98kkfmKq2tyrvlsifVfBOs6Vodpq95aBLK6UNG/mKSA3QleozWBeWJisY5zayQurbXJBw2eh56GvRrrxZBqXgeGwjt0FxaLGtxMIwTbpGQOQxBILc4HqfTFaHizS7fxraWj+G73THZ4V862MohfeCW3KrAZByRRJt7IShbqeYa1O13qd3LtPMp7enH9Ku+EdVGjeMNKv3GEjuFDjp8rZU/oax2leWRtuQrHdj3xUi2UknODUuUUrMS0Zd1+2hsvFmpQ2wxCl2/lgdlzkD9a76+8Wiy8MaDbaZZk6jbWn2s3UrAJCVDR7sfxH0B7kda4C7gnuLyS4YZZzknHU4qea5Lw28civtRPLYDg7d27GfrUqpFmqi90UvEF/a6nq8l5arMBIql2mK7nkx8zcAAZPOK6vw94t1q38KtGv2CW1sTsjW5txIwByeM/jXFvFaCQ/60Lnpkf4VYOoQwWT2turCNuTuOTmtU0zF3Wx//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Silent Force (Japanese Edition)</tspan></p><p
+          ><tspan template-id="title">Paramore (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Within Temptation</tspan></p><div
+          ><tspan template-id="artist">Paramore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
