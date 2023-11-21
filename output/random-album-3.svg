@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APXB488Mt01aP/vh/wDCnjxv4cbpqkZ/4A/+FeAKxEx57+tXLSdi5LcemD1rd0kY+0Z7uPGGgEZGop/3w/8AhS/8JfoP/QRT/vhv8K8nt596ryeM9KnJJU9cYGa1hh4y6mEsTJdD1D/hMNA/6CKf98N/hS/8JfoP/QRT/vhv8K8fnX1YD6mltoT555Byf71W8JFK9yFi59jnDFiXk859KtWsJ34HUn0q4LZHbJ4NTRQCJgVrOS93Tc2UkviLdtbyocbTxVso+09sipYNQkNpFbmOMiMkhjnJz61Y3b1yVUcYxWtJyW5zVbXdjEmgXgPIRx6VYs4w14ACSd/I21cNtG5y2RWjYWsAcMrAknHUHn0rpnO6OdNI4O71F7R8IiEBA3zfSlm1SdJXRFTaszJnB6AD/GvaP+FfeGs5On5Pq0rn+tK3gDw02d2nA5OTmRuvr1rzVVVj1I0mpXex5nooe9h8xtpb5uFOACCeprVuY0t/DP8AaSTBpTarMEPQkkc+uOf/AK9dwPAPhsLtGn8dMea+P51J/wAIP4e76ep6fedj06d+1RSm4ybk7oVajz/CrHmuqXzafeQxR7GEkxjw/XG1jn9Kfo2qTS3GmoFs2We58lmiXphHJxz1yv4c16UPBnh8SGT+zYS7Zyx5Jz1/OrMPhrR7cxmGwhQxDEZVQCg9vTqfzrsni6bVkrHLDBTitXc//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AKOhWOi3Gh3c98xW6i3bQJ9uRj5fl75PFYVxN9mtJZ/LZ/LQttXqcUyIcCraxh0KMMqwwR7V304NNu97/gZSkmlocZp8fiDxDc7raWVmJwBG+xF710Omy6hDe3Ol6pEVuoAHDE/eU/z+tU/Bd5Jp2rR2mNqSXJgBb7yHnGR+AzXb6tpwjuIrq8mSW/a32b412qRuB6fSpprZ3CRistQSLV1kqu61u0QVklSNC7kKqjJJPAFZc3jOyh3LBBLOR0PCqfz5/Sodedhok+04ztB+mRXGowzg4rmqVZRdkaKKe5vwapJqOtG9e2VUDKzJFngjox9feuu8R63LpFtaXIjQvMdqW8jHKxgZJ68ZavNopGglEkMrRyDoyNgilmmmml8yaV5JD/FI2T+tZxqtJ9xuN2dtb+NbGchZ4ZYCe/3lH4jn9K2TMsiBlIZWGQQeCK8t4C5BGfrXceH3ZtCtyxzjcB9NxrWlVlJ2ZMopaotRwfaCE+Tgh8v90bfm54PHHpVWJLldJUiCA3RifLynkER5+7twWJOBz14onHnWM8Y6tGQPyrhZnLyFvesq+6ZUT0C5tJXtrmF3hYyBwHiBYgH5hgbcngbe3YcVJ4YFmbI/aRGfmg87esR/c+Qc7t/ITP8Ad7/hXnSkjkHFSZLEFiTgYBPOBWJZ6bHFePe6B5UVo1oFtTcGdbfbn7Od+3HzZx5mc/x7e+Kd5N5GirfJGk4UfKgQYX+HcE+XdjGcd64jTbQvpNxchRhbmJDx2wf8RXa6cpaxViPvMSP5f0rqoQ1uZzZ//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">2010 Big Show Live Concert</tspan></p><p
+          ><tspan template-id="title">Θες - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">BIGBANG</tspan></p><div
+          ><tspan template-id="artist">Γιώργος Λιβάνης</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
