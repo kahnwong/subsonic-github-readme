@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOk+HPw58Iav8PtFv7/QbWe6nt90kr7ssdx5PNdR/wAKn8C/9C1Zf+Pf40fCf/kl3h//AK9v/Zmrs6AOM/4VP4F/6Fqy/wDHv8aP+FT+Bf8AoWrL/wAe/wAa7OigDjP+FT+Bf+hasv8Ax7/GuY+Ivw58IaT8P9av7DQbWC6gty0cq7sqcjkc161XHfFb/kl/iD/r1P8A6EKAG/Cf/kl3h/8A69v/AGZq0fGnjHTfBGgSapqBLnOyCBD80z9lHp6k9hWd8J/+SXeH/wDr2/8AZmry/wCOuh+KvEniuzh03RdQu9OtLUbHhhZk8xiSxyO+Ao/CgDhtf+NXjTWrp3h1JtNt8/JBZjbtHu33ifx/CjQfjT400W6R5tTbUrfPzwXg37h7N94H8fwrE/4Vv40/6FfVf/AZqP8AhW/jT/oV9V/8BmoA+tPBXjPTfHGgJqmn5Rgdk9u5y0L91PqO4PcfiKo/Fb/kl/iD/r1P/oQryv4GaF4r8N+LrqLUtF1C00+7tSHeaFlQOpBU5PfBYfjXqnxW/wCSX+IP+vU/+hCgBvwn/wCSXeH/APr2/wDZmrs68l+HPxF8I6T8PdFsL/XrSC6ht9skTk5U7jweK6n/AIWt4G/6GWx/Nv8ACgDsaK47/ha3gb/oZbH82/wo/wCFreBv+hlsfzb/AAoA7GuO+K3/ACS/xB/16n/0IUf8LW8Df9DLY/m3+Fcv8RfiL4R1b4fa1Y2OvWk91NblY4kJyxyOBxQB/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP7W3Z8SDjjvWlb25DBJoxIerbsgEEDGCPxrN/tCVpGMUO4Z+UYq4uoeYUgNt5chByvc1dzZW6lWWEXQMcMaBe8hkAzzjPsO9Qf2PiQiORcBtvzMBx659z27VBJJbRuFBeTDZIjwAT7nvTZfLkJRWkgkPQS4K/mOlXzdyb6lz+zZId9xIy7YxlFBGWOcceoFZc8zvPuIG30qVVmtnZZVLSDqBz/AJFWBGrQmRkAJGcGjmubxXMjc0WKIu6zIqlPmLA4x7VR12dDJI8Odrt5ascZxjJ/oKhu75plKQ4Q55x3+tPt7m50+IiJhJkiR4ZFDLIvRhis7GTldWQvh7Q/7WmYyP5VtGRvfHf0HvW14utrWPSLVlgt4njlMatEmCygdz37VYtxIggTTII209/nV0mG5c8nK9cg8fhXN+MLm6fUorWRGjiijDIhPr3NK7cjmsyvZ3AFurupYI3lsfYjI/rVW9kCybovuntSYezhSCUMkjN5jp3Axhc/qakgkSZzuC5PYmqV2d0HeFiVrcFFJbEn6U1JJBPuR/uDhqdJKJ4gSQpA/GmK7lVVI+DwTV2RzImcbZUZ7eZCSDui4Gfp+I6etSatePqN79pSyfzUjVFMvI4B5x+f5U29vWSLau0kDnIqgt7MIy4ZcMMYwB69PzNLl1K6kEsskztJMcyHq3rSIpjIPUmonfLE9vSgOdnPbpmlsaJpH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Live at the Factory - EP</tspan></p><p
+          ><tspan template-id="title">Decades: Live in Buenos Aires</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Nightwish</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
