@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA1XpkDmrsemXEqho4Q4KhuD2PSqqDO3vwKtxxkj0HrnFADhpk8TI0tuApOCHOMHOOefcU+XRrsTMotAPYNwPxzVi3tnlUhVLHGcZxgeuTV7+yAqMHldXC4ZVG3HqDmgDCl025hVnktmVU+83YVTZRyQBxXQTaTbyRZtrxWcdUY559M1hzRtEzo4KsuQQetADkRlRCR94ZHHWuq0Twvd30C3lwghsl5Lu2N4B6D0645qHw/4XvNW01NTZfMsopPJ2RyZfd1GQPur7nHtXpmny3lrp1tb3GlxBWU7YHdQm09BgE8/wCINAWMW7ttG16ytBpEEemXEbOCsrqF2q20Zb+IkgnPJxuzXKappN5ZOf7RaKWRhlfKk3x4HAIPf611a6JPq8l3DbzxeUxGELEbBj7meuMjIH8qzdRtJ4p/s2oEF7dPKRSclV6nJHpkYI7VCqRkrx1No0ZSlyvRnDywFTJcQqyqpAJUHGT2JFQXayvJK0gy6qC3HTpXpKeKLqCE2bC2ntJQI5bcx5EiEBef9oAAqeuRXA66PI1W9jjjMSZ2FTJvzgDnPv19qqMlJXReIw0qO5Qtbqe0dZLeaSF8D5o3Kn9K2B4i1md0zqVw7I2UHDYP0xWArdASKminMMqyRuA68g0zmOlsvF+uWEhZbyQAcOdilSfU5HXr9aJ/EeoXU8100jSFuZZDGMD0Gew6dPasSPVbhfKX7RhUxjCjgflW1e37xaEpjBRi/MnHzA54xjt/jSUUlZIrnlfmvqZk+pXJBErsZM8s/wB4DHSsyaQyFmOSSD1OTTprhriZpZXDO/JPTmoWbqARzQkkOVSUlaTP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGIlFXYYG6gdxVeBehrdtmWC2MpXpjBx3oA2zbq1zNvJ2lBzkAHAxn6c5qC405Eurrn5BE+wDHOScc/Tms1r03kjl2dGOQFBz1HT36dKTJhGN5Yq33U55GMD68mp6D63M25jjTaGiJIAz85/wAKzpvLx8sRU+u7Nbt3IlzAJwoUnjaO1Ysy4BzVCH2wLECt6aIRaWkvnIg3gNlsHGO3rWDa/eFbqqsmlXCugkbZhOcEEkdPyoAS1WGPSmuBFK12SyxkqAowmcj1OOfpVA3dzLcyzzhh5gJOFIHToPrU9hcb9Rto8lljhnPJ4z5T9u1ZdqxMLJufPykYfgc+nept1Kv0N2Owkj0JJpcASuWQd8dM1hT4INb098Z9MtkdwxjTZhegx0/SuenPvVEj7SaKIsZYfMBGB85XBz1rROrxLbvD9j/dt/01OfzxVO3kt1tkPntG+HWVduS2R8pHGD6EcUxpbIg/I4PBHt8uCPzwRQMkivoorvz44dn7uRD85bJZCuefrVZJkEe35R8pB96miureK73qrKPMBDDgKuRnj6ZqYajCSwZpOeMgZ7Dn880gIBd5iEeRgDpmoJTuGc1fOoQbSuJO+1xww9MjOD6H/wCtUF3epLGyKW5bPtjHT86YH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Unfinished</tspan></p><p
+          ><tspan template-id="title">Game of Thrones (Music From the HBO Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Unlucky Morpheus</tspan></p><div
+          ><tspan template-id="artist">Ramin Djawadi</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
