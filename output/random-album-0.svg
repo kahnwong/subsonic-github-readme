@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcQfSgsagD1FeX0NhZT3c7FYoULuR6CnZvQCeaYwgEQzS5/55LnH15pYpTITmKWPGPvrjP05rx3WPHuoapdMbO+uLGFT+7ERAz9e5Na2jfE+4E8UGrQIyfdkmjXaw98dD9Biup4Ooo3M/aRuepUE4qJJFdFdGDKwBDDoQe9OznvXIaHKPr8KDmQD86xPFWtpeeFr+COTLOg4743An9K4+XV4By1wD7Kc1nTa4zZEMYI6Eyc5/CvWhhbNMwdTSxpeFoba1Q399aRTxltqmUjav1zxmtbxA/h/UdOum0q0txJFEZBJCwGG4yMf5FcdpcMV3exQ3Mii3BywZyoHIHy+/NO1y1t7W8AtVVYnBK4Yn+fbOcVu4J1d3f8BJP2fN0PV/8AhMtL0mytYLm9QSrEimOL5ypCgc46VpWHiix1KISWt5G4/uk4YfUHmvAxx/8AWpynBznms5YGDW+oe1ZL5SL95JD6mnq1uGAjX5vV+lMuWJJGT1qvXZa5kbljfQ2s6zmESsgO3C/Luxx+FQapNFf3vn4MS7VUkgjOFA9PaqUN9c26bI5mCf3c5FE99cXCBJJWKjt0FR7O0uYvnfLy9BpSEf8ALUfQAmojjPFJRWpB/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYQRQCM81Wvr630zT5767k8u2gQySPgnao9hzVPR/Emka7/AMg68WV/LWUxsCrhGGQ2084PrWVzU1OtVLuQQyxOcZVXIz0/hH9audO1V5eb6HP/ADzkP6rTEUxqoJAVQSSQAFbk4zU0N9HK6RkMJG9FOM/WodU8Q6Rox26jqEFu4QybGJL7R1baMnHvVy3uYL21iuraVJYJlDxyJyGU9CKQDp4Y7q2ltplDRSo0bqehUjBH5GvCtJ0u6ihudIikktdR0XUcC4VtrC2JJEg7EgbwDzjNe755rxPxj4kbw18XZrm7jZ7KSzSEqD0UgNkdvvZ+tc+KhOVJ+z+Jao1oyip+9sz0DQPF1ze+ELnUL20LajZWyzSwRcCTcpZME9CQOR2P1FQ+LPEl5Zw2iWEZjuZIY3mkcEGGKSRFO3tvHPXpjPcVf0vT7PWfBrRIHittThzyuGCEALkf7oH50/xJaLIkdwIzI9vC+5FHLxnAZf5H6ihyqOjdL3rbfoFoKpboeWPoU99c6Z4YnleTU9QnaXUbgvlhbqw3MOeN2xSfUivcIYIre3jghQJFEoREHRVAwB+VeG+GvEn9u/GnT7y0je3gMD2xDA5dQGJz75/LAzXunvRhoyjSXP8AE9X6sKrTm+XZAPWuQ8RfD/T/ABVqjXerSFo1CpFHENpCjk5Pck/yFdWDRnNdFzOwRRxwQpFGoVEUKoHYDgU0qGvMH/nif/QhTs81GrZvT7Qj/wBCNIDJtvBfh60vJrqHTY1mll88sCRh853Dng89q3S3am5NNYmi4H//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Na Medida do Impossível: Ao Vivo no Inhotim (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">Brand New Eyes (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Fernanda Takai</tspan></p><div
+          ><tspan template-id="artist">Paramore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
