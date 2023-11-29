@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA1XpkDmrsemXEqho4Q4KhuD2PSqqDO3vwKtxxkj0HrnFADhpk8TI0tuApOCHOMHOOefcU+XRrsTMotAPYNwPxzVi3tnlUhVLHGcZxgeuTV7+yAqMHldXC4ZVG3HqDmgDCl025hVnktmVU+83YVTZRyQBxXQTaTbyRZtrxWcdUY559M1hzRtEzo4KsuQQetADkRlRCR94ZHHWuq0Twvd30C3lwghsl5Lu2N4B6D0645qHw/4XvNW01NTZfMsopPJ2RyZfd1GQPur7nHtXpmny3lrp1tb3GlxBWU7YHdQm09BgE8/wCINAWMW7ttG16ytBpEEemXEbOCsrqF2q20Zb+IkgnPJxuzXKappN5ZOf7RaKWRhlfKk3x4HAIPf611a6JPq8l3DbzxeUxGELEbBj7meuMjIH8qzdRtJ4p/s2oEF7dPKRSclV6nJHpkYI7VCqRkrx1No0ZSlyvRnDywFTJcQqyqpAJUHGT2JFQXayvJK0gy6qC3HTpXpKeKLqCE2bC2ntJQI5bcx5EiEBef9oAAqeuRXA66PI1W9jjjMSZ2FTJvzgDnPv19qqMlJXReIw0qO5Qtbqe0dZLeaSF8D5o3Kn9K2B4i1md0zqVw7I2UHDYP0xWArdASKminMMqyRuA68g0zmOlsvF+uWEhZbyQAcOdilSfU5HXr9aJ/EeoXU8100jSFuZZDGMD0Gew6dPasSPVbhfKX7RhUxjCjgflW1e37xaEpjBRi/MnHzA54xjt/jSUUlZIrnlfmvqZk+pXJBErsZM8s/wB4DHSsyaQyFmOSSD1OTTprhriZpZXDO/JPTmoWbqARzQkkOVSUlaTP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFfMPluGbJfr+FRq21gGBI7g0r7RwufxFMpJXKuWYLmW3dzA+0MMU7zHmtjENzNnK5bpjr1p+nXlrZM7zafBesy4VZywVDnrhSM8etbMt7o7xvDe6RbQiQAh7J2WRPcZJUj/ZI555FS1Zjuc2wDfMWy3ekUkZGOtXr7T/sckTLKJrS4BeCYDHmAHByP4WB4I7H1BBNcoiZ28mtdGRdkDqQAcc+1dD/YdqPA/wDa+52ujdrFtJwoUhug7nIFc8zEvya2bXU7u90VtALo8XmCa3Vhg7xkbQfcE4z3HvVSjZCTMZW25BGc05kycj64zyKIlKzYdSCvUMMY+tPlfM2/739Kjl6jv0NSGV7vwtdWzv8AJYzxzxZ/h8wlH7Z5+T8qxyTng1uypFpvh+NbgsLzUXExi6eXCmdhI9WYkj2XPcVikAnIOefyoQEPXmjGMU6MKZFDsQmeSBkj8KkK2+Bh5ATjOUH4961b0FbUvRarGwb+0LJL1mXAlMrRyD/gQzn8R+NWItZ0+0jZ7XRoftZzsmupTMI/QhCApYerA/Ss6K2SRWbMgIXIBUdfz6Vo2ejRyKJJy+0n7uB/jWHPFaF2bMm5ubi7nkubmR5ZpWLPI5yWPqTUS+1dLJo0Ej8uyjAAG0f41l3mnMtxN5a/Ii7icYAHQD60lO71BxP/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Unfinished</tspan></p><p
+          ><tspan template-id="title">Break From This World</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Unlucky Morpheus</tspan></p><div
+          ><tspan template-id="artist">Globus</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
