@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOQBLDil69RTU4+hFSoBuG7p3rzGfq0dUIMkgBScnA96VlK8Y5xmugsNFZ2tJ1MZRSS5DdeuCB19BVi40BreKY2sW8FiwdyAqL2ye5riljaaly3Od4uCly3Kmha99nKWl6x8jospGTH9fb+Vdb/qh5cvz7+YpV6MPQ15q6lGK5Bx3U5FbOi+IGsttrdMWtc/Kevln/Cs8ThFJOdNanNi8Gn79P7jnwxI4qSDLuEBAz6nAFVVar+mWn9o3sduZFj3biXOOAoJPUgZwO5A969Nq+iOhVVFcz6HXaTcafbWLqsm/wAtN0rA/Mwz0z257e1Guaiktp5fmSlNu0ukh2qwPBI7gj8qyG8L6tFZb3WJEdt2C3zBQAd3HbkUxfDuqJHIQUkRk/gbOeCRkHG0cEZNef8A2a+f2jfW5wKeG9rzc+u5jSOqu23n36flUTPu5xipr+zuNNuntbpAsqAEjIOMj1FUi2a9BRsd0q11dPQaGAx9Kntbma2nWS3cpIAQGAB6jB61AiKygtKq84wQenrwKkSNEwy3UYb02t/hV2OTn6M1k1WX7OFlt5W5BDCST5mHc5brxSPqeFxHaSKyncMvJ8pJ5P3uuao+YfNLi+jzjAO1+O3HFMJ5b/Twcjrh/wDCp98i0b3t+Yk00ssm6Z3Z+5c5Pc/zzUDN9KleJMgm7Rj3wrf4UyWNFxtmSTnooIx+YqrGnPpY/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLJJC59qRaaaAap7jHgbs+laUGh6rLbfaU0+7MBBIcRnHFWvCdgl7rMRnX/AEeM7n46+gr6CstRsZYDDFNGZI1BMZ4ZR24PasZ1eV2N4UXKPMz5fcnNWrKFZ3ClQTh8e+EJ/mBVzxVBBB4n1NLUqYFuWCbDkYPPHtyai0N1h1S3llx5UbHfkZ4IweO/Wt0727GSWrVrszTQvXNOIoQciiSsyUd74LTT3t3tL6LdHcfxgkMp9iOldxHoei22nXdoL0rKIPnkZwHCDBzjPIIHJ715jod1caDeQTXULm0l5DhcgetWvFviCO6gjtLO9jukYH94pyyIf4SSMjP16CuNqUp2R6N4Knd6NI5TkzSSffQk9e4ra0Y6UIHF7JfRS7+PJgSRduPUsDmsc5WMIActwKkWcwsVAzla7akXy8qOOhPlnzN2G6fpt3q1w8FnF5kqoZCucZAIH9a1h4Q1SKU7xEFW5mg3hiVzECWYED7p2sAe5FY0UxtDIuZRuwMxvtOB2z+Nblh4hvLi6keW6umlMZALTZHXP3cY6lvzrOUtLkQV5JHo+k6Dd2Vpb2rIoMnyYLZyc4yfY5rUXwpZajbJHcWFtIkq7g2wdMZyCOQe31rgbDxLd2WAJpxEgY/6zJ5AB5x7f/qrudE1z7TBlJJNsnJAfv8A5A/KuFpRlc9H3pRPH9d0/wDsrX7iyBJWJiEJ6kHBH6GsuY4kB9q7T4iWMh1s36o3kyIoaQc4fnr9RXESFtwzj8K9CE+aCZ51SPLNo//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Eurovision Song Contest: Baku 2012</tspan></p><p
+          ><tspan template-id="title">Queen of Africa</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Maimuna</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
