@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfaRjS1HNIscTu3CqMk+1AHi3x38cXGnWkPhmwmaOS7TzLt1OCIugTj+8c59h7188V23xZkupPiLqJugQ5SJlU/wqUDAfhmuQgtpJw7KOEGSaAIV619VfCDxN/bXgS2imuFlvrEGGUM/wA4UfcJHuOM+1fK2MEjvXoXwo1eW01y5tYrp7d7m2MQdCoJAy2MkcHrzQCPqySVE4Ykfhms69v4oYi5MZRPmYu4HA/OtJ03cgkEdCKx9StLKddt6kvByGEZk59jg/yoA+ZPi5e2+s+M5NUstrwPDHGzI27lRjJx0z2B54rhobl4HVkxx1B6N9a9m+Lrrp+kS2cOnsILidQLiWIRDcAGJVODn3wBycV4sEJ68UAWrl7OY+ZEZY3P3o2UEA+xB/mK9S+EvwzutZktvEtxKn2BHYRwhiplKnB3HBwue3U4ryIDmvrL4X39pa+D9C0u0aK6heFttxbsT8+Sz71YArySO/b1oA9Bpkz7ImbfsA/ixnFPqK48z7O/lFQ+ONxOP05oA+ZPjferJ4ktbCG/N2RH58nCgK7fKAMew9+tc/4g02x0bRrOwt2WW9YBp5B0HHT86v8Aj+4t9b+ItzJNdvJdedDBGFiIQgbR1PJ6tz3/ABo1+2tX8QRxRTF/IR5pQyY+RR1z+XFRIuKOEnTy32Ecgc17R+ztc6m2r6tbLK39lJAHeMjIEpYBSD2OAa8XndZpnkL/AHmz06V7b8BNTFprt5oqEFZbRZnBOP3gJJP/AHy4H4VaE4n/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIEhQ8Y59afJYQNCvlsTLk5GOMdqu27eSd64yPUZqa2jViC3HJwcVsoqTM23EyVswjASD26VJGLfDK64OetdDFpqy38aH7nDFs54qC80mKC8foAxJUn0ptJT9nF67l+yl7D20tr2/4JhvZh+VAJPpTjY4jDHHWr17E1rt8gFgeCQOmelR2zyxbvMX5COT1rROne0lqc757XiELfxYGOvFaS4Ijwq42jt9c1zkfmRnKsRWrYXjSSxxTKDGW6r1H/ANasFI1k9NS8biSIfKW+9zjsO1SJO0pVnDfe49/Wp7eOGOXfJIzq33gF5P60/wDc+eHjdginKqyZx+tONNKfP1MpYmLhyX0C8tVngd0ZlfaRjHB5FZBZVVg53MhAKg9fetG91wKz28cH7tW6seWP+FZpvo2OPsgz6+lbznCTu9yYppabFGGyMoUscDuM9asxRtbeWxRmZcscPhRjpVdo7iziRngLNv3PsYtnHStSSET2m0qjNt+VmFcyRq2ImqW5OGk+6eMKf1pG1KEttVixxlflJGfTA5qAWUjKEmKOAPvjhh/9arMMCWsbeVsDlTksMlvb2NVdmXs4dhMtb+Y8hXfLGwxxjp7/AJ+2KpRJKQ0Qj3bRuxkr9Oe9X/Mkn07AVknIKnfGABRprzqjRXMoVl6MMnI9MipNFoj/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">REBORN</tspan></p><p
+          ><tspan template-id="title">Drink the Sea (10 Year Anniversary Deluxe Edition) [Reissued-2020]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">相川 七瀬</tspan></p><div
+          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
