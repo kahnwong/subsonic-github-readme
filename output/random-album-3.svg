@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHdWtLWHwxoFxDbxx3E6T+fIs25pCsmF3L/AAYGB7jmsKug1lU/4Rfw4y+buMM4YsAF4mP3cdRz35z7Yrn6BBXpdt/x6w/9c1/kK80r0u2/49Yf+ua/yFd2C3ZjW2RLRRRXcYHG6xGqeF/DriVWLxXBKCIqU/enq38X4dOlSrJ4dMdqWAVk2NMPLb58A5H54qDVpUfw14fRXy8cU4Zd+7bmZiOP4evT8e9YdeLGXL0O1q51ED+GDIkU52wmSMNIsTlwm75z9cZxXS6nGq6vONHlL6VkfZi/DbMcZyM5H9K8yr0u2/49Yf8Armv8hXXhlzt9PQyqOyI7UXQLm5I5A2gEcdc9PwqzRRXdFWVjBu5xOqaRBZeHdD1CNbkTXyTNL5gGzKSbRsxz0xnPesWtjUp4pPD+ixJNC7xJNvRBh0zISN3rkcj2rHrxDsCvS7b/AI9Yf+ua/wAhXmlel23/AB6w/wDXNf5Cu7BbsxrbIloooruMD//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+irEEyRxTI8UbFxgOwJKfT/ParsF3aZd5IbX5dxWMxMdxJzjIPQYwPrQOxRsgpvrcOyqhkXcX6AZHX2r6N8T+JzaXF9awpF8kzhZN4wBnjNfPAuIvLESW0LsU8sHa24nP3uvXn/61eia9aNB4X06+vdIQ31/aL5zSkeZvjfaWbv8AMFB9ck5qJFw0ZQ+Isgv9G8P6g8yyyiB7fzEcMGUSOcfVc4/GvPa66azOt6Fb29q6i4tp3FvbnjzVYAsFPqCo477uK5a4t57WdoLiGSGVDho5FKsp9wacFZCm05XRFVvTLJtR1O1slODPKqZ9ATyasWGnwzKrXHmHzPueWRxzjkdyew/HpXS+GbfT9H1KfVNQ0ma8t9PxkR3GI5WcEKN23p1OQe3GaozLUNxa+H7lUsbWKKRcbpR8z/8AfR5/LFdLq0D+JPB/hPT57tE8+R1GV3FC0rKZCeuMnAXvk15/caja3NxLLHbvGruTs8zO32zir1trDxWSsCwMACxHfyvJYAfiSayne2hvhoxc3z7WZFrtlBpetTafa3HnxWTGLzQNoZh94j8c/lVhvEs15DHa6nFbX8S/Kpuo9zIPZ/vD86w57pDuJjJYnLEv1P5UW0EU6NM4PHRFlwT2z7DOPzz0rRHPYzILp4lKjOMEcHHB6irTX7yWi25Zwu4vjceT7+vAFZnQ04SMOlMouRPgHnvUpmITYDwTk1nrIVz70vnGlYCzI/FRmbaoC56etQmQmmk5pgf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Black &amp; Blue</tspan></p><p
+          ><tspan template-id="title">Hitman: Blood Money (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Backstreet Boys</tspan></p><div
+          ><tspan template-id="artist">Jesper Kyd</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
