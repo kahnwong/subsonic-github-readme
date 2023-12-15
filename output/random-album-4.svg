@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iiuij0G2utLjktpczEZ3k8E+hHas6lWNO3N1OrDYSriXJU90r/8ADHO0VJNDJBK0UqFXU4INW9M0yTUJsZ2RL95iP0qpTjGPM3oZU6NSpU9nFe92KFFa+paWtsCw+RQSMnofQfWsiiE1NXQ69CdCfJPcK7D4daFq/iXxGml6ao8ojfcyPnZCg6t9ewHf9Rx9ev8Awi8e6d4L0i8il0i5nubqffJcIygbFXCqAeTglj+NKpyuLU9h4Z1lVTofF5HoN78J9Ltx5UelS386oB9suCGyTjonTHJP4da891vQLnTdTFlLpcGm/KfLVnWIMOzZzjsa9Ob416M0SS+VcwYA8xJIQ4684YMO2etbCfFTwffWok+0s6MMhHh6/nxXPNU5xspWR6lGeLo1HUlT5pP1ufMHjK0v9Ov4rO8jVU8sSRskqyLID3DKSO2K5qvZ/i94y8FeKtCgg0eN49UtbnIP2UIGQghhuHvtP4V4xXTCChHlR5VetOtUdSe7CuitdVtTZKHIheNcFQOv0rnaKmpTU1Zl4bFTw0m4dS5eahLdnaTiIH5Vp9lq1zZQtEhDIeQG/hPtVCin7OLjy20JWJrKp7RSfMX9SaJzEwmE05QGR1GAf8T71QoopxjyqxFWp7Sbla1z/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIPDkZ8KR+Ipb+Ewi8W3ltgPnAOeQe/Tp6VdvvDFjJ4vi03S71Z7GYRbbr7qBnAwD/AHcE4weeDXcWHizw7Y+GVb7NFvuLhXjjjiTb8kexg49OQenJJNc3pWqrHfrexaalzIdrFI1JRRkgMVOfm75HQmtXRcVdsqMoydrGFB4YSUa6n2pnn00YijiiLmdg207SOw5OfSm2Phpo9W0iK/3iK+aN9sYy3lNzux+f5GvQF8cXmmPqAtDBbmRN0ayBUMJHQA4yckkjPTArnNHntIra3hliD+bIIizneF4LEjBzk8+mOlXGhd2cgbW9jAGieT4mWxm8k28shSOfJMTLu27wRyVHJok8Mq+garq0N7EyWF0IWiGSWVjhXB9D711uuato9utlBoCzB9zJcb35lOR3/u9MDjtxUGiQWc9jqQaSNZxIwjBkCjKjgt2PXFTKl7yV9ATXK9Dz0TDyfLKjIOQ2Ofp9KlgvprcoUYgopVcHHXk1V70tZXZJuf2ff6pHFdm5ikd13OWf5lG7GW9h/KpJItRt7S5zcRiKI+YCG3ByGGCD6nnHfrVbQNXtNIuZ5rzTUvlki2KrNjYc53f0qvqWoxXkdulvbi3WOPa6rgB2z97A74xRdjKZlfzfMViGHINSxXjRxyKVRi+csygnn3qv3o+tF2ISl7U3PrS5pDFpOtGaTNADuaM8c0g6daXPFAH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Lost Sessions - Single</tspan></p><p
+          ><tspan template-id="title">細雪 - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">和楽器バンド</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
