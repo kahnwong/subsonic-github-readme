@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOK8ReFbS9s31Dw3qEV1Y26QxCOaUeaW25GOAOCxXnHI71zUsbQX1xbXMbwTLIC28EFfkbAI+uKz41uEfbHvUsOhbORXR3er6rrEVvFq0bTiFVRZljUS7Vzgbse5qbMrQk07WWi05raSEsqyCRQgJK/LhunY4U/UVanvQ1pK8Ehz5bHnORxzVnw7La6NfSywm5eB0AV5iInGMZQ4yCvTJ+lReJxNqOpk6d5zpNthYDDtI5wAW46ngenFOMrOw3D3bnJzy78n1GPzIqWOKSW5lmkPlxs4JJHJA9K3/wDhBfFUFwUi8OahLKiBsGHOMngjB9jXN3lpqwiae5trhIVZlLmMhQVbawz7EgfWi4jU0zQtWuAXGg3sh5bcJQufXqK3Z9GvbCymur7R71IYYy5b7SmF7DPy+uK92treBYxHEgUey1z/AMR1Sy+H2rORgyIkQ47s6iq5hWPCrK8mkuN2FYqpwpO0Y6Y4+tJcXE9ncZjleOQLnKHHXqPcfWotIkIldlByAADjI79adqeROr8HcuDU9LjO2j8Z+Go9I09J/CxnuFj3SywX0kP73o5ABwM4B/GuRvtb0uW1kg060urQNv8Ak89XVtzh8NxkgYwD16V6F8IYra50bVI54lYrcIQxXJ5X3+leg/YdMQYeGLZ2LRr/AIVSgmhOTOpe4tbcYgjhB9Vwa8w+JF5eeJNL1LS9LeMQ2HlNdO7BVklZwEiBPcAlj+AqXxP4kl0XTljtB5mo3j+TZRDnLHjd9Bkfjis270y203TB4ffUrIy6faT312HuV824v2jYr8p5OwfN9SKza5SlqeVWkBs0dGZPMDEOQ+QCDiodUuI5I0USDcDjA+b9RWUrh8M+WLck9zQz49j/ACNW+xJ7T8PdPvdA0e6F2iB55gylDkMgUAfrmtzULxipKtweormtO1uS/wBEs7vYymSPOxQSB2P5nNEt9ImVcHaeh55FdFOPuozm/edj/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBgflxtH170dOoFCkA89K1LG0g1IJbxl1uieOMhqTY0jMz7Cj8BW7daEbG4FteRvExGVOMEj+RqKbwxqSRmWGL7QgAYiP7wB9v8KSkmNxaMbt0FIfoKcQVJUggg4IPBFJVEiCp7OWWG5R4WKyA5Ug4INQ0Dg8UhnTXl9qmpC2kv8yLbp5Sv3655ruNIYiOG5WE+Ulvg4+bnZjp9c15lZTM7pnrnHH9a3Nd1S5sFktIZmVpCCSOMLjOP1NZcvQ25+pk+KJGk8R3bkHBYYyO2BWRSszMcsST6k0laoxeo7acdKcsbMMivVtG+GwupEMg3IeorpZfhRZxyA4IQjnmuedZROmGHcup4daI0UpLA4x9Kua/ibUg8ZYoYkI3denf34r1PVPh/aw6U0dsmblpV+bsBUkfw2hvbCEA/6WBg+mKhYiO5o8LL4TxIxsB0qM17LL8Ib2RHIBXHTjrXI6n8PNTtHZRCzYOMgVvGaepzypuLsf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Εμαθα - Single</tspan></p><p
+          ><tspan template-id="title">Yol - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Λούκας Γιώρκας</tspan></p><div
+          ><tspan template-id="artist">Hayrettin Taşkaya</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
