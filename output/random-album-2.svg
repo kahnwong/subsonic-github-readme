@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHk4VSQSCelSxKOcnBzjk022UNjj15q3uaNNqtgdhWqXU8uc0nYY/LL7VKp4xuGDSefzgg8LjO41ILnIOAQccHceKpN9jJxVtyIgjPJ/OmS5XJXOM9M5xVku8iYZiap3HD9B9aGrIcJXdgtgNgPqOa0Y7GOSVFVy2+383bvG4ttJwBjpkCs6yOITkj8auvcNvDRFlIiEWcjptwf61MuZpcprBwUnz+Q6KwjaO4lldSsQI4fb84ZRg5HTBJz7VMdMVZym6QDdkBgMlN4AP4qQ2emKpNeTAv85w+dwIBDZxnPHPQU4Xc7uGaRmPPJP09vYflUWqX3N+bD8uqLGyNY3ZUPEhj5kHoTnp7VWudpzxxU6uPs3lbSXMu8sfoR/WqtySB7VtG6TucdTlc1y/1qVLKTaSp5z1GKmZiF4GPSqcbFeM4/DpUomO1Qcn14qFKysazheV0aMdlJPGGA4PT3qQ2kkUe9sbfUVTjOewzU3UZwKpJ3vcxk1a1iVSOaqXROcg/hThIy5/wps77lYKSRnuMZpyldWCnBqV2f/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDLSLddQ56bx/Ou+i8OXfigfbLeYRyk7U3rkBe1cz4f0SXWb/7NDLFEVjaUvLnaAo9gevAr1z4dW7S+HrdsYdUG7PrQB5xe+BdR0GcSX0beTniaMZQ/4Vk6xNDHbmBOVbn1xX01KkMthJDcxiWLYdyFd2R9O9eT+MvhQ00R1DQMtuG82rnDAegz/I0Dt1PGuh55rcmkku/DMLyyJM0Fx5asR86qVyB7r6emKx5oZLadoZkKyIcMp4IPoa3NF0yG/sNRZrlIXijR0TOTIN3OB6igRo+Fr8aXr9pcOGMJby5gvUo3B/x/Cuv1fSdUuEifRZHjtY3dHWJdzoecED8s968/iBGCOo5r0r4e6sLdlhnkOyRiOTxnNAG14SsPEdmYvtt5PNbuQCLiPawJzwOeg45PrVLxZY+KbuRpYL2eK2B+VIYi4IyRzg9e/vXf6hqNnaXdj9qnWGKVsIWHBI96LDUrW4jnNtIJrcSMglXoG7igD558U+Hr+20uPVtREUU7v5YRU2s69mYdA1cxFI1tdJkgFT19RXovxUvjctEhlGxZcKo74BrzedhJNuCkAAZBoA2oTkVtaRcyWrvJsZoBjzCP4Sehrc0H4a30+2XWJhYw9fKTDyt/Rfxz9K6jVdLsINOTTrO2WG2jbO3qznpuY9zQA1tR1i+02ONfst9ZMAWSSAmTHoDnB+vWorrxHc6bpM8VxdWyxquIoYLYxn23Enj6D86w9O1e+8NXD28TB4TyFk6Vla/c3Oq+dd3LYwNsaIMAE+lK2tzRzvHlsvXqc/4h1WDU7r7VFG/lqAUV+Dz2x7YPPfNc8xLq8hwMnpU1258xYmJXyxt6VXkbcFAOcdeO9MzP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]</tspan></p><p
+          ><tspan template-id="title">Mediterasian</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Howard Shore</tspan></p><div
+          ><tspan template-id="artist">Filippo Dall'asta</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
