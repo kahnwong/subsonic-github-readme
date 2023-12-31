@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNaKKK9Y8UKKKKACiiigAqW1t3vLuG2ix5kziNdxwMk4Gaip0cjxSLIjFXU5BHY0AaLeHtXVlX+z5izYwAAevT9eKP+Ed1gYH9nzZJ2jp1zjHWmSa5qku3ffTnaoUYcjgDApx1/VWRlN9NtbkgORk+v17Z96n3i/cK6zaelhNBcBo7suMS7N2xBnPHr/hVKIkx/M245IJxjvWmZraTSbwuc385OWbnPzA5/n35rNTdsG85buaNeYLpw07jqKegjOd7FemMDOaeFgyP3jY4z8n09/r+XvVE2IaKkCxd3P8P8J79fy/WlKwYOJGz2+T2+v0oCxFRUu2DJ/eNxnHydeuO/0/P2priMH5GLdeox9KAsf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APe5WZcEOij/AG6jeVo0LNNAqqMsWOAB2PWs6+1vw8sLLe6tYCNuqvdKAf1rJl8Z+CUSSFtbs2XYFcJKW+UdBx6UXA6SWaYfJHJbmT+6Tg+tEMk21RJLAWOcYOc1wl38TPBNve/ao9TM0xGC8MLNgehNLp3jvwpe/Z47SS5METuyM1uyqjKPMb5mPHGfbmlcD0DE+BzHn6H/ABpyeZk7yuO2Aa8xl+N2gxgx29pqFyy/xlEQH/x6ql38dbS3jSSLRJpQxI2m4VSD+RpgeS2Nxot7Gba7sUsbl8CO+t8siEf34jng9yvPsapWGIry0aVBsJw2ADkHIqqssaREbWDY4NNimKqoHVTkUATyWggvpLSVlBDbd+flHofpW74fuTpltdIbfdO3+jEyrlVLEMwHuVVR+JqnfR/2o1hPaRGS4kXy2jiG5sg4HAroZ/DerGxRIAl09q3mXzW+GeCRgAEI7kKgP40MEztvD9hpT+I/s+nTpDeQWUgn2lSVYkbQUP3iMk85xxXB/FMrD4ggsBevdyQRFpGdUG0scgfKBzgA47Zr0i0uIPD/AIJudYhna4MMTPN58YR/MxgDcfU8Y69a8OlXV/EF9LeG3uby4kOZHhgZs4GP4R6CsoJ3uazatY9AtfgX4klb/SL3ToF/33c/oBW5b/AiOKLzL/X2AUZPk2/A/MmvaCSOgz+NMZA+d0atkc5NamR5/wCH/hhoGiyrdQ6leXEjRthtygFeN2ML6471r6d4X8LadcGeKMvPfN526aRi0hPcD8a6U20ewKsKp1Hy4GBnJ/OoxYx742MYPl8LnHy/TjigCNm0tYNr+QYoZNuHAIR/Tnoef1q2jwiQwIQGVQxUDGAe/wChqv8AYIsONgxIcuML8xxjnjmpobdYpGkAO5gAScc46dvegD//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pure Live @P3 (Reissued-2012)</tspan></p><p
+          ><tspan template-id="title">Hitman: Codename 47 (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nemesea</tspan></p><div
+          ><tspan template-id="artist">Jesper Kyd</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
