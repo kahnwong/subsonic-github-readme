@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACsAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ9I0yGfHnbRtjLqT0Jxxmr1lBAZCjICxOOFzTtLa1v7SKyhSQ3jqm0r0znnj2HpWpZaPfabrEFvfWzoJD8rn7rd8gjg10ylGMG+xyKMpzsSWGgQXEymW3DKWAGB0P+eah1Xw5HaksiK2SckDIH+etes2Gi2pIaHDbVyccAsfSodW0O3G7ehAK7umOa8iWPjGak9meksLzQ5FueI3tlGkWPLUHGBxWWlvEN5KgYXoee1dd4igW3lIA2g/dU9cVyt2u3zUBB46jpXrQqQnFNHBKnOnJxZN4c1VtE1izv1iEyRkF4m4Dr3Ga+mNO1bRL7w7LfWphuLKZMyxkbiD/dK9QecY4PPFfLEbJ5Ee48oOg71qaTrl3pU6T2lxLE4xyjYz7EdCPY1nOHNE0UnGVz6IsF/se3ieRW+xyyKE8+QEohOMEjqRkc+h5riPiL42udLvFsNPw7vFuNwedinpt7Zx/MVoXvxE0y58IRF7eO6O9W8suAU5+bjqeePxrgfEt1aap4uCrOn2SWNBuXJKIBwPy4/GvGpYS8+aey6eZ6FSq1tv3OLNxM80hid2ZjukkJz+ZNLPJtjIZizEcknk1patdWgkeO0hWKAH5VAwT9aw7hg+4lh9K9mnZQv1OCbcpeRCGIAOTnpVhS3lF9pHbNVAT8tPE8oBUSMFOMioTLaNKBrWCQ7JpCDjduTHQ5/pTriWF5QfPkBIxwueKynmkIOXPIFJHLIoJDEUAXWSdkWVlOOhPvVN8AEbefXNONxMcqZCVPUVAWPTPFNsSR/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIPDkZ8KR+Ipb+Ewi8W3ltgPnAOeQe/Tp6VdvvDFjJ4vi03S71Z7GYRbbr7qBnAwD/AHcE4weeDXcWHizw7Y+GVb7NFvuLhXjjjiTb8kexg49OQenJJNc3pWqrHfrexaalzIdrFI1JRRkgMVOfm75HQmtXRcVdsqMoydrGFB4YSUa6n2pnn00YijiiLmdg207SOw5OfSm2Phpo9W0iK/3iK+aN9sYy3lNzux+f5GvQF8cXmmPqAtDBbmRN0ayBUMJHQA4yckkjPTArnNHntIra3hliD+bIIizneF4LEjBzk8+mOlXGhd2cgbW9jAGieT4mWxm8k28shSOfJMTLu27wRyVHJok8Mq+garq0N7EyWF0IWiGSWVjhXB9D711uuato9utlBoCzB9zJcb35lOR3/u9MDjtxUGiQWc9jqQaSNZxIwjBkCjKjgt2PXFTKl7yV9ATXK9Dz0TDyfLKjIOQ2Ofp9KlgvprcoUYgopVcHHXk1V70tZXZJuf2ff6pHFdm5ikd13OWf5lG7GW9h/KpJItRt7S5zcRiKI+YCG3ByGGCD6nnHfrVbQNXtNIuZ5rzTUvlki2KrNjYc53f0qvqWoxXkdulvbi3WOPa6rgB2z97A74xRdjKZlfzfMViGHINSxXjRxyKVRi+csygnn3qv3o+tF2ISl7U3PrS5pDFpOtGaTNADuaM8c0g6daXPFAH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">EYE OF PROVIDENCE - Single</tspan></p><p
+          ><tspan template-id="title">細雪 - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">KAMIJO</tspan></p><div
+          ><tspan template-id="artist">和楽器バンド</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
