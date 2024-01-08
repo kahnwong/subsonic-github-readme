@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO3ooqE3UQtHui37pFZmPsuc/wAjX5Ik3sfWXJqKgt7uC63eTIGKhS3tuXcP0NU9a1ePRobSaYhYpbpIXY9gwPP5gVcaU5T5EtROSSv0NOijviioGVru9+yRs4trmUqCcRRbugrzyy8S3Q8ETW0+n3jzXEd5+9VPkUckc+nzfgBXpnHes9dMij0iayRAFkWTjPQtn/Gu7C4ilTjacb6p/df/ADMalOUndPozgfDniu5spLuS40q9nMq2iARJnBEW0k/XGR61j+L/ABPqOuWDWZsJYlS8WWMsuMKIxhT75JP0Ir1bTdMi09pWjUL5ixg/8BXFVtY0W2u7baluhd5w54xk4x/ICvQp4/DRxPtPZ9tb+SOeVCo6fLzHmmieNtZs9VSW6tLi6hMIR4lxuJA6j8TmvV9O1D+0LSOf7JdQbx9yaPaRTLPRrSxuPNhiQMFCggcjt1+laFcWPxVCvJOnCz7/APANqFKcF70rhRRVe6sobwASmUYGPkkZfzx1rz4pN6nQ79CdHWQZRgwzjKnNLjNZ8Gj28HIknLbs5ErD6DANTTWMczhzJKrAYyj4q3GnfSWnoSnK2qLVFRW8C28ZRSzZOSWOSalrN2voUj//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOh+JHiqa20u50y0IhmlJgEz8lecMRj2PFeWad4WtgpEsnm7lGSARwMcdfau3+IPiPTINQtLW5WdrlwzBYoEbgtyct0bgAHHbrTx4hvLu3i+xRyxO/8ArAUQgjA/XjtWbjLuac0V0MEeGLYshaEFlAxvFSXvhi1kjAES4HPFa76hcS3G673ySthSWUA+3SpZZWSQIIm5FUiG9TgNS0mXSXS4tW2yId6YH8Q6V7f4B8RL4p8ORXjRiK6jPlTxjoHHcex6/pXmus28zRtvRQP94Fh+FbHwQimifxBby5Cxzxsgz6qf6YpiOf8AEtt9v+KdyrqVFvbIkQZeox978yamutI1GTb9k1AW5BGCIN/Hp1rpfHMCW3jHTr5iEM8DxYJ+8RyAP896httWgRlAAAzzQAzSNOubUKl7eSXLv0LxhcfgOlX9ZsJJ4vs6zyQNLwJYcFl/MEVXuXttWmUS3dzCoGCLeTZuGc9R3qKKG3sp0mW+vZJVblZH+UjsCv8AXrQBif8ACN3VrMzT6teXAPA8yNOPyrt/h1YC3vtVmjJ8qQRL+K5/oRXP6hqsZQYIz6V2Hgl5F0MyGMKsshdG/vD1/SgC1448JWniDToXlkkiuLN/Ogkj6gjsfY9K8bt58yvCW/eqSpXPevW9T1nVr2Jkh8mBD1wNzfma8f8AEXhjVrCeS9spfNDNuIY85NADbmK+F55cd/JAoAJEajdn6mpWtLu3vo3m1O5Ziw8wSkEEVyk/iCW4C75mstQh+QlhlXHoabHrN406iW7+3TD/AFUcY43Hux9qAOtubkT3SWyOqNI+0Mx4XPc17FpbLZ6PBDCVKRxBVOeOB3NeN6L4Tvptt3qbfMxDbB6Z6V2l1ZldMlWyws4X5M9CR2P16UAf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Firewatch</tspan></p><p
+          ><tspan template-id="title">Ich bereue nichts - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Chris Remo</tspan></p><div
+          ><tspan template-id="artist">Silbermond</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
