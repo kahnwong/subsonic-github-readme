@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOkg02P7Nyv6Vzj+ELjV7jUZ44QVgViCccYUnP511EMrSIpjwVHYmjT9atdLadrtXBliYBUPBJz1/OuWjG7NKkrI8B1IRyqsbxBJ9pwydGxzjHasBlrcvpR/aKSMPlRxuHt/+rNRyafFHO245KvnC85FdrWhmjCaNhzjimZz1rZntYZH3B2yDgjAAqlcW8UcZcOST0B4rO4NHvNpqEkWlztkblU4IPftV+w1GKW+0/QpbSKQzRPdzyuTugIIWMDtyQ2c/hXKWtwk0aW+SolkC5z+Oa19Ze103xdbyx7/ALU1ukLqrcEE/L/X86zoLQKj1PHtcjaPVLqI5GyVl6e5rSiVZYYLgEfPCuT3D45/UGpvHGnmz8R6goBG5g+PqAaxIbtlslX/AJ5uR9M8/wCNdWwt0JdXEQYyODvUgYXHP6c/jWVPK08hdgBnoB2qWeYNuz1NV8jFZW1Gz2fTPA+t2sR1PXJLezs4hnyi+92PoAOMn0z60zXmQ2El3I+J3cMGzzx0x9KPE3jyy1Cz8hGaPLh5Gd92T0AX0GB2rir7xPHLCY/MaY429MDFY07tjkaXiU3ninxGZYUjjLwRmV3cKinaAeT71g6tp1npiNFFfpdTNjeUXCLjsO5+pxWRNfyzPuMjYAwBuPFVnmLDua6XJWJsMflqToMGjPOcUY9agD//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOzSDI5FOa3UDmrIXApGYcqpG7GcGgRhzbBOksjER7tsY8skNx1qxZA3G6QAqmcbGHKkVQv9YhtJlhluESU87WO48k4xg559qdpN7OZxHPLHvd32pyCw/H9PxpgazQVG0RFXxgpuIxxnFMkUbc0gJCabK6i3kB4JB+fONvvUqqrA5bFUdWWIaVcK0wiDps3tyBu+Xp+NAzh72xlunNxbRlrzIjUsAMZxzvI9j065qzZva/2nbmRGFzGxWN4wp5bgBsE/rjmsvSrBrO8m8vVTJsyrpIpZFfJA3c89B+H5VUTQ3ub+OyTUPOkuizDayhY1znewHPc9+OvNBVj1Y3cKxOMrujUbgpyRSFtyA+tUobWOK882O4QRyLtKELksOByOp471eYADg55IoIKupOy24ZZfLIYENjOK5LUdQ1CaUBJYPLztl80lQp9RWz4mu1ttJeZi2EIOF+orn7WS01fSbi4eMtAwG6Nv7wzx/KgaOD1maSS7ackAy8sY8hTzx9cir3hqwupZTe20phMfAdlyGPcfy5q5reqQwXT2psI5B5aq6yE7enGACOg4zR4c1RftK2yxRQQKhL/vCo92OSfyGKRd9DqdP1S2uY4rvzTJGkhwrAAK3T/P1rpbG7kuY2eSIxjPy57iuG1G80QRzQ7BMmFkcQng89Tg810+g3n2nT2O3YqSFUGc5UdKohn/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Open Door (European Edition)</tspan></p><p
+          ><tspan template-id="title">Living Things (Acapellas And Instrumentals)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Evanescence</tspan></p><div
+          ><tspan template-id="artist">Linkin Park</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
