@@ -1,4 +1,14 @@
-<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  width="540"
+  height="64"
+  viewBox="0 0 540 64"
+  data-reactroot=""
+><foreignObject width="540" height="64"><div
+      xmlns="http://www.w3.org/1999/xhtml"
+    ><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -25,7 +35,7 @@
             }
 
             img:not([src]) {
-              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
+              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -39,18 +49,6 @@
               opacity: 0;
             }
 
-            .progress-bar {
-              position: relative;
-              width: 100%;
-              max-width: 360px;
-              height: 4px;
-              margin: -1px;
-              border: 1px solid #e1e4e8;
-              border-radius: 4px;
-              overflow: hidden;
-              padding: 2px;
-              z-index: 0;
-            }
 
             #progress {
               position: absolute;
@@ -60,11 +58,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress undefinedms linear;
-              animation-delay: -0ms;
+              animation: progress 273333ms linear;
+              animation-delay: -1321ms;
             }
 
-            .progress-bar,
+
             #track,
             #artist,
             #cover {
@@ -78,10 +76,7 @@
             #artist {
               animation-delay: 500ms;
             }
-            .progress-bar {
-              animation-delay: 550ms;
-              margin-top: 4px;
-            }
+
 
             #cover {
               animation-name: cover-appear;
@@ -123,4 +118,29 @@
                 transform: scaleX(1)
               }
             }
-        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
+        </style>
+
+        <div
+        class="disabled"
+        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
+      ><p
+          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+        >▶</p><img
+          id="cover"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOo0yG2e3R5TEzMBtBkAdeeOOnatT7LGrq6uiIDuwzHA98f57VnWkxiKiOWMxbgzMEGc4xz/AI1tQSl0ZTJvAPJIwDXM4VudtPQLxsYeszXYvbK1tb2K0F0WZ7gqGZcYAAzwM560kQl/tJoJ7r7RJEgInTChgDghh0JBqr4uLWLWF1ugRpC9uCyDCZw2QDxnAIz9Kk0C5j1O8uZm8mQ28YiV41wJGbnJxwTgDp3qm5e0t0N1GHsb9TUmiSXeUSOOYDKttJ/DFZTxXKMDJIGDcnYePy961ryEgIvlSBzxsTkc98+tZ0ytb5XyyvGdoH+cVucxYt7VViO/5W9RzXLeKfGU/h+dNP0x4vtTAvLI6bvLU/dAHTJ5P5V0kM/nRh3IVs9jnNeG+KdRa98U390r7kacop9VUbQcfhWtJJu7JlsdbpH2/wAQ3ktxql6Li381Y5RONxII7HooBx0HerGr3V/o9zBc6dJ9mgR2hi8tcBgMEhgeDzVTwlf28Ok3SSoJGkcPsIzkYAwPrU/i7U7SewgSFgZElZiCpU4A9/qB+FX7OPtuYfO/Zcp03hfxpNq000F08cc8ShsAnDjoTjtzj863XmRpi8oMgYfw81414Kv2g8W2rbuJWeA4P94Y/nivUY7+KNpFSF2IbAfOAexPPYHioqxSloKDbWphPqObS4QEb/LbafQ4rzvw7pz6pJfwRBGf7AxQMQOdy9CeAeMe+a2ItTBYMce+O9ca8k1rJOkZ24YoRjOQDkdfoKiLdmkU1qeleFdI1K3sZFVRjdwRcxkNgkdj1GGH1o8T6FqVz5KLAFcsYwWuYwT6Dk46A/ka4vS9dhtbYCUXHnBs5jSPHXPfvTtX16K6ify2uJJM5DSRpjnr7/jWV63Nv+D/AMx2jYl1XT59G1eyjB8qU29vKQGBKv0zkHGeK9GuL13dmd1ye47/AIV5HaztcX9u0jblV1wCOMDntXUPqjOc7jz71rNuyT3Jij//2Q=="
+          width="48"
+          height="48"
+        /><div
+          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
+        ><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+            id="track"
+          ><tspan template-id="title">Som jag hade dig förut</tspan></p><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
+            id="artist"
+          ><tspan template-id="artist">Arvingarna</tspan></p><div
+            class="a"
+          /></div></div></div></foreignObject>
+
+
+      </svg>
