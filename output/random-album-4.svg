@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOWSyyelaSaL8isssBDBT9/kE9sVaitx6VaS2G3pXoHEZo0V1jdw8R2ruYK2TinHRWJOJYCvTPmAZqybuK2uxuVGjTIIJ+8w5xj0/rT4is13NEFwq8A49OvNZqrFuyZ0PC1Yx52tLXKEmikQlg8T7FLMFbkYzn6//XrPe0AP3a6Z7YbelVZbYY6Voc5sX0ENtMWjK7Dz6YFZFz4hsLO4ji3iQk/OUOdn+NZet62J5Yree3dkdRIqsDk5OB368H8x3rDjmjmvWE1tI1xErM6uc+Y5IxkY4HP44rklWltE6VRi9ZHUad4g02VWtmtWiBy2Dh9+Tz9Sa6C0WCeLdbEbB8mwcBCO2Oxrz20htYNWtrSdAJVkLzNnOOBgfTPeuisGtIr5o/teySO2be0Q2bnzxwB83PH4DpUqtyuzRcqTmm77nSNAccVA9sWz0GKwH1u7iXTUP7y5k8ohCwDMrjO3j0IB9cGrlprRutXFvKsaSlDJsXnYAxUEnpkj+daPERSuY+wfc5+/nksPFFjqiWsdy8QV9kxO3O4KpI9iRkcdqpT2f2u6a7uppPt88xa4SH+OLq3A7g81sX1k8oZJgCoJ4YAjPGM8fpU1tdy6YpltrVJblotpZeT25Hp0FeWqrskbpmfpGhPZ3H/CQFjHBBGTGbpdu8j268j+uKb4hv4BqYvEk862uMZ8psFEwcY9AW5/Cte41+4v9LuodQikIlXbsSMlsehP+etc9c6ddaxcDaiWlsMAFv4sAAfL1NNKLnzyex0qvak6a6jVv5przTp4I4RHapEnzyAA7Vbk56dqng1YQa5c6kWikmcmN0BLhRgAAYzkccfWrdp4Ts4dhkje4b3kABP0reitFkV44o1QLjaqLj8f0pSqQ6GB/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APOTdp2gWmm79IVpgj9qXyqAHxOZiQUVcDPAqUxUtnF87fSrnlUDIYNPjlVTI8qtuDMqRFsQ4O6QH2x0qrc2jQSY2uEb5o2ddpZexx71rI6x28qGNzI4CrIJCNqZ+ZcdCDUF2RPOzorJF0jjZy+xey5PYUBY73VPhnYQ2Mkul61Nd3SKWW3NqT5mOwK9Pxrzry+cEEEcEHtXv+lXmoa89xGnkadFayGGd7eZZpZGHXyz0RfQkbvYda5H4n+GtN022sL+yhWCWSQwyKpP7zC5DHPVuOT3zzUp3G0eb2Uf7x/pVsx0yyT94/0FXSlMEUylMMdXClMKUAdp8K9Nlt/ElzOmiXWnRJaGGUtbNAjNuXGdzHe3BORwOeean+LN75uqafYBuIYWmYe7nA/Rf1qdfjho7g/8SbVBj+95Y/L5q868ReNbbX9futS+x3sSSFVjR1BKooAAOO/U/jSjGwm7kliv7yT/AHRVzbWAviawtIvMMNwxY7SoUZH/ANatLSdbs9Y8xbfekicmOQANj1HtQCZcKZqMpWjHFblB5krq3cBM1FNHGGPlMzL6sMGgZ//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Hunnu Guren - Single</tspan></p><p
+          ><tspan template-id="title">GALLERY</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Batzorig Vaanchig</tspan></p><div
+          ><tspan template-id="artist">A R I Z O N A</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
