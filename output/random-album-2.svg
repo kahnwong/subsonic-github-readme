@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDWPPNNJpSCc0KjOwVQSTwAO9WMTNGasx2U0koiRS75xheeaWbT7mByjxsrDqCOar2crXsK6K2TQDTzBJx8p56cUmxh2qbNDLCQxZ+aUVu2Fgvl3EgVN0cW4HOM5IHA+ma50TlSCy7sdjWtpusWlrPvmtWkUrhl8zH9K66M4J6mc1J7HqHw48Prfys0cRTPytLtB2E9D9MZqPxZ4YumvdqbEWGUooyC0g9ePyrG8L+N76DVLeGGBUtTIMtEPmYehI5pdU8ZTXGqz3Fw0kcCykrEeC3oB3rqUru/Qwsc7q2hm1uJ4Xcr5cgAHPX0/Wsg6fLC58sBuSBuwB/OptU12e8nkZ5Ad7l2QD5R6Cso3khYHjIOeea5p1Kd9dzaMZFc0lKasRXUccSxvaQOQxJdlJY5xwecYH9a4zUhjlkibdG7I3qrEH9KGmkZtzMxb+8SSasm8gLhvsVuByMBTg8/WlN5AxY/YbdcnjCnj/x6j5gUvrRU1zPHMV8u2ihCjB8vPze5yTUIpAf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/API4oI5bcOzEMGwQMdPXrSyWqRth5Cq5HzAA/wBapRtj73NTEjYTxWiYhJ4rcYFtPJMxPRotvGPr61dn8N61a2a3kun3CwFd+/yzwPWtHwLpMuq+IoVjKrsO/LDPT+nSvWbXwzNoDX95rF3dXMLspgijuGI5PJ2ngD68foaylNRLUG9T5+6807cAmBXVePtIs9P1eK705gbS8VnCgAbGB5GB9Qa5PGaad1dEtW0HqDilZjjFSBQB8pBx1xUchyOBVCPR/A+n6pbrp95o8UMl88cxEc5IRxkcZ7nHOK9buW168tdPZbPT2mViLrErYC5wduRyPr3rznwjqUSeEYLkMVk02ZbhhjDCLGwn3HU/hXounXJlxJG2VkBkkkWVmQAnPyjcRyfQVyze6Z0RWmh5F8T9PWz1CytktvJlkt/MMZA4O45I5IHTHHWvOSCpII5rs/iNr0us+Nrx8bYrXbbQjvtUdT7kkmuUlQsu8rwe9dEIpRVjCTuysZDXQeEPDcninW108TeShUs8m3dtA9vriuc6mui8J+JL/wAMaytxZRrP5n7uS2cHEgz045B9xVagvM9rGj6bpTNYR2F4s32dbZrl4yIXwQTtJ69Mnt1wTTrkWHhvQ7t7aFLVGBdmhjCknnH1wMn/APXVbw/YPJPJqmov9o1Kdi00hJITn7i+w6Y6cVyvxF8UJdTPpFm4Oz/XspyFH93/AHicZ9AAO5rDkcpWRpzWR5jqF011qEk7DAfgA+gqEzuYhHuO0dBmnXCbsAHJAqt3rfbQyP/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Silent Force (Japanese Edition)</tspan></p><p
+          ><tspan template-id="title">In the Silence</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Within Temptation</tspan></p><div
+          ><tspan template-id="artist">Greta Salóme</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
