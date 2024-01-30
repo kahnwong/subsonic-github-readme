@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNr/wAMyIxbyHbvkHGaxl05AzmWCRUA4G/kn06V9AaXY2uoOysUJKHBz7CqGufD7fLbGHYY0AYKoBJJ6/WnzWdmRDVHhLwhQSkDx+h38fypHt0YZ+zv1ySX7flXp91olpqN0IZLZon3gvGjfdGSPQ9Rgjv19qrX2nWOlQW8UpQX883lwB/u7MhQTkYxnIOaZR5lKkMR/wBQ/t+8/wDrVFIYSp2RMpzwS+f6V0XirSDpmo3EGAFWRgPzrn2iKsRx19aLCuer+Edd8m7AaQ4CnnOMcV6rpF+l5Yi5L5Kr5Zwex6H8sivnzQYknuo4nv4LZpQwBkJ4wO+B36Cun8JeKF024BmnmMBB3GNd5wP9nIzRUhfVE0/dO68WyPpGnXep27pBdSKIxIEDE8fwg8A4A5/rXkfiK6GsW0F8vyypaJFKAesinDE/UYP41q+KPFlxqF9c3cE1ykYiCxLuzGvzAAoeCCR+PWq/guwj1W9vnvLtI7QQPc3Xn8BgCPun+9zTiordlSv0QzxutvKmnSWjB43soCxH97YA36j9a4+ZcSNnrmu21W182zjJiljt8FLZ3xudR0yo+7XI6pCYLyVSOjU0S2QLDNPcII03v/zz74H/AOqt+wglhtw80bRbC7E5AGBknv2wfyrmIbloZ/OePfwVIbowIIOfwNXf+Ein8uRShJdSoYyH5eCOBjtmlzFWNe50wy3RaJT9nkG5gkgODt3dOwxk1Dp+n3H2mBnic2527trBtxxnAwe9Zx8QybhIsJSfYI/NWVg230/Pn60p8SXPnidUVZlXYHBx8vXGMYxnnpSuM39V1K5nMhtrF4lUBi7NuIHb6dD+Vc/qFzcSTEXiFZsAnjGQehqI61MWBjiRJPlAfccjAIHXpwx/Om3kF1PO8726xjb91JAQAB25NCdgauf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AK0aZxWxbaFf3EZkjgO0dycZrKgfa6k9jXd6YJ7myXyZwgHOa2qzcFc3SuYA8PXW35nhDf3d3/1qrPpkykj5T+NauoZhLf6ZcXE464k7/QCuavNSvVco5lUdMOeT+grn+sM2VK4ssRQkEc1WdKsRyNKmWNRuK6oyurmUlZ2CNeK6XTptUltDDp8cW4rgPIMhfeudj6VrWOoywAxodoI2/KMn+dRiI80NC6T94dcw3OiAPd3SteyNnZH/AAj1Nc3qsks959oZ5HTjG4Y/CuuktG1GZGILMcKCxGT/AErQm8EpKiyXFy8akBdsRB4xzz6V5kFKTskd86kKavJ6nF2vNvk9fSkkrY1HR4tMVVt3kdDknfgkVkSV60FaKR5zkpO6HR9KvWED3N2iISD1JFZ6HoBXc+D9MkXM7xgZ5y36VZjUnyK5u6fpkNrbo0oBfb1PJH0q3cDMZYDjG1VxgY/GrDpIrYUo7dD0wKq3SyfMZHBKjseBWLaSujlk5Tkr3ZxmsP5lzIuAeMZ6YrlbhSjkflXQ3h3zSEg5JJ5rBviPMwKIN3PRio8isf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Dishonored 2 (Deluxe Original Game Soundtrack)</tspan></p><p
+          ><tspan template-id="title">Acı - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Daniel Licht</tspan></p><div
+          ><tspan template-id="artist">Sıla</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
