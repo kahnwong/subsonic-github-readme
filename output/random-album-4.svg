@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHdWtLWHwxoFxDbxx3E6T+fIs25pCsmF3L/AAYGB7jmsKug1lU/4Rfw4y+buMM4YsAF4mP3cdRz35z7Yrn6BBXpdt/x6w/9c1/kK80r0u2/49Yf+ua/yFd2C3ZjW2RLRRRXcYHG6xGqeF/DriVWLxXBKCIqU/enq38X4dOlSrJ4dMdqWAVk2NMPLb58A5H54qDVpUfw14fRXy8cU4Zd+7bmZiOP4evT8e9YdeLGXL0O1q51ED+GDIkU52wmSMNIsTlwm75z9cZxXS6nGq6vONHlL6VkfZi/DbMcZyM5H9K8yr0u2/49Yf8Armv8hXXhlzt9PQyqOyI7UXQLm5I5A2gEcdc9PwqzRRXdFWVjBu5xOqaRBZeHdD1CNbkTXyTNL5gGzKSbRsxz0xnPesWtjUp4pPD+ixJNC7xJNvRBh0zISN3rkcj2rHrxDsCvS7b/AI9Yf+ua/wAhXmlel23/AB6w/wDXNf5Cu7BbsxrbIloooruMD//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNCflqnqEmy1EeeWOask9Ky79y1zjsoxQI1fCunf2h4o0e2I3B7hWdfYfMf5V9L2PjeyOpR6etrJIWYp5lrIkwUjruAwRjvjOK+ZPC2qf2N4r0vUcnEM6k/QnB/Qmvrax0rTsm8t4tvmZkKg/Lk8kgdsnn680mUixq2r2+k6c15NHNKg/hhTcx/z6mvnb4wX+m6xLp+pWVrBHMzMszpMjyHgYDheh/P619Hz28c0SROOMcY7V4r8cbHTtL0GzS3hH2m4uRvkbliqqcDPoOmKAPJkDuQEXPp798VQ1GPZcD1IHTvWjpVzPIVgiCkCUOGYkBDgjdx6AfrVuWW5UrIY7R7mElnMiHKLtGME/7OTj/a6ZWmSctyD1II7+lfVXw98Wx614Jiuo4zNc26eVcQIRuDge/qORXzM+sySbv3KKGIPBOQMENz/tZy3rgV3/wRN1F4jupIZGWHylSUA8HJ4yP89aTKR71Z6zNdXEcZ0y4jTbzI8qEL+AJNeC/G7XhqPieHTogfLs0yzH+Jm9PYAV9HEPJFtkKgHrjvXhPxm8IyT6hHq+nwyTOE2TxxIW2qOjcfjQB45bwzXVzFbwIzzSsERV6kk8CvUbz4Wx6L4P1DVL25aa7itGbavCxsccj1xyOfWuK8CTRweOdHklAKfaAOfUggV9CeMZ4J/CmqWJguHaW1bAhhL5H4cD8aGCPlxUaSRURcsxAAHc17f8KdDNhibzCGkVjOnY7HI4rxmy3RXkM+2QRhs7wvO3PJBwemetfUPhnSba1s4mVVVPLVERM4CjnqeSSTkk9aGCOsMhfGTwKc0kaoVVAc9feoOnams5PQcUgP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Black &amp; Blue</tspan></p><p
+          ><tspan template-id="title">Nolwenn Leroy</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Backstreet Boys</tspan></p><div
+          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
