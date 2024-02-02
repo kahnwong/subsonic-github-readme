@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdaTIHekZgO9ZepTyxRGaEFnTkoP4h6fWgDSM8S9XFRm9gH8Yryjxz4ql0M215HIWs7tSUb0YdVPvXH23xO3ygNKQPrQB9DreRMcBhmpwQRkV4P4e+I41HUxHv4LcZNe16XdC5tVcHORQBDrF3FBAd0yo3u2K87vviJFot4E1IF7QnBmj5K++O9dR43043envsWRmI6LXzXrHhnXft0ix2F4Y2PG4HB/CgD1H4o2drqngZ9X0S5hvNPkkWaRUYHy36eYvp6Mv4+teC16Jo/wl8eX1hIbe3FpbzD5o57jyxJ9V71x2v+HtU8Mao+m6vatb3KgNgkEMp6MpHBFAEnhlJX123WN9nzfM3oK+tPC7j+zolUkgKOTXyj4Rt5LjXoQgJx1r6u8LwNFYR7h2oA6B0DjB6VDHY2sUnmLAm/+8Rk1YooAK8b+O3h2XWW0Ga0jzOplic4/gO0j9c/nXslUr3Tor6SNpVDbBxmgDxn4f8Aw/axZZp0+c8kkV7XaW4t4VUDoKWC1igXCKBU9AH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEUurJI4/MgEjYG/bkfrn/OK0Uh09GO8QhWQAh9wIPB456nPJ7CsyPSZXj3s6IpJA3Z5rf0nwFqWsOixzxqueGfNS2hpNlK4W0IRorhIwc7hkMAAB+PJzWLOAJ3G5XwcZU8H6V6bd/Bqe1tvMOoKW46KSPfsKsWnwhifTGuG1SQSKCdqxUudIrlbPJcYbGKZXUa3ofh/R75bb+2p7pwQJRBAD5fryWAJ9q2m8GeErrTra40zxdJPJIxV45LMqyY9s/1quZbk8rvYWztba52tLj5ecZ6+1d74e1OO3aJoIYxEMhj3yK8utbgGdWQNhSOPWuottReNM7gnHJNYSuVGR6jd6wl1AYUdVmfgZ7D1+lRTu1v4ZvWe9hgYQOPMY45AxuwOvJB49a82u/EFnaRhpJ2LdcRnLGue1DxdJfu0STTxxsu1Szgn7wJPsSFX1qHGUjVSS3Ni4+Fw1XwQ3iXSbpUubVCt9YyOrbZEJV2DZ4yV3BT/ewK8800z/adkIJPXArq7bUoZ7eay0u/h0T7Tam2v/tRcxXShi3mZw2G5xjH05NclkW124tp/MRWIEm3ZuHrg9K6VcxY+LUZY2JBQfhVoajP5Py3CgHkrismTls1IskaoN0Ids5yWPT0p2JJXBuCSZPmz6UR2jseDlfWoknCH5UI9fmzVo6ggIZLdAMEFcnB96AJyhVRllyOmBzUT5Ckkrj2XrVY3WUICkE/xbjxUBc+posM/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">A Thousand Suns</tspan></p><p
+          ><tspan template-id="title">Embrace the Storm</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Linkin Park</tspan></p><div
+          ><tspan template-id="artist">Stream of Passion</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
