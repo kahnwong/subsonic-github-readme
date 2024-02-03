@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOvW3PYUTJ5EJkZcgEDrjqcdTWulv7VI9pHLH5cgyDg4BweOeMViaxtfU5tN7l/mkAXeCdo6r1FMiuQ2BvYYyxYlOQO319utXXbTJNZl0uC4j+2BSxhDOGzjLZPQ5H+eK100jzESGRVMK5wgJwOenHX8aWpvaiQ21v5sCShAA4yAGDcfUVN9lOelbEFokMKxqDtUcbmJP5mlMAz0ouYO19BkdofQ1wd5rmqx+I4rNrO3a5imESqu4BiehznpyK9XEYx0ryXWPP8A+FqfZbU5lklRgQ23ooJH6YoSvuC3sQ3Go3Gm/FrykCJDcSxxTL5YO8FQM56jrmt7xL4sfRfEUVgNP850CNG3m4D7+Dke3auJ8XyTP8RpFlUI0kqFM84AGFx78Aj6iut19ri98b6XDtXAjtgWaNS+7eGOSR707Dt7t/U6XXdZXR7/AE62YyD7RMA5WLeAucDJ7ZJ/Q1tNEwJ4rI8V20089qsIHJBJzjJB+X+ZrdsIp1s0S4BEikg5Oc80WZN9CxJKkUTSOwVFGWJ7CvLfDNvJq/xIn1R0Jit/MfzD0ychf5/pWy3iEXcJimMbI3BXnBrF164v/wCyRZ6FsgEjEy+W20nj1NNEmCNQg1b4t/btpa3gn8wEc5CDA/kK6gp9t1VNRmEib7kSYVucA1zPhTR5NIu7qW/WNndAq/PkHnJPBrrvt9umxykeE4UAcfzoZrSnyO51DSy3mrpmPEUf8R74POPxrZMyiuNh10SKCCoqR9al2EK0fHTJouzPQ//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJLe1zjir01u1vZTTIm5kQkCrtlbZxxW1HAkcRd8BVGTnpWljG554b25KjN1gj+FVANJ9umX/lu7ezKK9l0vw3bHQw6WVs0sqk+aIwSM9SK5q/8AM6NJG4cgdxzWMalzplS5ThbW/W4fypgFY/dYdD7U+eDaTxVTUtPlsLl4nUgqcVrFTJaRSN95kBP5VqncwkrHTWKDArotPs7S8Lw3kqJEyEbWON/HSucsX4Fac4EllICSMDcCDgjFOSbVkKDSkmztfBNnFaaSkaOzJjIVj0rWvLJVigWP5yzHcOAQO361weleM9P0yNUkl3SdMJyD9P8K17j4iaFpqi6uf31yE/dxRDdIB7nov41x2kehzROC+IGjTW+vLDjcJGC7h3JrMvI1iURqPlUAD8Ks6348k17WIJ5rSK1tInycZd8Y7n/AAFV9QcHkHIIyK6qadtTiqNOWhYs7jpW/byptBLH/IriLW8MbAg81rwaq4PVR6nFVczsdNc2kV9ZzWqkI0qkK20cHr/SvOriyaBpvNjlV0I3R7hlSQTye/Tt610V34iNjbNLuR5CMIpz8x5/xrj579rkt5wjfcQed3ynn39zSbKiiy8ULPAmZDHIyruXGGyOo9MHseaS31ESx+Q2RsGEJPJHofeqbXjAqQsakOHLKp+Zh0J/+t61S3FWBB5HINK5Vrn/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Electric Air</tspan></p><p
+          ><tspan template-id="title">The Best (English Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Eklipse</tspan></p><div
+          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
