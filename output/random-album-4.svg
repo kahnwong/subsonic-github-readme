@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOM8SahEPF9q328iCAICEc4jfcc5x+Ga6b/hKtGz/wAfsWPZW/wryi+R1uWcscyMzkHqDuII/Sp7SG5kI2A49x97B6CkM9PPi7RV/wCXyP8A75b/AAroNJvbDUtPS6jMbq5ONxIOAcV4w9tchwGhwxXKggcn0r0Dwdvj0SMSNtC53Z4xyaAOsVI0R3ljgbA+6shPOe3HTpUKSreF4EtkgMSeYriTKyKMcD0Ydx+VclqGtay2l6nLaJbAwzBYnQlzs5zx3PTnpz7Vo+G5NQl0uS7uV+Z7IFvLARi/TDg9T7j/ABqWxnn0kAu0F9NEgE5chQOB83P86vHyrDT0ikZ0jWUSo4G45I5H6VflsmtPC+k3YIYTJKVXHTNS39hFN4bt5THudowqs2cD5flP5mjqBgS6wlzeRhECDp82MZ7E+9ak/iKCKB9Pkg8xSBvCytj6e+aqavp1lFp8RWLyitztchcZU5HX8Aaz4YVvfsoMc0828mVIk52DaB0HGcfrVWDU37G7juZPtNoY0x+7aNdwKpkEZzwa6C2ik0/w9LfSsvlssl2WHzEDoOMY46iqWi+C4tT8TXNtbRXdtAsSzR/vNuwMB97IPPNdxN4PnbwMEe6jVUtzFJuUnK7gDnp65qbBczYPAV9caVY2V6kqR2rFlERAxnPH610Nl4amsrSK1iim8qJdqh2ycfWu2/hpKu1ibnF3vhWLUlRb3TknCAhd6j5c9cUzTvB8OkTNNp1k1tIw2s0TkZHp16V3BptMVznYLK/geR0SQPIQXcEZYgYGT9AKv/2ffDSgkcUjEp9zI5zz1z7Vp1qQf8esf+6KTBH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFUUk8GtJNJu5UXamVxuYDqoxnke+OPWm6SI3nVZCMZxzXrfhLwpBrNyqyy7I3TO5j29P5VwYjE+yaTRvolc8nm0m5t/MxsJVSwUH72Bk7c9cDrUsmmzi9ktowuEwCXYcHA6+meSM9q7bxt4avNLnBt5VMO8hdmeCOc5rz2We/tixMsi733sc/eIPU+tPD14V480RXRZudMeJRvJBYZX3GM9OvAIz6VlypsbG4N7ipPttwAuJWUhdm4Hkr6GrEd5DJbG3uY+B911GCtb2cfMNGVLeZoJd6/eA4rtfD3jK40yNgQ28r8uDwK4hSEYEGrcVxGqdOffmsq9KNRWkrkno7eJU1az+zysJJiuSJM9fX61y2r6bLKWaPBGMlV4AqlY3m1965OAMAjOK1ZZ2mjZo2KuVJPzYBwP1rhp0Fh5+5oh6M450aMlGUg55plX70iWXIGPcd6qpEzgkYOOozXqRlpdhYa0TqxUqcikABOOvpTsurcnGR19qleHaRtViSOfrTv3ESxPMs3BOG/KttdR+w/PGFk3RtGVdf7wxnj0zWCMH+Ig5xzWnawNLGDkZHWuaolo2UtdjOuSCQ68A9RVQkg8cVt3tp5ce1mGV5ArHfKkqQM/StaUlJCkrM//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Runaway / My Girlfriend - Single</tspan></p><p
+          ><tspan template-id="title">Amahiru</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">東方神起</tspan></p><div
+          ><tspan template-id="artist">Amahiru</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
