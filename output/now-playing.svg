@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  width="540"
-  height="64"
-  viewBox="0 0 540 64"
-  data-reactroot=""
-><foreignObject width="540" height="64"><div
-      xmlns="http://www.w3.org/1999/xhtml"
-    ><style>
+<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -35,7 +25,7 @@
             }
 
             img:not([src]) {
-              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -49,6 +39,18 @@
               opacity: 0;
             }
 
+            .progress-bar {
+              position: relative;
+              width: 100%;
+              max-width: 360px;
+              height: 4px;
+              margin: -1px;
+              border: 1px solid #e1e4e8;
+              border-radius: 4px;
+              overflow: hidden;
+              padding: 2px;
+              z-index: 0;
+            }
 
             #progress {
               position: absolute;
@@ -58,11 +60,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress 273333ms linear;
-              animation-delay: -1321ms;
+              animation: progress undefinedms linear;
+              animation-delay: -0ms;
             }
 
-
+            .progress-bar,
             #track,
             #artist,
             #cover {
@@ -76,7 +78,10 @@
             #artist {
               animation-delay: 500ms;
             }
-
+            .progress-bar {
+              animation-delay: 550ms;
+              margin-top: 4px;
+            }
 
             #cover {
               animation-name: cover-appear;
@@ -118,29 +123,4 @@
                 transform: scaleX(1)
               }
             }
-        </style>
-
-        <div
-        class="disabled"
-        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
-      ><p
-          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-        >▶</p><img
-          id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFLaEScnpmtGK2iITeW2A4bb1/Cq1iuYyPerlmyzOBK5RG7gZx6HHesraFwlaR63pumvZ6Lp02nSJPJPZISs8YLwFt2xiOjAgYHuOcZqPWdKvb3RL1fKWW7W0+Vwnll3KrnjouNxyPUY71WsvEtnNZNDBczNKlvHaRfaYgAsaIQz5Uk5Ofwzx0xVe98XxfaZJLmJUQeVJlFYb8MD8oPJyUHXoM56DPK8Fh3U52tTqWMxMFpJnlUduvl5PfgVHcwiNMgcZxV6dgGeQMDlixAXAGeeKivk/cjHrXUzkSJLe1mTT2nABQgjg856D/PpVzbGkEWYxvIAOzgDHpTQZZbEwZPyjPOeR6fh/U1ZjtQEU55Cfd7nNFmRGSO58AadFcabe3Ek3lss8YA2A9ie9QfEPTkh0mznE/msbtgfkUdUBJ49cCqGhXVzaWsiQONrvuxszz0qprd3eXsaxXDApHJvxtwQcY/lXmfVan1v23Npf8ASx6k/Zuhe+pyrR5R1Pp/OkeJpdPEg5AA+vcVom3xu3DGU/lUccRjtBEw5OT9BnivRlocEdTQR7WJRGhAlkQYaRhwwzuGOmCcYzzxSrPbt5GxgEII4OcEfr+Fc6s0aPHuO/GGO7s3pmrySxvMzeZ3yN0hJXv3FJuSdzKMVex3Wj2waVEUoueSZG2gelR6zZGO6Kho3B6lWz9c+hrCttXgEEirJCTkkEkhumCDwePxqo+omQxiS5tiqOSREzDdn6j2rK1TmvbQ7nKHLa5cubXYDzjkE57daqTzWyKimVRIow2f4TVSbVMukSSY3kNvdvlUZ9OpqF9uJpIhGUfJUyN82B1/wrS7e6ONu2zP/9k="
-          width="48"
-          height="48"
-        /><div
-          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
-        ><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-            id="track"
-          ><tspan template-id="title">Where Fire Dwells</tspan></p><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
-            id="artist"
-          ><tspan template-id="artist">Dialith</tspan></p><div
-            class="a"
-          /></div></div></div></foreignObject>
-
-
-      </svg>
+        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
