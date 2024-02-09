@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6CcDJormfHpvR4UufsTlXJAcr12n/AOvimld2E3ZEt/458OadM8VxqkIkTqFy34ZHFP0fxloWuXHkWN6ry9kYYJ+lfJniCLV7S+kjuLedWXkkgnj1+lQeHtfu9N1KG4jlZWRwQQa6vqy6Mjmkt0fas0higkkCliilto74HSudsta1aXUbeCe1j2yhGYJE42qyk53HjK8AjvmtHw7qo1rQLPUON00YLAf3uhrSY4Ax6iuKUXfex0U5xSaavcdWbrzBdDumYAqE5/OtFmVFLMQAO5rzn4i/EK20PRriKFFlZvlIZsbgeoH+NaRi29CI7nml8lnqOoI5Eck6yFDIpywGemfxPFeZyT2un+JbqJEBtUuGVR6AGtbVfFdzNY/aLOOK23noDlhn07VxisWdmYksckk9zW8KzhO6N8TytJI+0/h8sS+D7QwnMTZZPocV0zAkDGOoPNcN8K9atL3wRp0KSASRx7SCepzXd1hPWTZzLRHmV74tv9U8PSXlnazzQom4yKhC4+p4r5/8Ra/f+ILsBbRyyNvUbd3T1FfS9x4Lkm04WL38kluoCCHkLs9MVjWvw6t9IdBZxA55ZyvIq+e2w3PTRHy7GuIj5ylh2UNt2nP0qdRHfXcFvbWuxioRVMnVsnPOO+a+lrr4XaVqFwZLywRjsxlQRnBzzjirtv4G0xbyCZdKjhkt1wriIZ9ucfWsrDda6tY5HwT4C8TaPon2wMqE8rbbyWx61r3Hi7xRo7YhsLicgZMbRllYf59K9Cj0+3WQOYXEvc4+9VgmaJmSOBME54U9feqTfXUbqJrY/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+il2N/dP5UuxsZ2nA9qAG0U/YxHCn8qlgtJJsEA4PT1P0oAZBbyXDERoW2jJwOg96cLVi23coPucD862BFFFpq43iMYMi/wB5qkNpH9nEzWxCDltrksB369alO42rFzQvCfiLXtJW60+zgktTIYwzTqhLLgngn6VoH4eeLFIb7DaqC2V/0tOv51xlrq+pWUPk2moXcEec7IpmUZ9cA1OPEet/9BnUP/Ap/wDGnYVzrbvwjruj6fJf6xb28NjEArusockscAYHPWsayvNO+0lfLlICNtIUdcHBxnNZkur6newmG61G8niJBKSzuykjpwTiruiLAn2q4nZ1EcYwRjGSeM575+lOwE91qZe9SLykIGRGwXAZm43EevStezuZ9OlgjudHjkKHcX5bIIwCOcdcEfSp9M1Lw7JLI72UgjlJWWN5BgnHLLhdygHkZ6Vbi0zVWtYoXWGOK4DFUa4GUUZIZsDIBwelTyodzy6iilUZOKoRchT5KszhLdEtmyZX+dwvb+6v9aZEAkO52CgUQbLq6SGIAO5wGbjPt689KAO0+H15pltrsaX22QyRARI4AAl3fd3ngZ46nHrXaX9jaxeII49T1K1tYh+8MltOGMSqWbyx6Z3jJH5V5bbQW9vBLDONwODNCPvIOzrnrx/UEYNZn9plo/s62cOM8HaAf5UAf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Me &amp; My Orchestra 2</tspan></p><p
+          ><tspan template-id="title">Love Death Immortality</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">นันทิดา แก้วบัวสาย</tspan></p><div
+          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
