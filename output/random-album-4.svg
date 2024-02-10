@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBYkV3UO21SeW9K0xocrRrseMyDPmKXAC9x354wfbIrLXnFXrRmSUhFRmPYgE/hWcm0aRV9C9a+HJJi6kxSkqSrQyg498d+hqVPCcrWEkxuYxNCPMkj6gRnhWz3JIPHpg96W2tLiZyhuo4hIdqru2bz3HStTTTqX25NO0+6jaaZjEyOFZW28gNkcYI71lOo0rpm0KMb2ZzVxodzA+1gg6kfOOR6iqdzZy2jKJQMOu5SDnIyR/Sur8TXE7zm3vYrR7mMBfNt7YQqvPOCAN+emSK5KQbWOBVUqjmrkVaag7IktgCGOB+NTxArcKUYqxbAIqtbjINXLcxmcCXhTyGx096cwhbQ6/TnZdOtzIVdAWLMqKZFJU5IOODgfpUOiGC21BvPZ5LaIfcyBvyMfMep4NZ1pdywsodlkaAs2QeCOBx9RmklmKdAJI5NuGBxn0P+feuWUZOLidylDnUkijqUoku3YYCkkqq/dAycYHbgVnXA/d9BjNX71RBaQpIWN1I2SGGAi46Cs6Y5X3JNdFNWSOSq02yOJio4OMmrIK7wTkA88fqKpqcDrzUiyBe/FatGMXY0YZpJlKMGdiMYC9cGn3M3kI8OCURgQSpxz1A/n+FO0nX5dIdWhyQrbsBsVLrXiebWUMcilU3ZwWzis7O+xpzK25mSOJJN7OXc87iuP84qGViwH+zSNKu3C49zTCwOeatIzbP/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAKKKm+zSeXv2/LjIOev+cUr2Glchoqz9kI4br9Rig2xxx+pFHMh8rK1FTG2kCsdvC9TnpUNF7iasFTpP8AMik7UwAx25/z1qEDJxUnlHj5k5/2xQ7dRq5OsoYIXlYHDbvkzjg4/PNJ5xVcgnIQdU79MflUIRMcyYPpjNKUXA2yZP0xSsitRzzfOwzuX5gCFxnIxmq9S+UfVP8AvoVGwwcccehpqxLEpc8UlSR3E0KlY5XQE5IU4piTG5ozUrXlyww08hHHU+nSj7Zc/wDPeT/vqgfMQ0lPeaSQYd2YA55NKyxBMrIxbA4KY5785oEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pirates Over Wacken</tspan></p><p
+          ><tspan template-id="title">Muhteşem Yüzyıl Vol.1 (Orijinal Dizi Müzikleri)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
