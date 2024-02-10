@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA3PzEA55pYYpJJFSNGd2OFVRkk/Sm9GOa2vCd7DpvirTrycgRQy7mz9DQA3UPDGvaVbG5v9IvLaDj95LEVXnpzVe1sEuYFkaYJ8zbuCdqqM9PUk4A9jXfeJfFVzregWC3Lb5EuZTLGpyojG1lT3HX9ag+GPh+LxFrNzFewwy2aRM7pvKupY4DKQPYjB9azlPli5MpK7sjztY5JMhEZtqljtGcAdTTVYit/xZZS6V4gvbIACOORo49qhQUBIHArnx196tO6uST2kcEsree7gAcBR94+me1dbokGmx22qxzzPC3lqtv5cKuzSZ7sQdoxnPI/SuLPytxVyN3mYJF8mePvGhoC3PHOkUqM4WKI9CcZyew9at6Bq2p6ZeJ/ZupNZ/aNqzSRkcLu6MD6dcfSq8llNb6cWliVhJ8ysOSvODnnj/65pJrW1FvbxWlx5s8jfOpGMZAI6+/FJ2asB2PjK4tRb3EUuo215qAkGJwmXQMcn5xwMjt9cYrg7i3sEs4pYbySS6Zj5kRiwqj13Z5Ptj8atS6g39nvbS2aNIGAMh4EYwRgAd89z6VloMmiKsrDbGE8mpYG2Sq3oaiZSDz1ozg1Qjdub+CbRktzGEu4X2yMoOJIxnaT2yCSD65FZUNzHCWYoWfbhPmwFPr71E8hkbPc9asafqF5pc7T2jhJCu0kxq/H0YEUkrAVd7Ekk9evNKrYard3rF/exxR3EoZYiSmIkXGevQc1U3ySEAnOPamB/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBYkV3UO21SeW9K0xocrRrseMyDPmKXAC9x354wfbIrLXnFXrRmSUhFRmPYgE/hWcm0aRV9C9a+HJJi6kxSkqSrQyg498d+hqVPCcrWEkxuYxNCPMkj6gRnhWz3JIPHpg96W2tLiZyhuo4hIdqru2bz3HStTTTqX25NO0+6jaaZjEyOFZW28gNkcYI71lOo0rpm0KMb2ZzVxodzA+1gg6kfOOR6iqdzZy2jKJQMOu5SDnIyR/Sur8TXE7zm3vYrR7mMBfNt7YQqvPOCAN+emSK5KQbWOBVUqjmrkVaag7IktgCGOB+NTxArcKUYqxbAIqtbjINXLcxmcCXhTyGx096cwhbQ6/TnZdOtzIVdAWLMqKZFJU5IOODgfpUOiGC21BvPZ5LaIfcyBvyMfMep4NZ1pdywsodlkaAs2QeCOBx9RmklmKdAJI5NuGBxn0P+feuWUZOLidylDnUkijqUoku3YYCkkqq/dAycYHbgVnXA/d9BjNX71RBaQpIWN1I2SGGAi46Cs6Y5X3JNdFNWSOSq02yOJio4OMmrIK7wTkA88fqKpqcDrzUiyBe/FatGMXY0YZpJlKMGdiMYC9cGn3M3kI8OCURgQSpxz1A/n+FO0nX5dIdWhyQrbsBsVLrXiebWUMcilU3ZwWzis7O+xpzK25mSOJJN7OXc87iuP84qGViwH+zSNKu3C49zTCwOeatIzbP/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Living Things (Australian Tour Edition) [Reissued-2013]</tspan></p><p
+          ><tspan template-id="title">Pirates Over Wacken</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Linkin Park</tspan></p><div
+          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
