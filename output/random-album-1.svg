@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6Q0tFACV5z4uaeXxRHO0FxJFaxiGHy4g4V25dyPptH516NXH+Iblba7uFaXYzkBDsLc4HYVlVfumtFXkZWoapBpltbi6MMQnGCZGKgH8jXjXiXT/7P1ueGDi3kIliwcgA9vwNe5xmG6sS1w0F0pJPCcfTB6GvNPGsAn1KAQQACOMqVUdv/rVzQWp1VNj343MAJBmjBHB+YVICCAQcg9xVaGbZCR5UhwzdFznk0kDMwKRAIMliCM7cnpj1613HAWzXKeIjAL+3PlmUyxs5I5XauOcj610TyOVMLY3sQuR3B7/kDWFrEd1Z3KXVtaNdRxRvFJCmNwRuQRn0Ixj2qJq6sXCXK7nLXWsKp8u2hOTzzxXN2V68us+dcSERFyjkDiNGGD+lWdUkeEZRSnmjgdxnt9RV7RNNki04yFF3P82T6dhXPFcup0SfNoeqLMiArkcE9/ekR0WV3ypZvvAHpjgU9bWJXLBTyckZ75zn86T7LF8+By3BJ54znFdZyETNBJIZJShGMKDzWHrF4Eu4YIEAjYBn28bhngH2rYexjAHJ46Z7VjanBtuS47RAL+BNTLYaOQbSze6xIr/MFO1PQAdTXRiAx25RRgAYAqxZxRGaWUYyBgn3qRivlHp0qHHQ0UtT/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDWPPNNJpSCc0KjOwVQSTwAO9WMTNGasx2U0koiRS75xheeaWbT7mByjxsrDqCOar2crXsK6K2TQDTzBJx8p56cUmxh2qbNDLCQxZ+aUVu2Fgvl3EgVN0cW4HOM5IHA+ma50TlSCy7sdjWtpusWlrPvmtWkUrhl8zH9K66M4J6mc1J7HqHw48Prfys0cRTPytLtB2E9D9MZqPxZ4YumvdqbEWGUooyC0g9ePyrG8L+N76DVLeGGBUtTIMtEPmYehI5pdU8ZTXGqz3Fw0kcCykrEeC3oB3rqUru/Qwsc7q2hm1uJ4Xcr5cgAHPX0/Wsg6fLC58sBuSBuwB/OptU12e8nkZ5Ad7l2QD5R6Cso3khYHjIOeea5p1Kd9dzaMZFc0lKasRXUccSxvaQOQxJdlJY5xwecYH9a4zUhjlkibdG7I3qrEH9KGmkZtzMxb+8SSasm8gLhvsVuByMBTg8/WlN5AxY/YbdcnjCnj/x6j5gUvrRU1zPHMV8u2ihCjB8vPze5yTUIpAf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Key of Heart (Korean Version) - Single</tspan></p><p
+          ><tspan template-id="title">The Silent Force (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">BoA</tspan></p><div
+          ><tspan template-id="artist">Within Temptation</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
