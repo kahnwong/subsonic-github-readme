@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAIgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AD+1YbTULmxjsp55bWPzH8sgcbd3f25rUtdWtZoI5pLe4h3IshDqOFYAqc57gg/jW/b20QV/3a/vPv8Ay/f4xz68cc1bGm2rbc20J2gAfuxwB0HSueyKuYl3cWdqYkmfaZULqMdsZGfr0HvWbc3Vo7MkaSuyQmVwFAKL3yCRgj0rr20y1WIotrCFI5URjBrNvNLtJ5d8lujMON2OfxoaQ7nO/wBmK3IGQeRS/wBlj+7W0YeTxR5PtU2A1rcfLknAAyaz/D/iWDXDffZp4nW3mKh1Qrhf4c7uufXj6Ug1W1F3/ZTNIt1PAXQ+WdnQ8bumcAnHoDXkdvpmow+FddhQtGkdyPtkEX35ki6qpHTOcnrwK0Qj2TTvEttrOoarY2vmbtOIV5WT93ITnlTnkcGsfxdrjaEsAE4DTsxwY9x2AAnp9QPzrnfAsTwa0rwRWsFk1lF5kYmZmAdA6cHglSGXccHB9qw9f12HX5YIb2aIyxuw8yNMBI2YqFOT1AAzT5dbAehpcXEqLJHLG0bjcp29QelL5t3/AH4v++P/AK9ZNtqsEVrFGvmYRAo2gY4HbipP7Zh9JfyH+FQM8k8bXVyfF0yx6hNP/qymyQqBgDAAHQjnn3zXaW+nLa6ffw3HiGCea9VpHXaoPmsmG6n6dKwLXT9+rSandRwvI/KoF+Venr16Vuvf3/3o4ISR0+Vf8KJS0silEw/h1JDb6PfySaklq0kyoVfb8wVfc/7VT33h3QnljMfiWOJiS84Z0O9icnA4wPrmm+H3v7C2ngFrFGhuHk+eME5PoSOgrVkvrknlIBgf88l/wpOTvoCjoSLNpSqAPEb4AwPmSl8/S/8AoY3/AO+krP8At0n92D/v2v8AhR9uk/uwf9+1/wAKRVj/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdlVFjjAjT7o/ho+T/nlH+VB/1cf+4K5y9utQS7lWKSYIDxtBI6fSgDo/k/55x/lR8n/POP8q5X7Zqf/PS4/wC+f/rUhvdTUZMtwPqv/wBamB1fyf8APKP/AL5oZUaOQeWn3T/DXMWeq3QuI1lleRGIUhj6104/1cn+4aQB/wAs4/8AcFYF3rF1b3EsKBNq8DI56fWt8/6uP/cFcjqYzqE5wOvp7CgCyNfvMf8ALL/vn/69NfXLt1wfK9fu/wD16kGsRgAf2fBwP89qa+rRsuPsEA/z9KYFKz2SXkbTOUXduJPc/wBK7If6uT/cNcMQX+6vLdMV3CgiFgevl/0oYC/8s4/9wVi62YNPs3u00mTUJtwHlQ5LnPfvW0rI0cf7xPuj+KqU2kaXcSvLNbWryP8AfZurduaQHLSa55Yf/ijNSJUAqu3ls/hxTxrI82RP+EM1MqrbVYIPm5AHBwf8K6RtE0hzlrS0Y4AyeenT+VP/ALJ0w+X/AKPbfuwFQ/3QOgFAFPRfIvbNLttKksJSzL5UwIYY4z24NbH/ACzk/wBw1Uh0vTraYTQwW0cgzhl6+tW2ZFjk/eJ90/xUAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Jump Up - EP</tspan></p><p
+          ><tspan template-id="title">Still Alive (Special Edition) - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">FTIsland</tspan></p><div
+          ><tspan template-id="artist">BIGBANG</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
