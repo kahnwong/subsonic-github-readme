@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcKKKAMkD1OKAPnz4oTPe+ONVIOVt447ZR/uoGP6sa6H9n06eNC1hYwBqQulM5PUxbfkx7Z3/jXD+Kb9ri+1G+VsLc3c0gY+m4gfpU/wjuZ7L4p20aArDe20sUgHQ4XeP1UVPPG/LfU2+r1fZ+15fd7n0nRRRVGIVHMsjwSLCwWVkYIx6BiOD+dSUUAfLs2lNqmu6Pod3ObRbq4+z3MjEZQhju68Z44967Hw5pFr4c+N1lpYnklWGGeON5Mbmby+M44ztzXO/GbSJLHxBN+5YQzSGeF9uAQ3LAHvhs5/Cp/hxLHr3jjRJre8uJr60PnXDXrDzDGq4YBs/PgEAdDjqOK5oJJWS2Z7eInKo3KU7KUbrt6H0ZRRRXSeIFVLzU7HTtv227ht9ys481sZC4yfw3D8xVuqt5ptjqGz7bZwXPl52edGH2564z9KAMXX4vDHijSf7P1O6tpIZpGSJlk2usi9Sh7MMj8D3BrjPh/4S0nwZ4g1O+j8TW13bPEEij2YIUuo3MfXdhPl4OefSvQrjw9pk0EcKWVpGkZYqPsyNjcOcZHBztOf9kCiHw/p8bS77W1dJVKMgt1UFdwYA464wPr160rK9yueXLy30JbfXNKurpLa31G2lnfcVRHyTgkHH0wfyNaFUbfRtMtJ1mttOtIZVzteOFVIz1xgVepkn//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNLqMtPdkFiyyv396rRKzMAxb35q/0ubps5/fOMn/eqNZPLuN6hSe24ZH5UF2EazkAJ8mT16GmfZZWYYt5OgP3SatPeSkH7hLcH5BxTDdXMbq5ACtypMYAYDuKAIFhjJIKjIOCDTXiRY9yqFZGGffmlknMkm8hAe4RcA0TN/ozH3H86ALRXN5d57zuP1qhI7BiOR9a0Sf8ASrtv+m8n86qSfMuSBketAE2nmznvI1vZzDbZ3SsBliB1CjuT2q14m8RPr+ppKIhDaW8QgtYF6RRjoPr3NYxRoyD2NJsZ3Jxx2oC4BqllOIGHYY/nQwwQcAewpr/8e759v50CLxYtNd9ATO/H41LZWDXs5iDbcqdrdt3RQfqcD8aqXM0cGoXSE4AmfjHvR9uhKFS5x1xg9e1AzQh0o3EUTQyeZuKI6lcNFIx+6R7joe5BHBFQpbWzKju8sW8fIHKjcQ4BGe2Ac8jtVE3cGSfmLE5JyRmmm7jD70dkcHIYM2QfrQBZvLYQCEgswkiEhyOmSwx+lU5T/o7j6fzpzXasmwzOV9CTj/PWopJYzEyqeT7UAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Stay - Single</tspan></p><p
+          ><tspan template-id="title">Angel: Live Fast, Die Never (Music From The TV Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sad Alice Said</tspan></p><div
+          ><tspan template-id="artist">Robert J. Kral</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
