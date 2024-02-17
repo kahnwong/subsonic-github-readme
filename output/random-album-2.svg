@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNfDOn6VqGlhr2GFZYZJB5pziVWQ/Kw/vI2xgemCQegq1e6XoVnoK3Bt0EptJvMBJYxz7IVQZ7/ADiRge2/muCeV2VUZiVTIUdhzSwRmWZIx/EQKEB3PhW0Fvp73Tg7VUsf513Vt4+16P4eTzQaTaW+hmAwJMZWNwXYkFyOmDzx78E4rxae5uLy6WCOR9m7y4k3YA7frW/4r8SyXUCaHaBE02zCQx7Ty5RcFie4LZI+tDb51YUYrldzmry6e6uWlYnk8VBk+ppKKGNaCnqav6ZFlppjwI42OffFUD1NbttCIdAupW6smPzIpruTLsYkYzIMHGOc0SHLnkEdsVfGh6kPD/8Ab32R/wCzftH2Xz+3mbd2Py71m0igooooAfGu+YL6muiu4pp7Sy0u0jaW4u5VVI15LHoB+JIrnMlXyOoNeifCC609fiJaX2rTCNbeJ/ILD5RIRgEnsOT+OKfkS97nqfjzQoPDXwUtvDETDdhAzgfekU+Y7fi1fM1fQ3xn8RxSNZW1swngERbzIvmUknpkcZwBXz3J/rGOMZJ4py7BF3bG0UUVJR//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+ip7K0e+vIraN4keRtoaWQIo+rHgVs6j4btdOvHhfxDpc0a9JLeRpc/kP60DsU7PVYbazFs+l2U7biTLKpLkHHGc+361Ld6xG9tJbDR9OiLoFEiRnevTkEnrx+tbmg+GPD+rapb6dbeInkv7g4t82ZEQcYIV8nODyBj0967j4j+CNAt1XWtX8RC1vb4qIFt7XdEyqoBJGd2Tyc9OcUuZXsPldrniVFdEPD+jzXax23iuw8nvLcQTRYHHbaef8OtUNe0uDSNUktbbUrTUYPvR3Fq5ZSuTjOQMH1FMkzKKsfYbvcF+yz7j0HlnNOTTbySAzLbSGIHBfHANK6HZmx4Et0uvG2lxvKYgJd+8MFIKgkcn6V6H8ezG7+H3in8xfLmBAIIXlT/WuN8DaVc2Xi7RL2/sm+wSz7fMPKtwe4rd+IdydV0PwzBLeRPLFHcO0jA58vcNuTjoCGH496FBP37j9o0uSx5fRUjRkKpVX5GTleOKZtPoemaZJeN/LNKJWWHKKAobPb6mrkmqqXR5IbVoXYebHHCASB23lT6ZzzyaxxJtXaUQ4Ockc1PZqbi8jtw0EQmkC7pfuJk9ST0FTyod2dF4WubWXxlYpJcyw2puU2LGu0cdMgd847HNWfHEq2l7YW675XhslikJnLIQSzAHB6/MpxnHTirGm+DFtLq01A6tbMY5Vk8uOTBbA3cHsDjAPvVrXPC661dQ3q3qQs0Cbo3k3bfT6YGMj1zjrV9LE9bnBLezxyht77lBC5Y/LxjAqJ55G/iI+XbkE5I9D7Vf1zR/7Gu1g+1wXG5S2YjnbyRg+/GfxrLyTSGf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">XIAH - Single</tspan></p><p
+          ><tspan template-id="title">Believe</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">XIA</tspan></p><div
+          ><tspan template-id="artist">Дима Билан</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
