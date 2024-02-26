@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO4a1jnYkDYeuRXI+KdZk0Ky3RQGWZyVUkfIvuf8K6yKbpng1l30dpcxzx3iAwEfMuMkc9vephUmoyu9i6tKHPFJbniks97qd00txK8juckv/T2rWsdBn2eaoJRTyD2rpv8AhH4LKUyspa1JOxxhvzx0NZGpau8DmK2/1QGBsHBrnc2zTka0My/hNhNvgfa6nIZeorsNC1cavpolbAnQ7JAPX1/GvPrqS5uC0kcUhPcBSa2PA1w41W6gbOHh3YPqD/8AXrahJpmNaF43PY1CljnjnoaZKkTS5VuduMnoaiSUTD5sAmmNJskQmLcfukjrilJWVzphaUkiKw0e0s7iaaOMRmVt0pzw3/AelZmraRZ3fmG2jWGUciRBj863W+cckj2qrcBViaOPl2GABXJLU7FGNrHKX9rb6J4Yvvt7vKu0hTMeZDyAVHbJxjvgVxvgm9gg1wLdPslkTyl46sSODXV+OEhXTI7CNFe7KBS2NxRe/PbNc54Y8HapDrkF5fwqsER35LA7iBxjH4VvQ1ehx4tpKz2PVooXZC4HA6nPSlLk4+Ut6Hbmm29+0MZAIXbyOOSasJqFueXllZj2UYxWj5uwR5b7jNlxKOWKjOMBdv8AOiGNYWYYy3ct1qU3UbodskuR/E2OlZb3crzN5YG3oD3rL2bfQ0dWztco6skQtZ8AGRyST3NJZ3IktEIPbBqOS7jedYo5t2cjJAO49x0xxWYmoRW171QQSuAdoxtz0OPTqDWlBezlr1MMXarBJbo//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLqs2+n3V3GZIY9ygkE7gOarVof2fPHGzmCUAqWUK3OP61QiNdKvGjRxF8r/dyw5/zimnTrpZTGY8MBk/MK7298PeE9J0qya6bV7y+lhR5xbXCrGjMoYjJHv05rmb600qS7/wCJQNQaFo8lJXBcEZzyOCKSY7MxprGe3VmkVQFwD8wPXpVerEixhQRuZT0yTwKgbG446UxCV6rFDBLH5cbYDJhXxnFeVV6jDE1vsdASAgzHnPGOq/4UDNTwppfhrUZ59M1ArcanDJvbzOfNQj7q8/mByKz/ABVa6V4Ne3lstJLi5SWIM8pWSKQYIZcgj+LoRkdsVxF/dY1a4aN2SRZy6upwfY+1aPiTxFBq2j6PptvFMFsI2Ms07AvNK+C7H8Qam1nctu6sc9C0IbMkIcFdu0sVwfUEVTkGJGHoav2xjD7ZVDI3B/2fcVUu0Ed5MinIVyAfxqiGQ16FZ3pkh8tyyEAHd3H+fWvPaUMwOQx/OgR3R8HyarHLqCzInmhhD8335FIBz6ZGfxrMs/BevXs5hisSGH3i7qAB69elc/FNGIishn3ZyCr/AHfoKc08YBMUl2jH1k6n3palXRu6p4efSroQ+ek+PvSxZKZz05A5rn7wEXs4PUSH+dRGSQjBkcj3Y00nJyaYm7n/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Impossible à aimer</tspan></p><p
+          ><tspan template-id="title">Bretonne (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Cœur de pirate</tspan></p><div
+          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
