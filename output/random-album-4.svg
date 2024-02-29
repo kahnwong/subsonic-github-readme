@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAizFQmflBJA+tLHI8MgdDhh3xmmjrRSGTNeTsxJZcn/YH+FM85+eRycn5RTMUUWC4UUUUwFHynoDSja3+yaafvGlOAeDmkBNCIgx8wZGOMUwoN3BytNDcYozxSGGBnvScUlFMQqvt/hU/UUvmc/dX8qJJPM2/Kq7VC/KMZ9z703aQobHBOAaAHmUn+BB9Fo8w/3E6/3aSNGdwEQufQVJLFK0jN5BT2C8CgBnmn+4n/AHyKRn3DBCj6DFJsfGdpx9KSmB//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFLHR73UAjQQ7kZioO4DOMZxk+9aNx4P1W2VDJay5dtoC7Gwfwam+HtSWyV/MkVERw2W9GBVsY59OldXf8AifTJ0h8meYsuM+Whx2z1H1rnnUqKVktDeFOm43bMmDQYdSsoUudO/s6WzgcSOkij7SwbgnOcEc5/pVG40x4tAjtodIWWaWYSfbi43gY+4BnpzzWiuuWkU1xcs1yqM7bVEY+ZWBByfx4x+NPj8SWUVrHDHM8SK5IDJiRfXnGMEAce1Z3qX8vma/unG2l+5zEOgarcOix2UpLuYxnA+YdetVbqxubKV4riIo6YzyD1rt4fFFuLi3aS/YplvNB/8d4C1zWvaidQlaQzpMN+2Mr/AHRk9+epPWtYVJuVmtDGdOCjdMZotpFcysX5aNcqpHDNkf0zWlqFl5FvuclX5OEOB16YqvD5lno0khQqG+ZNwHOCBgH8T+ldVf8Ah25vrOz2yQwvPZm8YzSA/u9w+YY68HOOtTUnaSb2NMKqbjPmV30OX8M2yal4h0+C8YS2puAHU4+b0U/Xpn3rp/Hum6WupW1pZ6UdOkmAcqUA2pyoPB55H8vWuDS5lsbrfbSEfMCDjAYg5B/MV1uv3jeIL+31KItK32dfl3857gf3cHNTUTVRSvoTBxcGktTAEltBZQO4duOSqcD6mqksMNyDJBLkIpZg3Dd+3p0r0TT/AA/pd14J/tK81EpeH9ylqihljALYBUcknBOTgV5zqEclvMVeMow4yV2n8R2q6U1JtIxnScUmaV7cNNo8TD7iEQDnhjyzEA89SoqWw1SRtHmtWgmnliBhgnWUr5aMCdnXpkE4xzVHzYpklXnf1UtkgE9T9fel0+XyLa8U3So0o4Qkj5s8EcfX86bjdBGVnoVLkHyYc7s+UAoPcc8j8eK0dDSVZnWQypGyH5k6bsHAz0zTLYWi3EU9zNbuiBVCbz0Htit6XxNb3BBJtURRtSNSQFA6YGKc7tcqQouzubnhjV10qI2roLe0Rkuo7t+gIyCrkAna2fz9M1yXim3uLq9nvhazfZ5G3xyt0kLdCPrWnDrekzf6PclVSQcvGc49j7V3I1jQI9OsLdbuErb4KDAYAd8g/XPqMCuNuVKfMo3bOmMlUhyt2sf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Eclipse - A Piano Tribute To Evanescence</tspan></p><p
+          ><tspan template-id="title">Pirates of the Caribbean: Dead Man's Chest (Original Motion Picture Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Vitamin Piano Series</tspan></p><div
+          ><tspan template-id="artist">Hans Zimmer</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
