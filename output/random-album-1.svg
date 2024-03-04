@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOIsrLldoz+Fb9vocjI0xGFXAORWXZRsHAVsZPrXY2MV3sRYpd3ZsP1rlnJpHbSgpPUitdCt7uJjDlmU4KsMH2NV59E2RZMTAj2rqPszxRoHHzEgkoM5PfJrJ1G9MeYtm3DkFi2f0qFKV7GjjB69DlZLBTMkcmFRmClm4wKo65olpBOVgkcrzgnHIzwePX/Gtq7lWRSpOVHP1qprEUUl7KyGIRkLtEP3RwOgrZHPJJOyGJbpG2UbOc7PY4Bwa0LW/miPyn5T1Hoax4JBNCpRs5AZSD0PvTrm5fynY5SUjBIPU+tLfcq9ndHVy+I5RAV84A45x1rEluDNIWLYU88msOKVt6h3JBySD6f5FOvGV9LZ2Z1VsYXPJ9R7DpSSUdhuTloS2OpNcebHMgSeI/OAcgjsQfSo5bp3wDERnG7JywP0rNtbiGF0mQsjtH355yeKkF4kcR+fcTk5C4/HNNtlKKSbIdIvXiXy2w6jqhYjg8YroJI7SSKOJpXVuQG4+Y9enrj8K42KREwDyXXOQcED+RqxbXQjZvLmGFOAu3aVPrj9Mf4UrdhaWszoGt4IQrfvmZlzt2DPPfrUN7bldOwzfMuMK3UZPtUCa0oQNIQ2OMEc/TrVW51ESrhgEXJwq4GfTNMEknqxsTRGJIzE0jLn5R2981Q1CZfMlRMBDyMn8qdFMg3DKtk/p2/rSXV5EWGwdBgDrn/CjqO/u2uf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHk4VSQSCelSxKOcnBzjk022UNjj15q3uaNNqtgdhWqXU8uc0nYY/LL7VKp4xuGDSefzgg8LjO41ILnIOAQccHceKpN9jJxVtyIgjPJ/OmS5XJXOM9M5xVku8iYZiap3HD9B9aGrIcJXdgtgNgPqOa0Y7GOSVFVy2+383bvG4ttJwBjpkCs6yOITkj8auvcNvDRFlIiEWcjptwf61MuZpcprBwUnz+Q6KwjaO4lldSsQI4fb84ZRg5HTBJz7VMdMVZym6QDdkBgMlN4AP4qQ2emKpNeTAv85w+dwIBDZxnPHPQU4Xc7uGaRmPPJP09vYflUWqX3N+bD8uqLGyNY3ZUPEhj5kHoTnp7VWudpzxxU6uPs3lbSXMu8sfoR/WqtySB7VtG6TucdTlc1y/1qVLKTaSp5z1GKmZiF4GPSqcbFeM4/DpUomO1Qcn14qFKysazheV0aMdlJPGGA4PT3qQ2kkUe9sbfUVTjOewzU3UZwKpJ3vcxk1a1iVSOaqXROcg/hThIy5/wps77lYKSRnuMZpyldWCnBqV2f/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Unyielding Heroine - EP</tspan></p><p
+          ><tspan template-id="title">The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Mysterain</tspan></p><div
+          ><tspan template-id="artist">Howard Shore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
