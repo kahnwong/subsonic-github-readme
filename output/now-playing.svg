@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  width="540"
-  height="64"
-  viewBox="0 0 540 64"
-  data-reactroot=""
-><foreignObject width="540" height="64"><div
-      xmlns="http://www.w3.org/1999/xhtml"
-    ><style>
+<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -35,7 +25,7 @@
             }
 
             img:not([src]) {
-              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -49,6 +39,18 @@
               opacity: 0;
             }
 
+            .progress-bar {
+              position: relative;
+              width: 100%;
+              max-width: 360px;
+              height: 4px;
+              margin: -1px;
+              border: 1px solid #e1e4e8;
+              border-radius: 4px;
+              overflow: hidden;
+              padding: 2px;
+              z-index: 0;
+            }
 
             #progress {
               position: absolute;
@@ -58,11 +60,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress 273333ms linear;
-              animation-delay: -1321ms;
+              animation: progress undefinedms linear;
+              animation-delay: -0ms;
             }
 
-
+            .progress-bar,
             #track,
             #artist,
             #cover {
@@ -76,7 +78,10 @@
             #artist {
               animation-delay: 500ms;
             }
-
+            .progress-bar {
+              animation-delay: 550ms;
+              margin-top: 4px;
+            }
 
             #cover {
               animation-name: cover-appear;
@@ -118,29 +123,4 @@
                 transform: scaleX(1)
               }
             }
-        </style>
-
-        <div
-        class="disabled"
-        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
-      ><p
-          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-        >▶</p><img
-          id="cover"
-          src="data:image/jpeg;base64,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"
-          width="48"
-          height="48"
-        /><div
-          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
-        ><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-            id="track"
-          ><tspan template-id="title">Nothing Stands in Our Way (The 119 Show - Live in London)</tspan></p><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
-            id="artist"
-          ><tspan template-id="artist">Lacuna Coil</tspan></p><div
-            class="a"
-          /></div></div></div></foreignObject>
-
-
-      </svg>
+        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
