@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+ip7K0e+vIraN4keRtoaWQIo+rHgVs6j4btdOvHhfxDpc0a9JLeRpc/kP60DsU7PVYbazFs+l2U7biTLKpLkHHGc+361Ld6xG9tJbDR9OiLoFEiRnevTkEnrx+tbmg+GPD+rapb6dbeInkv7g4t82ZEQcYIV8nODyBj0967j4j+CNAt1XWtX8RC1vb4qIFt7XdEyqoBJGd2Tyc9OcUuZXsPldrniVFdEPD+jzXax23iuw8nvLcQTRYHHbaef8OtUNe0uDSNUktbbUrTUYPvR3Fq5ZSuTjOQMH1FMkzKKsfYbvcF+yz7j0HlnNOTTbySAzLbSGIHBfHANK6HZmx4Et0uvG2lxvKYgJd+8MFIKgkcn6V6H8ezG7+H3in8xfLmBAIIXlT/WuN8DaVc2Xi7RL2/sm+wSz7fMPKtwe4rd+IdydV0PwzBLeRPLFHcO0jA58vcNuTjoCGH496FBP37j9o0uSx5fRUjRkKpVX5GTleOKZtPoemaZJeN/LNKJWWHKKAobPb6mrkmqqXR5IbVoXYebHHCASB23lT6ZzzyaxxJtXaUQ4Ockc1PZqbi8jtw0EQmkC7pfuJk9ST0FTyod2dF4WubWXxlYpJcyw2puU2LGu0cdMgd847HNWfHEq2l7YW675XhslikJnLIQSzAHB6/MpxnHTirGm+DFtLq01A6tbMY5Vk8uOTBbA3cHsDjAPvVrXPC661dQ3q3qQs0Cbo3k3bfT6YGMj1zjrV9LE9bnBLezxyht77lBC5Y/LxjAqJ55G/iI+XbkE5I9D7Vf1zR/7Gu1g+1wXG5S2YjnbyRg+/GfxrLyTSGf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOT1/wAX3uqyOI5GiiJzjOD+Hp/P3rlHOe1OZwfSnQx+dMqZA3HGWPA96mMIwVkDk5PUrFeM1ERzXUJ9mstPku4ocQlvJhlkUF5W/iYZ+6APTuQPWsrU4LqK7kjkImQYZW2dVIyDke1VcVjIIweKaTz0qaRQDkDioWPNAi2STViyt5Lu6it4hmSRgq59T/Sqe4mrlnFdPuFvFIXdWAZBzj+LH4UN2Glc3tW1iBLlLXT4kmFsgggdhuVQOrAf3mOTn3x2rOurS6l04y3JlF0sv8RwXUj09sfrTYIL61tyLe2ljcjc0wQltvse3T61WbT72QGRo5zgBi3PQ9KjmRVik+ccknHrUD9K0p7W8+zNJLbykR4zKV6D3rLc9qpNPYlqxJnHGanjvbmJAkdzMiDoquQBVakzQ0nuCdi8L64cBWu58Bdo+Y9PT9TSG9nXKi6l27Qv3j0HQVS3UhalyofMy3JqF00Lwm6maN8blLkg46VSJyaUEngVvaR4XudRZXlBjizye/8A9b+dJuMFdjScj//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Believe</tspan></p><p
+          ><tspan template-id="title">Story I - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Дима Билан</tspan></p><div
+          ><tspan template-id="artist">Arch Echo</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
