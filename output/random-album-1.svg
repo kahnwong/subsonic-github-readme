@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFfMPluGbJfr+FRq21gGBI7g0r7RwufxFMpJXKuWYLmW3dzA+0MMU7zHmtjENzNnK5bpjr1p+nXlrZM7zafBesy4VZywVDnrhSM8etbMt7o7xvDe6RbQiQAh7J2WRPcZJUj/ZI555FS1Zjuc2wDfMWy3ekUkZGOtXr7T/sckTLKJrS4BeCYDHmAHByP4WB4I7H1BBNcoiZ28mtdGRdkDqQAcc+1dD/YdqPA/wDa+52ujdrFtJwoUhug7nIFc8zEvya2bXU7u90VtALo8XmCa3Vhg7xkbQfcE4z3HvVSjZCTMZW25BGc05kycj64zyKIlKzYdSCvUMMY+tPlfM2/739Kjl6jv0NSGV7vwtdWzv8AJYzxzxZ/h8wlH7Z5+T8qxyTng1uypFpvh+NbgsLzUXExi6eXCmdhI9WYkj2XPcVikAnIOefyoQEPXmjGMU6MKZFDsQmeSBkj8KkK2+Bh5ATjOUH4961b0FbUvRarGwb+0LJL1mXAlMrRyD/gQzn8R+NWItZ0+0jZ7XRoftZzsmupTMI/QhCApYerA/Ss6K2SRWbMgIXIBUdfz6Vo2ejRyKJJy+0n7uB/jWHPFaF2bMm5ubi7nkubmR5ZpWLPI5yWPqTUS+1dLJo0Ej8uyjAAG0f41l3mnMtxN5a/Ii7icYAHQD60lO71BxP/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYQRQCM81Wvr630zT5767k8u2gQySPgnao9hzVPR/Emka7/AMg68WV/LWUxsCrhGGQ2084PrWVzU1OtVLuQQyxOcZVXIz0/hH9audO1V5eb6HP/ADzkP6rTEUxqoJAVQSSQAFbk4zU0N9HK6RkMJG9FOM/WodU8Q6Rox26jqEFu4QybGJL7R1baMnHvVy3uYL21iuraVJYJlDxyJyGU9CKQDp4Y7q2ltplDRSo0bqehUjBH5GvCtJ0u6ihudIikktdR0XUcC4VtrC2JJEg7EgbwDzjNe755rxPxj4kbw18XZrm7jZ7KSzSEqD0UgNkdvvZ+tc+KhOVJ+z+Jao1oyip+9sz0DQPF1ze+ELnUL20LajZWyzSwRcCTcpZME9CQOR2P1FQ+LPEl5Zw2iWEZjuZIY3mkcEGGKSRFO3tvHPXpjPcVf0vT7PWfBrRIHittThzyuGCEALkf7oH50/xJaLIkdwIzI9vC+5FHLxnAZf5H6ihyqOjdL3rbfoFoKpboeWPoU99c6Z4YnleTU9QnaXUbgvlhbqw3MOeN2xSfUivcIYIre3jghQJFEoREHRVAwB+VeG+GvEn9u/GnT7y0je3gMD2xDA5dQGJz75/LAzXunvRhoyjSXP8AE9X6sKrTm+XZAPWuQ8RfD/T/ABVqjXerSFo1CpFHENpCjk5Pck/yFdWDRnNdFzOwRRxwQpFGoVEUKoHYDgU0qGvMH/nif/QhTs81GrZvT7Qj/wBCNIDJtvBfh60vJrqHTY1mll88sCRh853Dng89q3S3am5NNYmi4H//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Break From This World</tspan></p><p
+          ><tspan template-id="title">Brand New Eyes (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Globus</tspan></p><div
+          ><tspan template-id="artist">Paramore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
