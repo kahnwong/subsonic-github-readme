@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEY7meJuWJ96dJezknaxXPcVAswPAOPrUowTgjFQpcu6O2VP2usZX9f8yHL53bjn1q1HdSNyGKyj8mpUtd/3SDn9anFl0Rhsb+Emh2eqFBThenNaf1qaWn65dQECUB0/WunstYhmXPmhR71xscLpIEmG0noexqdomhOVJz7VUXczqU3B23RzbRkdqekkiLjhgOgPapg6HkGg7fatJRTMYTcXeLFhuCD0xWqt350OyQBgOh7isfnOFBJ9hmo/MkjY4JU9xisZUv5Tsp4vpUV/PqjXS9khG11E0J7en09KupepNEMNlfXv+NYC3WVIkGD2Yf1FTW8kTkhSUk9B0b6UleO6LklW0jLX7v6f5maGx3ra0RtJkLx6jFM0pOYzGC27pxgEY6Hn39qxniZD0plbnnHYRNYxTwtDpLIylwJGMuRlF2k7XyfmL5x2A/GR10O4jndrK7mvXXDSSMxAcLHk+uCRJjOe3auLopWBm1rsmlm+nGm2pghJASJ9xdMdcknqev0NZKgseBRHEXPoK0Le3AGe1NIHI//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APPVi3fWq9/9pi8r7PGzFidxAzge9bEUOeoqW+t3Gk3bRnDiFyDj2oBGNbx3dxMxCokIXcu/Pzfp1/SrJtmwQw59R61qaXcf2jpEN/OyKzrhyBtAI4x/KrctiygbkIyMjIxkUDZzLwYOcfSqzxbe3P8AKt+e1xnis6WHGcD8aBG5bRZxWvDbq6FWXKkYI9RWbbMBjNaqTxxQPIxwqKWJ9gM0AeciLUtP+06Mgy1ndpPCo+9JzxtHfjBr12+a41WS5M4giNtawTGMSF2+dc56DGe/bIri/Dl5b/8ACUX2oJfQNNcwuse7BKcEjoegCqOPXvUGuXz6h4saeO9MV3EIYpFDhPMPO8KP6dx74pNc0jRaQNW5hHPFY1zGMnit65kUg8isW6I5pmZZsro28wk2hsAjaTxyKv3Dyahp9xaQskTSwugaR8DnJ5I9yPyrAjlx35q1Hc44zQBH4eg8vUJ7S8jtEundgQlwAF4Q4H+yQufzrP1qyu7LxZdyySQD7S/mxZuB0Yj5gP8AgOK5jUJJbvVZX8sS5um+UL8zc4xnr0FXtH+xXs7G43wyQyhrdVbIPOSrA+w6j0p2s7lXurHod9fslw+1Yw3Yqcgc5z05Pb6cVg3cwllZ1UID0UHIHsKJbjd3qlJJu+tIk//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Witcher 2: Assassins of Kings (Original Video Game Soundtrack) [Enhanced Edition]</tspan></p><p
+          ><tspan template-id="title">Rock Revolution (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Adam Skorupa &amp; Krzysztof Wierzynkiewicz</tspan></p><div
+          ><tspan template-id="artist">David Garrett</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
