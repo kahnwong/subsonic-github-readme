@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDtTGJIh/s0jgBLUe4qxf27T3MIyFVhjc3Qep/Cp7iyVTCVWQxrkqQPvKDgE+5IJ9gKADXASF+uP0qlD+4PliHzWcDBGf09aua5kBT717Z8LrGGfw7aT/Z4yVQAMVGc9+aAPHrfwxrl2huLfSrtk5+Zl2g/nisyKAwatbgqyMJNrowwVYHkV9UatPawQDzpIIwQQAzgZ+grwbxbpU//AAld1dRQqsMbRzuQez/KD+dAHH6tI4eOPd8oXpV6PE9nAS3LEMQTwAOpx36/jVW+aAzYmAPyrjrnrz+lTrJZm1iiyAoLNnB3EZ4Hvjjj60mxk3iAZ3LgABhjBzj8a9B+Gdvpl54dkupZpkvLTcrBLhkHAyp4I7fhxXAam1p5KiRj2BK54Oeo9fTFVtC1t9Hv5NryCznO2VUJHy54NAj6OGn6NPqE1zcW8Ml6oVy+AxwRkfSvK/iBrgXVG0xEKvcSwyMRjGxN2Ae+ckH8KG13StM07daTQvKMG2ht8lmY929+2OfrXJ+I4p7e/sZ9QcfbZd0kyA5MYONo9uKYHP6g26ZfZRUbv+6iGeRzS3n+vx6AVETwMnHFAF6W5a4UK5w38OF4qkGPmYJz83OafkNEepbsKiIIJHcUAaWm3t7YXLzWJEcmCu4RqxH0z0PvVO4mnlkd53d5GbLM5JJPqSa0oG3RKw7iqeoNnYPrQB//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APT7fSrW3fbOyhCcDOaWfUdMsswJKZArlGba21TkZG4DtnnGcd6wLDW9XnA3XSIOvzL/AFxxWK2nXr3yhbmZimfLkjkyoy2ed2cdTkAc/ia7pRlfVnmRlB/DE79LrRHhSWSeGJ2Byu7uOv1qCcaCxybyEHg/e9TiuFuDYWDGOFpp0iUhnL8IT6cYXntVb+04pQD5catjG7BJb9acYS3TJlKPWKOzng0Rl2JeRMWIwFbqSMjFZNxY6SMRyXKKWOA2eKy42Jj+0fadwWQNymPm/wA/zrH1TV9rEQKjjOeecHI71qoSa3JUo3tyjo/EVsp8uACRjna0z7FqxqT62bO2HmP/AKTJsS3t1wT9CG5rndPEF/GJrqIxaVB/r2gYdOg5wTkk/X6VRutahe7VbJPs1rGf3Sq4BjXOc5J5b1NYt6nUo2Wh1ltdwadY3lhNcB7hyrMIXDRgA8g57+u3PSua1HUx5xiil3xZOOxH4YyKy77Wrq+SMTXTTeXkKHjUcHr061nhtoxnH4UlKwcl9zoINUeM5DZHox61r3Ys7hFmFvIH4O1GI/nkGua06NifNC28w/uvKFI/A1seaggACRwr6KQf5CtPaC9mU9YcR3TwvPqWn6aScWpj3AYHpwOev41z11eI80hS9mcY+QvCFLjpg46cVs3dpHOsvm3RlKnOWkO4+4yKwJtOJnc24kaLPDN1rBvsaxXcYklKZKcLOQYypA96kitd52shbk9Dj9KkuwttNtVt8ZznKtjp/Wr6zSpmRgTjHIwf0qaDS9OGGDXAcLyByCfzqaYBAxt2kMgHG+PG6qTCx//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ahde Vefa</tspan></p><p
+          ><tspan template-id="title">The Northerner Diaries</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Tarkan</tspan></p><div
+          ><tspan template-id="artist">Jeremy Soule</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
