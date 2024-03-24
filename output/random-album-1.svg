@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APG403VraTpCarJJa/6ubaZEmYnaoH3tw9MZwRznjnNUYI9y1uxXMv2IW8aRwxKd5EYIaQ9izdTjsOg9KzqycY6F0qbnKyJ5/DVkfKSzmiw3CtNu3u2FxuxwuSyjA6Z5JwaYvhu2MkollAWIgM0SnJz02gk7uOSK6DR7S1uNKt7u5gJJuFTzG+7FkcEge/Fc5rFjJbak6KrJtfaueM8kcV50cY3PkuepHLbrzKepaBFY23nx6hDPmQII1UhuQTk/hj/voVjPEVGcE46102p2RiuFhxwi5J6/kayZovLHODXoUZc8L3ueXWh7OdiTTI3kGFGa6CDTfOhkQAq20kg8cVzFlK0eCGIrqNJ1l/M2yDcoOMn0rPFX5PdN8G7Sudd4WVNHspriRgtpLbNEwxnzWwcYXuQRz6daqatap4huYLqIBEIw7hfkDd1I7HnII61JfSRTeG4pY7lYyjfuoz1kJOCB7471F4fWE6XIk1wRO2ZU2AEKvIAPoeD+lfM6pOr1ufQLbnW5g6xHtjjIB3hee9crdmRQSwz9TXWalcJADGxwT1x1/wD1VyN8xDElsg8ivo8FdU1c8LH6zK1tKCpUnmtTTSJ7xUfiPPJrnNzI+R2rRstQeBurJnqVANazbaKpU0j0KCW3A+xySKYIwTEZDh4yew9QamRljeG5guo1WJWDoHHII/nmuPjuLQ3KytqW/GAUZcbu39afDfabptxP5V4FEhxhRkrgngHmvInhG22n+B6sMVCMOVk+tNFLIyxHkt5jOSST7GuVurhi2PXpVq41I3CyKvyK7Ek45P41QlmCgKvOBwa9OknCNjz6sYzdz//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AGbqN1Q76TfUHlWLUTfPWjHNgVlRdeDmri8Dk4rKorndhW0i95uRVa5kypqMSe9RTyZHWs4x1O2rNumzH8ylWTP1qr5tL5xFdljyLGnBKBjrnPFXd4ZScnPesq3lJ27ulXPMODg8dvrWNQ7sPHQlZ8Gq88lIZSe9VZ5KmK1OisvcMvf70obPeqof3pd9dR5tjZ0+L7QzDzCCvOMZ/rVyVPI25cknnGMVlWlxOFVVlcKOgB6Vf82aRcPIzD3Nc1Rq56eGptx0E3Cq07c1K1Up32tRB3ZtiabjDU//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Fire &amp; Ashes</tspan></p><p
+          ><tspan template-id="title">Weightless (Ambient Transmission Vol. 2)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Xandria</tspan></p><div
+          ><tspan template-id="artist">Marconi Union</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
