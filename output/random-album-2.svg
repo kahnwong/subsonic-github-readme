@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYQRQCM81Wvr630zT5767k8u2gQySPgnao9hzVPR/Emka7/AMg68WV/LWUxsCrhGGQ2084PrWVzU1OtVLuQQyxOcZVXIz0/hH9audO1V5eb6HP/ADzkP6rTEUxqoJAVQSSQAFbk4zU0N9HK6RkMJG9FOM/WodU8Q6Rox26jqEFu4QybGJL7R1baMnHvVy3uYL21iuraVJYJlDxyJyGU9CKQDp4Y7q2ltplDRSo0bqehUjBH5GvCtJ0u6ihudIikktdR0XUcC4VtrC2JJEg7EgbwDzjNe755rxPxj4kbw18XZrm7jZ7KSzSEqD0UgNkdvvZ+tc+KhOVJ+z+Jao1oyip+9sz0DQPF1ze+ELnUL20LajZWyzSwRcCTcpZME9CQOR2P1FQ+LPEl5Zw2iWEZjuZIY3mkcEGGKSRFO3tvHPXpjPcVf0vT7PWfBrRIHittThzyuGCEALkf7oH50/xJaLIkdwIzI9vC+5FHLxnAZf5H6ihyqOjdL3rbfoFoKpboeWPoU99c6Z4YnleTU9QnaXUbgvlhbqw3MOeN2xSfUivcIYIre3jghQJFEoREHRVAwB+VeG+GvEn9u/GnT7y0je3gMD2xDA5dQGJz75/LAzXunvRhoyjSXP8AE9X6sKrTm+XZAPWuQ8RfD/T/ABVqjXerSFo1CpFHENpCjk5Pck/yFdWDRnNdFzOwRRxwQpFGoVEUKoHYDgU0qGvMH/nif/QhTs81GrZvT7Qj/wBCNIDJtvBfh60vJrqHTY1mll88sCRh853Dng89q3S3am5NNYmi4H//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APemZtx5qvfXq2Gn3N5Kf3cETSN9AM1O33zVTUrRNQ0u7spPuXELxH8RigD5pu/iJ44mv55k165hhdyUREXC+wGM1Ys/Hvjc2wc65csWkADOFwBjv8vrTv8AhF7/AEvUo9L1m0mB84t9pgj8wFMYBGOSM81r2Xwv1Ca9nnvrqaCFVZEdcDcvbI/I0nNLc2UL6o9R+G3iC+17w27ak5e8tp2hkc4+bgEHj612QJyK85+F/hqbQYtQnuJmlkuHVFfOA6rk7sfU/pXoZfa6L3Y0zKWjK99JPGh8iNmcnqADt98EisR9dlMeQU5+YFlA+X8+a6NvvmmPgDkDmmiTjNattRmVbpLYrcJldhwdwI7YJrkIPF7XWlSS3NypbOFSPAMrdAqr1+ua9anSV4m8nYJf4S3QH1rz288CQ2+ovdRqqbnLcJwGPJx7ZzUVY6XNqMrOzOg8DPdSaXKbnb5m8cA8AkZIH6V0cSyfaEZ8k561n6FZSWdqiqRtY7mB6/X9K2lxvFVH4UZz1k7CP981WuGO8bTwvX8atMrFyQOKz3trg3DTopWQ8Zx1HbI700SyeKUOOCDT3VZI2VxlSORVGzju1uphNAcMQVZVwOn1q8qS7gCnH1qmARR+WCSfmPX29qUzBZkU9SwFMZLlT8qgj3qCGC8+2xyyBGTPPy4K/rQI/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Brand New Eyes (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">No Boundaries</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Paramore</tspan></p><div
+          ><tspan template-id="artist">Alexander Rybak</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
