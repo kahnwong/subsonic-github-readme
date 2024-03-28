@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AJM5pQOaeqZqZIag0IW2qjOxwqgknHQCo4ZVnhWRDlT0rG8RTTQX6iCa42Iq+bHGpK85Izjtil8JXyXrS26s5EcYI3L0O45H60+gdTaYGmGr7w4FVZE20gJ4wMVcjQAe1VIjyKo6tf6jDMsFlb5i2BpJ93Kc9lHJ49PWmBZ1mzlniJtRGZChWZS20vH6Z+vY+tZHgf7JHbXMDKsF/wCad8DHDhQBjA9P8msq8fULhbmNb66i8yfKBIlUnABZm43DjHeo9N0+S4uLq6S/uJdSSYGREcL5qtzh2HI5x39Kd1y7hyvmtY9AkXis+cU6ya9E8sdw6ywBFMcvGWbvyD83146UtxUobVgjYLTPsUJu5LwxBZcj5kJLOAOBjt+Hp74pnzMuFYqc9cU+PzVBzNk54+QcUxdAvbEXlr5dwgu/LXcgkcqZD1wSuAv6570saQwr9lhhgt0Z1BQRHJ3ZJ3AYGeCAwJwaUNMB/rV/74/+vS75c8SL6fc7fnSsNu423s7O0kaaCzitpHAVhGSeBwAT3pJGBNIxlGQZF9js6VVlkZU5IY+oGKLCvc//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ5XjMcaxxKCANz45Y0KCuCAPrjpTTxxn5u9SQBjMMKS45IAroOJ6IlESxxM9wCgI+X1zQ8ayRK0AyAPm55z7irQWdZxcvCzwwN5mGXC54wCe5yRTQszXBuEjZbedi/C5APOQD9QaZhzO3N/wAN6GfhT83enh1MbxyRLuKnY4HKmibKyMWUqScgYqIEsTwR7UjdaoBuVfvEfzqa1YiXGzeWyAOxB9aqlgOCM+h61NayBZkJDENlSF5PPHFK45p8rNG4vJWsmgZpGtWZWKrwMjjcM9D/AEptveTLZJAGZbVWLBDyMn+JsDk/0qCSYLaGFCHUsAuFI4Hfn1pYX32ywt8g3EEFCcg+mO9O5zez9y1uv9P1ILpz5oAXZgbduP5VEFbOScHr16U+7kzctww2/KA3BGPX3qLI45OTUt6nVBWihpYtnIXNW7X7XY3MN3DGDIiGeMjnaB/H+H8xVaeFY40ZJFLFRuXPINEVxGhU7piQMEbsfhU3NLPdHRW2qzyySLLAV2jOyALhFYKVAJOcYH14X0qO71md7TMIlRSgkbcFAaM4GeOfvYwRyMDGKxheICDtlyAB989unej7ZHtwElAxtxv7enWloF5kl2Li6u7mYxBXGHk2YwM45P1zk+5NVlPlnOBipzLncd82SuCC3GPT6UyOJGjkZpFDBTtTPJNK4+l2f//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">In this moment we are free - cities (Japanese Edition)</tspan></p><p
+          ><tspan template-id="title">Assassin's Creed Valhalla (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">VUUR</tspan></p><div
+          ><tspan template-id="artist">Jesper Kyd &amp; Sarah Schachner &amp; Einar Selvik</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
