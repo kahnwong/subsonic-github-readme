@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACoAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APQQygYKAn1yaXcn/PMf99GmUUxD9yf88h/30aYcEnAwPSijB9KACilCljgAk+gpWjdRlkYD3FADaKg+22n/AD92/wD3+X/Gj7baf8/dv/3+X/GgClq+nXWoy2K29y0EccrPMVLfMNpAGARnn3496ypNG1e1kD2Ly+YGuSryXbOAGYeUNrnBwoI9s1e1pF1KO0it9UggVJ98rCccrsYYwGGfmK8ZqibaWBJFtNQjUm/FwG/tAEmIHAj+fdjgk46cYoARbPxgjAW0tuPMZnk3SB8MUA4yOgYZAHHXir9hZ+Io9X83VJt1okciJtKgNkrtJUAfNgNk9OeB1rKuG1yB7V4NXtp5pI1SZjJCoRgHJ7Y27tvOMnpx1q3ox1K0vfLvdUs5LBIiEQXCs27ORkk7vXv0wKAJP+EE8Kf9ACx/74P+NY/iHw34b0i3gkh0DSQZGcEzxvj5Y2YKNp6sQFH1713NGSOhxQB5wLfwbllbwlAj52KCufm3bdp54bqcdcDNVrePwu3kvL4OtWSVY1xEM4c5LfMTgjsB1zkGvT9x9TRuPqaAPMYIPC6FRdeFtPmMkiIv2VHHlksylW3E/MMKeMcN04q9oel+FtWuktJPCVpDP5HmyOvzIDxlRznvj2IIr0HcfU0ZJ6mgD//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APOTdp2gWmm79IVpgj9qXyqAHxOZiQUVcDPAqUxUtnF87fSrnlUDIYNPjlVTI8qtuDMqRFsQ4O6QH2x0qrc2jQSY2uEb5o2ddpZexx71rI6x28qGNzI4CrIJCNqZ+ZcdCDUF2RPOzorJF0jjZy+xey5PYUBY73VPhnYQ2Mkul61Nd3SKWW3NqT5mOwK9Pxrzry+cEEEcEHtXv+lXmoa89xGnkadFayGGd7eZZpZGHXyz0RfQkbvYda5H4n+GtN022sL+yhWCWSQwyKpP7zC5DHPVuOT3zzUp3G0eb2Uf7x/pVsx0yyT94/0FXSlMEUylMMdXClMKUAdp8K9Nlt/ElzOmiXWnRJaGGUtbNAjNuXGdzHe3BORwOeean+LN75uqafYBuIYWmYe7nA/Rf1qdfjho7g/8SbVBj+95Y/L5q868ReNbbX9futS+x3sSSFVjR1BKooAAOO/U/jSjGwm7kliv7yT/AHRVzbWAviawtIvMMNwxY7SoUZH/ANatLSdbs9Y8xbfekicmOQANj1HtQCZcKZqMpWjHFblB5krq3cBM1FNHGGPlMzL6sMGgZ//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Double Date</tspan></p><p
+          ><tspan template-id="title">GALLERY</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">FTIsland</tspan></p><div
+          ><tspan template-id="artist">A R I Z O N A</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
