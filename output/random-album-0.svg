@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOkg02P7Nyv6Vzj+ELjV7jUZ44QVgViCccYUnP511EMrSIpjwVHYmjT9atdLadrtXBliYBUPBJz1/OuWjG7NKkrI8B1IRyqsbxBJ9pwydGxzjHasBlrcvpR/aKSMPlRxuHt/+rNRyafFHO245KvnC85FdrWhmjCaNhzjimZz1rZntYZH3B2yDgjAAqlcW8UcZcOST0B4rO4NHvNpqEkWlztkblU4IPftV+w1GKW+0/QpbSKQzRPdzyuTugIIWMDtyQ2c/hXKWtwk0aW+SolkC5z+Oa19Ze103xdbyx7/ALU1ukLqrcEE/L/X86zoLQKj1PHtcjaPVLqI5GyVl6e5rSiVZYYLgEfPCuT3D45/UGpvHGnmz8R6goBG5g+PqAaxIbtlslX/AJ5uR9M8/wCNdWwt0JdXEQYyODvUgYXHP6c/jWVPK08hdgBnoB2qWeYNuz1NV8jFZW1Gz2fTPA+t2sR1PXJLezs4hnyi+92PoAOMn0z60zXmQ2El3I+J3cMGzzx0x9KPE3jyy1Cz8hGaPLh5Gd92T0AX0GB2rir7xPHLCY/MaY429MDFY07tjkaXiU3ninxGZYUjjLwRmV3cKinaAeT71g6tp1npiNFFfpdTNjeUXCLjsO5+pxWRNfyzPuMjYAwBuPFVnmLDua6XJWJsMflqToMGjPOcUY9agD//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAxH0p6RxFcu5B3AYA7etThP3RJ9OtJFGrjnrkDHfNUo3LsILWEpkSOT82Pl4OM4/p+dDW9uuD5shBx/B0q9Hppfy1Z9hf7qqck0XOnqluERQXLEgvkMf6VXIx8rMyVIVjBSQs+cEY4xzz/AC/OoamZMg8EMDgqe1REc1DViGa8aDyiC3OBx9as2cYEYACAr8qE/wB4kdcdc5/SpWtwLIyeWR+7V8Y5wP8A62aIWWzJLbWjGSCRnPTB5/CnCV0dEI66nYWOkWul2AvZHIhwN8yR7nZicAAdstwBWbbyWut635JadLeKNkljuPlZXyRwAeoxVOHxPqGoaZdaMllFLFPJG6vk74yh3ZB6c7TzVfTPKtLx7xlCxlWZGPU5xkE9+RWlCrN1LSWl/wADpruEly09u5n6xp7w37lD5jI2OmN4Jx09TkVkyQ4lYKDgHv2xXSX9xLdbpxvVjt4jPPH6DpWOYf3JcnczjJI9TzVVUruxwta2OoghP2aByqsoVVBHfjv+dV57RIYneQcxj5IgM5X698VoQGzaxgaSVC4jVnAfkY4wfQ47H0FNu3hVTtnhVSBtIcYyev8An3rgU2jqSW5ygS4tEke1bzI5UKBl+8o/+uOPoauadA6qkc0gWRQSkecnnt+PpV14oHBaSKAY5DrIOfw/pUhaGJCbd44iVGGQhT+YraNSzI5bO6MeVZLl3MgZEi+8m05z/IE/0pTGfJwFz8vU9uOn1q0m63Wa3im/dO+4ruHX1z1NI0oCSsWifGSQT94HPQe3FEqlyOU//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Open Door (European Edition)</tspan></p><p
+          ><tspan template-id="title">The Descent</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Evanescence</tspan></p><div
+          ><tspan template-id="artist">Cydemind</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
