@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBu9a+l6Ld3zxywQs0e/bkDPPpVbT7WKdXaQnI4AHevRfBtxFpE4XI3uuAVYDOenX0Pf0rWEL6synK2iN1vBf8AaS6fpEt/IbuW2kkt4whVMKRuHHG7np6VyPiX4Y6tohLGIshOQR2HvXpNprMOjfbr/WAft6W5NgsmEjgfkP5ZXI2ncoJyScY9K52w8aNNp2r6PeXCXKCT7XZzRuzAB/vISeijrj3xWsJqUuRoiUHGPMmeQSWFwgdzE2xPvMRgD8aqYrstSvmmXyXkaSHqIweMdhj0HNc3cW6rgRo25zjHX8qyqU+V6GkJ33F05sPgEkg7go74/wDrZrobc3cTeWYZM5BcouVKPjaS3ocZBrpPhHoelzSajrN1LaTXVjEPLtbqYRxlW4d2bBxhcjp3r1i88PaLqVxClw8T2Mt2l1HFG5jV4ltQVXp90YJwccH8KISsTJXZ5Xomn/25pV1dXUfmabYlTLu+baDzu6e30x61maj5811cbLVY7dYtilUWMMqscfLx8wB6Ad+le06foGm6Zb2drbCZopJPs053ZjkDQNOCVwB94gd88fSuatPAvh+XV445bzU5L6Zo0LzyRbtslsXBCYHyqUxx7joKpzvPmYKPucp5LDpd1fXq2cKMXbATj5cc9z+ua3df0ZNB0poLiGOK4hVW85sOzk5OFI6H+gzXucGgaPp1t8sG+ZYnCSMwBcCIOcDoBk9s1wfxcs9PHhp7eJNk8GprAxkb72Lfflfb5h19KbkmRaVzxfw3rEei35uph5iFdhgKB1cHrkHjsOvet5Pidq8epTSqIzaM8gitmzsiRk8oKACOAnA+ua4aiseZ2sb8q3Ork8TaitqI4tYuxHx8pnY7QE2AfTb8tR2/ibUF1tdY/tCZL2NPLhlVzuRNu0KOuAFJ/wD11Rk1mxls4IX0O0EkUIj85HZWc4ILN2J5z+Aok1qza1uYItDsohMoAcFmeMgnlSc8889uO1PmFyl+HxvrOmuosdQuBstWtIy8hfy4m6quenPOa1PF/wARX8VeGdOsZrVRfrJ597dDjzJAuwYA45UKT+QrgzzRUuTHyo//2Q=="
+          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Baldur</tspan></p><p
+          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Skálmöld</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
