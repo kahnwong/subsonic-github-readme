@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFRFxUkcDSOFVSzMcADvUoStnw5aLc6l5bg5YbVG3IOe9RUmoRcjop0+aSRpaF4SstTgZGuJXucZbYuEiHfJJ5rB13Q7nS5wXtnjtnJWN2zkkeueh717X4X8IaTY3MsTySS3EduAGbdtDHP3lBGef61z/xXsl0zQtPtS9i9xLMZLh0jZZWYD5cZJ+XBI+uK5aVWUpb6G9WjBQtbU8XkTrUBGKvyLVZ0rtOBxNsKqqys5jcYK/LnNdPor3EGJ/t0TiJ1228QBcE9CuOv09zXMYZWXcchjhVJwufeuq0JPtO2yglS3KLuVlwHyCMHzByMknjHeuPFOy1PSw6vLQ9Da28QOkmo6GDcXStkW7PhXj4AB3Y+bIJ65rzXxVqF3qWuzvqulz6dcxoEa2nkLqjHkspPY+3HvXv+hZsrGGCUktgEsxyzMRzk9zXmvxtg8vUdMutqBZYHjLFcklWBA/8AHjWOFSbst2aVpNyt0PH7mNUlYKNozwuc49qpuvNaf2Od493lkDqKpyxhM5z9a9Z0pJXZ584vew+7aVYi24nHOK1vBWrRWmsR+cFRJDsY/jkH86yS2QVPzbh0pba2Ak+SMHnpSq4dVU4odObjNSie8+JPGenwWdrFYzrc30EqS5U/IuOoJHXIJGBXNeKfE0/i+0tonsIfMtWLgITuwRg9TXCWySg/ONvoO1W7C/NuzqGG/qjMcCtqOEpUVdLXueg5J2ui6kcAOwIc90lH6Z7Gs7VY7eKGQbAvGdrDP61stq1rcWxFyqrdgEZyAGrntavx9gKyRrvA4IPNdMn7rJqSXI7n/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfBWdrfkrprPK4XaRtycZOf1rSrL1+OOTTWVgpkJAjJHQ5Gf0zSe2gadTJN1CZWiV/36vOW45xt9aQ3VlLaXTCQbRDEFABGXwe3eoXikYtFsIKyXLbux3Kcc0HyTFNLcRMu2GJYs5HzAEZ+lTdhyxOptZY57SKWJgyMowRU1UNEiEWkW67t3BYkepJrQNUtgFJAGTwBWVrt2sGnNhGcsQOBwOQcmtbFZGtWnmWYAztDDPPCg8VM+a3ujVup55Z38EmoyWlzeMxEjLxeOm3KlmJzwccZxxz7Vkr4v06fUoY4zqJl+0R2yozu8ZlB4GSclcdz69K5i11rU9U8QpClpEsS3fluZRjKE7S3YEjbuz+FXFvLu112S1tdPil0uPWlg+0EnzCWO7OO4znnp2rkXP2/E0bR7xo0yvpMLsQM7jj05NaVZWhRIdKgYBwDzhxjP09q1a7INtambSWwZrK8QNOuls0LKqhl35GSRkcD8a1ay/ERxodwf9z/ANCFOWwLc513kTfOZCyOboCIjhdo6ikVWF1FbS3LlZGgzKcAqpQnAPYU+T7F/aBeOKY4N158BfJAC849M1XRLP7fEVbfZGWDe0r7gMoxwT+lZXZVl2Or0MudHg8xgxG4ZB6jJxWjWT4bP/Eig9MuV+m44rVzWq2Je5//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Speak Now (Taylor's Version) [Reissued-2023]</tspan></p><p
+          ><tspan template-id="title">Då &amp; Nu</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Taylor Swift</tspan></p><div
+          ><tspan template-id="artist">Arvingarna</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
