@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCCmAh5+YZ6e+KXZjqaXcGEYGcqpB/MmlAoAQR570vle4qeKIuwA/nWodEu/I8/yWMeM7gOKAMQQ570NFtXdmrjwlDyOaimGYicdCKAKqfeqZRk1Cn3qmQ4IoA6Lw9pC6hdojng9ge1e6aT4I0+205VKZLx7TnuD614x4T1WGwvIpHZI2BwSeNynrXu1h4q0uazBN0m5AAQDTEeP+M/CaaLeyFMmInIPpXDXcWyJsHuOK9H8feIYdTvHSI5UcZrzm7bMLAZ6j+dIDPOdsPX7hxke56UqnmoywwoC4IGD780b/agZcidhzx+JrQj1K4hjZFnYA9QDWKJPb9ad5xzkj9aANOS4MjZLEk9c1BcfLAc9SR+FVluAv8ADn8abJNvBGDz70Af/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APUXsQfmUc+lNjhAqHxRqNjpmgXc+o3n2S3ZDEZgCSpbgYA5zz2qj8P7iy1jQnuLJlS3aUmKNTwoAAOB2G4Hj/GpvqXbS5s7Koi+ifUzYiKfcAf3vl/u9wGSm7+9jnFM8Qa/baFBfzNH54tbBrzCvguAcAdOAScZ9a838OfEv+0fF4a80q6FvMWCi0HneUeBuIxk8df8KG30Go9z1JoMmnx2IHzMOew9Kz9C1aXUdR1KCaK3UWzgRmJyT951IbPf5Acj19q6ADIpp3JatueS/Gm9e6s7DSIpFjzK08u49dowvf3JrL+FUOr6NqTQOhaxuYJHVwDgM6EDntuKL+QroPHegT3NzqutEsVis9kUTSfIxAzuwOhHOfXPtXC+H9XudTtLmzt4ZppYbMSmZd4LlSSCFBxyf5VjN1V8JaUb6m9LbyXF9fXl5YzPZXJnt0/0lHgVTGFZxgb1JCYXqN3IrmPCt54g8NPPsdIvNG1wxzubYWVSRyDhSQO/Oa1rm8e0js7u2haJLjTprySMuxBGScYyPus449qoC7lbTVuxY+TBqEb7BtJDSL/Fkk5zyOnfIwahSq7NFWjumbOmaRqWn/E+zuWEjKPLkZ24JUqA2O2Mlh+de0pdDcqlDljgfMK8N03xOJtUs5JbWcQzo80Id2yACVYAluRkE49q9T0PVdLuZAIr+3kuGGViMgDgf7p5zVwdV/FoTJR6GF4/vWPgzVBGxDG3YZB7d/0rg9DtbmJtGm0maKGHULGKxuJGjDbDneWwRjoCPrXWNqcVzAROsbxEfMJACCPcHtSiaK6lYssUUBHmGJYwB+Q6dM4FbmZznxAtfsGkQGy3mIwrp0HmOGbLyb2Occn5VHtzUHirxFbHT08NNZ21o2lxxyRTq4+YbACMd2yegrZ8QRXesS6XFCI5ILO/imlDsAAgH64/qK4O70HWzf6gRp9zmQFWdHDCbLZJz2B447UrDuzpYJF8/wAB2sdssctvFJuypyysMksRx3Jr0QaTo89zb3s2nWxuoGDxy7MMrDoeK4nw19u0rRo7S9kQyRnKJksFQ8hSfUHNa410YAyRzjBPT2oA/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Untitled - EP</tspan></p><p
+          ><tspan template-id="title">Änglar och en massa kärlek</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Arvingarna</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
