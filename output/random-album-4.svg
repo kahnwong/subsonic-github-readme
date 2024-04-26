@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOkg02P7Nyv6Vzj+ELjV7jUZ44QVgViCccYUnP511EMrSIpjwVHYmjT9atdLadrtXBliYBUPBJz1/OuWjG7NKkrI8B1IRyqsbxBJ9pwydGxzjHasBlrcvpR/aKSMPlRxuHt/+rNRyafFHO245KvnC85FdrWhmjCaNhzjimZz1rZntYZH3B2yDgjAAqlcW8UcZcOST0B4rO4NHvNpqEkWlztkblU4IPftV+w1GKW+0/QpbSKQzRPdzyuTugIIWMDtyQ2c/hXKWtwk0aW+SolkC5z+Oa19Ze103xdbyx7/ALU1ukLqrcEE/L/X86zoLQKj1PHtcjaPVLqI5GyVl6e5rSiVZYYLgEfPCuT3D45/UGpvHGnmz8R6goBG5g+PqAaxIbtlslX/AJ5uR9M8/wCNdWwt0JdXEQYyODvUgYXHP6c/jWVPK08hdgBnoB2qWeYNuz1NV8jFZW1Gz2fTPA+t2sR1PXJLezs4hnyi+92PoAOMn0z60zXmQ2El3I+J3cMGzzx0x9KPE3jyy1Cz8hGaPLh5Gd92T0AX0GB2rir7xPHLCY/MaY429MDFY07tjkaXiU3ninxGZYUjjLwRmV3cKinaAeT71g6tp1npiNFFfpdTNjeUXCLjsO5+pxWRNfyzPuMjYAwBuPFVnmLDua6XJWJsMflqToMGjPOcUY9agD//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDIjirkKCZipbGBn8M8/kOaox8Cpg+OhxWLibJl2ey8qSGMMWeU4AA98VNBpSzthZs84GF6k4A/Akn8qhsZrYS7rxZpAB8oV8frUl66R7Ehjnhbb829j8wzxx6VGt7GllbmIri0SGESK5bJA6eoP+FVCakaSRhhnYj0LGoiapJkNkK1IKj6cHgirE1tLbmNXAzIoZcHPWtHYlJtFjTZPK1G3dYhMyuCsbdGI6A+1afiDWpNYjs3uLcx3EYdTIesi54/756fSqOo26abqIjVNjIsbgM2ecA8/jVy+v4ta1S3VLSONTsiWGEbc85J+pyefpWGkpKdjezjF029bmIWppNW76ye3mm2Ry+VG5UkjITngE+uMVRJraLTV0YSTi7M1ptMifHky5YthmduMmug0XThNqSWt4dtnGpl/e4LIAO2eetY1m6PeKl3EyxEbXWPPIrq9Wu7bULS2t7GzaBYiH81uSTjGAOwHPGa8+rUl8LZ7UaMI6xRxniD/kIKxO+QqSXY8sMnBI7cdqi0MNLrVqRIsZRt29uwH86r6m//ABMpwzbirbckelQwziKZZAAdrZwRXbGP7q3keXOa9s5eZ3+vRSQX8traxmWEru3lgA24ZORWVNoOntZfa53jtJXOI4Q5w2Op74q9pLWsumnBLfMeozye5I547VQ1G3e9vQkLfuIUADqpwT1PWvPhJxfLe1j1nSjLWSuf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Open Door (European Edition)</tspan></p><p
+          ><tspan template-id="title">Ah Yani - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Evanescence</tspan></p><div
+          ><tspan template-id="artist">Saif Nabeel</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
