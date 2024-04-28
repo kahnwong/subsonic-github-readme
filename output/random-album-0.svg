@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcQfSgsagD1FeX0NhZT3c7FYoULuR6CnZvQCeaYwgEQzS5/55LnH15pYpTITmKWPGPvrjP05rx3WPHuoapdMbO+uLGFT+7ERAz9e5Na2jfE+4E8UGrQIyfdkmjXaw98dD9Biup4Ooo3M/aRuepUE4qJJFdFdGDKwBDDoQe9OznvXIaHKPr8KDmQD86xPFWtpeeFr+COTLOg4743An9K4+XV4By1wD7Kc1nTa4zZEMYI6Eyc5/CvWhhbNMwdTSxpeFoba1Q399aRTxltqmUjav1zxmtbxA/h/UdOum0q0txJFEZBJCwGG4yMf5FcdpcMV3exQ3Mii3BywZyoHIHy+/NO1y1t7W8AtVVYnBK4Yn+fbOcVu4J1d3f8BJP2fN0PV/8AhMtL0mytYLm9QSrEimOL5ypCgc46VpWHiix1KISWt5G4/uk4YfUHmvAxx/8AWpynBznms5YGDW+oe1ZL5SL95JD6mnq1uGAjX5vV+lMuWJJGT1qvXZa5kbljfQ2s6zmESsgO3C/Luxx+FQapNFf3vn4MS7VUkgjOFA9PaqUN9c26bI5mCf3c5FE99cXCBJJWKjt0FR7O0uYvnfLy9BpSEf8ALUfQAmojjPFJRWpB/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APE7e2Z2T5E24HJHGMdSauBIU/5ZI30HFNj3LCmzOCoyKvx2bm3R1jZpXOEQDGR3J9KAKgjt5SwKwx7eobr9PrT5I7eIoFEEu4cbev4jsa3YtB1BIt0mmGSNgDGscq85PAOOep/Os69s5Lec/aNOkgK8lHbAyPw+hoAz9sL/APLFF+oqlc27Rs5MaY56Dj6g1rJbNJZtNhjKh2yLt/UfnVWRWkgfeThQcCgCzaojG2VmKrgZIGSOM07UZ2W8s/IkILBiTz1PB/wqO0YI1szKWXgEA4PSpNQEUF7ZySgiJMqx98g0AdNp2s3wheztbAySQsGDq7HGCMZH1qSbxHqtuWGoWrL5srSMWADEnAPBHQYHT0rG0fVDBrBuoz+7Z2GcZ4PQfypfEeqR3N4ZAw2YAzjHPpWDlU5tD040sO6XM2r+ut/QqW04a9vGkkLchskYyRwOn4VXuFRGuVVty4OCRg8ik0zZcXV3IuSrYUdeuSaLxlc3DKpA6YJyRW55hWhLPDHtzgKM1alkNxYiFvndDujzyPoaxre5eN1w67eOGPGPSrnnxvj94i+vNAGlaB5I0KGBWA6KsW4dPxBp2oCYB2l+zMxBYDZFn+XJrJlkjBBEy5PUq2M/WlR4hhvOXd6s2cfSgC9DIbew8lfkdzukI4H0FV5CY4ZN2QCpxTPOiXP71G9MmqVxdPJI2XXbzwDxjHQUAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Na Medida do Impossível: Ao Vivo no Inhotim (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">Vehicle of Spirit: Wembley Arena (Live)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Fernanda Takai</tspan></p><div
+          ><tspan template-id="artist">Nightwish</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
