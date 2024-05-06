@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDAMnGcVr2thFLYA+SGuSzjBbHHGD1Hv2Oax84rpfD1zaqc3SBjGCVYYz04H0zj6VMttCoPXU3rTwglwheO0YxBtqlSx6jp+f6VnX+gwwXt3YoiPPaHZKC/IbHYg44NSxeLdY065u3s9Sntbe/KpceQAWVAOCmR8pxkZHOKzdIMtncXB+dY/MGC/wB4jHOR9MdayipLdm0nF7IpajpkNvHIInVniZVOGyXBHJx9fTtWU6bDg/e7j0rrPE0Wn6c2LeVbi4cZ3JgrHntnufftXIbw/Oa0he2plU+LRGjp2+SUACHH+2gOfat3T5Lq3E1xfWdt5SJmMeUFLnoNpHPXk1g2LIkyM+AoORmr+sassrJFERsj+b/gXbr14obfN5BaPL5liG2upLQ3hjgERfagaNcg+nP8zTvJv7dUlEcIjlG5Q0Iw2D9aXQ9Xhgd4bqMzpHJ5gjQ/e46d6XU9YTdBa2qOkcKuwD5LAE5ArHmqc9uh0OFJUk1uN1Ce/Q7VtrMRGMNuSNSFz6n/ABrGu7iRJWA8rHbbGP8ACtnyWawgDysUkLHBzj6jjnp0rCulKu3HBOR9K2i7mEo2WpHE3yse4HepS6SRncuGH3QvrVVW421bjuo44GRoVYk5DZwR+VWzNMjSKKW/j3SmGJj8xXnbz+tK0ccGoPtm82JSQjtxv5xn2qZb23+YfZ1TJBJJbk+vH8qGu7TeCbWOQDkHcwI49f1x0qdblaWNP+2z/ZwtBBtUHlT/AC/r+NY1xIpYgKR9TnFOurxJ3Vo4BFjOcMWz+dVHbccnqaIxUdhym5bn/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">The Quantum Enigma (B-Sides)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Epica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
