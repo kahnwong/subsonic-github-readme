@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAKgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAUikkzsRmx12jNPNtOBkwyAYz901Z0m7NrfISxEb/K3+Nepan4dtLn4e22uaf5iuHa1vlLlgrdAw9B0/Osp1ORpWO2hhoVYX5tb2/y+88fqRIJpF3JE7L0yFJpsiNFI0bcMpINel/DXwzFqnnSagZF0+1ga6uSrYwMfKAfU4zTqT5I8xjQoqcnzaJHmzQTIu5onVR3KkCo63vEl4r3Bt4QUiLF9mScA/dHPtWDVRbauxYinGnUcIu9gr274P6nb6tDfeGdQkH2fVrcxjJ+7Mo4P1K8/VRXiNb3hTVZdL1eKWF9sqOssRzjDqcj8+RSmtLmmFl7zp3+L8+n4ljXdCmtfEhtZ02usjRzegZDhv5Z/GvV9TVPB/wjt7ZgEv8AXX8+YDqkCjIH0xtH/AjUuu6FF4o8Y6JqlouLTWkWWcgcIUA8wH04FcR8WPE/9s67OIW/0aPFtbqOgjTqfxNc8aiqNRO9uMU5/wDbz9Vol/4Fc85uZjcXMkzcF2Jx6VFRRXWeO227sKfE5jmR1OCrAg0ypreWOGUtLAsylWG1iQASMA8enWhgnZ3PS9J+JMmj6LJpdvNbNGxfZI6MXi3jDbTXnur3K3V+XSQPGFAU1KdRsN7t/Y8GGbIHmvhRkHA59ARznrVS7uYZ9vlWcVvj+4zHPJ65Pv8ApWUKUYO66nTWxTqxcbJXd9LlaiiitTlP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGLe0Vv7n5V0VlobecsTxorkgYZfXkVzdrcMz4x8rDFdrbazFc3YdIG/cgFMAKWULht3PXIyD+FcdVzWx0Q5XuX00RLdMMkR4J/1fPvVW+0fMb7IIyOQT5Y9Kma8uDYiRRciEHiRowckjAGDwRgc89x6U/UJTYSPaXcM0ZJEwUIMgFB8oJPHOelYLnNXy2ONv8ASXilVPKG+TBRQvLZ6Y9axrm1aCRkcBXU4ZSOhrs7rU47eVEkil8y3ddjhR8owN4689Mg+5rj764El5O6g+W8jMuRg4JzzXTTlJ7mE1FbFnS7cyTRjBAJ67Segz2/zzXTWR8v7FLCDHvgdXLEep546jnv7VkaQyRIsnzK0WSuZCMkjBIH+elQ3OpusEMVu25k3KeOoIrW1yejOqtNRN3Jp9pLJGisQpU5yVBwQfT7prS8QanpougX5lZB5JQdD8vH5D+dcBEkjSi4DOsuDyP8+5plx5gQE72YdCe36Vk4JvQ0jUsnc6K/Ju/tE7tvVlaXczEtkhQBgD0x145zXL3tsqSMoYEqSvHtWhJq/mTjnCrDGu3oMqAf6Ul7Na/YYY4Fw9wVnlfJ2qxUnaPYAgVaViJS5mZxulazVFf5wmD9d5P8qLWFGcl5o4/rzn8jVBSy8q2D9KlW5uR0nI/CtLGZrbY1JH2uDH0/+ypGEWM/aYWPpj/7KoYbxFIL3U5+sSkfzprXau/zXc6jP8MQ6fnS5R3IruNASY3jb3BA/rVc3DqkSbvuA989f/rU0zzk8zH8qYdx6tn8KdhXP//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">VVIP - EP</tspan></p><p
+          ><tspan template-id="title">Muhteşem Yüzyıl: Kösem, Vol. 1 (Original Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">승리</tspan></p><div
+          ><tspan template-id="artist">Aytekin Ataş</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
