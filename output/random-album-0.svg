@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOPb4XW4Py6tLtHGTAOfXv2qUfCq2K86tMD/ANcV/wAa6e5mN1ciC2nKRxKd6xuUbjoOnTr+tbEGRCoZizdyeprkc5G9keep8LIC7K2qTDGMfuV5/Wlf4VQY+TVpd3YNCB/WvQZpYreGSeZ1SONSzu3QAdTXnN3491m8uJpNKsIxZxo0gMq7mKD+MjPT6U1Kb2CyFi+FinmXUpB7LED/AFqQ/Cu2zxq02Md4B/jWt4Ysddjur291Od/mOPIcnDNgHcCegHT0rozeHy8mNlfrtPpQ5yXULI8+sfFr29i+ZAZ2BBEgJLcdR/ntXRWHjXTTbE3MxEm4/KkLnj8q5XR/GunaXZwRTaLDqEqRlGe42jbk5wvyngdR7k1ek+ImmtPDJH4X09QjOSpCncGKnH3ewBA9M1o6aZPMzc1vVtM1zQrywjvDG0yYD+W/BBBGeOhxXmmnWV4kgmiuhBIJRBh852nrx3HTjvXU6j4507ULHyI9Fis2VgT5LLiYcfK52g4GMj3rCfXoi7MbZSCQwGRwePb2oUeXRDvc77SdcS2hjtXeS5gbLm5fcCM9tpz36AHGKXWb62vxbxJK4j3liEOxmYAkDJHA681wsHiWGGfzTZRkAEbd2ByAP6fzouvFAngeFLOCIMfvYJbHI6/Q4zU8nULnKZNG40lFaEi5NG40lFAC7j60ZPrSUUAf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEUurJI4/MgEjYG/bkfrn/OK0Uh09GO8QhWQAh9wIPB456nPJ7CsyPSZXj3s6IpJA3Z5rf0nwFqWsOixzxqueGfNS2hpNlK4W0IRorhIwc7hkMAAB+PJzWLOAJ3G5XwcZU8H6V6bd/Bqe1tvMOoKW46KSPfsKsWnwhifTGuG1SQSKCdqxUudIrlbPJcYbGKZXUa3ofh/R75bb+2p7pwQJRBAD5fryWAJ9q2m8GeErrTra40zxdJPJIxV45LMqyY9s/1quZbk8rvYWztba52tLj5ecZ6+1d74e1OO3aJoIYxEMhj3yK8utbgGdWQNhSOPWuottReNM7gnHJNYSuVGR6jd6wl1AYUdVmfgZ7D1+lRTu1v4ZvWe9hgYQOPMY45AxuwOvJB49a82u/EFnaRhpJ2LdcRnLGue1DxdJfu0STTxxsu1Szgn7wJPsSFX1qHGUjVSS3Ni4+Fw1XwQ3iXSbpUubVCt9YyOrbZEJV2DZ4yV3BT/ewK8800z/adkIJPXArq7bUoZ7eay0u/h0T7Tam2v/tRcxXShi3mZw2G5xjH05NclkW124tp/MRWIEm3ZuHrg9K6VcxY+LUZY2JBQfhVoajP5Py3CgHkrismTls1IskaoN0Ids5yWPT0p2JJXBuCSZPmz6UR2jseDlfWoknCH5UI9fmzVo6ggIZLdAMEFcnB96AJyhVRllyOmBzUT5Ckkrj2XrVY3WUICkE/xbjxUBc+posM/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Meteora</tspan></p><p
+          ><tspan template-id="title">Embrace the Storm</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Linkin Park</tspan></p><div
+          ><tspan template-id="artist">Stream of Passion</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
