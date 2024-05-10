@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFfMPluGbJfr+FRq21gGBI7g0r7RwufxFMpJXKuWYLmW3dzA+0MMU7zHmtjENzNnK5bpjr1p+nXlrZM7zafBesy4VZywVDnrhSM8etbMt7o7xvDe6RbQiQAh7J2WRPcZJUj/ZI555FS1Zjuc2wDfMWy3ekUkZGOtXr7T/sckTLKJrS4BeCYDHmAHByP4WB4I7H1BBNcoiZ28mtdGRdkDqQAcc+1dD/YdqPA/wDa+52ujdrFtJwoUhug7nIFc8zEvya2bXU7u90VtALo8XmCa3Vhg7xkbQfcE4z3HvVSjZCTMZW25BGc05kycj64zyKIlKzYdSCvUMMY+tPlfM2/739Kjl6jv0NSGV7vwtdWzv8AJYzxzxZ/h8wlH7Z5+T8qxyTng1uypFpvh+NbgsLzUXExi6eXCmdhI9WYkj2XPcVikAnIOefyoQEPXmjGMU6MKZFDsQmeSBkj8KkK2+Bh5ATjOUH4961b0FbUvRarGwb+0LJL1mXAlMrRyD/gQzn8R+NWItZ0+0jZ7XRoftZzsmupTMI/QhCApYerA/Ss6K2SRWbMgIXIBUdfz6Vo2ejRyKJJy+0n7uB/jWHPFaF2bMm5ubi7nkubmR5ZpWLPI5yWPqTUS+1dLJo0Ej8uyjAAG0f41l3mnMtxN5a/Ii7icYAHQD60lO71BxP/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+il2N/dP5UuxsZ2nA9qAG0U/YxHCn8qlgtJJsEA4PT1P0oAZBbyXDERoW2jJwOg96cLVi23coPucD862BFFFpq43iMYMi/wB5qkNpH9nEzWxCDltrksB369alO42rFzQvCfiLXtJW60+zgktTIYwzTqhLLgngn6VoH4eeLFIb7DaqC2V/0tOv51xlrq+pWUPk2moXcEec7IpmUZ9cA1OPEet/9BnUP/Ap/wDGnYVzrbvwjruj6fJf6xb28NjEArusockscAYHPWsayvNO+0lfLlICNtIUdcHBxnNZkur6newmG61G8niJBKSzuykjpwTiruiLAn2q4nZ1EcYwRjGSeM575+lOwE91qZe9SLykIGRGwXAZm43EevStezuZ9OlgjudHjkKHcX5bIIwCOcdcEfSp9M1Lw7JLI72UgjlJWWN5BgnHLLhdygHkZ6Vbi0zVWtYoXWGOK4DFUa4GUUZIZsDIBwelTyodzy6iilUZOKoRchT5KszhLdEtmyZX+dwvb+6v9aZEAkO52CgUQbLq6SGIAO5wGbjPt689KAO0+H15pltrsaX22QyRARI4AAl3fd3ngZ46nHrXaX9jaxeII49T1K1tYh+8MltOGMSqWbyx6Z3jJH5V5bbQW9vBLDONwODNCPvIOzrnrx/UEYNZn9plo/s62cOM8HaAf5UAf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Break From This World</tspan></p><p
+          ><tspan template-id="title">Love Death Immortality</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Globus</tspan></p><div
+          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
