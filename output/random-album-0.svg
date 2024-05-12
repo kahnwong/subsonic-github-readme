@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIoYUaCXMbsxxtZRwuOf1FTiC2kkULFPtdxsAYZK7gP6N+lQwWz3EojjxuIJ5OOgz/SmKFI5XINbCJ0trf70iy4DFjt6bBw3vnOKasNuuUeKVnjibzAGx84PB+mOoqWK68uNEFvCSoAyy5J5J/r+gpGlDxOn2eIbjncAcr9Pb/GizFcYLWEgM0MoXA6N/dB3/rj8KhntEjh3BXDh8HPTBGR+P8AjT9mB0pJYHjVWYY3DIHfFVYVyxGrRSJJGxDqQVI7GrkulXs0Yuo7CURyuQAi/Lnr+A+tZsrEEhScdj6UwXl2sflGaRoycldxwfrRcqKXU6KDwvcyIrs6BTjJj+fb+I4/LNbq+FbC2tAwcXLnkSFiB9MVxsWrXgURpMy8YA9B6CpBc3TL89zMfYuaYTcbaI07ueysC0dpBHJcn70rLlU9lHr71hzFpHLuxLHkk1IQc5zUbUjNu5eaBJPvqM+uMVA1kg5U4PpVs/WjzCECBVwM8455ouTdlRYh0cAn3qYORjIEgHGH9Pr1p0kvmAhkQc5+UYo889fLj67vu+2MfSkFyCQgsdo2j0znFQPU7yHYV2rjIOcc8VXfkUAf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAkTcalEPHTmp7O3Lkbs7fpXa+GvDmm6hMPtzTKjfIoQck5HOfwI+pFRKSRpGNzioLJpWACmtE6fIkPCsc+1es2XgzTdKjDXyDz+VaJQW4/p+ODitBtD0e8haC3iMLsPkWRcFj6Anjn61msUtrHR9XXdHgMtrKrsChyKrbW9DXrOseGIYrF/JiJdARKcYxxuP0AH6kV55dWIjlO0kgHHQCtvaJmMqXY29AtrZ2XdOAe/wAv/wBevavC+maHbWMd80n7yNHdQQow+OOvT/PpXz9p9wURTnGD0zXq/ha/tb+G3srnaFmkQNI7AKqLyy/U8VzVF7yNYP3T0W9msukV3EgQIXLjdl2PIHP8/eoLeezmeaKaaFrcbwjhDtZR3znP6fjXOskcpk/1as7ktGyjKntnPfFRuiRR+W7RDI2bcDOCen/1qEorYV2afiSDTZ7NZVlbzDCTKxYYHoMdzwPXPFeL6xZwjLK+SevFdx4ku1huhZL9nBWECWQxqSH7gHtgYH1zXnl5uDOGZcZ6jvQmr6FpOxi2Mq5IYDHvXXaPepABbOAYjy2Tyf8ACuDjcqwrVhvhGud2DV1YcyDCzSep6vFq2juiR3JEgC7ULuQyjjA3Ag4/OsyfxBZ2hcWMIguMY84OxdR6gsTj8MGvOm1Es4IcgjvmmfbCqkCTg+9YxwzW8maVMRBv3Yo6C91BmGXf942M81i3Ey7W+bg+/NUJbpmbO8nmoGkZ8kmuiNOxzyrXZ//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Rise Again - Single</tspan></p><p
+          ><tspan template-id="title">H.E.A.T II</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Apocalyptica</tspan></p><div
+          ><tspan template-id="artist">H.E.A.T</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
