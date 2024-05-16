@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APSs8YwPrimmlooASjNcV4g8cz2GutpGl2aTyxbVmmlDbEduifKPQjJ9wK3tC1C8v7QSXsCxTHqqRsqjnsW+99RxRcdjX608lNuApB9c0yloEFBZUUs3RRk49BQTTHJxQB86N4lvJtY1LU7e8uLT7VcNKUhuGXrn35+XjmvbfB+rtq+jK067buAiOYYxnjhsdsjt65rzf4jeBriK+fUtJgHkXZw8UfBWTBJwPQgE4Hoau/CXWhFNNpl7MVmuAHt8jiXHXB7ng4H1qdmU3dHreaWm4p1USFMcNtO0AtjgE4GarvJc/wBooqpJ9nAw2EBBJ75z0FWjSTuVKPLbzM2WK+nmjfybdBEdyB5CwDf3uADkA8fU1DLo2nhYpJ4YkeH7skY2ncWyf1OfzrYqMxK+N4DY9RTJGC7h3FTMmQM53CpI5o5QNjgnGcZ5FRS2VvKrBowN3UrwaIbC3gJZF5Pqen0oA//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AJM5pQOaeqZqZIag0IW2qjOxwqgknHQCo4ZVnhWRDlT0rG8RTTQX6iCa42Iq+bHGpK85Izjtil8JXyXrS26s5EcYI3L0O45H60+gdTaYGmGr7w4FVZE20gJ4wMVcjQAe1VIjyKo6tf6jDMsFlb5i2BpJ93Kc9lHJ49PWmBZ1mzlniJtRGZChWZS20vH6Z+vY+tZHgf7JHbXMDKsF/wCad8DHDhQBjA9P8msq8fULhbmNb66i8yfKBIlUnABZm43DjHeo9N0+S4uLq6S/uJdSSYGREcL5qtzh2HI5x39Kd1y7hyvmtY9AkXis+cU6ya9E8sdw6ywBFMcvGWbvyD83146UtxUobVgjYLTPsUJu5LwxBZcj5kJLOAOBjt+Hp74pnzMuFYqc9cU+PzVBzNk54+QcUxdAvbEXlr5dwgu/LXcgkcqZD1wSuAv6570saQwr9lhhgt0Z1BQRHJ3ZJ3AYGeCAwJwaUNMB/rV/74/+vS75c8SL6fc7fnSsNu423s7O0kaaCzitpHAVhGSeBwAT3pJGBNIxlGQZF9js6VVlkZU5IY+oGKLCvc//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">คราม</tspan></p><p
+          ><tspan template-id="title">In this moment we are free - cities (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Bodyslam</tspan></p><div
+          ><tspan template-id="artist">VUUR</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
