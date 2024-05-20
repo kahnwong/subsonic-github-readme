@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDtTGJIh/s0jgBLUe4qxf27T3MIyFVhjc3Qep/Cp7iyVTCVWQxrkqQPvKDgE+5IJ9gKADXASF+uP0qlD+4PliHzWcDBGf09aua5kBT717Z8LrGGfw7aT/Z4yVQAMVGc9+aAPHrfwxrl2huLfSrtk5+Zl2g/nisyKAwatbgqyMJNrowwVYHkV9UatPawQDzpIIwQQAzgZ+grwbxbpU//AAld1dRQqsMbRzuQez/KD+dAHH6tI4eOPd8oXpV6PE9nAS3LEMQTwAOpx36/jVW+aAzYmAPyrjrnrz+lTrJZm1iiyAoLNnB3EZ4Hvjjj60mxk3iAZ3LgABhjBzj8a9B+Gdvpl54dkupZpkvLTcrBLhkHAyp4I7fhxXAam1p5KiRj2BK54Oeo9fTFVtC1t9Hv5NryCznO2VUJHy54NAj6OGn6NPqE1zcW8Ml6oVy+AxwRkfSvK/iBrgXVG0xEKvcSwyMRjGxN2Ae+ckH8KG13StM07daTQvKMG2ht8lmY929+2OfrXJ+I4p7e/sZ9QcfbZd0kyA5MYONo9uKYHP6g26ZfZRUbv+6iGeRzS3n+vx6AVETwMnHFAF6W5a4UK5w38OF4qkGPmYJz83OafkNEepbsKiIIJHcUAaWm3t7YXLzWJEcmCu4RqxH0z0PvVO4mnlkd53d5GbLM5JJPqSa0oG3RKw7iqeoNnYPrQB//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA6kjyWCjuajqRFLdPvUIbNIaVKbA3AGVSUxsV6dM5z6dPxNVPszk7VXnHeu38IW8N/bT2086xQKPOO9SclRtCjHqWXn2HpXP38TpdPwiMzYAj42n0x2rf2atcw9p71jPsdO3p9quQ6WyuFLbcg53cfmuKovE8YO4YrutWvrW1a0jW3RrdQFWHoRgsQzDpu5z+NcNNIZHdsbQzbselROKijSEnJk9nbNNHIwiMgX7wU4OK7jwD4V0/xA89nNK8F6WURhwOV6nHvjFcfpF2LaQ/NjPB9xXb6VqVrqF/BNp8ptL2IggOAN2PQ888VrSjGyZlVlJXR2Oqw2ngZLTTWaKw+03+77dLCshhiVSSVJB5Y7QP+BVxFjp0viLQbma0toVlW7d1kIw7ruUjcehPzH2wAK3fjDqzazdaOtv8A8sbVpLjaScu3AX3wAfzqK0sHsPBOl3SDzzc26SMFfa8WOMjbg9MYzkVUU5T1IlaMNDza/imguJFlYtKD8xPXNZzZYknvW7qc0TXUsijAZj8r8ke2fzrFlAxkd6wqKzN6buiJWKnIrT0zUTY3QuQ37xSCpzzWXVtdQlAAIQ9icHP86y1N4S5Xe1ztbjxdbXFozSqryu6lRwCqjqpIFQy65K0CQx3AltVUIgkIBRR0BxXLpqCc78n/AHV/+vQ+oJ0QkDvlc/1rRVGiWk1ay+4tahLboNiSBs8nHrWK7bmNWX1CVtwAXngHBqpUuVwP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ahde Vefa</tspan></p><p
+          ><tspan template-id="title">Castrato - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Tarkan</tspan></p><div
+          ><tspan template-id="artist">KAMIJO</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
