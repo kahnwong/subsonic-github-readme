@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KiuBIYG8mRY5MZDMuQPqPSuZtvEmo+dKtxbWsi7ysPkOxaTHXAwauNNyWhE6kYbnUnfuAAG3uSaYspM7xkphQO/P5f1qvDqETWsc88scJZAxQuMr7H3rMu76G6uEFpIxkAyrbcjB/pQoN6A5re50FFc23iC7gjO+1hl2YDmObLD324/TNb9u7SQK7tGxYZBj6YolBx3CM1LYWc4gfkAkYGfWs3R9PWGLz5GV5WyoZU2DGcZx6+9XNR2jT5y8vlKEOXx933pmkypNpkLI28KCm7GM4OM0K6hoDSc9Tnholpqt/KkxYTQqIwynGAMgAZ9KvLoNvZ+U8PmM6YG9j8xI6c9arXWl3Fjrs+qKGkgY+YCnVDjByPTjPHvmuis7lLy0iuIyCrjPFb1KkrJp6HNSpxu01Z3/AKZj6ls0++gu2izFOcThT3A4OP8APStuB45YEkhKmNhlSvTFZuumJYIy/kb2bYPOTcuD1zjkVc06EQWaRqyGMDCbM4C+nNYy1gmdEdJtDdSnEMCqdg81tgLngHBP9K5zTNVl0uY291DKsJ/idkY8DA2heua6e6tEuzD5mCscm/aRkNwRj9f0qneaHb3JZkJiYrgBAAB+lVTlBLlkRVjN+9DcqWWv28cLpcSSSSBmcuFyCCSRj2xgVn6T4itLS0ht9nlodz5znG4sdoHb05x0q1/wh8Hl83LmTGA2APr0p0XhGGEAx3cgbOWJRSD68Hpmtb0bPXcxtXutNileXstxM9+zRyxxH/Rok3gt/st2B6Z5NdXbK620Ykz5m0bsnPPfmqzaXC1tLAXkKSoVYMc8/wB761at4jDbxRM5kKIFLt1bAxk1jOcWkkdFOEottn//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AODoopDkdBmgBaKTLf3f1oyf7v60ALRSAk9Vx+NLQAVi6xDNAFnt7i5G4kGNWJGcdfatqk3j+8PzoA5eLWLqziMbMZWZd2ZQQUb0560k+rX93bIse1CDktE3zN+HpXR3MEN3A0UoVgRwT1HuKLWCGzgWKLAAHJ7k+poAytFiuZ1eW6nuDtbARnIz71uUm8f3h+dLQAUmF/urS0HPagAwv9xaML/cWk59qOfagBcLj7q0UDPeigD/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ô tour de l'eau (Live)</tspan></p><p
+          ><tspan template-id="title">The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
+          ><tspan template-id="artist">Hans Zimmer &amp; James Newton Howard</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
