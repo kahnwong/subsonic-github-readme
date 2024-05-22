@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+il2N/dP5UuxsZ2nA9qAG0U/YxHCn8qlgtJJsEA4PT1P0oAZBbyXDERoW2jJwOg96cLVi23coPucD862BFFFpq43iMYMi/wB5qkNpH9nEzWxCDltrksB369alO42rFzQvCfiLXtJW60+zgktTIYwzTqhLLgngn6VoH4eeLFIb7DaqC2V/0tOv51xlrq+pWUPk2moXcEec7IpmUZ9cA1OPEet/9BnUP/Ap/wDGnYVzrbvwjruj6fJf6xb28NjEArusockscAYHPWsayvNO+0lfLlICNtIUdcHBxnNZkur6newmG61G8niJBKSzuykjpwTiruiLAn2q4nZ1EcYwRjGSeM575+lOwE91qZe9SLykIGRGwXAZm43EevStezuZ9OlgjudHjkKHcX5bIIwCOcdcEfSp9M1Lw7JLI72UgjlJWWN5BgnHLLhdygHkZ6Vbi0zVWtYoXWGOK4DFUa4GUUZIZsDIBwelTyodzy6iilUZOKoRchT5KszhLdEtmyZX+dwvb+6v9aZEAkO52CgUQbLq6SGIAO5wGbjPt689KAO0+H15pltrsaX22QyRARI4AAl3fd3ngZ46nHrXaX9jaxeII49T1K1tYh+8MltOGMSqWbyx6Z3jJH5V5bbQW9vBLDONwODNCPvIOzrnrx/UEYNZn9plo/s62cOM8HaAf5UAf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdcUYpcVjeLLy70/wAJateWOPtUNpI8eRnkKenvUiOD8SfGvTNJ1Z7PT4Y7qKJzE9y7MFMoOCqgDlR3bp6Zrs/CHi6y8X6bJc2yNDPA4juIGO7YxGQQw4ZSOQf5VxXhPR21T4S22mNpGkyyXFurxE3I3yq3LS525Vg31xjBrj/AGt6p4e+J82h3FzZraXE5juZEACSFd20r/dJP5596m93Yrlsrn0PiilopiErlfG/jLw94X07yNbncvdoyR20K7pJB0J54A7ZJArqK5Lxz4I0DxbYifWEkjltEYx3UJAdB1Iwchh3wR+VOwbniXhDxdfeF7qLSpkaCxupM2lzdSMscELEkuQBhxgk8EDI5qCafRdU8az33hJ7mS8tJ2uhbXDBlvtnLPEcZDEAnYRzjg9qn8L+FL7xLdR388hudNs5CltazowSeEEgqCp2pxnrnnqaaNP0bR/Gc9t4We4a+uJWtoppo9q2O8YKoCSWcAkbicDPAJ5rJyjfQ3VObWp9H6Lq9prWl297aTJIksYbAPK5HQjsRWhWXoejWeiaXb2lrCiCNApbHzNx1J9TWlWqXcxdug2sjxVbXd74T1a2sQDdS2six84+YqenvWtmgHBpgtDzHwjfS6b8K7bVPtekRtb2ypHuhOUUcMjDOWct9Mk1yHgfRdT174lTatPZWxsoZzJcQoQViznYP9pgfyx7V1XiH4NWWo6i0+nTJb20khma2cttWQnJ2kfwn+727V2fhHwna+E9OkgikM1xO4eeXG0EgYAVf4VHOB7kmsVB8x0OouR9zoqKSlrY5j//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Love Death Immortality</tspan></p><p
+          ><tspan template-id="title">Head Or Heart</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
+          ><tspan template-id="artist">Christina Perri</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
