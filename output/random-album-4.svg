@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIEhQ8Y59afJYQNCvlsTLk5GOMdqu27eSd64yPUZqa2jViC3HJwcVsoqTM23EyVswjASD26VJGLfDK64OetdDFpqy38aH7nDFs54qC80mKC8foAxJUn0ptJT9nF67l+yl7D20tr2/4JhvZh+VAJPpTjY4jDHHWr17E1rt8gFgeCQOmelR2zyxbvMX5COT1rROne0lqc757XiELfxYGOvFaS4Ijwq42jt9c1zkfmRnKsRWrYXjSSxxTKDGW6r1H/ANasFI1k9NS8biSIfKW+9zjsO1SJO0pVnDfe49/Wp7eOGOXfJIzq33gF5P60/wDc+eHjdginKqyZx+tONNKfP1MpYmLhyX0C8tVngd0ZlfaRjHB5FZBZVVg53MhAKg9fetG91wKz28cH7tW6seWP+FZpvo2OPsgz6+lbznCTu9yYppabFGGyMoUscDuM9asxRtbeWxRmZcscPhRjpVdo7iziRngLNv3PsYtnHStSSET2m0qjNt+VmFcyRq2ImqW5OGk+6eMKf1pG1KEttVixxlflJGfTA5qAWUjKEmKOAPvjhh/9arMMCWsbeVsDlTksMlvb2NVdmXs4dhMtb+Y8hXfLGwxxjp7/AJ+2KpRJKQ0Qj3bRuxkr9Oe9X/Mkn07AVknIKnfGABRprzqjRXMoVl6MMnI9MipNFoj/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIPDkZ8KR+Ipb+Ewi8W3ltgPnAOeQe/Tp6VdvvDFjJ4vi03S71Z7GYRbbr7qBnAwD/AHcE4weeDXcWHizw7Y+GVb7NFvuLhXjjjiTb8kexg49OQenJJNc3pWqrHfrexaalzIdrFI1JRRkgMVOfm75HQmtXRcVdsqMoydrGFB4YSUa6n2pnn00YijiiLmdg207SOw5OfSm2Phpo9W0iK/3iK+aN9sYy3lNzux+f5GvQF8cXmmPqAtDBbmRN0ayBUMJHQA4yckkjPTArnNHntIra3hliD+bIIizneF4LEjBzk8+mOlXGhd2cgbW9jAGieT4mWxm8k28shSOfJMTLu27wRyVHJok8Mq+garq0N7EyWF0IWiGSWVjhXB9D711uuato9utlBoCzB9zJcb35lOR3/u9MDjtxUGiQWc9jqQaSNZxIwjBkCjKjgt2PXFTKl7yV9ATXK9Dz0TDyfLKjIOQ2Ofp9KlgvprcoUYgopVcHHXk1V70tZXZJuf2ff6pHFdm5ikd13OWf5lG7GW9h/KpJItRt7S5zcRiKI+YCG3ByGGCD6nnHfrVbQNXtNIuZ5rzTUvlki2KrNjYc53f0qvqWoxXkdulvbi3WOPa6rgB2z97A74xRdjKZlfzfMViGHINSxXjRxyKVRi+csygnn3qv3o+tF2ISl7U3PrS5pDFpOtGaTNADuaM8c0g6daXPFAH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Drink the Sea (10 Year Anniversary Deluxe Edition) [Reissued-2020]</tspan></p><p
+          ><tspan template-id="title">細雪 - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
+          ><tspan template-id="artist">和楽器バンド</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
