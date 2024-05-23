@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNPB/ho+INfg08SiLeSS5GcADNdb4s+HLaVcW4glDQzxlnZyuUYAHsecgjHqciuN0HX5NB1uG5iZkZMjcvUZGOK7i48Xa1Pr+nx309pNc297FJbTTRhYzE0RAc4zjG7OR0q5OTehEFFRvI83tPDV3e+IrTS1Vt1xIUU4xwCQTg9MEHrW74m8CJoun2F1DPP5N1uO+6jVNoBIHCknnGegzXR+Nb1Yb6fxVYTQXFuWktYpFugkol6GVEA+6SDxycZ6Zqr4M8Vrbz2yatDFMtxGUt2uXYrCC2DsznBJPsMA1i5TdnH7jdRpq6l95z3h3wbqOt6m+m27wpMqeYWkYBQvHP45H59qzblI41aNFGUJUkdyDzj/Gr1xd391rFzdmER7NxeKHIREXjb1+529way5WdpHDYLMSSw7571slLqc7cehelhtYraKbyXlJ3B8upwe2ADkcUlhqD28kd0kjxSQp+7xnjAwPp1qCfVdO+wSWr2DNKzKyzBwCuM54xznPrVJ72COzkUKzTSnIHG1B7+9O47aGxJqEkaaTbTWyrp8V2z70DEXDDHLLnBYZxxjrVbXXe81ETRQmGCLMZQpt2MSSQRVbTdWy1vbXcrR26StKJNzN5Zx/CvQHIHIGamN3pwS7V455z54kS7k+8SV+YMOnJ6fSpHYlaV40VWkYcbQFHJX0PrVh7C9a2N49q8UeFKNKhHm5J+6cc9DWNc6j/q5Ld0yqDouCD9Kf8A21qV8EFzdySrEgjRWOQqj0Hbp+NVcnlVrmZM+WGKhqYxlR0yx6jHSoypAz2PSoZaJrG6+xXsNyIklMThwrjIOKl1G8W9uHnSFYA7Z8uP7q/T8qpEEHB6inYJXr0PSgYuB5ecc1PZyKu8N3FV8kgDrTolO/0+tNCex//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOT1/wAX3uqyOI5GiiJzjOD+Hp/P3rlHOe1OZwfSnQx+dMqZA3HGWPA96mMIwVkDk5PUrFeM1ERzXUJ9mstPku4ocQlvJhlkUF5W/iYZ+6APTuQPWsrU4LqK7kjkImQYZW2dVIyDke1VcVjIIweKaTz0qaRQDkDioWPNAi2STViyt5Lu6it4hmSRgq59T/Sqe4mrlnFdPuFvFIXdWAZBzj+LH4UN2Glc3tW1iBLlLXT4kmFsgggdhuVQOrAf3mOTn3x2rOurS6l04y3JlF0sv8RwXUj09sfrTYIL61tyLe2ljcjc0wQltvse3T61WbT72QGRo5zgBi3PQ9KjmRVik+ccknHrUD9K0p7W8+zNJLbykR4zKV6D3rLc9qpNPYlqxJnHGanjvbmJAkdzMiDoquQBVakzQ0nuCdi8L64cBWu58Bdo+Y9PT9TSG9nXKi6l27Qv3j0HQVS3UhalyofMy3JqF00Lwm6maN8blLkg46VSJyaUEngVvaR4XudRZXlBjizye/8A9b+dJuMFdjScj//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">TRI-ANGLE</tspan></p><p
+          ><tspan template-id="title">Story I - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">東方神起</tspan></p><div
+          ><tspan template-id="artist">Arch Echo</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
