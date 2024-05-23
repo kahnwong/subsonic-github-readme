@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOdDaQyqGt73dgZKzDHvj61lanOltHI8IKhmIiDHJHpn1OKuKlYmuygTxQkn5U34HqTigC94I+H1x441C+Bvja29qivLLt3sWYnCgZHoTms7xZ4an8JaobMzLNtG+KZRtLD1I7HNdZ8NNc1DQdM8SalbQpJb7YI0V+A9wz7UGfTDHj0rn/G+tXWsaqRewGO5ty0creV5YY9wFJPT60DJNMuhf2KSn74+Vx71aKGsHwvcYmmt2IwwBX6jr+n8q6bbQIFFchqkv2jUbpyRsVtgOfTj/Guw3BFLscBRk1wlwxkIAziRi/5mgD03w8dPi+GtimofaIIftouZHikIEjI5I3AjGBgDrnpXA+JdXk13WrzUTu8uWZmiU9kxgVUOpalPp/8AZi3s508uXMG7CbvpQ6HfGnX5CAB9aBkFtNJbXgmiBZkwTjv/AJ/xrtrK9iv7YSxEZ/iXPKmuUvbOTQr5G3pcRyKrrJGeCR1H4dKuaVHcDVDcQQmCCTnY2cYoEb19Kkenzl2GAhzzXL6dp02si4W0O+aCNWEajJcF1Tj0A3Zz6CuxvvFw0yzsrWSwivBGR8sp4xuY5HHXBA5z0qjYeLYo9Tubz+zUmjvbsOsczA/dRl2YA5XLZAx2FAEsngeKxhZ31m28pA7CUREpKqgnKkHkkKTj6c1V0/wdcXf2G6W+t0V4kkBlIVXc7GEandycM3OOqMOav6x4xtPsk+lx6OlsWhEQkiZQ6fKoGfl/uoB+ffNUY/Hdu6W8B0OBSgUb0ZQXwFXDZU/KwQBh1I75JyAdb8SvBK/8I/HrenxsLlXUSRKuGkUjG4qCec4HrzWDYyJLYW8gwN0YOM+1e6XLJbaBHO6CIqquzIPu988e1eSx+J/tfh9YTagvPaxRs7EHaVXBYDHc8mgD/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAAM9KXa390/lSAkdDil3N/eP51QFuK2t2gV3nIcnlAvIHrTZbeFYmeOYsQRtXHJFVtzD+I/nS72/vN+dTZ9zZ1Y8tuVfj/AJibWPO0/lSEEdRTgzngFuOwNDK45ZWHbJFUZWYRo0kixqCWYgADua67Sy3h68W90uVftKq6FrmBZUK9DhSMdRwfY1z2ltFDM9xLIE2Kdh6nce4HtU8mtEqyRQgJ0XJ5AHT+lYz5m7RO/DewhTcqu72NnW5JNYv2vdS8uS7CLGURFgVj0UYX8fqBVdYbWFFaOCAMOI2ZdxdjwvB/FvpiscarKJBJ5MRYMX+YE8kY/lTl1q5Vo2McLFHLglO+Mfy/lUOnM6I4rDJ3St8v6/pG46FZWVApcBU6Y+g/E5Y+wFc3ezGWcqH3omQD6+p/E1OusXALErGxbcSSO7dT+XH0rPq6dNxepz4zFQqpKAUUVNb3BgckBWU9Qyg5/OtjzyGirhvic/KmOOPKT/D3pf7Qbdu2oCDkERJ/hSuVy+ZSoqWaYzPkhQB02oF/kKZsYDOKZJ//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Fame Monster (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">Daredevil (Music from the Original Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Lady Gaga</tspan></p><div
+          ><tspan template-id="artist">John Paesano</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
