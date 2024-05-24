@@ -1,4 +1,14 @@
-<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  width="540"
+  height="64"
+  viewBox="0 0 540 64"
+  data-reactroot=""
+><foreignObject width="540" height="64"><div
+      xmlns="http://www.w3.org/1999/xhtml"
+    ><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -25,7 +35,7 @@
             }
 
             img:not([src]) {
-              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
+              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -39,18 +49,6 @@
               opacity: 0;
             }
 
-            .progress-bar {
-              position: relative;
-              width: 100%;
-              max-width: 360px;
-              height: 4px;
-              margin: -1px;
-              border: 1px solid #e1e4e8;
-              border-radius: 4px;
-              overflow: hidden;
-              padding: 2px;
-              z-index: 0;
-            }
 
             #progress {
               position: absolute;
@@ -60,11 +58,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress undefinedms linear;
-              animation-delay: -0ms;
+              animation: progress 273333ms linear;
+              animation-delay: -1321ms;
             }
 
-            .progress-bar,
+
             #track,
             #artist,
             #cover {
@@ -78,10 +76,7 @@
             #artist {
               animation-delay: 500ms;
             }
-            .progress-bar {
-              animation-delay: 550ms;
-              margin-top: 4px;
-            }
+
 
             #cover {
               animation-name: cover-appear;
@@ -123,4 +118,29 @@
                 transform: scaleX(1)
               }
             }
-        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
+        </style>
+
+        <div
+        class="disabled"
+        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
+      ><p
+          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+        >▶</p><img
+          id="cover"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+niNijOFO1ep9Kt6VaxXd/DFcGVbdmAkkijLlB3O0dfpXRWOhQztNbYa3SUjY1ygDMAcgf7JP9aZUYuTsjm0MLuoWzB4C480jLbcZ/Pn9KSWNYwW8hdvTKyE4OMfz5rrRomlQ6ivnPKBFtDwqufmAwST/AL3arGraFp0kG+CVLS6LdGJKsc8jHpj/AArKdaMJqDW52SwFWMJSbXu+ZwAGacInKlgpwOvtXZp4LtP7Dg1BtUhWbe6XFu6nMeAGBXHVSD14weK5y6eIJKkXCdsf59K1scJBZX91YSeZbTMh7gdD+Fd14Le98RX2y5uI/LaVE2KQrN1LY79BXnYNd34AuXt9VgjtpTiRC07JlfL6jJPTIHIIq6cVKSuOM5QlzQ36HRX+lwRpGnmxiG3nlVC4LmPJB5GAccH354zWOZVn1aAxwzROtsjMyIAXAxhx7EY549x1ro9QurT7XdgWYmkngMdu0chBM2O394uMelcxDaz6VJDDJYTWN7dIGXzWKkx8j5QQccj9PetG8O0+Xpc1eDxitGt181/X/DHWQ6bZarpN9a38N/KBJJOTZkERqQCNxHBJx0I9q8ZuzB9pkFs0jQ5/dmQANjtnHGa9Jj8e6p4bhitTP9pXe6vC6ZURg/Lz3yM8Z4xXnWoGOS6mmi8pUkcsqrkYBOeh6VgndXYVYxh7q6aFzwxa2F74htbbU5vItpSV8wnCqxB2lv8AZzjNd9r9m/gSyt7S3jM29/MuLqYDy5z1UKOpUL2PGTn0rptE+AiDR4/7enK3rg7lsyD5eSpGWPBIAI4GOfxrpfD/AMJvD+j3aXN39p1KaFsxLeuGSPHcKBjPHeuinV5INW1MoxbehyBtV/sO31LVLJr03caTxIIigWTHyocdC2B07nim+LrSztrhJ7yO4s7mVVlt5o0Z1DbQBukOcgEHI69a9X8Ryi20/wC2lVcWx3mJhlX/AMD6EV5r4q1y013wnHNb3LKkLj7QkfzbTghT7gHB9QMnFc/tJQvGKVnudVT2knGd3oebSwyWcz2uqzpMBJ5kLI4/egnJ2kjv+lchcJsnkUKVCsRhuSK7WS30zVtShSQ3DW0E0cCupG0hmG7Jx164/CvQLH4HaHqVwyHVNRgkdQy7thwSM8gjnsevSnGGl0cs5Pmu3uf/2Q=="
+          width="48"
+          height="48"
+        /><div
+          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
+        ><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+            id="track"
+          ><tspan template-id="title">Hako No Soko No Music</tspan></p><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
+            id="artist"
+          ><tspan template-id="artist">Matenrou Opera</tspan></p><div
+            class="a"
+          /></div></div></div></foreignObject>
+
+
+      </svg>
