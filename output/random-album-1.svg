@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APONOmBsxDIY2BfCbjgpzx9Rk5rsNOtJLNWsEMCGHIeSIB2lYn5juYdDjHGOgxXnqgxv+hHrXc6NLavZxztcSxMCA+7D/KT19h780pDR1SeErCa3mSdd4Ygs8nLDJOec546/zqY+DNMCwu0bMYwFVSwB+XODx39+lVZPF9poMSzPBJfl2O1Q4UKB3P4muotvEOj6uLSKyhVp54JZ13y4CuuAUcfQk9ccVi5SSuWo3djzfWvDdvo8i3EW58E7lL7Q3HOcdiDj865a5hGpwS3SxLEY3CBUBIA2+vtiu+1lLz7JM2oRrjJAMZ3LjsRiuAknSERuE2vHJvBQ4zjpV05OSCcOV2KTW8isNwI2+tX9M1GKwu1aSPdH0YZ6j0rrGsrSZPKnj2qeQ4HIqKLwvZXauLW4Uyjosi4Jq7kGVfx2urJPdx3TqqxHyoNvpzyew6mudin2WcschdWyGiZW47gg+xB/Su01XRrjRvDlz8i7psJI4PAUnnn8hXH+TGLNkDRySlt2V5+XHrSQ/Q6y11w3vhZbOSNQYV2A9NyjoR79q5m6ePDHYFG7gZq1pIP2GaNuVIyOfzrKusK52uWXOM0RVmxt3RuWPiadAEmCzRBsDevP0zWkL+3edZYDNbv2R1yufTJrjWnXYYlyEznkZ596mW9fKgyMQvZuR9Kog7nWNcM2inTt2EuZI1kX7ygZySD2IxSXmi6XqGr2j21rFFavF8yxnZjaepB9QcH1rjn1aMvaGOAARZZ07M3T8qemvX0bMyrHlVIAxwM/r6VHK+g7nRpDZabJdzlYxHvaNUc4DY4J/OuSu3haZiijYeRjjNbV1L4fmaNXvbuIqgUI0PmYOeTnI65z09qybpNIMcjwX9w0oHyRPbgAn0LbuO9OKBs//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APB2K4VQijAGTjrTl47D8qYBlsVu6HpNvf3U32p3W3t7aS5kEWN7BAPlGemSRz6ZoAy4kaV1RVXc3HSnbTn7q5z3FdVaafpUV/ZOoOHjSVYpH5kLITjd04OOD1xSNpWmSaHp90iTDzLw2r3IJO84X5tvsT09CKVx2OSk3AfdXP8Au0+CaJkeKS2iJZDtcDBBwTVy7szbXU1u5DNFI0bEdDg4rLkXbIQKYhYxmStvTbuXT7uG7iCsy5DI3R1Iwyn2IJH41hK2HzV5JiFABFAHVW+mXV1bW13arL9gtZzGl052hIyCwDEc5UkqePTFQLfi30vSLVQGe2Mt0V/6bO2FB/3QqmqtvdtDpMkLXM8Y2o+xZGCbmY9VBweB3rPaUBYzHkkYLluc8kZqSh7rgEncWPUnvWZcRssnK4HPNaRuQ4OCuR7Cs24lLyYyMfSnqLQqk/N+VPEh49qllgWTbIk0WWUZVnAIOKr7T6r/AN9CmIvvds9oFIB+VY2I/wBk5BP4cUhm22mNvLlQCeuFz+mT+lUhn1H50pLHksD+IoAl84hutQlstmkOc9R+dOVFAZmkXIBwAetAH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Myrskyntuoja</tspan></p><p
+          ><tspan template-id="title">Broken Crown Halo</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Teräsbetoni</tspan></p><div
+          ><tspan template-id="artist">Lacuna Coil</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
