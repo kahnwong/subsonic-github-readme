@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA6sQWU08ZkRSVBxx1qFNm8FwSvcDvV23Ihl2szKOjcnOPQYrRGU20tB8WltnLqxx1XoRU8ukwGAyRGQHt3H0pYb6GGT95PLk9QBu5/wq7m1vmJjlZHAyy8rx/exWqUbHFOpVi7vY514HjjWTgqeCR2PoairrfssKxzwOuVz39CM/zzXLTxeTO8fUKxAPrUShynRQrqrdDD8zE4AHt2p4lKx7R1B4NR9qKg6LHRrb2ml6ekzDM8uAHI3YPU49KnZbe/spLm1GyaPkNjHI9vQisa7uxdafaoCd0WQwPfpzVrTZvJ0+UKNzydQOMAZ5rZNXt0PNlSko87fvX/AF/Kxo+czWSzADJjUkH6Vk6ihWxQybd+/PHvkmrLiOe1EkRZkBA2hsGqV+nl2sas3JYkLnNEnoOjFKat3KCBCxDByTgKB61KYk3keVJhD84BB7+v0quDgg4B5zzU5u5S8jZUeYAGGOCBWR3tPoEcUnllgp2kjHvk/wD1qc3mR/JghkGTjtTIpRuQSMyoh3DAzzx/hUjXrLI5jO7d94yKCT/9anoS07jY5popQ4X7/IHQHtUc00k8heQ5bp9PagzuTGcLlPukD3zTHbe5bAGewHFK5Sjrex//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLApNPYiOMu3QVOIsdqqXsgS5ijOMLhjnvQA5J8zpC20Fu+eB7VofZ2VtrDDYzilg06zivFu2uQYt3TH51NdXlu2posEiujnbgdj/nFADVgNTpERVtIs44qcQe1AGKq89Kw71ll1JssAm4ISOcD1roZtsMMkn91SfyFciHJBAGWPNAHoumeCLe63wS6izKYVkQx45y2B17Vh6todroniFbaG6a4SFFkkJGGDHPyj9K6H4fwXWoWEt3JcSQpbZjRhyT34A5A9ak8VQzxW80ltqEEMywea1rLDHunTPMkUgzvHXgnIxQBUsZ4byESQuGHQjup9CK0Ei4rzTT76Wwu4543IwfmGeGHcGvVbdBIispBVgCD6igDi75v9CnH+wf5Vg6LYnUtbsrMIXEsyq4Bx8uef0zWxdS4t5cjI2H+VX/hrcadba+7XsixzMgWBn4XPcZ7GgCDxhLJoPiL+z9NnaBbUBkaIlWXdzjPtxWFqOuajqqKl7dGZVYuAUAwxGC3A6nv6nk81N4mvk1TxNqF5E2+OWY7G9VHA/QVnBU8nJ4ZT+YoAiWvUvB0/wBq0GD5SDETEc98d/1ry0CvQ/h7cqbO6tmblJA6j2Ix/MUAf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Skyfall - Single</tspan></p><p
+          ><tspan template-id="title">How Big, How Blue, How Beautiful</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Adele</tspan></p><div
+          ><tspan template-id="artist">Florence + the Machine</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
