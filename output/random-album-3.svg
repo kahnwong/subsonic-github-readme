@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIoYUaCXMbsxxtZRwuOf1FTiC2kkULFPtdxsAYZK7gP6N+lQwWz3EojjxuIJ5OOgz/SmKFI5XINbCJ0trf70iy4DFjt6bBw3vnOKasNuuUeKVnjibzAGx84PB+mOoqWK68uNEFvCSoAyy5J5J/r+gpGlDxOn2eIbjncAcr9Pb/GizFcYLWEgM0MoXA6N/dB3/rj8KhntEjh3BXDh8HPTBGR+P8AjT9mB0pJYHjVWYY3DIHfFVYVyxGrRSJJGxDqQVI7GrkulXs0Yuo7CURyuQAi/Lnr+A+tZsrEEhScdj6UwXl2sflGaRoycldxwfrRcqKXU6KDwvcyIrs6BTjJj+fb+I4/LNbq+FbC2tAwcXLnkSFiB9MVxsWrXgURpMy8YA9B6CpBc3TL89zMfYuaYTcbaI07ueysC0dpBHJcn70rLlU9lHr71hzFpHLuxLHkk1IQc5zUbUjNu5eaBJPvqM+uMVA1kg5U4PpVs/WjzCECBVwM8455ouTdlRYh0cAn3qYORjIEgHGH9Pr1p0kvmAhkQc5+UYo889fLj67vu+2MfSkFyCQgsdo2j0znFQPU7yHYV2rjIOcc8VXfkUAf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOKtFkfZ95hu6Zx2J/pXS2ly8SxIRum2jO75cscY+nWsixCl1AYD5tykeuMDsf71drY6ZAxfEKMGHzJ5eQOlJlRM+9vL6KzeNIGid027A2cZH94ccVgRapdKIVN0ylWyfnPAx1/TFd1dLB9maySeBBIpAjVRtHrk8AfSueuvD9tbWLTzCOSPJCGNFJJ+ucdjUlOL3HXusz3aqSzCMFc4PU7h7elc9e30m3GCWP3iSe1b1zNELfbGRGysUZfL5DDPXHHaufu3jZSSVzkHpjr/ADppEtjdLZWuUTe7TAcgLuyRjHf2rtbK50yOGC4DxrcmWQyZfDDG3bxn/exgc15/oNxFD5cs5LZlQqqjOeecn2BOPU11trrlspJ+URoFLPuHyEg8k+mcAU2ETX/tDSItbe3AtTatKpaUyxhV+T5wcnJy30wRxWTHfs2naZbQNbSwmOJ5vOxlZSxLgjcMKCPlxnI71eFvbmYyWysismXIjUZYkcEn86r6jFbwlp/sYlcuowY1ztyc/jzRY050VtSGnNYyGO4tknjtI5k8vjfLkeYg5weGYY7FSa5VpEaBSygM7Z9MccD8sVZvpbUzozW9zGilgSi5IXquB2z3rAn1C2SC22+dHctu80FRtBzwR+FMye5Ut777sMbyBvuqQeR2z7VvWspt0njj8p4JESM7ic4HB4/GuLimCvvywU8cGroviSdpK0DTaPQvtUJxsSNI1iJD792MdCT+A61m/wBoSjyHBkwsYyQD1IHqDmuettReBiyS5BUg7l9aikvsqo3n5UKnjrwBQJts09dufNkGfLJ6ZbIYe2e/esSUrPCrFyp2+nb6VFd3jyTLNG2WVQAH7fSs7zHSLYGC9MlepoEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Rise Again - Single</tspan></p><p
+          ><tspan template-id="title">Epica vs Attack On Titan Songs</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Apocalyptica</tspan></p><div
+          ><tspan template-id="artist">Epica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
