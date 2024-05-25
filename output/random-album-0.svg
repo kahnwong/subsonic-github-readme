@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AK0aZxWxbaFf3EZkjgO0dycZrKgfa6k9jXd6YJ7myXyZwgHOa2qzcFc3SuYA8PXW35nhDf3d3/1qrPpkykj5T+NauoZhLf6ZcXE464k7/QCuavNSvVco5lUdMOeT+grn+sM2VK4ssRQkEc1WdKsRyNKmWNRuK6oyurmUlZ2CNeK6XTptUltDDp8cW4rgPIMhfeudj6VrWOoywAxodoI2/KMn+dRiI80NC6T94dcw3OiAPd3SteyNnZH/AAj1Nc3qsks959oZ5HTjG4Y/CuuktG1GZGILMcKCxGT/AErQm8EpKiyXFy8akBdsRB4xzz6V5kFKTskd86kKavJ6nF2vNvk9fSkkrY1HR4tMVVt3kdDknfgkVkSV60FaKR5zkpO6HR9KvWED3N2iISD1JFZ6HoBXc+D9MkXM7xgZ5y36VZjUnyK5u6fpkNrbo0oBfb1PJH0q3cDMZYDjG1VxgY/GrDpIrYUo7dD0wKq3SyfMZHBKjseBWLaSujlk5Tkr3ZxmsP5lzIuAeMZ6YrlbhSjkflXQ3h3zSEg5JJ5rBviPMwKIN3PRio8isf/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APELW2kuZSka5IUufoOtWl0u4AXdE2W5Bx1HrTtGdRJcZxzbvnd0xxW5aXMKCCEToYkO1FY8kscsT6Z49vxrR1LSs9jNxbWhm3OlrbwhwTnjPOaigtkWINtBJ5zirk86TB1E6Acnap4Y/wCRU9na+fbbwcgA1tGUZPQxkmlqZs1nJLCZEiYon3mVeBVEjt6V2EFxqPkjTbWI3BcY2QgdMdyegHeue1HS7nTpjHcKgbvsbIFZRneTTNOW0bozLXiQdeRjj3rVZpv3YV0AXGO+T07/AEqtp9s89z5YTc6jKqOrewrZuLO3jMYCuJPM2ENgjr6+uKc0t2CbbshlvDKxO51cNl2HA5Ht6d8VdtFnHk20EbyysTtRMMzfgKtRaPKb4xQR43u0aZPXn/CuwsBpnhXTBHHOk+qykJJKFBK54Kj0H61ySrJL3TZUpOVmiLRdPu9F0e7e5gW1nlYMRGQXEYBJ6d844rh9cDXl65XBAGGIUgZxXpGoXcV9pVwkMu4Mo3EDOCO5NcBqDQwJ5cW7H95j196MPBuTm92Oq+WHJYwdNlsrebzri4uFbIH7lR098/h0rQNxb3SFEeVgGys8oAP44/lnsK53zMfw5FXrS5hiRgQxGeEI6/Q+tdctjCO9zpobmSzRXEjHac+Ye2RjP61DdW4toQ8F5HcR4GHjJAHtg81n3GoxSKiR88YYn5fw96hk8/yfKWQKvpjv61wwozvc9GpWp8r72NbT9YjtZ2E8sqKE4CHG8+hrH1TWI73ZKiFQxyVz09qyppCZCPODAcZA9agKFCCSDkHHI4rsUEtjhcnLc//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Acı - EP</tspan></p><p
+          ><tspan template-id="title">First Classicals - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sıla</tspan></p><div
+          ><tspan template-id="artist">Perpetual Legacy</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
