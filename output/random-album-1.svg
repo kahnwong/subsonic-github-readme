@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ALkkVronw5i1KEMJERXO3q5PX+deVP4m1a6NzEt28UV06tKsfG4KSVGfQZJxXdalqNzN8NLa32x+R5aq7fxDtXliO6ElHwTwfeuWit31Oys7JLodHpfhW+1xsw3MCM4yokf5m98daz9U0vUNCvPJugEkxkMjbgfoa7/w7pt1ZxLLJHbjzE3W8ytmRGHIIP8AD7+tYPjK0v0KTamP32TyJA/y+vsM44pRqtzt0HOilG5kW/iOaLQp9JEMCxSushk8seZkHOC3Ug+la/h7xXqelIfs9vps0ceXxNaoxI7jd1/WuMYADjle3tVzT9RaxvIZzGk6xyK/lPwrAHO0+3FdFjnudD9pCaR9lTV95lh3LaKAxXAztPpk8ADn2rjyw27Q2fQjpXb+H7qbXHltr7Vkt1twkkKrAmVKsvzjOFPBIOTk59K0LbwdFr2oxPPr1nd+YfLX90IyDsZghVfQcjHoRjvQopbA5Nml4TvH1LRoRALdjDEyOJiQVyfZhxx71ynjjWUvtXkt4Ji0aqBKR0LDkAewrvdK8HWGl6Nbq2Li72kM6sPLEgYgnPJxwDivKNcsZbTUJ5mA8uRwy/Nydy7h+hB/GualGPtH5HVVnL2S8zMBIBA5Pbir+kqp1CMzTJAm4ZkdCwUeuBzVYQgjlsN3X0pVyy5jBOD1BrquctiK54lVgCOMn39a7H4c3NraeIp2uSFIgZoif4CpwSffBOD2yfWs/QdDfV/ENlZtAzQksZieMJjkk9h06etUteshofiW6jsy6QpIxt2LE7oz7nqOoNTKPPGwRbhK52Fn4s1JLS9tZ7WOJL1vK09lUgebIysVY+ySg/hWJ4vka71NpJrV7eX7IFMAIYeYnyEqR1XBGDWjqWsWmn+ELSCwkzJvdvJlYSSQOwX5mzzkANt+o9KxdG0xnupbudyzIirIkgIbex6f7XygHj+8KzhBJ81rGkptrlvcwXiMUhAXahBUlux/rWhLp7Jp1ve2mXAT/SFLBirgnLADouMdas6hYw219Nb3KSxSocsCw+8QCO3oa9W8EwaVe+F2tIo4HdV8uXABLfXgZ4NFWo4q46cE3Y//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHd1GaMcUgqSRc0hNO2im4oBAKUcmnAUijqe1Ag61d0+3tZfOa7YpGgADAn7xOADj8T+FUwOCewqS3uPKWSN8mGXAcDrwcgj3pPYa3NK4trSKS7C2spgjnMMc3m5OQD1Xvxzx0qS00mKawnmnxB5SSMrh9zSMgBKhPTB65FZ0N1Iqm2RUZHkDLvz8rdM5HtSveSqnlMzeakzOrqcAZGCMfgP1qbMq6Fvktl8uSzEoikB4kIJGDjtVVTwSaQyMyIh+6mdv40A/KaqxDGZyKVTjmkFHemMfuPB7/Sjcwyc/pSdhSdqQhx6ZpB0o/hxRgYz3oA/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Let's have fun...Tonight</tspan></p><p
+          ><tspan template-id="title">II - Those We Don't Speak Of</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">มาช่า วัฒนพานิช</tspan></p><div
+          ><tspan template-id="artist">Auri</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
