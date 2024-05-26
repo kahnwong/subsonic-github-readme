@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOCn0NrZfPkK+WvULzUtjpgnnjWKHzt/RUPJrobjT2uphb7V2lto25wMdRXS2FtaaLZSFki/dqSTtzg+tfMzxTUe7JRiWfhqC0QXN8GWMDJ3rg9cdKtT+HYpoftVmVZXAZcDn6VNdW2o3FwbS4vbbfJLvNsyyBV5C8HJ4BYcZqSwt7yN0hiv7dgspZIF37Se43cccE7c1zy9p8XMOxzI0wRyMLiERhRk5NTx+H5nLTxfNHKPlBB4Fd3L9i1ezVwkZMigggY/GqOnx/ZJzDlQhOMk9fb9al4iVvMahqV9JhXUXW7MCqrjJCscE+v1rsotGjktsR7FJHcdfbFeS+DfHUVrAlpdW/msDwwO0/jxivU9N8T6XcIskrvb5H/LUYH5jiumWHUZ2mNRaOe1LR9b06ye4mu3a1jlz5e9fMMZ/i3BeoOPl6YFNs9K1y/s0uIb+UW08mdnmIXCD+LJXqTn5fSusvNRt7z5Y76BYyu0xtHuz17ntjtTYbkWqqkl1E8QXasccQQAfhRPl6NFKJGdPjjtAuULLgcD+lc5qMq6aHuRCCQPlyc4Pr9a0r/XIISSH34HauH8Q66l5CIkO3Jznqa5IU+eVkXys8qt79Y5AwzkH0/pW5aeIruFfkfYo6jOMiuQEh6A/gasrOVHTOevHWvpqlCMt0KLsekaR4jiu9QjEysY/LZZAgwGbBxwOnbml17xK9jPtgeRCI8ABtq79xwQp5wFwD6muP0C5SC6M5CnsAcYNN8RXcd3cGVEw446DA+lcCwkPb7aHQ5+4X38Y38n+tIlXryBVV/E6TPmSJlJ7r0rmjJ3Pao93vXfHC010MHM/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6y/En/Ir6v/15Tf8AoBrUrL8Sf8ivq3/XlN/6Aamfws2w/wDGh6r8zj/B/wDyNGl/9ivb/wDodeiV5N8M72e98Tr57hvI0ZIY8KBhFdcD9a9ZrHDO8LnpZ5TdPFcr7IKKKK6DxwrL8Sf8ivq3/XnN/wCgGtSorq3hu7Sa2uEDwSo0cinoykYI/Kk1dWLpz5JqXZnzHpPxLj8JatJLYW8d5N9iELly2xCCCegyensPevSPh/8AG2y8U6mmkarbx2N/McW7oxMUrf3OeVb06g+ueK1pPhjpulGebwq1rp7XMZhube6j8+GaJvvLydyZ9j+FczoXwD0+2voLzVr8SiMq4t7YsgGOfv53cHFRSpqnHlR047FzxdZ1p9T2migDAorQ4wqC8wLGcnZjy2+/nb0747VPSEAggjIPaga3ORdHW82XCaRs8z94N8mSAwI46Z4HtTlS1AZZG0whF3jDvkIFxnr6Kv5e1dUIowchFz9KTyIuP3Scf7I/z3NJIqU7tP8AMWFQkEagKAFAwvTp2p9AAAAAwBRTIP/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Lucidity (The 10th Anniversary Edition) [Instrumentals] [Reissued-2016]</tspan></p><p
+          ><tspan template-id="title">The Piano Tribute to Lady Gaga - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Delain</tspan></p><div
+          ><tspan template-id="artist">Vitamin Piano Series</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
