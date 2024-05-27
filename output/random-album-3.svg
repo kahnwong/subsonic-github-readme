@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOEtYLJZJIrzd5UyFFmAz5LZ4fGMnGOQOoJqKdNPkfdGJkGNqxqvUDoc+p6k+/SrGmQLeRGMDPBPNbOnaHKrElBjsTW0Wpe9exSg3sjnodPimUlPPDgcjaCAew/l+dX4tMt1iEcscuSC5lA5U9k+hGSffHpU2vrd6RcssD4FxGrMyEHYRkA+2eKu+Hpp9RlkheQOwj3kkcqBxyD0ye1K93y3ZOztYxpdPszGCXuATgFRH04HOT75P5Vk3traoG8uR9wPyqy9R7n1rtru02uQWDe2KyLvS2nwVjHHtWqj5g42G+Dlgk1mAXEmyE8SZ7Dd/ga9wsvClnAiz2jqUPI3tuBrwjT4WV1dZEUjlWRAD+NejJ4tm8OeE/lla8uz8qLnATOeSO+PTvXFKH8xrSxDirROM+KF3HH4yZEnSV7e3VD5J4Vsklf15qt8MhPe+KobTzRHDMjtMB0wFJH61yMtxLd3T3EoZjIxaR39Sep/OrOh6wdGuYr62jcXMbEKwbg9QRjuCDRaysiOf3+ZntmraZaaXDNdyOkixjhf7xrzvUPEF8QRA4UDttHP4V2GpXi6ro9vPHMQGRXZHOSrEe/pXBX1mfNcBCTnrn+tXHmexpWnG6NI2Udsqnb/AA5OG6VFcagn2Zvl3ActuOeOwFYM+sODgMeODnmq9zdxSRgecFXjK7Tn3rslOmtVqeVGNR6Mr3M0k4cbT5eckEdSegFLZSJGyCWP5AxyNuahmltPk8udUBwC21u/U/8A6qZLOFi/4+UUY+6EI/WuRT9652OHu8p21rcQzwBYyipgAZGMY7Uye1u33m1CzKMnCtXLWsiqjMt+DjkAKRWpbamYULCQlyPvdhXXTqQlurHJUhOOzuf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNLqMtPdkFiyyv396rRKzMAxb35q/0ubps5/fOMn/eqNZPLuN6hSe24ZH5UF2EazkAJ8mT16GmfZZWYYt5OgP3SatPeSkH7hLcH5BxTDdXMbq5ACtypMYAYDuKAIFhjJIKjIOCDTXiRY9yqFZGGffmlknMkm8hAe4RcA0TN/ozH3H86ALRXN5d57zuP1qhI7BiOR9a0Sf8ASrtv+m8n86qSfMuSBketAE2nmznvI1vZzDbZ3SsBliB1CjuT2q14m8RPr+ppKIhDaW8QgtYF6RRjoPr3NYxRoyD2NJsZ3Jxx2oC4BqllOIGHYY/nQwwQcAewpr/8e759v50CLxYtNd9ATO/H41LZWDXs5iDbcqdrdt3RQfqcD8aqXM0cGoXSE4AmfjHvR9uhKFS5x1xg9e1AzQh0o3EUTQyeZuKI6lcNFIx+6R7joe5BHBFQpbWzKju8sW8fIHKjcQ4BGe2Ac8jtVE3cGSfmLE5JyRmmm7jD70dkcHIYM2QfrQBZvLYQCEgswkiEhyOmSwx+lU5T/o7j6fzpzXasmwzOV9CTj/PWopJYzEyqeT7UAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Deep &amp; The Dark (Japanese Edition)</tspan></p><p
+          ><tspan template-id="title">Angel: Live Fast, Die Never (Music From The TV Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
+          ><tspan template-id="artist">Robert J. Kral</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
