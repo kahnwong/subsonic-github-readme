@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOXtrNmYDFb1nphOPlq7plgsigjBrrNO0tWAytBxRjcz9M0ncQCtReOr248M+G5J9P8AL+27DIoePf8AIrKGPoMbs8+ldvY6cFIIHFc18SbPTBHp322crK5aMq8mI1gxmRmGOei475x70HTCCOa+HXiw+LNOuIbzYNStG+fYu0SRno2Oxzwfw9a7M24PavIvhpcaRYeN7k2ouRDdXAtbZWYArGx4Ljv1HFe8NZhM9qEEonjdhrQtLyyhZ0jhaKWSVm9EAx/OvR9MvYDIEmuVTKk5A4XAzzXz+92stxa7JvM3KwI/u7nXj8hXcQ+IQ8iiUF1wCu5sHHpQZJcp7jBPb258tpk3A4OWrivilp0WsadA9pdW8Go25O2R5MfIeMAZweT17DNc7Y+IbMjzt4VMbshy3Fee+PtXTUfE19aROytbOUQq3GB/nP4mg2i7m54b8LQ6Jaf25Ndw3d1FrltD51u+5PJI3Bh/vEjr/dxXt9xPGJGG4Zya+X/C2uy2Ml9ZXDySQXsQ3c52yId6N+BBH/Aq9ffxEoBkS4B5IOfXvQtxVJWR4mcnGU8z5edvA/SrSufNLeYyspXCnPBxkHmuejumVtxfgdBU41N8N8xJPvQOx0NoubwMH2xIm6TOCdgOSPTk/wA6525vfM1C5k8tVMrsSBzjJ6VcW8W3sfLcAyz4kkycYQfdX8ev5VgZJbPvQOJoLKbebzkxnB4Naena/c2kex8zIAcZPIz/ADrBMhPBoVyo4NA2k9Gf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcEjVlyQScnufWneUn939TRF9z8T/M0+uY2IWNvGwV3RWIyAXx/WhGt5GKxyI5HUK+f61WawlIBN9Mdo5BA+bp/h+tAsZjtZb6VeBwEHPGP/r1dl3AueUnp+ppHRVXcAQQR3PrUlMk+5+I/mKgAi+5+J/mafTIvufif51DqM0ltpl1PFjzI4XdM9MgHFO12BO0YfGd3HTBIpEjCZwWOTn5mJrxrUvGM0F/5JW4vUX7sJckMR95jxzzn8q1dH8ZvrV0iQ2zW2xCDGG43YypH1wa6nhJpXK5Huep0yX7n4j+Yp/WmS/c/EfzFchIRf6v8T/M1l+KJ5Lfw3evEMuyBAMZzuIB4+hNaSOqrg5zk/wAJ9ap6nF9rigVVYhZdxO08fKef1qoaSTYI8U0nxTceGdXmnFshkZDGQ4+bG7cOe3Xn1on8WXuqa5b6jcbIViYDCrxtz0/U10dz4LuNU8YyzT2s0VicsGMZAPtVO98H6gT5MWm3LCMggpEdrc16yqUW79bGt4nr1peW2oWyXVnOk0EnKuhyDUkv3PxH8xWN4djltLQwzQNCAqkAoRzzn+QrXd1ZcDJJI7H1ryZJKVkZM//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Quiet Resistance</tspan></p><p
+          ><tspan template-id="title">INSCAPE</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nemesea</tspan></p><div
+          ><tspan template-id="artist">Alexandra Streliski</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
