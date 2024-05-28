@@ -1,4 +1,14 @@
-<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  width="540"
+  height="64"
+  viewBox="0 0 540 64"
+  data-reactroot=""
+><foreignObject width="540" height="64"><div
+      xmlns="http://www.w3.org/1999/xhtml"
+    ><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -25,7 +35,7 @@
             }
 
             img:not([src]) {
-              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
+              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -39,18 +49,6 @@
               opacity: 0;
             }
 
-            .progress-bar {
-              position: relative;
-              width: 100%;
-              max-width: 360px;
-              height: 4px;
-              margin: -1px;
-              border: 1px solid #e1e4e8;
-              border-radius: 4px;
-              overflow: hidden;
-              padding: 2px;
-              z-index: 0;
-            }
 
             #progress {
               position: absolute;
@@ -60,11 +58,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress undefinedms linear;
-              animation-delay: -0ms;
+              animation: progress 273333ms linear;
+              animation-delay: -1321ms;
             }
 
-            .progress-bar,
+
             #track,
             #artist,
             #cover {
@@ -78,10 +76,7 @@
             #artist {
               animation-delay: 500ms;
             }
-            .progress-bar {
-              animation-delay: 550ms;
-              margin-top: 4px;
-            }
+
 
             #cover {
               animation-name: cover-appear;
@@ -123,4 +118,29 @@
                 transform: scaleX(1)
               }
             }
-        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
+        </style>
+
+        <div
+        class="disabled"
+        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
+      ><p
+          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+        >▶</p><img
+          id="cover"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APb9duJLTw9qVzC5SWK1lkRh2IQkGvA4/EHj57aKUeJ5RvVTh41GMruHO017r4pBbwtqSqxG63ZSR6Hg/pXhg8L6YQA9quNoAGDwfz6UmNNrYcmvePpJhGvia4AOMO1uoGSSOmM9qYniLx+1v5zeKWiUYLmSJQEGCc8Kcjilfw1pyyn/AEQNwMkFgeuMfepz+FNMVSPsqeWFyOWI754zSHzMgbxL8Qktmlk8RyhljL+WsSMeF3dQuOmCPUc17z4Xuri98J6Rd3UpluJ7OKSRyBlmZASePrXgi+FrI7gtrAFI5T5uRgdfm5r3jwpGYvCmmREkhLdUGewHAH5YpoG2yfxAu7w/fj/pi1eT7HBPJA9MV61rn/ICvv8Arg/8q8sa5iFwE2fiBxQySNY29cnGOlKYmOcgk98j8KWTkuwYADOATUuravBpjQxyW4klMauCTgDPT+VICMWzbgHRwM4bA6V6l4fGNAsB/wBMV/lXk9tr0t1q0UJKR87GA6MPx7161oX/ACAbH/rgv8qaGLrXGh359Ldz/wCOmvH47WRHAlSNULvvYM/LYJj4I45PIzzXsmqwyXOk3kES7pJIHRR6kggV5HJ8O9XkvRceTcAmYysNqdyeB+87Ajn60MRUto7uKOMNNCIhIpl2hiVI4HJHXGePaqF9plxd3U0vmx4MigBmOV5PByOvtWjF8MNXjeNgtwdrKxGyMA4/7adetNb4W6uPuLNyedyR/wBH60DMyPRbsahHMGHmR3KuV7rgklRjknH9a900E50CwP8A0wT+VeVW3w51W3njl8mdxFMZUVgnJyp+b5+vHUV6zpEElro9nbyrtkjhVWGc4IHNCBn/2Q=="
+          width="48"
+          height="48"
+        /><div
+          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
+        ><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
+            id="track"
+          ><tspan template-id="title">Strong Baby</tspan></p><p
+            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
+            id="artist"
+          ><tspan template-id="artist">승리</tspan></p><div
+            class="a"
+          /></div></div></div></foreignObject>
+
+
+      </svg>
