@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHXj/eEn1Nb994PubHwlY+IhcCaG4IEkIhYGEHoSx4Na3h7wvouqaDqV/fXI+0JuEeJSnkEDOSMYOf8K5c69qc+ixaGbn/QllDqv8hn0Byce9RzNuy6F8tlr1KvlEnHqaka0niCNNBJGsgLRllwHGcZH41Z1XStQ0KQJfx7SRuRgp2MPZu9dZ8R7qRG0S3kgtol+y+arQHO5TjGOBhfQc96HPVJDUNHc5EaPfvpzaitnObJW2m4CHYD6ZqsqYkH1rsJPFdqPh8mmRwQm4lYxyKuV2d9xHc+nY5NYF1pN5p4SS6VV8xFdBnqp75ojPuEoLoV4NQurWyvraNgIrsEPxyAvoe2e9ZG5on+UkEHOfQ1u2mnwXFurteKkhaRSmM7eMgn6nI9sVA+mWWJGS6mY+YyoPLxuAK8/iCSPpV2Rndmv4p8XHxDpGj28ss8k0CE3O7hd544Hc8Zz749a528u5754XuJmkEMSwRZ/hjXhRUVzDHFdPHA7Sxj7r7SM/hUeMAE5GKlRS0Q3Jy1YSHcMDNeieLtYS+8IeFwL9p2kVneMrhlKgIc/iMfrXnQYbSCamDsTGpJIXp7UOKbTBSaTQ2O7mtZH8uWRcnkK5X+VRx310GGLifj/po3+NNmjZpWIH8XrQkD7unWrILBnmVvkuJMYzwxHNJCwuLiNJ5iEZgpd2PyimeVJk8frVieG2Hkm285m2jzVkxgN7EUmUivdpFFdyrAzPBuPls3Ur2Jp4++mPQU2SKVmZivJOeop0cUm8fL6d6BH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFfMPluGbJfr+FRq21gGBI7g0r7RwufxFMpJXKuWYLmW3dzA+0MMU7zHmtjENzNnK5bpjr1p+nXlrZM7zafBesy4VZywVDnrhSM8etbMt7o7xvDe6RbQiQAh7J2WRPcZJUj/ZI555FS1Zjuc2wDfMWy3ekUkZGOtXr7T/sckTLKJrS4BeCYDHmAHByP4WB4I7H1BBNcoiZ28mtdGRdkDqQAcc+1dD/YdqPA/wDa+52ujdrFtJwoUhug7nIFc8zEvya2bXU7u90VtALo8XmCa3Vhg7xkbQfcE4z3HvVSjZCTMZW25BGc05kycj64zyKIlKzYdSCvUMMY+tPlfM2/739Kjl6jv0NSGV7vwtdWzv8AJYzxzxZ/h8wlH7Z5+T8qxyTng1uypFpvh+NbgsLzUXExi6eXCmdhI9WYkj2XPcVikAnIOefyoQEPXmjGMU6MKZFDsQmeSBkj8KkK2+Bh5ATjOUH4961b0FbUvRarGwb+0LJL1mXAlMrRyD/gQzn8R+NWItZ0+0jZ7XRoftZzsmupTMI/QhCApYerA/Ss6K2SRWbMgIXIBUdfz6Vo2ejRyKJJy+0n7uB/jWHPFaF2bMm5ubi7nkubmR5ZpWLPI5yWPqTUS+1dLJo0Ej8uyjAAG0f41l3mnMtxN5a/Ii7icYAHQD60lO71BxP/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Break The Records-by You &amp; For You</tspan></p><p
+          ><tspan template-id="title">Break From This World</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">KAT-TUN</tspan></p><div
+          ><tspan template-id="artist">Globus</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
