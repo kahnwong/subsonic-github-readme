@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJnc7j9anSHgbtxz1x0H1psMW4l8c5+WpYgZJQD/q15I9a6rACwdOcA9wOP5VG8I5DSbT23Dr+lXk/ex5IBDA//AKvaq86EtuHIA6A5pWEZsytG37qVj+PB+n/16gS6m3geY/X+8atTqykZUEZwT2xVV4/3it3yAaANiOKRI4gVYmaIyIRgLgZznP0NWLmBbEynecqyLg4AO7dgg9+APzPpUFjdWQRI7jzTGTnaGO3P0/CtdbnR1BDpOcj+/kf55P50xlEW8xlltwsgkhkKv0HQE8Dr2NOMCzWjTxyMVSMuVKjcuMg/UcDkep9K6K0v9AHlmSF2dT8rEkgDtjnjHNSXF74feM7YD5u7llzjGOn15P50gOMuLElrpFlBeEF0DDl8AFsfQc02TSylr56S+ZEoUMcco+R8renqD3x9a6GSPSbl0aG3uDMo+8rdM9cVmahFbQuQiSpnAOT1x0/pQI5yFgxKH1q5FLlmBIyBkFuh9PwrOKlWJAI5qRJzkbgQfXFAzYjkYISTtOMdRgfSrEbu2XzuGBjb24rNhkiIX5VODyAOv8qtbl+Vs7NpHf8A+uaYmWLzzi8durmOFUV3B6uTzzioYI5BMkBYNBIeFGflI5yM/SpJbiC5K5d0lUbRKg7ehHemRmOKVSrvLKxA3sMbRnoBSA//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCorcPJH3DjPPY8/wCFaMWnRB+RkKRwD1/Cr3hu5sbvWtPt9TKPA0oV3kUIdvXG8dMnjJ6Z7V12l28xuGbXbCztUu40MNutsinZ9riVl+XDDjK5znBPrW6asQ0ed3SxxOAEXk8VRdRuAABHXINd0PDEUiXxurZrOGG+UfaJkYBLfExcjPXhBj3wO9ZniiTTdRWDX9Ne3jaZzBcWqRiPy3UfKwXOdrLt5xjcH+lOck3YIrQ52NVIw4+lQygZ4XH0pJG8yQthVz2XpSyIFAAdTn0pSndWGlqW7a8jtIDtHmSFuVcfLtI5wQePQ+oPbvGdRnMJhHlrEf4AowPcelVAMnAFWYbKSXkLxWSu9ENkltqt/aBvIunUMwZlJypYZAJB4JAJ/M1N/b1/vRy8O5ScFYIweRjGQOmCarPZuigkD86g8s5xjmjkYXLV3qd1fgLcyRsAd2REinP1AFU/yoYbTgikyPSk01oM07W3zLhAGAPJxkVsWyKI3yoY9QucVctdNdot6HBB3FFA+f2qxBY7o3PlgMMBg2MjvWi0B2MxbNfOIBGCemPWnrYERZIAHPNa8NmA8YBAIC9vrVp7Mm33YC9cgGtIESMS58GSS6cl5Fe25LYyncEruA+uP5r61zer6Pc6Nd+RcNG3AIeMkqcjPBxzXZNfXtiQ0Mo43EKVBGSAucfQDHpisPVrq4uraGBkURJz7s2Mbj6fQccmomrscT//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Dark Side</tspan></p><p
+          ><tspan template-id="title">Gilia (Europe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Gregorian</tspan></p><div
+          ><tspan template-id="artist">Matenrou Opera</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
