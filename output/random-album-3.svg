@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOQSzJ/i/OpksyTjKn6mtdNOuSeEX86uQ6NO3Zfyrz51uzPuaOEhH4kczPBHbyETsqJt3Bgevr/Sk01bZ4na4iEgIIwDgrzx+laniLSpItMYsAxDjHH3aw9LlD/aDM21Qy89hnj+lbU5N0+ZPU4MTTpfWfYyXutennv5W+4vyDTFQqulMx7EzGqN3Hay2TRRaYIZiwYSlyxx6c1o3FqIImdhwBnnvVY2wkXcvI9quNd7mNXJqUXZXvvbmbOmtNVlhIjIDeh9KLjWpjeq8T4SEHgHhj3/AArnBfEL85GPbqarzakxidEhwD0Oe1ZrDq97HRVx0WjU13XJL23jRvkCxHdg/eY+1cnJI8CPECNsm1ifftT3vWkyZME9AcVUllMvLDHGB69a66VLkVjw8XiVVd09TcXVHu9PiicsfLUBieSxqFLuS2kyMlW5IHasRLhrZixPTkgtjNatnqFuuXePzkIIw2R26j6U/ZJadCZZjUsp/aRUWVgFJbJA5yac1wGGN2TjGM1hpegtt9SMZq6nl7UY3EAGCSu45/lW3IcTxDW5ZK8Lt4HUUx4ie/I7ZpEETP8A8fUAUbdoDE/09ql8yzgRo7m5jctyYwSBg+pxVWMvaJmVeSqG8pdpCnJbHenI8qQowBHHU8VHcxo7GRbi2IH8CufwA4qGSX918x8xhwpJ6D2oRMnfY//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHYW3MxLY2jtWvYWTXVuJbiWOJSdsav1fHPArPs0e3ulkT95ExC7gu4H2+tdReC2QkiMJHMoKYG4x4BOF54GevXtTuyC34fWaMT7RucAjOPu4rp/E7vI0TNGzCOFULYweF549a4+012Gy0uQXEconnB/djHQjgk+lXLjW59R0G/muXYHzyhONyqCoIH0FDYHKarI3m/aICzpu2k+h7Cs67uI55RlCcLg+ua3YkjijjcMJLpvnIzlccnv3FZV/GRN5snymZSUVRyp/2qVxo1PDUYuIvLG9JAhEZjbb8/Y/jxVaS5N/dBL+cQmFdjhurEZPA+tLbRy6ZEZl+bAIxjke9UZyEnaZdmUYjDAtj0zkDPehhoakrzXdpt+y72VtwAOGVe/wCHTj60W1+Egnt5olkWQHccnC4GFOB1/n+FZi3jStJFucKwCR7OOB6/nmnuqWkrQOxdyQDwVKjH5Z/zmiwjZsLy1gvJftAQxOvlk45Uccj+tU/EP2FbhBaJEUXkuCTmqVqI5rry40Y7s7QQc5xwRj061d1CxWViyMUU8sAO/fFAxI7guoOd3v60t7beefMQBmVBlQOv+c1kx3QRUJJAK8GrCah5K5UEn1JxVWuLYI7U+dGRINqxyOCpPIUE7e2DxUun2j3t4Y/3q7kPlswzmUqSq59yMUsOqOJGJDHPHB6fnT5tZGEWESKq44Ldx0IqeWXcd0W9OtjDaLckusg3Z+gIH5HJzUNxdfKwDFcnPDcVRbUjuJZmHBGCeKpy3as+CP8A61NJrcHqf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Legends from Beyond the Galactic Terrorvortex (Deluxe Version)</tspan></p><p
+          ><tspan template-id="title">OSCAR</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Gloryhammer</tspan></p><div
+          ><tspan template-id="artist">KAMIJO</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
