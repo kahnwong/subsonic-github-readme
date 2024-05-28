@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBKKBW1pMy3dzbactnHM07CNVPGXJwMnsPWhjSuYtA611d54J1WDxpP4fht4Li5jKsEjk2oysARgtg9wKsaD4Ot9aGpQTNdWd1aOyEmMvHGwz8rEe4x+tZTrRguZ7Cn7iuzc0b4faFqGi6fdtc3M1xcrEZoo5lX7PuUks3ynjjj2IrH8ZeEbLQ9NiubKO7BLReZ5rFgu9WO0naBkFccH1zg8Vyc9hfWFvBczQSRQ3APlSEcPjGcHv1FVmdmzlic+9a3HYbXY6P4eudH1y2u72yS9td7KirKUEhBKg5B4BOcZ6gGs7w9oMGv2t3BHKU1GMhoVONsi45B9Occ+9ejfDnR4tb0HUrK8mlm01LiMJby5yjBd0icnGMgDII5ANZVJdEb0ad9Wcpb6vYzeI9Uu7yFJZIbZRDJ5rqFkRQmQQc7eDxzSaD4nlstP1+9F0Ihe+bHNFMvmGcyK2MEYwQeCf8AaHFJ4m8Iw+HtVntlLrbvLmNmbP7tsYBPseDWePDwumW0gdYpVclVdjslGM/gRyPpVunbUnnd7EniO4lPhPRLRTJ9ih5hEmCQ5QeZjgELnGAa5Ku78WWltLpDvYKY7e3lMiwltxiU4GM9xz+lcJShe2oqqtI3PC2s/wBg+Iba9b/UZ2zDaGyh6jB/CvZtB1jTdI8Oi8hYw/2ncs/yL5hEj5JAAPpxx65rwEqWIUdSQBXqWgaTd6do6qrC4EQaeCNQfvtt2jcD0Pp357VFWN7M1w8nsW/izrENxbWMKRBXfzGRg+RjC98DqSMV55LqMktlHMspSVWBz6/5zW34y8Ri60tNNa1jS5km+0XJwco4yDjJIBPU44rkA5+yPGexBH0q4NuOpnWtzto1riRbrTL1pGYzLHG2OgGHAP1OCPyrn60o5CNPvCykho1QNjjO4fris2miJvmd2f/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDWPPNNJpSCc0KjOwVQSTwAO9WMTNGasx2U0koiRS75xheeaWbT7mByjxsrDqCOar2crXsK6K2TQDTzBJx8p56cUmxh2qbNDLCQxZ+aUVu2Fgvl3EgVN0cW4HOM5IHA+ma50TlSCy7sdjWtpusWlrPvmtWkUrhl8zH9K66M4J6mc1J7HqHw48Prfys0cRTPytLtB2E9D9MZqPxZ4YumvdqbEWGUooyC0g9ePyrG8L+N76DVLeGGBUtTIMtEPmYehI5pdU8ZTXGqz3Fw0kcCykrEeC3oB3rqUru/Qwsc7q2hm1uJ4Xcr5cgAHPX0/Wsg6fLC58sBuSBuwB/OptU12e8nkZ5Ad7l2QD5R6Cso3khYHjIOeea5p1Kd9dzaMZFc0lKasRXUccSxvaQOQxJdlJY5xwecYH9a4zUhjlkibdG7I3qrEH9KGmkZtzMxb+8SSasm8gLhvsVuByMBTg8/WlN5AxY/YbdcnjCnj/x6j5gUvrRU1zPHMV8u2ihCjB8vPze5yTUIpAf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Mey - Single</tspan></p><p
+          ><tspan template-id="title">The Silent Force (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Model</tspan></p><div
+          ><tspan template-id="artist">Within Temptation</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
