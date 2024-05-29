@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APL4YVeEswfhgMjpiq8yKjuB0HrWhAuLUjaf9aDu9OKfpsltDqvnXW0qpyqldwLduPbrUN2ZtyReGTtrzfoVLT7OkRe7UgEbgM9sE/4UvlfanVkSOOWVgoGerE+/AHNeqDwbpniCGOSQzByoKvnJxjuKgh+FslncM9xcq9urZQjJY+nHasPrEdx/U56I8tuNPubZpDLFhFbbvU5Hp1FQhcjFei+MLS10nRpdoJXARUY9Of1rzzaa2pT543OerT9nLlNK2Te4TcQCwJ/AemaieyaTVo12uyxTBpCByEyAT+oqW0wLyIns3emXMwt7yZ4XUDkZXpjv+FVYt1m4qHRfn3Pa/Duq6dGkMbXcULn5ESb5Ccema6XVr+2tLAy3N3DCnZnbArG0X7BfafDqggieXyslio4+Xn6U+wmju5lhuIUZHthgOo4Uk8DPbmvNtE9P39+x5345RddMFtZeZK7SrsZVIVhgljz1wATXn3DcivRviXqMNhLYWFntiZS75HXkFf5E150oHQCu3Dq0DzsU7z13LkMvkzrIM/L/AHTg/hWLq979ouHRehPznPU0k+rFlKxIVyPvMeaza6EjlbPYfh9rE0uiJYyM6SOpe3Yn5XKnBU11dv5ts/nSCO3iRd0jIWzx9TjFcx4Bsbe+8F28e8M/mM26Nvnhk3HB9siulk0ia4Cx3t5JLbLy8QjCh8dmI6j2ryqtudnu4aVqS6njvjrUpdS10zsGWNx5kWepUnAP5CqVlP58IJ++vDf41tfEyERa/ASArvDkr/dGeOK4+C4e3csmOeCD3r0aWtNWPHr6VXc//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACwAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIpbu4MzbX2Dpjoakg+3TbhCzvtGTz0596rNN5k7HaME9av6fezWM/mQEKxGOQCDznofcCm9tBdRsdpdzgN5Vw/BbO0/X+hqV7bUJF2GO6Iz/cbrWimtaixRPPcLnbsA+XmmzX995reZeSsVJXIb0zUXkPQx7iG7tD5MokjbGcMe1VVmnLLGZmIzjrV+8uXuH3TNuYDG4jnFZnymdQckbucVa21ESbAs7DjhsVbjiBwc596pMuy4OGyA3Uc5q3C6rnIwPWgR0ujaadrXMscgVMFGXHJJxjHrz68Uapo6onnW8gdcEsHf5sg4J7Z7fnVDTdSlspiYW4YbSrcqc46jv0qTVNQN3IEYIVTPIBBz3/DOeetZWlzF6WMWYAEjqazyAJlJ4G4Zq/NxkrVDaZJtpIXPf0rYglmZRdyAEHDnkfWnRykkgBiRzwM1cv7KI3AcbgXBLY9qZBZISh3yAnjg4qbjsIskuc7X/75NOMkrdUY/wDATUzWSqXxNNwCR89Q+Thh+9l5P96i4WKs7urbWyvsRiq6uBMhJJ+b0q59nEspDO5x3zU1tpsBuFJLnaA2Mjr+VO4WP//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">10 Years of Hits</tspan></p><p
+          ><tspan template-id="title">Tales From The Kingdom Of Fife (Heroic Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Ronan Keating</tspan></p><div
+          ><tspan template-id="artist">Gloryhammer</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
