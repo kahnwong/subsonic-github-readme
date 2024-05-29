@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA6sQWU08ZkRSVBxx1qFNm8FwSvcDvV23Ihl2szKOjcnOPQYrRGU20tB8WltnLqxx1XoRU8ukwGAyRGQHt3H0pYb6GGT95PLk9QBu5/wq7m1vmJjlZHAyy8rx/exWqUbHFOpVi7vY514HjjWTgqeCR2PoairrfssKxzwOuVz39CM/zzXLTxeTO8fUKxAPrUShynRQrqrdDD8zE4AHt2p4lKx7R1B4NR9qKg6LHRrb2ml6ekzDM8uAHI3YPU49KnZbe/spLm1GyaPkNjHI9vQisa7uxdafaoCd0WQwPfpzVrTZvJ0+UKNzydQOMAZ5rZNXt0PNlSko87fvX/AF/Kxo+czWSzADJjUkH6Vk6ihWxQybd+/PHvkmrLiOe1EkRZkBA2hsGqV+nl2sas3JYkLnNEnoOjFKat3KCBCxDByTgKB61KYk3keVJhD84BB7+v0quDgg4B5zzU5u5S8jZUeYAGGOCBWR3tPoEcUnllgp2kjHvk/wD1qc3mR/JghkGTjtTIpRuQSMyoh3DAzzx/hUjXrLI5jO7d94yKCT/9anoS07jY5popQ4X7/IHQHtUc00k8heQ5bp9PagzuTGcLlPukD3zTHbe5bAGewHFK5Sjrex//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEY7meJuWJ96dJezknaxXPcVAswPAOPrUowTgjFQpcu6O2VP2usZX9f8yHL53bjn1q1HdSNyGKyj8mpUtd/3SDn9anFl0Rhsb+Emh2eqFBThenNaf1qaWn65dQECUB0/WunstYhmXPmhR71xscLpIEmG0noexqdomhOVJz7VUXczqU3B23RzbRkdqekkiLjhgOgPapg6HkGg7fatJRTMYTcXeLFhuCD0xWqt350OyQBgOh7isfnOFBJ9hmo/MkjY4JU9xisZUv5Tsp4vpUV/PqjXS9khG11E0J7en09KupepNEMNlfXv+NYC3WVIkGD2Yf1FTW8kTkhSUk9B0b6UleO6LklW0jLX7v6f5maGx3ra0RtJkLx6jFM0pOYzGC27pxgEY6Hn39qxniZD0plbnnHYRNYxTwtDpLIylwJGMuRlF2k7XyfmL5x2A/GR10O4jndrK7mvXXDSSMxAcLHk+uCRJjOe3auLopWBm1rsmlm+nGm2pghJASJ9xdMdcknqev0NZKgseBRHEXPoK0Le3AGe1NIHI//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Skyfall - Single</tspan></p><p
+          ><tspan template-id="title">The Witcher 2: Assassins of Kings (Original Video Game Soundtrack) [Enhanced Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Adele</tspan></p><div
+          ><tspan template-id="artist">Adam Skorupa &amp; Krzysztof Wierzynkiewicz</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
