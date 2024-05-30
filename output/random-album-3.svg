@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOnMsER2ySoh/wBo4p4nsim77VDj13cVfhsFmIYl1OOqnFW/7OjCBN8uP97/AOtQByXim+bSPCt9qVvh3jTbGR0DMQoP4E5rzLwt4MfWrC51O4jkkwpMA7SPuwdzduhr0r4lpPb+DLiG1kCCTEbKFyzjrgY+lcJ8N/HqacP+Ee1OMfZ53/czBiu0k/dJ9z3oA7Gz3vA8TlDLbt5UgVs7WA6Hv6EHuDVmOM965RfEFrofj3VrG8QJDeSxNFIuflXbtA+gx1613MSxyxLLEyujdGXoaAOss0G0VaeLjIFVbNxgVW126mJhsIWaITqWkmXghQcFVPqe57D60AUNT36pL9hskSR4nDSzkZEPUcdmbrxXnfjr4Y21hYDUtIkkH2VDJKSmdx3LnkdOCTk+lepWdjDZ2iC3UpGwyAGOMGrunada34uYZWb97C8Lx9iGG3P5EigDw3xL4G8Sapes7W0D3tgibjE+BcRtkqy5/i4OR7+9d14QVpvClrLJG0buzllYcg7iD/Kuz0yaK68MaZeNHsnMKRyc5wyfIwJ78qax7O6trmCX7M8ZEc0kbop5Rg5yCO1AF2znxjmrl3EL22ABAlQ7o2PQH0PsehrCjlKnINXYrzA5NAEtoxhgMDLsjUnyx/d9UP0P6Gr+ituup3jZD8oUkNyDnNZjXaCaObajtG4cBhwWGcH8M15h438UeLPCvitryx1TbaXsYZYxCpi3D73yHIDZ5z15oA9W0s+RBq9gVytvqU+0A8hXxKMf9/KwY9LWC78+BwrNK0jkJgsCckHvXmNn8WvED3Ukf2TTpJ7yVTJI6MoMmAgPBwBgLx7H1r1y2VyAHILAYYgYBPegD//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APC7aXy5klVVZoyGwwyDj1rbTxNdoyxJbWIwcKDD+mc1i2KZ8wk4G3GfrUcvyNwcgdCazvrY7VG1NTZ1EHi68013aKz05xIweRJbYMQQMcUkvjTUQwkjtdLKKoCj7Ivye4HY+9cyFeTO9xn0aodjF9oJB96F6iqNP7O50o8c6lvJaz0xgRgqbUYP+f8APSueuLgz3EkpVVLsWIUYAyc8UxVAPIIpGQq4BBANXoYJNLQ07GJGt5FPJLc1ILD5vlIA7cc1UtZxCVYN1O1hW5GRiuSpKUXofQYKnSr00mtUVP7PiERGPm/vd6z4rffcMrHlOvvWzJIq8Mcd6xriYLch4id3f3opSk7ix1KjT5XbYk+zANkkn2NRXe0bB3wfwqU3IaMk9R7YIrPLlmLNznpWsFJu7ODEVKcY8sFuJXR27gxIc54HNc5WrYySLCokH7s8KfSlXjdF5ZV5KjT6l25mi2FGYcjtWaHgDliQWxjJFW5RGp3GMfUCqE0yFvkjBP0rOnHSyOvGVHzc0raEUuC7FTxtqAVMQzKT+NQ10o8Wpq7n/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">lovestrong. (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">I'm In It With You - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Christina Perri</tspan></p><div
+          ><tspan template-id="artist">Loreen</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
