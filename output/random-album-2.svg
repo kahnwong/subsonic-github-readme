@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APC1kxViB2lcKnXOMVWEbFsY61Y09ljnVnOCGq3JoqnDmkkbkNiIlzIm846noKnurKONFV4fLLfdZe/rWhptub69toi7CN3O+REJZV7j0P8A9apNesWtrqa2UyPFE+EeSMqceuDXOsT71me1/Z8XFqO5yVxIYWIbkjiqay7sgmp9UlWacunCqAuSMZPrVOBRt5ByfWupTbPGq0+STRctrdJM4KlscAn+hqm4aObpw3oO9TxFFCnrwcgD+tWfLlntVwhbPTHQfSsZ6G1KKkrLc6XTbKbT9Gi1W7uBFux9mXaSSxPQn6AkgZ4rotftbm50aHWJrxHuLqMySwtwyleDgjIIxjjqKw4NaHhLQ7GSSc395cqXSJgCsCBvlGTyCSMmneIvEcPiHSrDU7SVbW9kaWK8tUGVyB8r5HHQ46f1rznTnKVz6GnioU4qPW23X59PM4W7kV5tnQEj8BT54TC/OxR2A6inTW7wKsjYYOfvioXYlAGOcDjivSgfO1vifNuNjC+YgLYBIyT2rvNBiDaPNGkKxAiYi5kiEsbAKPlY9UYdiDglunevPt3Jx3FWbe6eJSm47D1XPB/CnKPNoRSqcjud/ceH/D964SXUsFblwuZQMxA9ATx+P1OKzLbw/oQhLf2o0c6zZ8pWBXaXQAg+ylvY9R0Irnn1aVP4s8YGRnFRR6rdvbeSxQrjCkoCRxjrWSptaXN514SlzWOp8RaFYaZpc9xbagkswkYJDIwJWIsVBA7tx+TD0NcQx5qWeeSVUWRywQYXPbv/AFqBmyfpWqVjnqT5ndH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APU1kqdXrIS6HrU63Q65/OtzNGujipQ4rJS7RgCHUg+hp6X0XB81Of8AaFSUawel3VnJeI/3XVv90g0/7SPWlYDgI9RPrUlxfb7SZQc5XHXt3/TNcql4fX86sfbGZcCQrxjgE+v+NUyUzbuL1ZT+6KooEifKePm3DPHrgGpjdwG/hdRH5WzDDHUkkA4/H/OKwxeSEkrK6gkngHinC6lII86TngdeP1qS7nUaddRwpN5YUZnfkdxuOKu/b8/xVx4upWmJMrhM5wfr061bF5700K5xKXGT1qdZ/eseObNWEl96VybGstx71Ks5rKWWpRN70XHY1luPeni596yRNTxN70XA/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Enigma of Life</tspan></p><p
+          ><tspan template-id="title">THE ELEVENTH DAY～SINGLE COLLECTION～</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sirenia</tspan></p><div
+          ><tspan template-id="artist">GACKT</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
