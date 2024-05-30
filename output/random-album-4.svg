@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANO3vt+A68+q1Znn+zyNG8bh1OCDxg1zsF0VYHIrZv7k3NtBdjBLDy5D/tLj+a7T+dfQzlaSXQ4aGDVSlKS3Q8365+42PrUqXUT4AbB9DWOt3n5QFz06U/zmJ6Crsjl9k72N6KNp3CRjcxOAB3NRyKUYqeCOKi06VrWGW76FF2p/vtwPyG4/gKoPfyF85z9azi25NI6K2FVOlGT3Zza34abykmjD4ztKjNbGnXjzwT2ZkVnkXfEAo4dRkD8RuH4isEQoDu8obs9dozVu2JikWSP5ZUYMrYxgg5FcFWc2tztwFZQqK+z0ZKbqTdkFSP8Acp4u5xjpjvwOKfewJHc74l2wyqJUHoG/h/A5H4UlnbrLdJ5uTDHmSUd9q8kfjwPxqfrMuS9zoeEf1n2f9WLV9f3Nvb29sSqlV8yZduTvbkDj0Xb+ZrPa9mx94f8AfIptw8s08k0pO+Ri7fUnNVTGx6txV0ZyUdzkzCqp1WlstESqpNPClenHPP8AjVAxoUCi5lA7Ym5HtVaW1kC7o7+4Ei5wxkJ/pXFLGR7HuU+GcStU0dQT5unEHG+3O8e8bYB/Jsf99GmB/K07cGG66fH/AGzQ8/m//oFc9Y3V/a3KtNcLPCQ8ciEhSysCCAce+fqBTru51CW5U26qIUiSOOMtnCgY5x3JyT7k1yfWI3t0PWeV11C9vftY0Hk6dSD3FRGQHoNwHvWY1xqXRo8Ac5U9f8+lWp57FEaRdTumdVz5f2XAJ7Dr37ntXbDFxeyPn8VkVek1za37X/E//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APSs8YwPrimmlooASjNcV4g8cz2GutpGl2aTyxbVmmlDbEduifKPQjJ9wK3tC1C8v7QSXsCxTHqqRsqjnsW+99RxRcdjX608lNuApB9c0yloEFBZUUs3RRk49BQTTHJxQB86N4lvJtY1LU7e8uLT7VcNKUhuGXrn35+XjmvbfB+rtq+jK067buAiOYYxnjhsdsjt65rzf4jeBriK+fUtJgHkXZw8UfBWTBJwPQgE4Hoau/CXWhFNNpl7MVmuAHt8jiXHXB7ng4H1qdmU3dHreaWm4p1USFMcNtO0AtjgE4GarvJc/wBooqpJ9nAw2EBBJ75z0FWjSTuVKPLbzM2WK+nmjfybdBEdyB5CwDf3uADkA8fU1DLo2nhYpJ4YkeH7skY2ncWyf1OfzrYqMxK+N4DY9RTJGC7h3FTMmQM53CpI5o5QNjgnGcZ5FRS2VvKrBowN3UrwaIbC3gJZF5Pqen0oA//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">V (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">คราม</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Maroon 5</tspan></p><div
+          ><tspan template-id="artist">Bodyslam</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
