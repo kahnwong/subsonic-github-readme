@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOe0vRUv9QSJ2bYeuOCa3W8KRW8smBkYOCap6fHerLFJbQyOzdML97HXFdhFrekWkiy6lKIvI5ZAu5gR/Dj61605uOqOyrFvcyrDwLpsOlNrGp3E8FsDuMcQHAB6kn+lVvsmlNHDd6LqT3lq8gidZIipQkEjJ7jgisPXNXudZY65rE3mWdxK8FnZAqBGq/xFfXJHua9F8EWov/CiyyJkPLuiRmUjA6lUxlQT2ry5YipKprsceIw0PYt9TzzxPoptpA+wMsh5OARkcVxl/aiBgdpAI6Gvoe4s4SjRyCAxjOI9ucn1/wDrV4949treLUJBbxooJ4CgAdK6qfvHkQq+yajI073wxrMUsx8iXdGoZgMkqD7jjFYskmq2aFRDMrAHG+MnaMehBHSvpCeRTJg4yB2FeSfEaSyl1y2hmv5bK3ETtKYVBbcEbacEgHP3eo64rz8NnSr1vY8unc+q9u+S0kcxHNHcaQ9vf+HikkcpMcmnx+VIGIHUHIPK56YrU8JDVvFc91brqN/pCRxiWBIV3pKm7axdm5Y5GPQYIAGKzoZtEMLTReIWe+it9rsZSC82WAMYIGVJ2tjtnn1rpvDsunW+tS6da6nLviVBKrTAtLlTuQNjbwQgOOmTyetdvs4tNnlVq8lHQgvH1XRbtLB9Uu7yebEKusG1IWdgAWIyegOMetc1rGl3ct3JFdxTEKdqORtZ16b+e/HvmvQJdN8i/mmWWaRpSCNz7toHOAT156Gs68jWVnkZyojBVkAyBz2Na0aXLLmR8/jMfPl5Etj0C6uxGxkPPFePfES6sNQn3WybpeVZlbuK3PEHijZplwEmWLI2kk+teWahqTvIskbB2IyQB3r5LKsBOjV56jdz6l14OL1MxiICysBvxnGa9ZsdRgvGF5HAI2mVSzADe3y9yOteYw6PJeyLNPOFXGSoRs57DpXe6Zax29pCqzAlUxjacn2r7HD+8z5fOK0XFKDPQbJ43t0kkb+Ej5h0/SsC9IDnaw8stnrn+lQrqEuVBbhRgAUtzciaMDuR2rrhRaZ4lbEqpBLsf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6imM3SID6mpaR2CIzHoBk0mBXIusE5QHsPx/wpW+0sSV2qOcD8O/41j3Xn3s6I0pRD2U98E4/8dxSwSTWt9Msb7ofvKuThefu81j7TXyL5TaiM2SJAMdiKlpFYOoYdCMilrZEBUU5Hl7Scbjipaqy20kkwcS4AIOKHsCKYUpuVQVkB+Xjkj0pBGDtUqTIT82BzVieEsnmhhuB+Y9zzRbwlUEpYbiRtPcc1ly62LuWoCDEFBzt4qWqsNtJHKWMpIJJx9atVqtiGFFFFMCnKQqSA4yeMfj1/KljO5Y14yOMD69fyqxKCQAE3c+uMUkS7E27NoHvmptqO5JRRRVCP//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Music</tspan></p><p
+          ><tspan template-id="title">Legacy (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">David Garrett</tspan></p><div
+          ><tspan template-id="artist">Myrath</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
