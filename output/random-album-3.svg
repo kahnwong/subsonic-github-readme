@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APb9duJLTw9qVzC5SWK1lkRh2IQkGvA4/EHj57aKUeJ5RvVTh41GMruHO017r4pBbwtqSqxG63ZSR6Hg/pXhg8L6YQA9quNoAGDwfz6UmNNrYcmvePpJhGvia4AOMO1uoGSSOmM9qYniLx+1v5zeKWiUYLmSJQEGCc8Kcjilfw1pyyn/AEQNwMkFgeuMfepz+FNMVSPsqeWFyOWI754zSHzMgbxL8Qktmlk8RyhljL+WsSMeF3dQuOmCPUc17z4Xuri98J6Rd3UpluJ7OKSRyBlmZASePrXgi+FrI7gtrAFI5T5uRgdfm5r3jwpGYvCmmREkhLdUGewHAH5YpoG2yfxAu7w/fj/pi1eT7HBPJA9MV61rn/ICvv8Arg/8q8sa5iFwE2fiBxQySNY29cnGOlKYmOcgk98j8KWTkuwYADOATUuravBpjQxyW4klMauCTgDPT+VICMWzbgHRwM4bA6V6l4fGNAsB/wBMV/lXk9tr0t1q0UJKR87GA6MPx7161oX/ACAbH/rgv8qaGLrXGh359Ldz/wCOmvH47WRHAlSNULvvYM/LYJj4I45PIzzXsmqwyXOk3kES7pJIHRR6kggV5HJ8O9XkvRceTcAmYysNqdyeB+87Ajn60MRUto7uKOMNNCIhIpl2hiVI4HJHXGePaqF9plxd3U0vmx4MigBmOV5PByOvtWjF8MNXjeNgtwdrKxGyMA4/7adetNb4W6uPuLNyedyR/wBH60DMyPRbsahHMGHmR3KuV7rgklRjknH9a900E50CwP8A0wT+VeVW3w51W3njl8mdxFMZUVgnJyp+b5+vHUV6zpEElro9nbyrtkjhVWGc4IHNCBn/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAaMdKAM08L+FAGlbeH9Ru9IfVLe3aW2W4FsQmS27aW6emKfc+GNTs9CTV7mNIbeSRo1SRwsjFW2thTycHAOOmRWro/ja+0awt7CCzsXtoixkDwKXlLMCSW6g4UAEdqdrvje41qDUYTYQW6XjREqjEqgTnhTxuLEneAD8zDoaAOQ7+1L2pSKCPX8c0ASS2zwgPw0ROFkU5U/wD1/ahELsqqpZicADqT7UsNzJbk+W2Aww6kZDD3HerX9pOYVjigtrfHV4o8Of8AgWc/ligB8NhcKxdoo2VOXUuDjH94A5xVrxDPbXt2l9aadbafHIoR7e3J2q6jk4JOM5HTjOfeqNhJFHcqJsKjHDPtLbAep2jrTtQulmlMcThoEY7CIwmR0zt7dOn19aAKR96jzipD+dMz7UAIcZ4/SnA478VHTgaAJM8fypN3bP5VMl2iIgNpAxQYJYH5ue/NI10jIyi2gGV27gDke4560AQk56/zpp5FGfakzQB//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Remember</tspan></p><p
+          ><tspan template-id="title">Madách</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">BIGBANG</tspan></p><div
+          ><tspan template-id="artist">AWS</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
