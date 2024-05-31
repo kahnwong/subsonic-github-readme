@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APT7fSrW3fbOyhCcDOaWfUdMsswJKZArlGba21TkZG4DtnnGcd6wLDW9XnA3XSIOvzL/AFxxWK2nXr3yhbmZimfLkjkyoy2ed2cdTkAc/ia7pRlfVnmRlB/DE79LrRHhSWSeGJ2Byu7uOv1qCcaCxybyEHg/e9TiuFuDYWDGOFpp0iUhnL8IT6cYXntVb+04pQD5catjG7BJb9acYS3TJlKPWKOzng0Rl2JeRMWIwFbqSMjFZNxY6SMRyXKKWOA2eKy42Jj+0fadwWQNymPm/wA/zrH1TV9rEQKjjOeecHI71qoSa3JUo3tyjo/EVsp8uACRjna0z7FqxqT62bO2HmP/AKTJsS3t1wT9CG5rndPEF/GJrqIxaVB/r2gYdOg5wTkk/X6VRutahe7VbJPs1rGf3Sq4BjXOc5J5b1NYt6nUo2Wh1ltdwadY3lhNcB7hyrMIXDRgA8g57+u3PSua1HUx5xiil3xZOOxH4YyKy77Wrq+SMTXTTeXkKHjUcHr061nhtoxnH4UlKwcl9zoINUeM5DZHox61r3Ys7hFmFvIH4O1GI/nkGua06NifNC28w/uvKFI/A1seaggACRwr6KQf5CtPaC9mU9YcR3TwvPqWn6aScWpj3AYHpwOev41z11eI80hS9mcY+QvCFLjpg46cVs3dpHOsvm3RlKnOWkO4+4yKwJtOJnc24kaLPDN1rBvsaxXcYklKZKcLOQYypA96kitd52shbk9Dj9KkuwttNtVt8ZznKtjp/Wr6zSpmRgTjHIwf0qaDS9OGGDXAcLyByCfzqaYBAxt2kMgHG+PG6qTCx//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANnxF8SdK0qeS1mnG9QNwHJ+leWeIPiNb6kClvazMf7zkKPyrC1fTLnWfG1/bQ4BEzAu+dqgdMms280mOx09zPJi/M4Cwo6uvl4OSSCTnOPwoAzbiQy3DyEEFjnBrTtNEuJbK9lKt51uYx5II3fMSM49jtyP9r2rIOQcHqK1ItclSSSRoUeSVAkrZI3jj06HjqPU+tAFqx8PXl1qkNpKnliRym7cMZ6AZ92wM+9ZEg2SOuGGGIw3UfX3q+NcuBNv2ghXDoC7fKRjAznkcZ59/WoL3UPtgJNvFHI7+ZI6Zy7c9cn1JoA9eS3j03x/qdvPGqtJMWBI6g8ipfEXg7TrzzdQkmSABedpxmuG8T+N5NV8XHVYoTDGrKqqepQetReJPFFxfQLEkrCLHTPWgDlNSWFL+VYDmMHCn1qqOtKSWYk9TSUAPopKKANzxHeaFeapPPo1vcwW7N8scwHA/AmsWWYyYHYdKJmRpGaNNinouc4/GkiZVkBfO3nOBntQAyirguYcZZW3fL0Ax70n2iHb9xt2P7q9c/4D86AKtFTSyQtGojDhgxJLY6cY/lUNAH//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Northerner Diaries</tspan></p><p
+          ><tspan template-id="title">Yesterday's Tomorrow</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Jeremy Soule</tspan></p><div
+          ><tspan template-id="artist">Sad Alice Said</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
