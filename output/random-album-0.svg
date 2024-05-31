@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANnxF8SdK0qeS1mnG9QNwHJ+leWeIPiNb6kClvazMf7zkKPyrC1fTLnWfG1/bQ4BEzAu+dqgdMms280mOx09zPJi/M4Cwo6uvl4OSSCTnOPwoAzbiQy3DyEEFjnBrTtNEuJbK9lKt51uYx5II3fMSM49jtyP9r2rIOQcHqK1ItclSSSRoUeSVAkrZI3jj06HjqPU+tAFqx8PXl1qkNpKnliRym7cMZ6AZ92wM+9ZEg2SOuGGGIw3UfX3q+NcuBNv2ghXDoC7fKRjAznkcZ59/WoL3UPtgJNvFHI7+ZI6Zy7c9cn1JoA9eS3j03x/qdvPGqtJMWBI6g8ipfEXg7TrzzdQkmSABedpxmuG8T+N5NV8XHVYoTDGrKqqepQetReJPFFxfQLEkrCLHTPWgDlNSWFL+VYDmMHCn1qqOtKSWYk9TSUAPopKKANzxHeaFeapPPo1vcwW7N8scwHA/AmsWWYyYHYdKJmRpGaNNinouc4/GkiZVkBfO3nOBntQAyirguYcZZW3fL0Ax70n2iHb9xt2P7q9c/4D86AKtFTSyQtGojDhgxJLY6cY/lUNAH//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APKEG1UJGQx6VYgRT32nOOTTLRA5wQCQDzV8kxxhEOPTmuCUtbHtwhdXIpeXXpwelWojxjeoB7VXM+G2nOVXGdxqdLjKnGQdvB3HisnsaojZGBbDE5ORzUVwSmSpIGemc4FXCWkj+ck/jWfeDbKflH1pw1ZM42V0FkF2g9DjmtGGyjlljQOW323nBd4DF9pOAMdMgVm2DbIWyR6nNXnuGLK0JZGWEQ59tuD/ADNOW7Ks3FWFi09HjuppXUiFWBw+35wyjByOmCefarB0tY5yqtIBksgYDLJuUA++VbdnpgVnve3C7/3n38hhgENnGcjHPQU9Lq5kYEyMx5wT2Bxx9OBx7UNPuR7xo7I1WbbGTsmMXMnUfNz0/wBkVTvwjk/LwP0qxG2LZoipZ2lEhc/Rgf8A0KqV+zY9qzXxGsb8upn2Muxip5BHIxVjf23bB2Jz/SqMbkYG7H4dKkEx2qOvrxXRKN3cxp1LRszXTTZLiJHV1YHuKsx6c8Me+R1VfXk1lQtnOAMmrYJKA8fgKwkntc3Laso3AEMo5GBWXfFi5wePSnCaRCwAPtxUdzJvVgCSCRyVxmnCNmROScbI/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Yesterday's Tomorrow</tspan></p><p
+          ><tspan template-id="title">The Hobbit: An Unexpected Journey (Special Edition) [Original Motion Picture Soundtrack]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sad Alice Said</tspan></p><div
+          ><tspan template-id="artist">Howard Shore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
