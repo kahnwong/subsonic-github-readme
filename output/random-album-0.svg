@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGoo0LqrvtUnlsZxVk21r5gVbsbSpJYoeueBTFh3cDJPtUwspTIUAGcVVibjfsts0rKtw7qE3blTvuxyPoQajNnF5gXzX2lclvKPBzjGPpzVuHRridC8YJ24yFBJA9celV9QsXsrtohIXAAOQe5GaTQ7jlsYskGZj9Iznt2/E/l71VmjCSOgO4DjOMZ/ClVZCM/N+ZpGHrnPvQBpRLHBfQl3JjwS20Z7Vs6lcWB0l5tPmUT4QFNhyATg8/lWC1tLbKNrqd3GAccfX+lFvne4Lcv8pLZx64PFO4rG/Be2j200sTPE8ccZkZm2lnPBwM4x/OslL+0Ms0s6McsdvBJI7fjXS+ANFW6125a7WB447VmVJ2wrscKOfYEn8KydW0uCPWruCFItsT7AsSkg4HXHNArKxWgl065hxMhin3Ywh3KQenv7VBqkdtA2wEBx1XGDmqk0UUJR4SzEEHBA4+uKjnzeXUk7lY2cliGOAPpmhsdiaQ+ZcMPLLc52g8c+3SrUSM0sYEUiNjO4FeB6gVmbtyBG9PvAckelC2xY5Rg6juM8Uhm/IN7GS3nlR0HBcBiePYcVmvHfRGQkS/NlXYD73fFM+wTNGHh37QPvcrn9ajRZk3EvLycFgSQfxFAhHW5h4e3YHj73FMuoHQKWglUkbmLg8/jUjxGUnc74GBuYkqntnNVX3klTIxz3LHFIZ//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJHnwdzHntVuwWa6mCqpYDBIzjiqDqoxxkkgZNdXoXg67v4Ptklv5kcgVolLEAYOTkd8jisEdOvQ9E8MObaBImtXjJ4ySDXUT3S2sWXBrlvB/h+/wBLiEUzMYxliGfOCTwB6DFb/iceU9hg4RnG/wClJ6Gq1KNzqtzJGWTTmWL/AJ6SyBAa8t8aMWvvMMap5g/hcMNwrqfFPh7UNRgXzAZXLbmZXPygHjYOwxwR34Oe1cpeeHbuLS7hpwyKrFokY5KjPTNOyWtyG29LGDFaiZowSAN/J9q+k9Htba302GGFAFRFUflXz5JCqxfL0bkEe9e0+DdXXUPD9vJu/eIvlyD0YcUmOK0OhlwhCqOtc345nEVhbMrDfnIGa6S5e3uLZ4pG2gjllbaR+PauJ8S6fazzwyzam3lrlVjLjpjrQy0dFpkqzaZDI/OUBya4rxzqMUds8K4G7iuiW+gg01BA4MaLtBB6YFeU+JtSGoX7/P8Au1Jy3bHektWEtEUYHEW61fqCdvuK6TwPrZ0vWGsJXAiueUyeA4/xFcneqzgyJw8Z/SoftC3cQV28m4QghgcYYdCKq10Zp2Z75c6VDexGQwCVyckFj8w9K5zVtEEqlYNJMbZ+/M2QtVPB/jqdbdLbVI2aVPl85B976iuh1nxZai1PlBnYjoFNSpNKxspu2hyGtSx6Xof2WMhQo5xwWNeZXl2LiVLRG+8cykenpXS6/Je6nNvcFIRyFrjYIfLuZD74FVDuYVG2f//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Tear The World Down</tspan></p><p
+          ><tspan template-id="title">Voice of Earth</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">We Are The Fallen</tspan></p><div
+          ><tspan template-id="artist">alan</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
