@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGFNPL8VEDimtJWwizbotzdRQNIsau6qXPRQe9S6lDBaahLFazmeBThXIwfxoudMubE2rSMhEyeYrJk7e5B9xkHir1leT2MVzaI6y2tzDl1lyBI2CAwz6Hp9Kyc/tRdzRQ6Myg/FMY1GjEDBzTya1MiInFXI7bT5WETXsscv/PQxhoyfTrkfXmqLmmDcFDAcZxmpZUfQ6C9gu1tojJewOlvHtQJIef90Y/nVKWaSdLNZc7Il2bmBwoz0x9KqLcSMwQSMFc4Y/jVlFa1SVZbglT0jHzA9gTWVrG1+bYZceSsKLDLJIAxyWXA/CoKJZVZFVAAq8D3qMPWsdjKe+hEzVf062+3TQWry7InnjU+oLEDI+gqgVqbDI2clSMEEH0qZXa0CO50lzoFvbacbqFnnHlyuqsmT8r7cMVPfqMds1Je6BZxAW63TtLtJWMADPPXG44GAeuM44rEi1SVUDfvBKGDb1kYH+dQteuZHbLHdkFtxyQfU1y+zrfzGqlBdBl/DHb380MJYxo20E45/Kq9PdmkcsxJJ9Tmm4rrimkkzF76H//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APKtw7mmsw65pSoYk9B3JqxYfZI9Rt2vY3ltt43ojBS3oMntnGfbNIRXtoXuphFFhnPQdSaRYnd9iAMx6YrrrvWLe6sJrcxATJEIo3VI1HzSbnbAPAAwqjJ46mprrV7C9ik/dxxLMeiQ4244yPmz+FAzjJEeJ9jjaQPSmbicDJxUs8iu+E+4vyqfUCoc8imInmLSIAXQKo+VF6f/AK/rVXaAw37tvtXpfhzwfpOp+Erie5vJFvwjzW6A8JglQ3v92uIvYUtnMc53yFdwboF/DvmlZjM1osYYLhT0yQTUtvb+Y3Cg/Xit7QtIWXVdCnBYW15esiu2FIEeCx9M81seHvDX/CSxzGytybzzD5ibgFX5yAQe3Smk2S3Y402sir5gibyixjDn+8Bkj8qa8EYXcJBnHQjvW0rXFlBJEqLHIrld+Ae2M+/H9DUMWnwXJdjd+dKeSR16kH+h/GlcZFBq11aXieXceQjoImOM7V3bun1/rU81i9/4nh08XEcvm7VWUHCHK559s9fxrPFujyZlV8+obFbFhdwaTKk8NsomXlZCxJU+3pWcpO2haiupc8b6Y2jaBoNkcp+8upvKEu9I8uoAU/Qdfen+CvF2n+HbiZZre9driGGBTayhCjhuXGeOcj8veo7p4vFMqfbLqXz1B2bZAQM9eDWnp/hfSUjiuYfM+1wsGSR2+VmXkEjtyKhVuVe9uN07vQwBHqaXjpc2hZrZ51dQMljFjeDjOT8wHFQ6U0XnX8xGyVFMiKBncM8qBn/OK7TQTqmm31heXC2zsou/OViS+6dgWY44J+UdxxVDW7j7NetI2nafCJIzHsCqpdRwMDPYcZGOKSqq9g5Gf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">In Portrait</tspan></p><p
+          ><tspan template-id="title">히트 (Original Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Eklipse</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
