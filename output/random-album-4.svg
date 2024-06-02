@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACwAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCv7Lv/APnyuf8Avy3+FXoNIzblpre6D+WSAIm+/vGB0/u5r7A0HVrq7v7uK4+SOLhVY5Y/4VsPehPlSNmOcYrKFaMo8xbg07HxnJotn5dyViug4WbygsbsCwdQg+70K7j+FVhpCC8vgbe6NupP2dvLfJG8f7PJ259K+u9S1qW1kdXkaP5sKcHB/HpRpGutcamto0xkLJkhgQRxnP8ASo+sw5uUfs3a58h6lo6RyXH2KC5dFmIjJjb5k3Pg9P7oT86zRp94TgWk/wD37b/CvsvxDrJtoUVIpLgFiNkTZOcHqBVDSru2u7qNEilXMaySZBAUksApPc8VMsSlPlSGqel2VJvGVnaSTgWsQkJ3uy5G4n1NeU3/AMZ78XFxFZy3bRHcqTBkjIz0IXacY6de1WvFEM4RpbVlMbR7X2HkYPDAfofwryuaxZJ3WRgr5yAOjDvg1z4Z86vNl1NNEe6+E/iaNesJU1PTGU27IPNeckyNgnPAHI4/OumPxCt4TlYIsjoTnNeBaDqUdijo1w8iuQSr4JBxjr16CtGXW0wcyFBnhjhlP5cilNVOd8uiHFxtqeuy/EO3E/nLa24kxjd5hrnNS8aOnmyW17NaKwA2QgFQAe3HFeX6hqt0illVZIz/ABoQy1hTXcsylixXPYE461UcPKWsmJ1Etkdu3xOsmj2f2fP7HK1yl/rthcTFoLWZI2JZkZhw3qpB4rnaK6oYenD4TJ1JPc0JNRVnJ2FvRjwfxxUn9tSgYCR9c58sZH41l0Vtyom5sw+Ip4GLJb2hbGMtbIT/ACqC91d7+TzJYYEbGP3MKxjrnovFZtFFkFz/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APaaSl9qbJIsa7mOB9KBi5rim+J+jx2zzta3gCMqMvyEgsGP97/ZOfrXRSalcFmMNsojUZZ5CfyAAwT+NQw22lkKs+k2KMuBuW3TYM9MZGaAOU1D4qWKkxW0NxDMpdWE0KuCQpxjDjGGwTntWr4X8d2niDUX09FlMx8x1fywihVx8pG4knnr0rVvdDjmZUtrOyhj6MfJQHHTptPbNWrHR7exuDPGQzlduTEgIHHdVB7VN3fYvlVr3NHtWJcz/abuVHKGNCY1QqSW45PpjOfwHvW2OtYsQa0uTGzoD5hcKf4lJbPPuecdvwqiCeEGMYeMEBQFlDYLn6CmZIZ2GxQBkuG+bfnkEUsRMapIIdgC5J4yo68j/PWnSsWdmRYuQPLJPLY6/wCc0AWvtsYkVHV0ZiB8w4yTwKsCsKTDzwrGJPmnyCeFzkZA/AHH09q3aAF61mX9tIkv2mIsyHHmxgA5Azzg/Xn6ZrTooAyLaS3coSQ0hUqHbGcDtgcZFQzTQR7TuVAYyscm3a4GQOOwz0Fak1ja3JPmwKxJySCVJP4Yp0NlbQNvjgRX67sZP50AQWtmodLhwfM2jAYk7OMYGfb+Zq6KWkFAH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Closer - Single</tspan></p><p
+          ><tspan template-id="title">Himmel Auf</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Lacuna Coil</tspan></p><div
+          ><tspan template-id="artist">Silbermond</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
