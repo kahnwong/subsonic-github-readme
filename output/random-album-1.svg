@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AJPDC2dzEjwXaxSKN2GOCuPr1H0r1PQdQLL9mnZTIuPmVgwPpzXA+HtL0uONQLjz2A4AiOM/U13kOnWNta/aVLRMBgY7mvRr8r0Z59BNaova3qdtpdoXncg4yAB1rkLbxHpepQz+TcmRlHz2xGD65x6Z79Kllu4dYumS9VWw5SMN02g4/wA/WsO5ttM0LXrfUra3jTyX8q5GwlSjDGcexwfwrnhKMfdtqdk6UpLnvoY2vy3mpRmK1syTk4YZOB6Y6fjXnd74E1yd2c27HPbvXvcPjPT45gV8m4tyMbAFBH0rN8Y/EBNEgtb/AE60tbuwm+V8gq8cg6qSOhxyMit5Sb0cTkjFJ8ykddpui6Z4ftV+USS46vUF0zamFUbo7NFZty98en6VhzajPqdwkW4pHIxzLjgAdQPWtX7daWaqlxKsUC7Y9p6t3wB3/wDr1HK1q9WXdS0WiMi1eUW80EMKvdI5b5uMJnIY98EHtT9WP2ixgtbqBFmdwzovIKjnPrjitG+0Nr3Wk1CB5rYjCfIQGAA446VDNo8+lS3OqI0l3cMpQ+a+Dsxkgdu3SuWy5r3PQ5nyWsYOseAhJp7z6BMj71HmxcNlhzx6V4t4it76xlkt7yJ42B5Ukj9DXrt3rPkSfbdHufLfq8RPOfcd6x9Y8TaR4lszb61ZiG5xhZVHeux8zVrnnJRvsKPGLrMZHjU3Mo+QAALDGD8oCj88Vr6RYNq84uppjNIxzub7wrwq11GY3Bk3nLH1r1fwNq0vmqryqAeKl1L7Fxp2ep7tp8Hl2kUbZbaoG5u9Vdbtbm5tHhgGA4IJHXFSWQW5tlkWQ4IGeTz+tM1K4S0gMjyquBwWJAz+dcnU6tTyPxHpK6WrmKHzJz1kbgL/ALteWazO7M3mPlx39a7b4heJ7h5WiW4bb0wMAY/CvIbi7eSQsST+NbudlYx5NT//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNaKKK9Y8UKKKKACiiigAqW1t3vLuG2ix5kziNdxwMk4Gaip0cjxSLIjFXU5BHY0AaLeHtXVlX+z5izYwAAevT9eKP+Ed1gYH9nzZJ2jp1zjHWmSa5qku3ffTnaoUYcjgDApx1/VWRlN9NtbkgORk+v17Z96n3i/cK6zaelhNBcBo7suMS7N2xBnPHr/hVKIkx/M245IJxjvWmZraTSbwuc385OWbnPzA5/n35rNTdsG85buaNeYLpw07jqKegjOd7FemMDOaeFgyP3jY4z8n09/r+XvVE2IaKkCxd3P8P8J79fy/WlKwYOJGz2+T2+v0oCxFRUu2DJ/eNxnHydeuO/0/P2priMH5GLdeox9KAsf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Я видел свет</tspan></p><p
+          ><tspan template-id="title">Pure Live @P3 (Reissued-2012)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
+          ><tspan template-id="artist">Nemesea</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
