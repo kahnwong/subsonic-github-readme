@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APElPHvVmLLADqfQVWUVraEWj1zT3QZZbqIge4cUARiGcf8ALCX/AL4P+FMMU/Ty5P8Avg19KvJq+pyO0jTRISeFPTmrtl4fQSI8plds87iOTmgD5Tk3ZOcgj1pi5bIHWtrxLAIvEmqIOi3kw/8AHzWNyhyODQAKAD1Fbvh0Z13TC2fLW7iJIH+2KwEIzyePatnStQt7JfnVmYOrjA7ggg/higD6ujFsq5QRAtns3qacXjCgBodxI2kocZ7V5rafGHQVtYlmTVPMUfMVRCCfxarQ+MvhzI/c6rwR/wAs0/8AiqAPH/FdpMmvalcPHJ5b3sy+ZsIQsHOQD0Nc4wFeneJvFnhrVvA/9mW0N2dQ+3PdK0kYAUs7FmznqQcY/wAK8ydcUARhzn/Up+RqVXP/ADxT8jUQv7j++PyFSLqNxn/WHH0FAG1a6ykEKodE0+UqPvOjEn9atDXU7+HtM/79P/8AFViQaxe28qSw3DI6nIYAZBroV+I3ivHOtXByMfdX/D3oAj/t5AOfDmlf9+n/APiqzNQvhdy7xptpb/7MKMB+prcPxI8VsP8AkMz57/In/wAT7mkb4i+KmBzrEpz1/dR//E+5oA//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfaRjS1HNIscTu3CqMk+1AHi3x38cXGnWkPhmwmaOS7TzLt1OCIugTj+8c59h7188V23xZkupPiLqJugQ5SJlU/wqUDAfhmuQgtpJw7KOEGSaAIV619VfCDxN/bXgS2imuFlvrEGGUM/wA4UfcJHuOM+1fK2MEjvXoXwo1eW01y5tYrp7d7m2MQdCoJAy2MkcHrzQCPqySVE4Ykfhms69v4oYi5MZRPmYu4HA/OtJ03cgkEdCKx9StLKddt6kvByGEZk59jg/yoA+ZPi5e2+s+M5NUstrwPDHGzI27lRjJx0z2B54rhobl4HVkxx1B6N9a9m+Lrrp+kS2cOnsILidQLiWIRDcAGJVODn3wBycV4sEJ68UAWrl7OY+ZEZY3P3o2UEA+xB/mK9S+EvwzutZktvEtxKn2BHYRwhiplKnB3HBwue3U4ryIDmvrL4X39pa+D9C0u0aK6heFttxbsT8+Sz71YArySO/b1oA9Bpkz7ImbfsA/ixnFPqK48z7O/lFQ+ONxOP05oA+ZPjferJ4ktbCG/N2RH58nCgK7fKAMew9+tc/4g02x0bRrOwt2WW9YBp5B0HHT86v8Aj+4t9b+ItzJNdvJdedDBGFiIQgbR1PJ6tz3/ABo1+2tX8QRxRTF/IR5pQyY+RR1z+XFRIuKOEnTy32Ecgc17R+ztc6m2r6tbLK39lJAHeMjIEpYBSD2OAa8XndZpnkL/AHmz06V7b8BNTFprt5oqEFZbRZnBOP3gJJP/AHy4H4VaE4n/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Love Language (Acoustic) - Single</tspan></p><p
+          ><tspan template-id="title">REBORN</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Connor Price</tspan></p><div
+          ><tspan template-id="artist">相川 七瀬</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
