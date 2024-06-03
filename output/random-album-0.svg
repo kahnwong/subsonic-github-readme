@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iigdaYHZeEPAV54q0u+voXhSO23A72IOQu7gAVyUlu8Yyele3fCKPUF8MaoljDbyRNMUleViNoMfUYryG6CsHWMHanGWPWs4ybk0bSglFNGVRSng0laGIAEnAGTTjG4BJRgB3xQjmNsgAn3FPa4d0KkLg+goA9Y+D+vfZ7fUNJ85Umu8BA5+98pBx78ivNr8tbtNG2N24ggDGMcV2Xwo0+w1qTWdKvow4lgSWIhtrIyMfmU9j81cr4qsRpfiC+09WLLBMyBick496yjZTZvJt0kzFEbsu4IxXOMgUMjIcMpU+hFPjuHjUBcZHQ45FNkkMhHAAAwAO1amAyiilFAHc/ClGbxejBsKsbF/dcHj8yKxPGmT4y1Zs5BuXI+ma0/h7dmy1S6kjRmlMGxFUZJJIqh4ujP9s3TP/rRK2/8AHms/+XnyNrfuvmc5RRRWhif/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ9BtUhEEsbkyzwM7gru24fAwOB0Hc10rgxBiqlZDgtvOWI7Dj6DgVhaK8scVhvZdn2Z9pUDgeac5yT3+lbCykI8jMjtuG4E4DAjJx34Hp9K4a/xnXQi5KyJSVgO+aQFsZIY8nHv6ZwKlaJLrbNBbL5ocsMEDeMfe56jtUUKl7hJHaMM27ykBz/APqXjp3zUcZM0sg485jghsBlG0Zxj6fyrnvqdvsY2syCOS3ScxPAI5BNsA3A8ntn/PWrIuzDODDC3lKwO8sH5ORnr69qsSXMtvCrsW+zxqScjBnOOmOoORSJJHJZF41MkTHd8wGc+h7VXNfWxyyhy6XOZ0x2UWDbUGy0PlgZbdmRs7sj1z0zWoFtjKs42eaDvZWY8EHGAPTufpWZYw+YthksqGyOwsAwyHbP055/GrcEcqyoEYAhiRhuuevDe3vW9dJyZGHnKCui8kpEm6N1kDMUTy1A24+6cdu+Kb5mxdrRqAAS8g+X5jzgY7ZqkbiG1hLMHEhJQMoGV56/Wp1kkkGVdfKBEfPck9+xPXJHSsFG2p01KqfuxLP2jzVdJkMokYbVx8xb1B7ADtUaTzW+4tKJGALKAvyOhPX+tRIxPBMPB+ZlO7Zxzk9zUpuNq7gnmYbKr1+mP8/rT8jAx7dyWsgEWIfYFAVZOW+dsk8DGeTirR+ZQZD9Tn+dULZoBdI8d/8AawLWMNvUqYzgZTpyAScY9Ksx/wCsw/PGCCcit63xszp/CNWZowkiO0u04fKnOcfrjP6VP9tDs8aBGyQWzGUz75BrOI3Tx/PIgEkgjPmAYAA6VLDNI8kMEk0jcPneyEEYwOn51LihqRoTrC1sLgpIjsSCEk56nOOvcmovtEMcbKA5AOckgNzz0qZ2PllYWZCGwGC7hnjjFU5S2VyApYhgcDn5ifzqI6lM/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">8</tspan></p><p
+          ><tspan template-id="title">The String Quartet Tribute to Paramore - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
+          ><tspan template-id="artist">Vitamin String Quartet</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
