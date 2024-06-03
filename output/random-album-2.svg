@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+il2N/dP5UuxsZ2nA9qAG0U/YxHCn8qlgtJJsEA4PT1P0oAZBbyXDERoW2jJwOg96cLVi23coPucD862BFFFpq43iMYMi/wB5qkNpH9nEzWxCDltrksB369alO42rFzQvCfiLXtJW60+zgktTIYwzTqhLLgngn6VoH4eeLFIb7DaqC2V/0tOv51xlrq+pWUPk2moXcEec7IpmUZ9cA1OPEet/9BnUP/Ap/wDGnYVzrbvwjruj6fJf6xb28NjEArusockscAYHPWsayvNO+0lfLlICNtIUdcHBxnNZkur6newmG61G8niJBKSzuykjpwTiruiLAn2q4nZ1EcYwRjGSeM575+lOwE91qZe9SLykIGRGwXAZm43EevStezuZ9OlgjudHjkKHcX5bIIwCOcdcEfSp9M1Lw7JLI72UgjlJWWN5BgnHLLhdygHkZ6Vbi0zVWtYoXWGOK4DFUa4GUUZIZsDIBwelTyodzy6iilUZOKoRchT5KszhLdEtmyZX+dwvb+6v9aZEAkO52CgUQbLq6SGIAO5wGbjPt689KAO0+H15pltrsaX22QyRARI4AAl3fd3ngZ46nHrXaX9jaxeII49T1K1tYh+8MltOGMSqWbyx6Z3jJH5V5bbQW9vBLDONwODNCPvIOzrnrx/UEYNZn9plo/s62cOM8HaAf5UAf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOT1/wAX3uqyOI5GiiJzjOD+Hp/P3rlHOe1OZwfSnQx+dMqZA3HGWPA96mMIwVkDk5PUrFeM1ERzXUJ9mstPku4ocQlvJhlkUF5W/iYZ+6APTuQPWsrU4LqK7kjkImQYZW2dVIyDke1VcVjIIweKaTz0qaRQDkDioWPNAi2STViyt5Lu6it4hmSRgq59T/Sqe4mrlnFdPuFvFIXdWAZBzj+LH4UN2Glc3tW1iBLlLXT4kmFsgggdhuVQOrAf3mOTn3x2rOurS6l04y3JlF0sv8RwXUj09sfrTYIL61tyLe2ljcjc0wQltvse3T61WbT72QGRo5zgBi3PQ9KjmRVik+ccknHrUD9K0p7W8+zNJLbykR4zKV6D3rLc9qpNPYlqxJnHGanjvbmJAkdzMiDoquQBVakzQ0nuCdi8L64cBWu58Bdo+Y9PT9TSG9nXKi6l27Qv3j0HQVS3UhalyofMy3JqF00Lwm6maN8blLkg46VSJyaUEngVvaR4XudRZXlBjizye/8A9b+dJuMFdjScj//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Love Death Immortality</tspan></p><p
+          ><tspan template-id="title">Story I - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
+          ><tspan template-id="artist">Arch Echo</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
