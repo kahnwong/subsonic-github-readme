@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDcmnAk9Bml2VPbZUkBQSenGawuenZrUu20BFuHhi/eqA252A74wB0P86W6snYMGg2Tgb3ZpOevJI/CrGnSTyzyaZcXbWUchBm8xemOgb+7k4xnHOM1pTjVjdXaacJ9QhCqhvnXhkHQgnpn1PPvSs7mXtNdWc4FhslBkHmTkZ2H+H6+n06/Sq080lzO80rbnc5JxU94HWQxSIqujENj1qttp7G+skiwsRdgqqST0AGc1oWLxfaYba2t5PtQy0k+/oMfwjpgepPWq4XHTj6UscLLN5kblSy4JHbtURkuppiac1H3TqtEudMmjmkvUaaXZ5RSSP5FAPPP8WfUmo18XWsXiBxPDmykVUaPaGG1SSq4+pHT6VyzzTRu9vBFt+bHB5NVWtn2uJEPGcjPTFaWVjzlFylZ6HTaxcaRfyTSFbpJiv7mbIIbHQMMfh7DFc7sp8D77ZRu34J5PWpQvFZSdmephqT9mrk6oC/Oce1dFp3hGa//ALIMF5H/AMTSR4lzE5ELKcfOQOAT3HbmsArzW3beIksotMdLS3MmnOzxloiQ7Nyd/wA3zDPbisotdTurwla0S9a/D7+2rS0ura/QXM10sMqTRkCNH4ifjnBwc+mVqvY+Bbi5VnW5iaBhcIX8iTcXiTeyFcZyV5XGQfrVTw7rUGj+IU1IIGRvlaOWIOg5BB5JPykAj6Y71at/GEkUhhMcTW6rOvk+WxQtKux2zv3EleBzwOgFbcyaPP8AY1ISdupXbwXJZaPPffbklghd0Zkgf5JFAzHJx+7ck4Abg4PNYhQK2B+tdEPEEUNnKlpaxQNLC8LOivlg/Xdlzvye7A47Vh7OaynJdDtw1OSVpH//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHdWtLWHwxoFxDbxx3E6T+fIs25pCsmF3L/AAYGB7jmsKug1lU/4Rfw4y+buMM4YsAF4mP3cdRz35z7Yrn6BBXpdt/x6w/9c1/kK80r0u2/49Yf+ua/yFd2C3ZjW2RLRRRXcYHG6xGqeF/DriVWLxXBKCIqU/enq38X4dOlSrJ4dMdqWAVk2NMPLb58A5H54qDVpUfw14fRXy8cU4Zd+7bmZiOP4evT8e9YdeLGXL0O1q51ED+GDIkU52wmSMNIsTlwm75z9cZxXS6nGq6vONHlL6VkfZi/DbMcZyM5H9K8yr0u2/49Yf8Armv8hXXhlzt9PQyqOyI7UXQLm5I5A2gEcdc9PwqzRRXdFWVjBu5xOqaRBZeHdD1CNbkTXyTNL5gGzKSbRsxz0xnPesWtjUp4pPD+ixJNC7xJNvRBh0zISN3rkcj2rHrxDsCvS7b/AI9Yf+ua/wAhXmlel23/AB6w/wDXNf5Cu7BbsxrbIloooruMD//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Hades: Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">Black &amp; Blue</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Darren Korb</tspan></p><div
+          ><tspan template-id="artist">Backstreet Boys</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
