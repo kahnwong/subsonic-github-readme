@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APH9LvpIrZ335SM5KA/w969h8PFbpbFUkzG0YZ5Cpb5icFeOvGD+teEwKxRgueSM4r1LwDqhCWMCXG1I22SnnJx0HtwcZ9BipKbPSrMzGK3ZsKWkWOT90d3+swTj0C85NaVtAZI2lnDrKm7NqICTgZwA3foPm6c9KTQ9Str/AEWS/khV40AIEKl5PYcdeoq9b3KwSlJ1ZW9WOCv4jpRow1Rjf2fcXt19mmjkiXy45CfK2gdckDnJXPPOcYyBVd1n06fbdYulEpV2UgFiM8lR3x3rfv7iSe+iEd6y2yqdyb+Gzx355/ocVh6tqS2mqxQoDbmOPYQwGxx2y30z16YNKxSkz500S2FxqMieYUUITwu7P51veGnM+oy28118qjaqDhpD0wvuBzj2rLsbm3t7P5G8uVvvswAz/U/gK6rw/odnBoX9stA8t1Hcq6pIjbZYsYIG0Z6kHPtRcTWpu6BqmsaBJbLZmSaCabyPIKrlCcsBwRnIz1Nd9eNBJIGu722tWX/XI04OD1wcfyryHTLx4NUvFmZhLI0c0UbceW4YMBz+Ix71032KOLxTqsF0Y5LzzC7qT3Z2Ax+AAoWgm7nUz+IYIZRDEUuZfM3CQdGIx8wJ6BR3/nWVJqKpJPPPlpJn3OqncifLjgH2JrIvbeeCdYrdSzRt90DIJxyv+e9U7m4ljQNtf7vdSCKdhJnlMcsqxO6bVLcE9zxW8ni/Uls4LW22Dy4/J2kbkKccYPGeM1zCbie/17VaENsHyt+Bz2iago2xc3M06XcMlrb3CtkTL8ojIxjCAcEdc1pQaxDLctLvmdkjEkjrJzIFyc5zkZPb3rlTJE0alrrEuQuBGeBz/wDWp++COIwpe4BYF28tvn/+tRYD0Cz8WyxQqxa2MxDO+WKjLc7VJyMAccnPBrSi12yu4NwcCWQkCCYFSv0/LqOK8wuJ4pVVku9oToux2z+dR/2xcyWy28zPIiHdHzyjdyD/AE6UCsf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iigdaYHZeEPAV54q0u+voXhSO23A72IOQu7gAVyUlu8Yyele3fCKPUF8MaoljDbyRNMUleViNoMfUYryG6CsHWMHanGWPWs4ybk0bSglFNGVRSng0laGIAEnAGTTjG4BJRgB3xQjmNsgAn3FPa4d0KkLg+goA9Y+D+vfZ7fUNJ85Umu8BA5+98pBx78ivNr8tbtNG2N24ggDGMcV2Xwo0+w1qTWdKvow4lgSWIhtrIyMfmU9j81cr4qsRpfiC+09WLLBMyBick496yjZTZvJt0kzFEbsu4IxXOMgUMjIcMpU+hFPjuHjUBcZHQ45FNkkMhHAAAwAO1amAyiilFAHc/ClGbxejBsKsbF/dcHj8yKxPGmT4y1Zs5BuXI+ma0/h7dmy1S6kjRmlMGxFUZJJIqh4ujP9s3TP/rRK2/8AHms/+XnyNrfuvmc5RRRWhif/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Requiem for the Indifferent</tspan></p><p
+          ><tspan template-id="title">8</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Epica</tspan></p><div
+          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
