@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APF81qaJ4a1jxHciDSrGS4YnBIICj6kms6GJ5544Y1LO7BVUDkk16v4ag0rToxawXVwsit8sm4YDnnJx24rOTsWlc4LXfBniHw3MsWqaZLCWG5SuHVh7Fcj/AArKsoLi5d4LeN5CV3sqDJ2ryTX0ppniHT/EWk3en6zas1lIQgkkjKK2ejAZDYPqPSvII9I1Dwd4o1azjjil8v5UlwwGw/MCueelOLTeommjhJRtkZATgGmV0Oo6laXkdzcXdmfts5wsiD5cDjIzyDx75rnqbAns5jb3aSggFc9fpW9pWs3JeULCXj8vDPjlCD8p/p9K5zGSB71u6dqaafZwIwJO9mIA9T3pDTO0g8XvcQWMktyXaydtkm3LjjBCluxGa5nxL4iaXxVLcxqQqokbKXDHKjsRwR6flWRfavLcXTuoCgsegwD7kVl4LHHU0Ja3G3cs384uJAyfdGccY6nNVuT2qUxnygecZxV+Oy3WkUoYjdwRimSVY7C6ljSSKBnVjkbOen/6jU502+Y/8esnJAHTnrx+h/KqHmyLwrsAOmGNTwzMHUu7lNwLjceRnmhASRWFwL1VktZHAOSnfHP+B/I16B8OLjT/ALS9hcaGLtLxw6NGoZmAyNjZ7Ebhjj8wK4mW80szSEQ3IVmYjDYIUggL15KnDA9znIrc8I+I9H0PxJZ37xSQrE52nBYR5DckZ5HzAevegDP1jRZrXUr+3tbK5S3S4fyUkU71TPyhs8g4I61LDa3EOlo80boqMRkkY6//AF6674uyWV3fxarZXOLmVBHOiMcOAMo4/Dg/hXEabIzWLKzOwDe5HY00M//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APElPHvVmLLADqfQVWUVraEWj1zT3QZZbqIge4cUARiGcf8ALCX/AL4P+FMMU/Ty5P8Avg19KvJq+pyO0jTRISeFPTmrtl4fQSI8plds87iOTmgD5Tk3ZOcgj1pi5bIHWtrxLAIvEmqIOi3kw/8AHzWNyhyODQAKAD1Fbvh0Z13TC2fLW7iJIH+2KwEIzyePatnStQt7JfnVmYOrjA7ggg/higD6ujFsq5QRAtns3qacXjCgBodxI2kocZ7V5rafGHQVtYlmTVPMUfMVRCCfxarQ+MvhzI/c6rwR/wAs0/8AiqAPH/FdpMmvalcPHJ5b3sy+ZsIQsHOQD0Nc4wFeneJvFnhrVvA/9mW0N2dQ+3PdK0kYAUs7FmznqQcY/wAK8ydcUARhzn/Up+RqVXP/ADxT8jUQv7j++PyFSLqNxn/WHH0FAG1a6ykEKodE0+UqPvOjEn9atDXU7+HtM/79P/8AFViQaxe28qSw3DI6nIYAZBroV+I3ivHOtXByMfdX/D3oAj/t5AOfDmlf9+n/APiqzNQvhdy7xptpb/7MKMB+prcPxI8VsP8AkMz57/In/wAT7mkb4i+KmBzrEpz1/dR//E+5oA//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Symphony Of The Vampire</tspan></p><p
+          ><tspan template-id="title">Love Language (Acoustic) - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">KAMIJO</tspan></p><div
+          ><tspan template-id="artist">Connor Price</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
