@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/API81f0nYL5GkICjnnpVCrdjd/ZLlZCoZehHtSewHVNcQDgSrnHTNSRSrgcEj12msi6v7OUAlMkjqoxinW73MiotrHckO21SCcH2FZ3Y/Zo1AwLndkU9oWJBIYKe9c9dalf290yecWKnBGd2PatvTdelntG8zAwpU4OaHfcXKcVTk+9zVy3eBIozKsJ2Nk/KGZxnkEeuOnbFWLL7PcsqCFBIsZLHZw3UcD6kH8Pz1ApR8jtkdK6jTtege0FvMiKQR97tj0qGPTpY7Z4fJtzHnOSPmdsHoew7D6ZqF9F3A5QDagAIPGec545PTPvUNJhc2dQvNLkCzSunCKAoO7OOgH0rmne2mk3WiSxlgQ4PQ+lXzoiRqAGDHGTgdDSpYMi4UYpCukcvT45Wi3bcfMpU5Hb/ACKaaTtWgzrtNv8A7Va/MAZF4JPU8VeMgII2Lz354+lYOg/cl+o/lW2OlSzKW47zBkHYnGOtBkBXG1RznIFR9qSkI//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAME9KMH0rU05bILGZldn3tv+bChNvB6cYOOelT26MrTTGONmSNDyQVXdhfm9P8aVyrD4PDqS2Nrci8Ba4gabyVVdw2sy45b1Xr71U1nRZtIvprVjvMZ5YDt6+wzmu206G3TTtMMsc0DrC6IUkVt6szuMgjPII47Yz3xVPxD4se+nvIba3V0njKZcfw/McYPcFycjHOKlS1Hy6HBZop78nOMH0pmOM1ZBNDO0DB4mKt+lT2026NoMOd6hQEONxzwCO/pUEy+WxjGVPRh2OKt6TclL+1y7p5bEpsXJDHjP8An0qelyutj2zwrNd2lhqd/c2Cwta2gWIybXImYjaoA4HAJ57Y/Hzfx2WXVYXk/wBd9kgdpFXBYtGCSce+a9UuYTZ/CiWSbCO06PmLGMAHGO5PqT19q8u8VajBqeh21z9li+0wCO2+0KWDlMMQDzg8DHTP5Vkn7xo1ocUxzkZyKaelByMH8qK3MjoNS0W72iQklsnCDtmodN0q5hureZlwDJjkdq9OmjgM3MKkp0yAf0PWok0qGW5WQRyqQPl/e4APcn1zXF7V8tjpdNXudB4nVH+HX2VJQiA78Dk8A4H5DFeYvpLz+Eid4A3wuD6YEgP8xXcaxul0dbMI8rbSOHAHIx0607SNNT+y1sUiYIB1YjJ46n8e1JSfQbjc8iXSZfKLk5UAngdMdc/hzTI9LuHKDZkn+HIyPqK9iOgwLZNarC6RtzwQM4Ock/Xkn2A7VVTw1DaEeWjeWfubuv19qt12kQqep//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Out in the Real World - Single</tspan></p><p
+          ><tspan template-id="title">Show Me The Way - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Stream of Passion</tspan></p><div
+          ><tspan template-id="artist">Elis</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
