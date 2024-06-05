@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  width="540"
-  height="64"
-  viewBox="0 0 540 64"
-  data-reactroot=""
-><foreignObject width="540" height="64"><div
-      xmlns="http://www.w3.org/1999/xhtml"
-    ><style>
+<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -35,7 +25,7 @@
             }
 
             img:not([src]) {
-              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -49,6 +39,18 @@
               opacity: 0;
             }
 
+            .progress-bar {
+              position: relative;
+              width: 100%;
+              max-width: 360px;
+              height: 4px;
+              margin: -1px;
+              border: 1px solid #e1e4e8;
+              border-radius: 4px;
+              overflow: hidden;
+              padding: 2px;
+              z-index: 0;
+            }
 
             #progress {
               position: absolute;
@@ -58,11 +60,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress 273333ms linear;
-              animation-delay: -1321ms;
+              animation: progress undefinedms linear;
+              animation-delay: -0ms;
             }
 
-
+            .progress-bar,
             #track,
             #artist,
             #cover {
@@ -76,7 +78,10 @@
             #artist {
               animation-delay: 500ms;
             }
-
+            .progress-bar {
+              animation-delay: 550ms;
+              margin-top: 4px;
+            }
 
             #cover {
               animation-name: cover-appear;
@@ -118,29 +123,4 @@
                 transform: scaleX(1)
               }
             }
-        </style>
-
-        <div
-        class="disabled"
-        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
-      ><p
-          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-        >▶</p><img
-          id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AORigk6jp9KvRI4xuUcDrgjNQWWrwyFVuIlGe6nBrpLWwjvIxJazBx3HcfUVzyqW3OuMb7HNaprc1tc22naXa+bezkABzkZPoK1IYdYsZ1s9eigtrh4zLE8cgKuAcEexGRXKaZeef8RY5ghmH2lxGB/dAIH6Cuu8UX+m6hruk2Fl5RkQSbtpy6Ls+VGz0OcnB5odrDUne5geJbcfZ3O75h1riEYm5Vjj5QTXps+hx3UbIz7ARg7mx/SvPbhIYL2SMAyFflGwdTTjJNEVPiuEWoMG+8MVs6d4jubKUtbzsjbSMjvxXLJNGBnaMVdhcEYReTyMLnjGapxJTOm1bw4NJ8L6DrmmhzcviSd92QDwVP4HiuistE/tjU7bxlZtGcKk09oyEeY2Cr7W6Eg9vb3rRk02TVPAGm2FrEfNe2OyM/3gwP8AjVexgTw9Zw6bDdb5ILtJrqVWPl73+Uxp7YHPqaUti0tTK8U+KZFu5LKyt44UC7WcJhmJHv0FcBIRCWAGWPVvWu18Q6PFfTNfT3qpOiZCA5LY55rlC1vcMCVGT1HpTUUtjLmctyodEVQCL5G/7ZN/+qr9tavGNtqd7gfNuTjA61fiYZz5UpXuXkx/SrUU9qq7jA+7B53Hn2reyMFKR2vgy8urrQ1sSY4TBGULj7zgcgAdveo30oW1m8Sgea1wkoUsCPlOSefx/wAa5JL+SEbY7toQPmCx4z/PNO/4SIOjLcXN5KV4D7kH8wazlB3ujaNRWsy5qfk2ZljuGjO5doVev5qfSuEuB9nlZIyMDvz+fNdiNdsNu2DTWeYrgSSMGIPqOKydRS3lkaa9s5WkbqcBc/lj+VPVmasj/9k="
-          width="48"
-          height="48"
-        /><div
-          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
-        ><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-            id="track"
-          ><tspan template-id="title">Davy Jones</tspan></p><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
-            id="artist"
-          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
-            class="a"
-          /></div></div></div></foreignObject>
-
-
-      </svg>
+        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
