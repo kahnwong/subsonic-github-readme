@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APG9Nsrq6jeWERhFYJmSVU3OQSFXPViAeKvSeGLx3tBujUzBdyySKpDMzBUXJ+ZiFzgeuKs+HVe20+4maCaRGYMUVxslAB+R1YEEc9eo5x1qdfGixXEcosZIpoSpV4pgCdpJ2ElSdhJ5AIP9Emm9AOPuEVJnWN2aMEhWIxkfSouTU4zkuRnJ5pPLHUc5pgRUvOetWGjXyj2I5FVuQTQB6Hq95Fo+lC1hA3MMVwnMkmfU81ra1eG5Yc5wapW6+UUyoLOrNg9h2rClHkjfqO2p22leFraLSobuG3GoXbkZiZl2qD7EEcfQ16no3hXw9N4WuLvXfDGmySxRbwkNsI5foSnX6gA+1eU+C/ECaffAXLfuiOM9q9V0jxcs2ufZogXhfADqRgf73P1rgrVKsJM6VCLWh4h4ytdNstbaPS4XgtmjEnkPIXMROcrkgHt3H4muXPXpXT/EDWoNd8b6pfWuPszSCOLHdUAXP44J/GuYzXp078iucz3O2XwNqroryRxIvUl5P6CpbbwdPJdIyb3UNsdyvDeuB2A6V2On69p2pxbXBt5D12NirNxqltp5j8yaMRKpChByRXkvFVdnudyoxPPtT0VNHOJgxjI++nJT6iqsV9baTp080F2z3cymKPaTlARgsefStDxLrkd7BMqthmGAK4YOCu0g57V20IyqRvMwqtQdog4wcU0H2oLbjxzSYbOBXYcx/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACsAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ9I0yGfHnbRtjLqT0Jxxmr1lBAZCjICxOOFzTtLa1v7SKyhSQ3jqm0r0znnj2HpWpZaPfabrEFvfWzoJD8rn7rd8gjg10ylGMG+xyKMpzsSWGgQXEymW3DKWAGB0P+eah1Xw5HaksiK2SckDIH+etes2Gi2pIaHDbVyccAsfSodW0O3G7ehAK7umOa8iWPjGak9meksLzQ5FueI3tlGkWPLUHGBxWWlvEN5KgYXoee1dd4igW3lIA2g/dU9cVyt2u3zUBB46jpXrQqQnFNHBKnOnJxZN4c1VtE1izv1iEyRkF4m4Dr3Ga+mNO1bRL7w7LfWphuLKZMyxkbiD/dK9QecY4PPFfLEbJ5Ee48oOg71qaTrl3pU6T2lxLE4xyjYz7EdCPY1nOHNE0UnGVz6IsF/se3ieRW+xyyKE8+QEohOMEjqRkc+h5riPiL42udLvFsNPw7vFuNwedinpt7Zx/MVoXvxE0y58IRF7eO6O9W8suAU5+bjqeePxrgfEt1aap4uCrOn2SWNBuXJKIBwPy4/GvGpYS8+aey6eZ6FSq1tv3OLNxM80hid2ZjukkJz+ZNLPJtjIZizEcknk1patdWgkeO0hWKAH5VAwT9aw7hg+4lh9K9mnZQv1OCbcpeRCGIAOTnpVhS3lF9pHbNVAT8tPE8oBUSMFOMioTLaNKBrWCQ7JpCDjduTHQ5/pTriWF5QfPkBIxwueKynmkIOXPIFJHLIoJDEUAXWSdkWVlOOhPvVN8AEbefXNONxMcqZCVPUVAWPTPFNsSR/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Sıla</tspan></p><p
+          ><tspan template-id="title">EYE OF PROVIDENCE - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sıla</tspan></p><div
+          ><tspan template-id="artist">KAMIJO</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
