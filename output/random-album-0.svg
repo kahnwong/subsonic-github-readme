@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBSKdGu+QJnGTSGrlhEsshG0FgBjIzW0nZXHFXdizdaQINQe1huopwrAK4yN3APA/H9KVNOdboQzsikHBySAP0ro20iHTzJc2kpuShURSRxldzH/ZPp/SpodIj1e8in1SeSyUuUuJZI+UwPlOPcVguey5n0vsdaorpv28jl5JkhjVT07KOn/wBeqbyhiOAcegxVrWYYoJWijnWbY7KjqMbkHQn61l5Oa1hFWuYVJNOw2tvw9/ZnnsdSd1jAPCdSe2KxcmpYf9YoOMk961i7O6M47naQXVzFLaGzlQNCPOHnYIkIyOR3wB+tS3mo3t/dzTahIsrXUYYrGAu3aBhsD16Vhpch5AyMWKK0auDgH3x16Z/SlmuAjK+9v9WEBB7djj2rH3/bb/8ADHfzq1yjrH2TMP2RXGIwshY9W78dqy81YuXDSMCQ3P3h3qt1Fa8vKrJ3OKrLnk5WsKvJqWJFkk28/WowGB6GpI/lbOCD9OtQ2SjQYrZohxw5B+q45/n+lEzefaTSQkfu2Ax/sev51ELg4Cv8ygdCM4pjKifPEzAMMFSKhb67mzl2KTk5xSbTxxn6VYk5xjOB0GOlQlT2BrTmuYNH/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOPhtrOOeZLrKwyrsWZOfJJ6PjqenIHUE1XkWwkkJjEqrjARV646En1PUn3qTSIxdwtGBuGM4NbVjpDKciMD61cVza3OhO6ujHhsIZkynnB1GCNoIB64q5BZQxjY0cmSC5kxyD0C/TGc+5HpSa6bvSZ3WBsC4QMzKQdhHAP48Vb0Cea/Z4nkDsE3EnquOOR2ye1TZP3W2R7Rp7GfPptlIM77hW4yoTgdOc/nWZfafAgYxO2d2FBHautubcq+CwI9MVn3lm1xEAIwcc1o4PSzLjJdSh4PWCTV4RPJsixh/YZ/+vXstl4Zt0AmtmynUF2yDXimnQlWV1kRSOVZEAP416InimXw/wCFciRry8b5UXOAmc8kd8frWLgl8RjCs0rROM+Jd3HF4tKJMkj29uFPknhWySV/Xmofht5954kitfMCQyq7SgdgFJH61ylxJNd3b3EoZjIxLu3qT1P51Poerto1xFeW8UguEYhWDcHsRjvkGp9A5ve5mey6pp9rpsU1zI6ukY4Hqa4G/wDEF9jEDBQD02jn8K67ULpdT0i3njmIDoHZGPIYj39K4O+sz5rgISc9c/1q1zPYqrNXNT7Alsitt/hycN0p806fZyVZHGRuLPnH0Hb61zcurSFgqsfQ96qzXzviMKyqTz6mumpOFrxOOnTm7J7Etwks8jR+ZFsZh/FnJPSm2sSwhWmEe0Ekoev0A71JZXen27eaZ3S4H3Cg259Qc8c4p2qNa3Fu84vmDtjgqW49iPSuJTaldnoewUotI6W3WGa3wskCx4wMN09qrT2V1Iz/AGUrKoJPDVy1jcSFMGVgByMVt2Vy8RLNKQxH3u1ddKtHeZw1KEr2jqf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Karmaflow: The Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">The Deep &amp; The Dark - Live @ Symphonic Metal</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Karmaflow Band</tspan></p><div
+          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
