@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APO0jdxlRn8alEEo/hqGCdkKzQvhh0YdqtPqt39naB7x/KIO5Cwwc19DfqhWKV1I0Ee4YBVhx6+1VYb/AGswYHZuyD1wKju5hcSqsZ3KB+tRmFklCbTuJxjua8uvi5Kr7j0RpGF1qbS4YZHIPpRisyG5ltf3UqEBTyD1FaQO4AjkHoa76FeNaN4mcoOL1MQSspPlkoD2BphLHJPJ9TWitnDuR2k2xtwSfWqcyKHKqc9cGvB521a5uWdPkZGUOw8o5JDKCCe3aq8spNzvQltrZUt3waXePJHB4yM44p1jGZ722iAyWmUD8xUN2TZSV3Y7HxbBLdafBOdP8qTbuYgAcnBP1rmLLU54YBEhOF5HPavUdQVbvRZ5CRtWXCk+i8H9c15ZhYriVohwWIB9s1OUTk5cq0OjHRSXMVRcbofLJ4qNpC/GenGenFWdqnsD+FMmRFQvtAbtXZLC8qbTONVNRsb+SB85Zc5x0FSaY5t7+3uzGWSOQNtXqfpVclpZUDcnua0oZhFPG5A2qwyD0x3qIUVOEmyuflkj1rXtJlj8JFLVv3/kqTH2Jxlv515ZeafcaXKtvdIVcosgPqGGf8R+Fet6frOfKt70ASKg2nP3xj+dcf49nguBF5aDdA5Cv6oe351z5ZVjTqWS3KxPO9JH/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA6QClrpvBmjaXrN5cx6nKVWOMMqiYR555OSDnHHGO9JvlVy4xcnZFLwtokeveILawmlaOJ9zOUI3EAZwueM0eKtCTw9rsljFOZotokRmxu2npnBIzVu0tkg8WLBpJeeeO52wRmQAMOmPM455PPHTNR3DQXviVZr+RlIu0ilgfMrlVwDk9+mD9eKm75r9LF2XJbrc50sadXYfEE6Yb21/s9LZNqlCLaFY1IGMH5e/X3FcfVRlzK5E48srBWvoEAudWtoo4lfe4RlkfCkHuTkYA69e1ZFdB4Rv5dH1xb4hQoifaJflEnsCeM0pfC7BD4lc0Z9JufB3jSzgt0tr+5A3xrGwkBJyBg4xkfTqKzdO07V/EGtz3un6ZJPOs3mMkK7VjYkkZ9MY/SpNe8QXmqa/Fq8EcifZlRUcfMQRzliBjJJqx4W8RR6TPeLdwpsufmDNvVVPO4YXsQTj0NR7yjfqa+65ct9Lmf4hmup72RNVSO3vIWKtHGvVs8k8/SsStLxBqH9r6rJdRxBIsBUVVxgDpWbVx2Mpu8mFWnvTcQKLgl3QbVyTyP6YqrTAQDyMiqJL5a4+ztDFDKmeSqqe2M/wBKjuLe6iZlljm2ruAZkOCBxTv7RJUhoxypUnPOCMH+VOn1My+YoU7WJxk9ATQBHLeRtbJFHbpG46upOWHvVeozyeBipKAP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">La cavale</tspan></p><p
+          ><tspan template-id="title">Aqsaq kiik - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
+          ><tspan template-id="artist">Ulytau</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
