@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APF81qaJ4a1jxHciDSrGS4YnBIICj6kms6GJ5544Y1LO7BVUDkk16v4ag0rToxawXVwsit8sm4YDnnJx24rOTsWlc4LXfBniHw3MsWqaZLCWG5SuHVh7Fcj/AArKsoLi5d4LeN5CV3sqDJ2ryTX0ppniHT/EWk3en6zas1lIQgkkjKK2ejAZDYPqPSvII9I1Dwd4o1azjjil8v5UlwwGw/MCueelOLTeommjhJRtkZATgGmV0Oo6laXkdzcXdmfts5wsiD5cDjIzyDx75rnqbAns5jb3aSggFc9fpW9pWs3JeULCXj8vDPjlCD8p/p9K5zGSB71u6dqaafZwIwJO9mIA9T3pDTO0g8XvcQWMktyXaydtkm3LjjBCluxGa5nxL4iaXxVLcxqQqokbKXDHKjsRwR6flWRfavLcXTuoCgsegwD7kVl4LHHU0Ja3G3cs384uJAyfdGccY6nNVuT2qUxnygecZxV+Oy3WkUoYjdwRimSVY7C6ljSSKBnVjkbOen/6jU502+Y/8esnJAHTnrx+h/KqHmyLwrsAOmGNTwzMHUu7lNwLjceRnmhASRWFwL1VktZHAOSnfHP+B/I16B8OLjT/ALS9hcaGLtLxw6NGoZmAyNjZ7Ebhjj8wK4mW80szSEQ3IVmYjDYIUggL15KnDA9znIrc8I+I9H0PxJZ37xSQrE52nBYR5DckZ5HzAevegDP1jRZrXUr+3tbK5S3S4fyUkU71TPyhs8g4I61LDa3EOlo80boqMRkkY6//AF6674uyWV3fxarZXOLmVBHOiMcOAMo4/Dg/hXEabIzWLKzOwDe5HY00M//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APc4iEG3OKr6mbg2T/ZHCz7lx05G4ZHPtmnQkSEg9acYCmW3dOapq41ozClvNTdzsitsbjwWOQOo5z1xmoZptRGxkSLKxMXXPG/IxnvjB7d61JL8kP5KBkRtrSuxCk9wuAS2OhPTPemxXUdwSAQHHUBsj/P1xUOPmVzeRBZiZ7cNcbfMLH7vTGeKtLEp5IpxTB604DimkS9S0qOs+QAFqW7ZksZ5EzvWJmXAyc4NUkv0kHUVaF1GyEHpjnNU0I5HxL4isfC/hWCe5mEcaRqg9WO0dB3yf51R8O+JbLxL4dbU7WTcYJflJGGGBkqfqM/oa8t+N90yrpul5LJbEtHIpBR0KgDp0YbcEf40vwOFzci/sURvJkdXLkHA+Uqf0J/HH4TcZ9Ey22GO08VFsYdq0ioJqJo8mmI8V0D4jWOpxoHk+zzH+CQ8H6HpXc2uuKVUlq+WLRJIR98n2rrdN8bX+nWawyKJEQgB25Kj0rPmLse0eKPs+o6FfrJFHIv2aQ4ZAedhxVj4cmO38GaQy7Qr2cTHAAydoz0ry3/hPRPpt1C7qPNgdVdOxKnqDW1o/jXTtF8KaVDc3ax7LWNQpOW4UdhVcwrHtv8AaMO3Oeapm/8A3hbdxn1rwjU/jLHHE6adZyTS5IV5jtT64HJ/SuRk+J/iyYsV1MRbiTtSFPl9hkUcwrH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Symphony Of The Vampire</tspan></p><p
+          ><tspan template-id="title">Comalies XX</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">KAMIJO</tspan></p><div
+          ><tspan template-id="artist">Lacuna Coil</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
