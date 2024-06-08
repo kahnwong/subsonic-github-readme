@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACoAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOcELDB449KeIyMhgfb61sfYs9F+lXbbRxdNt3DOONwwPw/OuppIy5rnPx27NhgrAc8jmpJLVlJLKfyrr28PmGFlLQqwGOWwckHAyOtRf2GwGxvLLN3DH8P50uZD1OSNsAecj6Uxkcdj9K6WXSVt5mjmcq6gnCLuHtz+VU2sOuVPrgCqSTC50I0/5QSp56cVoadZlJQZBkcYz8uOR3raGne1VJLGbziPL2Rs6gE8g8jn26VEndERVmLcQkBdsELEgHG7b14P5Y/Ok8h28yaWOIHOAM8qAPX320y5j+ztlnwVUkCMfMMnP589f/102G38+No43Zi68K/UHkA/TmsrM1uire6f5ty8wGzJ+ZVwVz0qobA+grctbSeWZZHieSMkqGY/d59PSr/9mj0rVSsjOSbZ0H2I/wB2nCzHGV6HI471oUVhc1sYd/o5uUkZSQwU7UAwGPv606w0g2gBLs2RypGdp9j2raop8zCxSFqAMBcD6Un2X2q9RSuM/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYLDULLUoRLZ3Ecy9flPI+o6io73UltrlLZSNzny+Ynb5yMjkcY5Gc1594c0W+0XWYrtZ1SIKqNGjnBGzDZz1y3Nddqslxq9kbSKaaJSQxktSVcY7Z96rctRinrsWbXU7144d91AzMI2P8Aoci5DMR0PTIK/Tk0+PU7otEzSo8bOn3bVgSChJ78cgnPbGO9ZFp4SupDvfXNXTOcgzZ/SrY8ETCMKfFGsYHdpeTU6m9qX834G9p98L3IJXdsWQAIV+VunXvU00iR5B5IGcCsXV/Fuh6Y09tPq0H2qBN7wCX95jGenriuf8M+L9Y8QLJLHoga3WYIJg5jG04Ofm6kcg4J6dOao52r7FxWcVat3ncPFEPnZSFboFPYn2p1tbq9wgK7l6svt6g1oR2ggZ3hk2BlwQ3IH19qmUrDirs8w07xX4q0TWJYLyC4kijjEzQXUgJkTcQSp6qeMgfpXrWnapb6pp0N9atugmXcpPUeoPuOlc7rXh7TtfijaaWVJY8qs0bdOecjp1FS6XYRaFpMVhbXDuqOzszjBJJGRipV+p1V6lKpBP7Xpb+vzNGPw/pkPiCbW0tY11CePy2lBPK4Hbp2HNaBy3O7P45xTZo28oFSTJgHg4JHce1Fu28MQDtBAx796o47GBCskEiqxPmD5hn0qfVLe+u9EntrYL5sylCCeing498ZxWiPs24SHDSIvUdCKkEwO3y2TPvQ9S6c3CSkuhz/AIWuJL7SbCacOs3l+UytwQVJU59/lrZvQzGLCqyhweeMD29amtIEgs0gY72Ucv0LHufxPNSyfNGEwMAYGRQKck5NoZGPMcs3Hy4de4plrepczApxt+Vk/iX0P0P9Kfbo6OWlwoA4YfxfWneTDEQ0CBXYjeyjBIpO91YStZ3P/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ballad Best</tspan></p><p
+          ><tspan template-id="title">Na Medida do Impossível</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">EXILE</tspan></p><div
+          ><tspan template-id="artist">Fernanda Takai</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
