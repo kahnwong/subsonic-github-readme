@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBXhwMqwYfkaXyGVeVJ4yRUakjPJx6VdilLqx/CmBBBGHmHlryOfn5H41dgeN1UGL97yEEcfVsgYPrXZeEvCU+v2Ek9xB9mtWQ7JmUjdkEAj2zVrw7pE/hvWdUsJbaC/QSLDCHI4l271z0xwT9StCa6jSuec3VleQxme4tnRGI+fGBkjIH5A1Tr1fxPDFqWh3MsMCHzoPOiYII2JQjcdo68Z9+fQ15RSunsDVizbojLlvyp7bYXWNVJOfm5quhPG3qDXQDwxeS6W95DE8jRr5kmBkbfrnrwTTEegeGPGMVp4djtL+RYYRGEVpkLRY7dP5Gq/h3XdKvPF+sxyXqzRTtDJbysm3e8eMEA9MEY+hNecG+uDpP2Iv8AunffwOTj+lZ6lvOVkba27gg8g9qnlGnY9e8QaRqFnqN5ONslpFZTSWDIepbPGOxUE/XivHK9z1O5uNO0Lwol2/mTSyGOY+u6M147runnTNYuLbHyBt0fup6f4Uoqw5Nt3ZUtRunCnowIrq0vGtQLKWRxDIUL4J+ePI3D8u1chG2yRW9DXQyOl1CI5SR3SQfwmqJO48R+D7LVrFtS0XatwE+aAcLIo6Y9x+tecabp0t9r1tZhCrPKNwIxtHf9K3dA8Vz6a/2O4f5VO0E9DXVwXNpNqI1ERgXBTYWxyRn1paoZr+OYhcWFm0TfvLB1nVfUDAP6V5741RJ0hu1+8DtP0NO8YeIbo69GbeUqI4tpHUHJ6EflXO3msXN7B5MoTbkHgUIGf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAhUg9KRU3DNWlty75QEj2FWkZtgsQABwaXywQeDWxYacb67jtwQFOTI391QMsfwApb7TTZXctuSGCjcjDoyEZBH4EUcyvyk2duY54+1RN1q75BBDMCF9SOM1WaPbyaGikyaEgEAjNX7clA68BiMr7VQiwwC5Gc9cVqaetmt7Et2+yBTmUj7xHt/hTJe50+hQ4ijhZgpvGK7yOka/M354xTdTS2TTNyXOby2m2FD/HCy7lI+hyCPcVUhjsZTujkldwDlo+A5UqCwJ7ZyOmfmHHBpbmOwgjMjfaCR0ORwT0z7E+nIz3xznyPm5rmnN7vLYwLh2mVflCsrYZRx9OKozkNnAwK09R+zTXZEDqRgYIOcccgnuQeMjrWZMQq7MjIPXFaGfUgSYKfu+1a0mpwPco4twqBpGAwMqGXAUeoB5Gawg2Ks280QO2VEx2O0k/zqNzS1tjWF7E0c2Y8GTaVIwCpAwx+rd6bc3UEqzN5ePMQL6YI7+30qqtxajk7eO3lnH86BPabSDjP/XP/AOvT0FqTG/iFzJKsQ2tEEC4HysAMN+Yz+NZskwYn5fan3M0JbEKrt9dpB/maqls0bDtfc//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Gemme</tspan></p><p
+          ><tspan template-id="title">Assassin's Creed: Odyssey (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nolwenn Leroy</tspan></p><div
+          ><tspan template-id="artist">The Flight</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
