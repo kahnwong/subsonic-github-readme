@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcl6U6mL0paAFopKKAFpDQKDQA1elV9SuZrLS7u6t7Z7qeGF5I4E6ysASFH1PFWF6VHeQG5sp4FkaNpI2QOhwVJGMg+ooA5BPEepwTMDbX160SjzW+y7IZTjc3kgDdwAw+Y9cDknIIfEWv3WpvFHYCKOR0ghZopDH94mSXlQxAA2jOASARkNxWPg7xGbdYv+Eku8rIz7/tTlmBK/KTjoNp/M1JH4P1/7Vas/iS9EEchaRBdOS67s4PH4fSmB3VB7UvekNICMNxTt1Vt59D+VLv9j+VIZYzSg1X8w+hpwl9jTET5pM1D5n1/KjzPr+VAH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANTxHdahBqGqHStZlXN7Ou1r9mHl+VDhUG/5T5hlA9MEY6UJq8i+DNH+1ahqLy/bZvti296Y53PknbhmkOQHKc8L32gV5XJ8XPFDyMXOmMzEkk6fFkk/hQfi34oIwTphAJODp8XX8qr3Rano0usapNBpL3FzrH2K3SWG8MN6EeR9zsm1t/Jw0fP6Yq/p99qreGNYs7zVbiPUZr+2Nu017krbGQHHysCMLuLYIyCMdq8wi+KXieWEl30xYwflUabEcn6Y9O9XP+Fm+L/INxC+mu8Kbm3afFlVHGRx2yKV4jtI7yU6/fTXttpGr3N0vlXkiJb3pdt0bssQX5s4ZJA3X+AZ5r2DQUZNCsldJlcRAMJwwfPfO5mb82J96+WLb4w+MIp1Nq2nrM3yr5WnRhjnsMDNW5vjb8Qbdyk11DEwOCr2KqR+Yoduga9Tf8P+HbW4sH0uysba9s4pjHNczwqGk55OR93rxg9q8+8R+GI/D/iC5s5kk8s7WgUt2YZ5I646e9elaFf21toSXj28DGSGOYnzPMEcrx4IbZ93cBwPrXNQeIdP1rxhMNStlglhSGGxjdMxZRdpVh1BYEkHpwPY1yxck2dMlFqJh6fYRafqGkx3C+WTO6SCRMhSWA5B64Br0DV/Bdulu01u0LXMFu/mxxxgLcKykZOOmM+nauR8a6hHpuqw20KwELMt29smD5WRjZuGcdCcDpkZ9K6Y/FDT7fSbWWze4LPdIt3DMAWhhP3ug+fPQc0OM20wUoJNHLeDvCM66neiW4jinjsd8cmGJj34G4DHPBx269ak8W+GjoYlSFL28sJY3TzJkIaOROTx7dc9wTWvdeMrG11eKTwrCrzTxyRI23JjjYr8hUd+Hwe2c1leLvHkeuaSNMt42kKjBuHYjHGDjGM59+BT99yTF7ii0c34P8RyaFrbbXAtLtTb3MZGVZT0JHqDg/nVPxFciXxFeSLt2hgqbf7oAA/SsM5yfrTmcuSzEkmug5ycSqRjAFG8DgHgkZ98VXBpc0AX7PUZNPe4ktjskkTyw46qDw2PQkZH4mqqzALgcVASc0ZNAH//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">THE SIXTH DAY 〜SINGLE COLLECTION〜</tspan></p><p
+          ><tspan template-id="title">Modern Minds and Pastimes (Asia Tour Edition) [Reissued-2008]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">GACKT</tspan></p><div
+          ><tspan template-id="artist">The Click Five</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
