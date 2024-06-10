@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEN1Gfem0VdxDs0E02koEPzxSbqbmkzRcCTbShasm2f+6aPs8n90/lV8ouYq7aTbVkwOOqn8qb5Lf3TS5AuV9tJtqwYm/umm+UfSjlY7nQLrtvj/UCnDXLf/niv5VyoY0u40uZjOpbWbdh/ql/Kmf2vbf8APFPyrmt9IWrVV5JWEdMdWtD1gjP4VC2o2Tf8sF/CueLGk3mj28lsB//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOXtrNmYDFb1nphOPlq7plgsigjBrrNO0tWAytBxRjcz9M0ncQCtReOr248M+G5J9P8AL+27DIoePf8AIrKGPoMbs8+ldvY6cFIIHFc18SbPTBHp322crK5aMq8mI1gxmRmGOei475x70HTCCOa+HXiw+LNOuIbzYNStG+fYu0SRno2Oxzwfw9a7M24PavIvhpcaRYeN7k2ouRDdXAtbZWYArGx4Ljv1HFe8NZhM9qEEonjdhrQtLyyhZ0jhaKWSVm9EAx/OvR9MvYDIEmuVTKk5A4XAzzXz+92stxa7JvM3KwI/u7nXj8hXcQ+IQ8iiUF1wCu5sHHpQZJcp7jBPb258tpk3A4OWrivilp0WsadA9pdW8Go25O2R5MfIeMAZweT17DNc7Y+IbMjzt4VMbshy3Fee+PtXTUfE19aROytbOUQq3GB/nP4mg2i7m54b8LQ6Jaf25Ndw3d1FrltD51u+5PJI3Bh/vEjr/dxXt9xPGJGG4Zya+X/C2uy2Ml9ZXDySQXsQ3c52yId6N+BBH/Aq9ffxEoBkS4B5IOfXvQtxVJWR4mcnGU8z5edvA/SrSufNLeYyspXCnPBxkHmuejumVtxfgdBU41N8N8xJPvQOx0NoubwMH2xIm6TOCdgOSPTk/wA6525vfM1C5k8tVMrsSBzjJ6VcW8W3sfLcAyz4kkycYQfdX8ev5VgZJbPvQOJoLKbebzkxnB4Naena/c2kex8zIAcZPIz/ADrBMhPBoVyo4NA2k9Gf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">City of the Sun</tspan></p><p
+          ><tspan template-id="title">The Quiet Resistance</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Nemesea</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
