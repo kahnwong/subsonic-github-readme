@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEGY5rR0W+06znlfUbM3KFQEUYODnnr6juOfSs9jzV7T9O+1RS3LLugt8GRVOGwemKZNjoYb/QLq4M3/CLyEOAyusrBAc8nbnH4dOelJNe6BFei9bwzO0LEfu1l2x49Rt4z7dPzqmDKECRfIdgKhSRtxj8uuKhguzYSSJLGsiEYB2kFfm5x74z+lSVykWqahYXkiPY2JtPveYofIY54I9O/AqpGx4GasX1qI/KuY49sM67gMEAHuBntVdOCKYWKTDDEVvaJHDKtvbBwZLibY68nPQKPTuTUJ8P3ZJ+UV0vgnRki8S2h1CTZFE2+LPIMmRhfbOT+IFOpGcIOVth0nGU1G56ppfhPR7Gyli+yiSSX/WSPy2fUHtWZe+AdBNrJEEfzXHDmQ8HtWqtt4gj1Ujz7c2JPTqcZ+gqlqNr4jnvi1tPAtoHK7Tw2B6nFeGpVL/F+J7nJDtoePapYPbLe2uZAbNwTubIPbjj8hWGrc+9d54zsw+oPHC376QqZ1XpwoAx9f6Vyw0eQdjXs0uacFKx5FaChNxOq86mtefZSs4YB0YMuT1I5/pXP6hqLXLsLa8jt4lGcDfubjPXH4VjzB5HUtdGVs4zliR+dejPFqUbJbnmww3LK9z6Ig1v7ZYrdQSZi8sMpIBVSf73IP5VhSa/qDNeM7wQxjuvIJz0HPXHP4Vl+GNUuotPsBGYkVYTuZ03blzwuBxVLxHf3l7dxsJokhXcNsMIQA+uPWvmY0vecT6zn5YKduxmrqSatNJch1ZnYkrnlR2z+GKcV9hXDyJED5kc0jS4/hQKAcfWvSLOPw7Hp5LXl5JII9w3knnaP9n1969x42FCMYOLfTTU+eVCVSUp389T/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIoYUaCXMbsxxtZRwuOf1FTiC2kkULFPtdxsAYZK7gP6N+lQwWz3EojjxuIJ5OOgz/SmKFI5XINbCJ0trf70iy4DFjt6bBw3vnOKasNuuUeKVnjibzAGx84PB+mOoqWK68uNEFvCSoAyy5J5J/r+gpGlDxOn2eIbjncAcr9Pb/GizFcYLWEgM0MoXA6N/dB3/rj8KhntEjh3BXDh8HPTBGR+P8AjT9mB0pJYHjVWYY3DIHfFVYVyxGrRSJJGxDqQVI7GrkulXs0Yuo7CURyuQAi/Lnr+A+tZsrEEhScdj6UwXl2sflGaRoycldxwfrRcqKXU6KDwvcyIrs6BTjJj+fb+I4/LNbq+FbC2tAwcXLnkSFiB9MVxsWrXgURpMy8YA9B6CpBc3TL89zMfYuaYTcbaI07ueysC0dpBHJcn70rLlU9lHr71hzFpHLuxLHkk1IQc5zUbUjNu5eaBJPvqM+uMVA1kg5U4PpVs/WjzCECBVwM8455ouTdlRYh0cAn3qYORjIEgHGH9Pr1p0kvmAhkQc5+UYo889fLj67vu+2MfSkFyCQgsdo2j0znFQPU7yHYV2rjIOcc8VXfkUAf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">นิโคลพันธุ์ดุ</tspan></p><p
+          ><tspan template-id="title">Rise Again - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">นิโคล เทริโอ</tspan></p><div
+          ><tspan template-id="artist">Apocalyptica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
