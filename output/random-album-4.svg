@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APYAnHK549elMeP0FSlR6CkbpyoI+lccvbqd1t8v8/8AIv3bHn/jLxZqWm3j6XosEJvQgZpZQXC5GcKo6np14rjfCHxN8QxeI4tN1/8A0i3lYREtEI3iJPDcAZH1rtDpryeJdWuYHSG9ichHkUsu04bp9BV680f+39QhS6060MP7stPn5mQcsPUcgfnRz1L2Z0KnDkudcRjIJpQKcqAAAAAAcCnheK7DkFprcjHU0A+2aZasHto3zksoJP1oA5vULDytXuZw+0zqm4HODgdeOQa19HTFu+dxYHBYnJIxVye2jnILj5l4BqSGNII9iDA6/jWKg1PmNnUTp8o4AYpR0ozikBrYxMEa0oI+ek03UJJLJSiswVmTj2avMD4gI6PVNvFNzY3JEcgaGUFtpJG1x1x9c/pWdRySvEqKu7Hp6eKZmuGhbTbpCAWwdu5gDjgZ55q5Brc9xKqCwu0HUtIgUAfn16cV5VH4sUxq+yZXYDMibTwTn68emKB4tSEGTz7mSViVXcAowD1x2FZuVW3QOW7PXZNRkjXeykL6moP7ZX1ry1fFEs0Sl3wDztzTl8Q8ff8A1rWHNb3hM//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA9jk/db8qf9nm27vKkx67DW3ra2iX1haWS4SG1i3sOrSMNzE/icfhXsfgmzt7pIopkUxBACrLkGqSuTc8MstMmuxu2OIwcE7GP8gall0e88wkwGMHARQp5H+e/rXu+habF4b+I+p6HCCtjdwi8t0ycKQRuUe2CfyrqvEVmTaRTc77dtuc9VP8AkVcYXdmNt2ufM1voV2wANnOWzyTG4XHt/wDXp0nh2/VJJPs7gL91FR2Zue2BX1R4dddq5Y/nXYM6eVnd29aqpT5HYSdz4l8TRS6f4kl+XadsbpnuCgxXoklr4j0qx0i609HuYryFJGVG2hWwDtbHP64rzvxNrH9tX8NysGxYoVgzn7+3PJ9Ote4+HtUudR8OWckcMKWiooCb9zcDHoNpBz61mt2DQtwuoL4z8M6rqNpFayzQyQMkUm9e3f6dq9H1SGO4sZk67lI/HFeS+Ktba38R6LE8mIrQPOAfVsKP03Gu70bXBqGnzSucYkQdfVf/AK9WgXYydM1X7PgFuQcGt8+IwY8bq851a7+x6tKoOFY7hVc6vx96u2MlJXZje2h4eTxjPFeheB9Q0bTdNe5vtRijmUkiNl5X6YPNeffMf/1UbXBxjn6V5qdjoaudD4k8TNrWtSXMZYQrhY93UqPWu38HeLStmbeR/mknycntz/hXkxLD/wDVU1vNMki7ZmjGRlh296akS49j07xfqG25WRT0zk/5/Cua/tk4+9WLcXMlyCZNUdvTzNxPTp0qg8kiPhZt445UcfrWiq2IdO7uf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Så mycket bättre 2022 - Tolkningarna - EP</tspan></p><p
+          ><tspan template-id="title">Windows</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Anna Ternheim</tspan></p><div
+          ><tspan template-id="artist">Amanda Somerville</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
