@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APenWYsSkqqOwKZ/rVfUb+30qxlvb68itraIbnkkGABVyvLPjFcTmTw/p4Q/Zrmd9x4wZBtCg59AzN+A9KAMfVvi5qt/qjwaEIbayXCpLcW5aWX1YLnCj0B5/lRafEXxHFKZf7RtLwDn7PPB5Zfr0IAI7evrXZeHtB07TbRIorCNCF+8Fzk+/c/jVvUtCstQsZBJbxthcgEcjr69/pWc4uTunYadi14V8XWfiu2823cwTqgaW1kX5kyOoPcZ/wDr4rogHB5cEem3FePfDLSIrHxVMiP9oWJZMFR/qGU7cH3IwM9wPavY6qDugYVwPxZtTN4d0+5SIvLa6lDIpBwBnKnPtzXfVh+MNM/tbwve2wIEip5sZIzhl+YfyqhHB6hd+INCt2uP7QdB5iJBCqoyuGZQSRtBUYPHOR79atXD65qHiHUo4NSdUtp9nkYVRs2jr8pJzz39KyLvVJNVg0lLSWFGXZM7zqNsYJ4zk4J6n8BWjFfXX2m91WSa1mkuIwreUoCpxwGAJOcdzSAs/Cm2xfeJbp0KySXap7AAH9c/0r0uuQ8E2U+neFY54o0e4vpTOQzEABumT9APzrqLOS4lsoZLuBbe4ZAZIlk3hG7gNgZ+uKYE9B5FFFAHkTva+F9f1SznjB0k3B2OBuNuzIGCt6DJOD2x27svbuHWrJrPTjPJbxQtPdXTgl1Vf4QQMbjjA69zXf2Xhgafq19exXLOLyRpJFZQDk9s9xVnUdF/tGzktZGREkBUsiANj0zSAfpoWDwvYmF1KxWkbI2eGAUevrWrWfp+mCx0+0sRK8kFtEsahuSwUYBY9+laFMD/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAAM9KXa390/lSAkdDil3N/eP51QFuK2t2gV3nIcnlAvIHrTZbeFYmeOYsQRtXHJFVtzD+I/nS72/vN+dTZ9zZ1Y8tuVfj/AJibWPO0/lSEEdRTgzngFuOwNDK45ZWHbJFUZWYRo0kixqCWYgADua67Sy3h68W90uVftKq6FrmBZUK9DhSMdRwfY1z2ltFDM9xLIE2Kdh6nce4HtU8mtEqyRQgJ0XJ5AHT+lYz5m7RO/DewhTcqu72NnW5JNYv2vdS8uS7CLGURFgVj0UYX8fqBVdYbWFFaOCAMOI2ZdxdjwvB/FvpiscarKJBJ5MRYMX+YE8kY/lTl1q5Vo2McLFHLglO+Mfy/lUOnM6I4rDJ3St8v6/pG46FZWVApcBU6Y+g/E5Y+wFc3ezGWcqH3omQD6+p/E1OusXALErGxbcSSO7dT+XH0rPq6dNxepz4zFQqpKAUUVNb3BgckBWU9Qyg5/OtjzyGirhvic/KmOOPKT/D3pf7Qbdu2oCDkERJ/hSuVy+ZSoqWaYzPkhQB02oF/kKZsYDOKZJ//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Amour Platinium</tspan></p><p
+          ><tspan template-id="title">Daredevil (Music from the Original Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Rod Janois</tspan></p><div
+          ><tspan template-id="artist">John Paesano</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
