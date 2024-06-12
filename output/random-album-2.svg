@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ2uYlxt6nsOtDTNgkKfeq0CIxRmfLg5xXY+EdIsL+/GoauWOm2x+aJSd1w3HyjHReeT+AoA4j97cz7Yond24VVGTWtNZXdrskubWeAgbT5sZUZx0ye9egeIPF3hvTJ5I7HSA9wwAzGRFAqj/ZAyTnngijSviVpN3JJZaxbu9rMMSJJHvRjjGSckjjv261LbXQaSZ5ZcOyyMV5U8gimLIWRR0YfrWz4p0+007UzNpcu/T58mPJ3Ff8AZz3rDLgoB361QhYpABgDBPevZ/CuiWsfhOwW8nOZFM6NGMAqxyVJPpivFFAwvauv8J+KE0UywXMT3UMwEaRNIQiEnlsYODj0FTK9tCo2vqZ/jWOOHX5fInEsDjMPGMJ2GKd4ZvIY1Eati4DMxDD7wxjj8KXxVDaXV+93HdRpcyOfMthysYHACnv0q1o+g21vaw3y3iXN1IcCGLnywRnn1brx2xQpJLUORydkT61tl0WRZRyANhwOCDwK41I9ykj73at3XL/7QGtIkUxcEyA9CCen5ViKAFwCc+tVo9UJprRikAABgBV5tJZ9Rt7WC6jkScqBOI3VFJGQDkZzWaSW4p/267Eax/apvLQ5VN5wDjGcfTigRoxzaloV1OohD/PtMkkG8Eg4yCw9sc0+81XUtTvI5JEFuUfrDEUEecDJx6VmyatqEiorX1wVQAKPMPGMY+vQflTWv7yQOJLudt/3t0hOe/P5D8qXKr3K5naxf1Gwu7e6uEyblYmw08QYq3vyPz9Kz5klt3MMsbRuACVYYIyMj9Klj1G7jidRczjdxkSkYHXAHvVR2eRyWYsx6sTk0yT/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIYxsjjYoGVu3Sp4QhH91gcZNR2qpIAMAkDk1eLNFEERsenNbqN9TqS6kMvMi9OD0q1EeMb1APaoPtGDtOcquM7zU6XWVOMg7eDvJxTu+xQjfLuAYknBBzUNwxG9k4XP3c5xVss8sfzsT65rPu8Ix+UfXFJq2oMSyVdgJ4OOcCtSHTo5po0WQt5lp54XeA5fYTgDHTIFZenHbA2WHqc1flum3rJAzI6wLBnjoFwfw60pqTXuijawsOmRyRXVxLICsCkHEm35wyjBJHAwxOfarP9jpHclA8u3cWUMo3GPeoB4PdW3Z6YrNfULhfMy/EmQ4IBD5xnIxznA/KnpfXUjqTK7EZwSRkZxxnHTgcdOKz5a19yro0fLiSKV1jbKTGHmQc8Nz09hVC+CNnI4q1HJ/ojQlS0jTCUuemNpB/nmqN+zBfataaetwZSsZQmVbByORjkcVK8hC8DHpVONz8qmQKo9uRUolGxRnJ7+lEZWVjNPQ0o7CW5jVwBjt71Oti8Me9sbfUVQhYHJCjJq0OVBAH4CqtK+5aZYjYYIHIHSqF7k5IP4GnrIybuvsP50y6kzHIqtuQ9yuM/4Um+wNn/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Resonance Project</tspan></p><p
+          ><tspan template-id="title">The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack) [Special Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">The Resonance Project</tspan></p><div
+          ><tspan template-id="artist">Howard Shore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
