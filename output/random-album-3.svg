@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLlxXU+DvCo8TXUqy3TW0EeFMipuyx5xXIglTg16Z8MrpoZ4bVAo+2NIshYkHG0kEf98/rV4qpKFO8dzuoxU5anK6/ow0XVJLVJvOjX7sm0ru/CsrbXXePBftqn2i7jKRMxWPIIL4JG7nt2A9B71yO6nh5udNNhViozshypmpRHxxUIftVuFCw5zWknYlHPCRu4P417J8IdJadhqBHyxxkZPPJ6Y/DNeMrcvIVRFLMxwqhckk9gK+kPhbouqaP4YA1WNIJZmDpCF+dFxxv9/btXLjPgSKpS5b+hzXxektJtKhuIriKSSI5wjhiOcHp9f0rAt28PxNKtzbyFhdGWXywqgqrP5e0A47jI6YA712HxR0m51fTzBYwhnt4GmZVGM4YED9DXiek6hDaJMs1gtwXAVSXK7Ofbv0p4XWnZdCaq1R2r2yyz7xDG0QJZsom0ExHnrycr1POaINFuJNUulSI+WJnA+QAAbjjgcdPSp9J8RWSWQDx24mKCIHZuI+RMk8dMqR7c12Fr4yjsokiiitHR8kGMDgbm64HXG2s8ROSWhdGOuxY8BfDGy8MQQXt6q3GsFcvJ1EJP8Kf1bqfYV6FwqYHFeXeHvHPii81L7FJpllLG8rYnaUxLGMk8nnOB+dd/e6vBbwBs+YDwfLBNc1VycryY+R7Ei2ouXuHb/lohQfSvD/GngPUbbXZb/TNPlmsbseePITIjc/fXA98kex9q9us9Ws5YEKyFQBwSvX1NYeo+PNJ0eRYRvlXJy6jAHP506NSUH7oOLZ4Q1rc6bctb3lvLBOv3o5UKsPwNXIrnaOK9B1/4labqFnJDFpvn4IBW6jRkfByO2a8ynuDNcSTeVHFvYt5cS7VXPYDsK7EnUXvKwk3E/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcl6U6mL0paAFopKKAFpDQKDQA1elV9SuZrLS7u6t7Z7qeGF5I4E6ysASFH1PFWF6VHeQG5sp4FkaNpI2QOhwVJGMg+ooA5BPEepwTMDbX160SjzW+y7IZTjc3kgDdwAw+Y9cDknIIfEWv3WpvFHYCKOR0ghZopDH94mSXlQxAA2jOASARkNxWPg7xGbdYv+Eku8rIz7/tTlmBK/KTjoNp/M1JH4P1/7Vas/iS9EEchaRBdOS67s4PH4fSmB3VB7UvekNICMNxTt1Vt59D+VLv9j+VIZYzSg1X8w+hpwl9jTET5pM1D5n1/KjzPr+VAH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Only Teardrops</tspan></p><p
+          ><tspan template-id="title">THE SIXTH DAY 〜SINGLE COLLECTION〜</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Emmelie de Forest</tspan></p><div
+          ><tspan template-id="artist">GACKT</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
