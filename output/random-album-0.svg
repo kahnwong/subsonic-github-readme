@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIPDkZ8KR+Ipb+Ewi8W3ltgPnAOeQe/Tp6VdvvDFjJ4vi03S71Z7GYRbbr7qBnAwD/AHcE4weeDXcWHizw7Y+GVb7NFvuLhXjjjiTb8kexg49OQenJJNc3pWqrHfrexaalzIdrFI1JRRkgMVOfm75HQmtXRcVdsqMoydrGFB4YSUa6n2pnn00YijiiLmdg207SOw5OfSm2Phpo9W0iK/3iK+aN9sYy3lNzux+f5GvQF8cXmmPqAtDBbmRN0ayBUMJHQA4yckkjPTArnNHntIra3hliD+bIIizneF4LEjBzk8+mOlXGhd2cgbW9jAGieT4mWxm8k28shSOfJMTLu27wRyVHJok8Mq+garq0N7EyWF0IWiGSWVjhXB9D711uuato9utlBoCzB9zJcb35lOR3/u9MDjtxUGiQWc9jqQaSNZxIwjBkCjKjgt2PXFTKl7yV9ATXK9Dz0TDyfLKjIOQ2Ofp9KlgvprcoUYgopVcHHXk1V70tZXZJuf2ff6pHFdm5ikd13OWf5lG7GW9h/KpJItRt7S5zcRiKI+YCG3ByGGCD6nnHfrVbQNXtNIuZ5rzTUvlki2KrNjYc53f0qvqWoxXkdulvbi3WOPa6rgB2z97A74xRdjKZlfzfMViGHINSxXjRxyKVRi+csygnn3qv3o+tF2ISl7U3PrS5pDFpOtGaTNADuaM8c0g6daXPFAH/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDAMnGcVr2thFLYA+SGuSzjBbHHGD1Hv2Oax84rpfD1zaqc3SBjGCVYYz04H0zj6VMttCoPXU3rTwglwheO0YxBtqlSx6jp+f6VnX+gwwXt3YoiPPaHZKC/IbHYg44NSxeLdY065u3s9Sntbe/KpceQAWVAOCmR8pxkZHOKzdIMtncXB+dY/MGC/wB4jHOR9MdayipLdm0nF7IpajpkNvHIInVniZVOGyXBHJx9fTtWU6bDg/e7j0rrPE0Wn6c2LeVbi4cZ3JgrHntnufftXIbw/Oa0he2plU+LRGjp2+SUACHH+2gOfat3T5Lq3E1xfWdt5SJmMeUFLnoNpHPXk1g2LIkyM+AoORmr+sassrJFERsj+b/gXbr14obfN5BaPL5liG2upLQ3hjgERfagaNcg+nP8zTvJv7dUlEcIjlG5Q0Iw2D9aXQ9Xhgd4bqMzpHJ5gjQ/e46d6XU9YTdBa2qOkcKuwD5LAE5ArHmqc9uh0OFJUk1uN1Ce/Q7VtrMRGMNuSNSFz6n/ABrGu7iRJWA8rHbbGP8ACtnyWawgDysUkLHBzj6jjnp0rCulKu3HBOR9K2i7mEo2WpHE3yse4HepS6SRncuGH3QvrVVW421bjuo44GRoVYk5DZwR+VWzNMjSKKW/j3SmGJj8xXnbz+tK0ccGoPtm82JSQjtxv5xn2qZb23+YfZ1TJBJJbk+vH8qGu7TeCbWOQDkHcwI49f1x0qdblaWNP+2z/ZwtBBtUHlT/AC/r+NY1xIpYgKR9TnFOurxJ3Vo4BFjOcMWz+dVHbccnqaIxUdhym5bn/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">細雪 - Single</tspan></p><p
+          ><tspan template-id="title">The Quantum Enigma (B-Sides)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">和楽器バンド</tspan></p><div
+          ><tspan template-id="artist">Epica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
