@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APU1kqdXrIS6HrU63Q65/OtzNGujipQ4rJS7RgCHUg+hp6X0XB81Of8AaFSUawel3VnJeI/3XVv90g0/7SPWlYDgI9RPrUlxfb7SZQc5XHXt3/TNcql4fX86sfbGZcCQrxjgE+v+NUyUzbuL1ZT+6KooEifKePm3DPHrgGpjdwG/hdRH5WzDDHUkkA4/H/OKwxeSEkrK6gkngHinC6lII86TngdeP1qS7nUaddRwpN5YUZnfkdxuOKu/b8/xVx4upWmJMrhM5wfr061bF5700K5xKXGT1qdZ/eseObNWEl96VybGstx71Ks5rKWWpRN70XHY1luPeni596yRNTxN70XA/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APA1XpkDmrsemXEqho4Q4KhuD2PSqqDO3vwKtxxkj0HrnFADhpk8TI0tuApOCHOMHOOefcU+XRrsTMotAPYNwPxzVi3tnlUhVLHGcZxgeuTV7+yAqMHldXC4ZVG3HqDmgDCl025hVnktmVU+83YVTZRyQBxXQTaTbyRZtrxWcdUY559M1hzRtEzo4KsuQQetADkRlRCR94ZHHWuq0Twvd30C3lwghsl5Lu2N4B6D0645qHw/4XvNW01NTZfMsopPJ2RyZfd1GQPur7nHtXpmny3lrp1tb3GlxBWU7YHdQm09BgE8/wCINAWMW7ttG16ytBpEEemXEbOCsrqF2q20Zb+IkgnPJxuzXKappN5ZOf7RaKWRhlfKk3x4HAIPf611a6JPq8l3DbzxeUxGELEbBj7meuMjIH8qzdRtJ4p/s2oEF7dPKRSclV6nJHpkYI7VCqRkrx1No0ZSlyvRnDywFTJcQqyqpAJUHGT2JFQXayvJK0gy6qC3HTpXpKeKLqCE2bC2ntJQI5bcx5EiEBef9oAAqeuRXA66PI1W9jjjMSZ2FTJvzgDnPv19qqMlJXReIw0qO5Qtbqe0dZLeaSF8D5o3Kn9K2B4i1md0zqVw7I2UHDYP0xWArdASKminMMqyRuA68g0zmOlsvF+uWEhZbyQAcOdilSfU5HXr9aJ/EeoXU8100jSFuZZDGMD0Gew6dPasSPVbhfKX7RhUxjCjgflW1e37xaEpjBRi/MnHzA54xjt/jSUUlZIrnlfmvqZk+pXJBErsZM8s/wB4DHSsyaQyFmOSSD1OTTprhriZpZXDO/JPTmoWbqARzQkkOVSUlaTP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">THE ELEVENTH DAY～SINGLE COLLECTION～</tspan></p><p
+          ><tspan template-id="title">Unfinished</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">GACKT</tspan></p><div
+          ><tspan template-id="artist">Unlucky Morpheus</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
