@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KKjlnigUNNKkYZgoLsBknoOe9AbklFNeRIyod1Xcdq5OMn0FKSFBJIAHJJoAWio4p4Zs+VKj467WBxUlABXB+JYbW+1GWLV4JtQMaO0NjakkRJjmVsfx+ld5Wfp2jWOkm6ktoyHuZmnmkdizMxOeSecDsO1Z1IOdtdDajWdJuUd7aHO2VqmpeE549Zvo7jT4h5ltqAfZIqAcM39116Z71lLfahq1noNtqjuNOnu5I3uGBjN0irmMsOq7j+eK6Y6LoF5FPhRJbzTxzSRK58tnIG35emDuBx0PFXNQbRr/AE9Le9eB7a4VjGCcbtoySv0APSuhOK0QlWlq3uZerWVlpGoaVc2Crb3b3CwCJDgSoeoI74HOa6msjTvDem6bci6hid5wu1ZJpC7KPQZ6Vr0p26HNTi1dvS4UUUVBoNCIqhVUADGABSGGIhQY0wuQBtHGetPooAKKKKAP/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APF4b2RrcWmFKhshsDI/Gty28OxXtilwt2BMwAEZ/hbcAc/7OCDn6+lYVpbncD05/Gt+2/dhRuEfqzHFKUtRWSM6fw7Ii5M0A5II39OvX8v1FImheU+JZo+h+62dpCk8/lite/ANmZIihUEKcHjJqnaRGeFgfMiiAO6THyj2p8zFcinsPs8byJcxOFJ2qGySM47d6fDO3lbVCg7gw4BOR3+lXPsFokyRFZU3qWQuBxxkH3FYqOd+VHWjcTN9LOOKJGCKWI4pmm2g1adgyMSPkVEGOSOCW6Yz171fWxm1CANApcBcFmcKN3YZ/wAKgM15aXXkpL5PmRhW3cErjBweg57/AFqdtRRlfRmhdHT/ALF9hDtdFATsto9sERA9SQTj1PU8Vi/b7rT4Gt3RY7adAzZIZHZcqcEcE1du5jNp8MMNp5SRIY22DPmZbdkn19vSqifaWtplayMyKrHMpwoYjrkdTxwKdo2vc0tHsWdPtbe9tZjIXilC8Lkljx2PbIOAPwqpZQ2rgAqBg46dKt2V6lrsA4CL8yhvlkyOOoPXPp2qsXjLvJhUZmztT1zSTb3M3o9GR2l3NPFDFbEqo647nP6U5rqeSAw3DKeQUYdRzyKx9Nufs9wTNJIFVTtKevYfStEahGyB3BMn98tzTd0wtYt6bfT754V+YMBiLcAducnHryB+HFXb9p4Zzd3M4AKbiI/42Yfc29Mj17CsC4u7RznawweMAcCozdR3GwNPMxUYwxz+AzQu4rajZbh7iVQAg4CgKMYAGAP0qK5meJsHBxS+YASwXGP0rOmncluTzwfemWkj/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Up To Me</tspan></p><p
+          ><tspan template-id="title">De Rerum Natura</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sinplus</tspan></p><div
+          ><tspan template-id="artist">Moonlight Haze</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
