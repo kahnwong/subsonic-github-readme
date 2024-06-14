@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAJAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOJ0u4ijkntnAMMo4y33c/8A6qbqdo9vdeYyyBJPnXPVlJIB/TH696x7a7WCVf3RBGf48574rSlv5NQbTrAS+X9olKs85JSIcYxjJ/8A1Cu2Ura3PNhBt8qW5q6Lq8mmuPJEkbn/AJaBua6eODXGt3ubW5vI0IUlhHgHuBuBrC0jR9OtLpRqqXMe1iu92+XcMjGB7+tdReeK7q2svstir+XFwhLhTj3H8VHN2JaM2e61jeDNd3G8jJ3R5P5kVF9q1P8A5+pv+/Q/wqhJ4pZG2TmXeoxhucD268U3/hK4/wDb/wC+adybHDvbPaxC4uTsZF3mF0cNjpjpgZrHtrtxdJduzO6tnAOOgyMfQ1b1PxHqepWf2S9v7q5jyDiWQsOuayWcwzkxNjB6iuapJPY9CnBrc6C11y+tEm8xUu4EYEvM+G5545yf1rotL1uG909ZHmEDK5XyXYkZ65Fcdptq006h49iK2W3ZPatJGlWdraVYp/vPC4GCfVcDHOO3t70KTQp04s7P7LBMS8skSuexty3v1o+wWn/PaH/wFNYFpdX4h3WklvbxMc7Ejk5Pckc4NWPtmsf8/sX/AH7k/wAKOZlexj/L+Jw93qM188bzpAWTgFIUjz9doGajheOS5XzsIhOGYL096LjJMZ/2eBTI496O390VmaW0O0l1TSbyK1aLRp7lktozcPFe+WFk5B4Kkc4BqK7j0u5MXl6brdncfeTM8c3OBjgqpHUfXNcxBNcQW2YZnjBYEgHgkdP5mrS3t3EyRmYup9ST0x/gPyFVe5HIuh01rf8AhW3tIkvpNdFxty/lQx7TnuMScVN/avgn/nt4h/78p/8AHK4W+kd7jcwCnaOFXaKrZPqakvXuf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">跨時代 (The Era)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">周杰倫</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
