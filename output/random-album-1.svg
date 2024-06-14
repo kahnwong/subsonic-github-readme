@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iigdaYHZeEPAV54q0u+voXhSO23A72IOQu7gAVyUlu8Yyele3fCKPUF8MaoljDbyRNMUleViNoMfUYryG6CsHWMHanGWPWs4ybk0bSglFNGVRSng0laGIAEnAGTTjG4BJRgB3xQjmNsgAn3FPa4d0KkLg+goA9Y+D+vfZ7fUNJ85Umu8BA5+98pBx78ivNr8tbtNG2N24ggDGMcV2Xwo0+w1qTWdKvow4lgSWIhtrIyMfmU9j81cr4qsRpfiC+09WLLBMyBick496yjZTZvJt0kzFEbsu4IxXOMgUMjIcMpU+hFPjuHjUBcZHQ45FNkkMhHAAAwAO1amAyiilFAHc/ClGbxejBsKsbF/dcHj8yKxPGmT4y1Zs5BuXI+ma0/h7dmy1S6kjRmlMGxFUZJJIqh4ujP9s3TP/rRK2/8AHms/+XnyNrfuvmc5RRRWhif/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOx0uETKg2n1ORXRRQhdu5MVHYWBiAG0dMcVPqMh0rRb29KbvssDy7T32qTit27maKWseJtE0LYmo6jDAzDIj5ZyPXaMnHvU2ieIdC8RgppeowzyoNzRcq4HrtIBxXg3lzahem9uPLvLoyiWSQuGSRmwdjY7c4HoRg8dHhLjTNQGoW4jsrwSmWN1cKsTDJ2KT24wx75wODk6+xVt9SeY+kPswGOop4gCL7Uuj3g1TRbDUNgX7TbxzbfTcoOP1qxMoVDiua/Q1sUrdFC7sj8KkubWK9s5rWdN0U8bRuPVWGD/ADqtcymztXmRV3BlQFzhAWYLkn0Gcmqeo63eaW7wtDDOyeWTKqlUG7fwRuJz8o6Zp2fQR4nrGg3/AIOu1sdUsrubTV3qLm1AQXEeSVXeAdpJxuJywHA46ppHh698ZXgstLsby30z5Qbi5+cW6cFl3kDeR/CRhux46e6x63Mbu1Roo3jmgjcomd+5lduOcEDZjHv1qO98RSW0E0q22FjaMCOT5WwwJOfTp+Vbe1l21J5EbNtBFY2UFpANsMEaxoPRVGB+gqvNIA3J/PpWHqOu3lis8am2uZkhEheJCEjyygbsvkjByMdeK0lldrOIzGNpGQMxVSo5GehJ/nWNupVzRjCNCUdQysMMGGQRQlnZxx+XHaQKnXasYA/LHufzqBpwi+1VbhILk5lDZAxwxHfNKwXLZjsbFleO2ihYgqDHDg4644HTNVpvssk5uFhjMwAUyNH82Oo5IzVZrW0dHyr84B/eHnGcd/c1C2n2sjCR1bKgBSJD2GBTSC5J5VtbwssdrCinqFjAB+vH0qrfX3kqcEDC8DpxTFigtS5hJUkActmsTVJhMr/MfQYNWkS2f//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">8</tspan></p><p
+          ><tspan template-id="title">Child of Light (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
+          ><tspan template-id="artist">Cœur de pirate</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
