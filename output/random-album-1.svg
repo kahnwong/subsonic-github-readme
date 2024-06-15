@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFbZ9qElQeK7G88HWwtIDbXazvJZPdLKpBSZgoYRpnBB5YHrgr74rkLc7kCkZFatrpf20KseFO7DfLnn+pPp7UjK5rL4JgQ7H1u2hYsdocLtdFWNndWDHOA5wP4vLYDnimt4Js1bD63BK7hGj+z7SJt0bv8hZh3QLzjlscU21sbCK8jhgjkuJ1dSVCl+c5IwvH6nFLcaVpk91OjwyWs5chQ6sgPPOQ2QfpkUAVV8Hwf2Yt6NZgUlMvE4y0Jy33wpPGF4I7nBxXM3MSqTtkDgcBgCM/ga0b7T5LGZYSYypyVdRjP58g+386zpcruU9aB9QR2jTIHSuyt7iKzsYbRE3Ov72THDSDgFQ3Ys3Gf7o965G0kjiKSSxCVFfLISQGHpxW9q10XnOLaBdsaEKGchgrHHU+hB/Ogdjds5FeInTbeLnklsbogWwAmSPlHOfxzS6pJHsU3lsjOpG3YoHn4JXDgE8HjB78YrFMiTWr3e2MSTLIG2Ahucg5B474z3+tFtKYYVu3CAwoigspLZwAMAcdsZ9OKY7Fl9moCeBlORHvgYc4XdjGR12kYz6GuTuemMY+grpNMliMynyI2Bjd2CswwC3bn2J/CuduXWaR3jjWNGOQqkkAfjSJI4FG4qemc1v6bd210q2lwn71RtV843Adie4xwR7Cufgk+YkkVK0SyRh2uoY3BOFbOfrwKYzotMbE0cMm2OGWTChkLIhzjarjOB7HFOmaSbU3toSnliZgcqVSRsnhmbqPpWHbzpCySSXVrLhwSPmVjg9NwA/Wla+3yyTRTW9qzMcBtzOATnhiD69sdKBmnrM0NikttCAbhyfNIz8nPT246D3J71hHmPI79vSkkjUEv9simJOSELZPvyKiklxgCgR//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJIlZ5FVeuakuAtsxjYZfv7VoaNCqwyXTgYU4Un1q4PDn9pgzx3Kxyy/MEkBwBkDk4pzlGnFOXUVOMqkmo9DmvMDcEAelB64rV1Xw3eabO0b+XIF6mNwf0rKkGHI7is4zjLWLuaSpyh8SsMPWm9acaQgirIPU/CXh+O+8ORxyqCskpc4GTxxWxBpEMeov5dzEvlHmMNyigYAJqfwwhg8HGSMjfEGKlfX/Oa19MSwubMO0pW4YEOeOa8fHVqjqWPSw0YwhdHEa3pk0T3UjRZ8xGbPX9a4CCyNzcBS2wM23OM4/zxXukumD7NfoxaSMglWPTOOa8Uv4/st26AYKkgGry6s5tphjbSimit/ZjeaIy2CWx93t6/nxVa4t44mYI5facZxirLXL7t2efXv1zVeRtyYxxnivVPNPXfh1eRz20lix+ZjuB6j8a6GLR1sb1j9nKgnO7dkVxXhPUodCtk81VWeU8AnGR/jXR6x4piu7ONYyPMIwwzwD7HvWWJwFPEOOtvQKeLqUlLS50t3rWn2umOrSRsQpBA6E+leH67qtnf3jtBp0UPJ5DNk/rTtQ1y48yRedjH7prBkkEkhcZyapYeEGrdNBqrKUbNbiOy9kAzUZPalY54o83EPl7R97O7vWgj/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Evocation II - Pantheon</tspan></p><p
+          ><tspan template-id="title">Égésföld</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Eluveitie</tspan></p><div
+          ><tspan template-id="artist">AWS</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
