@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APC58iU4qMsx71YkTeTUSGIAiRHJ/wBlwP6UAIpbPWnjIFaMep2axqrachIXBO1OT6n5ad/aljs2/wBnLyuCQEzn1HyUAZhfHc06OTe3U4FLO1q6AW8EyPnq8obP4bRTzCIY9pHzdzQM6fQfBsWp6O2s6trtnounvObaCS4RnaaQDJAVegHc1on4WNbJ52r+JdI06GecwWUxczJdkfxKV+6nOMnoetVvD3iuxi0YaFrugpq9nFcG4tAtw0DxyNgMNw6qccitEfEPS72BLHWvCNjdW1nO0thDaTNbpbgkExkKPnXIyc9TmgRL/wAKR16G6sYL69tLX7YJEViruFlXJEZx/eUMwPTAI64yyX4QrbzXMU/izTI3tXgimDQS/JJMMxqeO/HPvVs/G/WU1+21GexjcJbPb3VuspCTZYsjLx8pXIA68Z9ahtPjLdWWvanqVrpCB9QmtHaN5twVYU2Fc7erDkH+E+tAEEXwiurG6itNZ13TNN1S4kZLKzkLMZ8NtDbhwoY9M9f0rC8YeGLjwtewafeyK1w1tHOyopGwtnKk+ox17100XxH0+Z7W51Pw5/aF/p7MdOubi9bcq7iyrLgfvNpPB4zWd4y8YWXi1Le4udJaPWFjjjkuxckq6qDn93jAyTnrxQM4RpdnI6g5qaKdBJll4JyarxKGkHmAiNiR+NPeNrcoWwS54xzwKAHXih0MyHIz6dqbbR5G8/QfSnTs5uDCPuZ7d6nSEhMD0xSAQqWIYE5HvUpXFwMkc1PDa7iDjjIzTRCWuWDZDdqAP//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APPVi3fWq9/9pi8r7PGzFidxAzge9bEUOeoqW+t3Gk3bRnDiFyDj2oBGNbx3dxMxCokIXcu/Pzfp1/SrJtmwQw59R61qaXcf2jpEN/OyKzrhyBtAI4x/KrctiygbkIyMjIxkUDZzLwYOcfSqzxbe3P8AKt+e1xnis6WHGcD8aBG5bRZxWvDbq6FWXKkYI9RWbbMBjNaqTxxQPIxwqKWJ9gM0AeciLUtP+06Mgy1ndpPCo+9JzxtHfjBr12+a41WS5M4giNtawTGMSF2+dc56DGe/bIri/Dl5b/8ACUX2oJfQNNcwuse7BKcEjoegCqOPXvUGuXz6h4saeO9MV3EIYpFDhPMPO8KP6dx74pNc0jRaQNW5hHPFY1zGMnit65kUg8isW6I5pmZZsro28wk2hsAjaTxyKv3Dyahp9xaQskTSwugaR8DnJ5I9yPyrAjlx35q1Hc44zQBH4eg8vUJ7S8jtEundgQlwAF4Q4H+yQufzrP1qyu7LxZdyySQD7S/mxZuB0Yj5gP8AgOK5jUJJbvVZX8sS5um+UL8zc4xnr0FXtH+xXs7G43wyQyhrdVbIPOSrA+w6j0p2s7lXurHod9fslw+1Yw3Yqcgc5z05Pb6cVg3cwllZ1UID0UHIHsKJbjd3qlJJu+tIk//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Control (Original Game Soundtrack)</tspan></p><p
+          ><tspan template-id="title">Rock Revolution (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Petri Alanko &amp; Martin Stig Andersen</tspan></p><div
+          ><tspan template-id="artist">David Garrett</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
