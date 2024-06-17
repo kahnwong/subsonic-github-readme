@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLYdWjgvV8g5Dcbux9q6C31xlEkTyNDvwp54YGuJhEaqWGfMVgVyOMVtRN9rtPMIw/IOPWuavhadbWS17nXhsbVw+kXp2OiGoLKvltLvVDllz04rm9Q1KW93RKAkG7IUDkjtmqkQbzJBkjnBGaeVrOhgoUpc25tisxqV48u3fzFsbVJ5SHbaoGScdPz4qe7sRbRMS6sd2BtHTg9fyqO2mktZGkjUN8uCGBIxS3l3POipIflwD93GTjrXQ1Pn02OaLp+z1WploK19NnPFuVGD0PvWIjSZ4Q1sWlhckq5AXHI9a1Oc1odH867tPsUU1yLiIXMi7PujeVbp/D8vX3roPGOnPc6TY6vHpv2UAeXOEjVQM42khfXPH1+lZWk+Kb2206z05b6CGGIYbaqh2wWIDN1YAknHSpz4uudf8O6jHdzwuxeMR+XD5S5J3EY7n5Sc1hLm5kzojyODRzMUslu5eI7WIIzj1qOa4mkjEbuWUHIB9aeykdaicDFbWV7mPNK1r6Fy6iS7UK0hVR2Cg8+vPeov7OVl2/bbrb6B+KjmDW0UchljYSdApyRx3qJbv3oTT1QpRcXZk40a1RiUmnUkYPzDkflTbuzdbK1gs3WMQFnYknMrn+Intxgf/rpv2z3ppu896dguVxqktuNl5btvHRh0amWM80/mvMfkJ+UZ6VPLKkiFXAZT2NVkEcIIjXaCcmgR//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFlXd0qVYx6VHFmrKpuAJlRevBzXGz6Wmo2uyW3to3+aVtkecA/3j6f/X7U6a0jXLxNvj6E/wB0+n+B702TMsgBmjAA4xkADOMf1qWBlhI/exsHGGHODxnB/wA9RUs2gk2VTESnA4qHlT6VflRVUkSowBwAM89f8P1qs+COKSZdSnHoSWdt5kD3En+qj6qPvP8AT+p7ZrefQEuLVL77QfsxUbWTbtUYj465+87j6rzya523umihaBuYn6kD5l+n9R3xTfkt3cSxLMGX5GDEAe//ANatVY4JOfRm/DZ2dvcwCKW5DyNNHn5CG2A8AH1O0DPrTHsY7nbcTXBiZkLPG6hXQK+zkAAdKybW4tDOiywYQtnJbpx0+mcU+4uLVZZRFAWU5G7zDzwP0zzTsiVKfNozXfS4baK8dJJXeJ2RIWGTIoCknGAcYOcjpgHnrWNNblIhMgPlv0B6r9f6HvTRKkswaGMQBcnO4naPr7UT3oeNYlGY06E9T9f8O1Q12RvTbXxSKCvxUpmUlsRLznGe2cfy/rVFJMVOr5FaNWOSNRSRYmOyVyYl2yDKbegHqKkSRZSwW3jUZLFs8KMYx+f61Fbzoh2zLvj6gf3T6/8A1u9FzOj/ACQrsj6kf3j6/wD1u1AXY7z0GMQx9VP5DB/OoWGFzzURfFMeY4xmizB1IxR//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Love Sux (Deluxe Edition)</tspan></p><p
+          ><tspan template-id="title">The Witcher 3: Wild Hunt (Original Game Soundtrack) [Live at Video Game Show 2016]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Avril Lavigne</tspan></p><div
+          ><tspan template-id="artist">Mikołaj Stroiński &amp; Marcin Przybyłowicz</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
