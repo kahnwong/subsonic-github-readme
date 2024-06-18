@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNaKKK9Y8UKKKKACiiigAqW1t3vLuG2ix5kziNdxwMk4Gaip0cjxSLIjFXU5BHY0AaLeHtXVlX+z5izYwAAevT9eKP+Ed1gYH9nzZJ2jp1zjHWmSa5qku3ffTnaoUYcjgDApx1/VWRlN9NtbkgORk+v17Z96n3i/cK6zaelhNBcBo7suMS7N2xBnPHr/hVKIkx/M245IJxjvWmZraTSbwuc385OWbnPzA5/n35rNTdsG85buaNeYLpw07jqKegjOd7FemMDOaeFgyP3jY4z8n09/r+XvVE2IaKkCxd3P8P8J79fy/WlKwYOJGz2+T2+v0oCxFRUu2DJ/eNxnHydeuO/0/P2priMH5GLdeox9KAsf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBLa2lu51ggXfIwOFzjOBn+lXH0PUExugxllTlhwzdB16+3aqEcjxPuRirYIyPQjB/Q1aj1S9iKlZ2+VQoyAcAYI7deBz7VL5uhrD2VvfvfyJn0HUI4pJXiURxpvLbxjHP+Bpy+H9QaMyCNCowCfMHU9B9eR+des/DTS7TUvC0up3Gy8uPtDJPFNGGVAoGzg8DOfx49KofFTRZNNgg1rSDJb2zlYbmCL7kbdVIHbPcDjP1qP3nkaXw99n+B5t/wjmpgEtAEAbblnAyevr096zp4JLaZopQA69cHPvVlNWvo1kC3DASNvbgcn19qqyyvPIZJGLO3Vj1NVHmv7xFR0re5e/mMoooqzE7X4atrA1yYae04smj23wjGdyHIUdR8xPAPbk9M16L41smvPAeoxs8olhCzElyd2zHB9Rgn2yM1xXweimufEV/aeWs1nLZt9ohY8Phhjjv1P5mu+1h2k0LWLEJsKwSwoPYAgY9sZH/Aal7gfPlFFHaqAljtppRmOJmHsP8APpUqabeSxiRLaRkI3AgZ49agWaVAAsjgDoAxp4u7lVCrcShQMABzgCk79C48nW53nwjtZx4judUSYQx2cGCxBIZnIAX8tx/CvVr+2truXV284RlsSksvGdhXH06k/WvKPC3iSy8O+FI0iubV765vS80Mqt8iAAKSQOn3jjnrW1a+LdKGitBc6tDJK85AGxsrHgAZOOf4vzFBB5JTip8sN2yRT7oRi7mETBow7bWHcZ4NSExf2co3DzRKTt/2do5/OmB//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pure Live @P3 (Reissued-2012)</tspan></p><p
+          ><tspan template-id="title">Live 2019</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nemesea</tspan></p><div
+          ><tspan template-id="artist">Mylène Farmer</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
