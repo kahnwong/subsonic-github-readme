@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iigdaYHZeEPAV54q0u+voXhSO23A72IOQu7gAVyUlu8Yyele3fCKPUF8MaoljDbyRNMUleViNoMfUYryG6CsHWMHanGWPWs4ybk0bSglFNGVRSng0laGIAEnAGTTjG4BJRgB3xQjmNsgAn3FPa4d0KkLg+goA9Y+D+vfZ7fUNJ85Umu8BA5+98pBx78ivNr8tbtNG2N24ggDGMcV2Xwo0+w1qTWdKvow4lgSWIhtrIyMfmU9j81cr4qsRpfiC+09WLLBMyBick496yjZTZvJt0kzFEbsu4IxXOMgUMjIcMpU+hFPjuHjUBcZHQ45FNkkMhHAAAwAO1amAyiilFAHc/ClGbxejBsKsbF/dcHj8yKxPGmT4y1Zs5BuXI+ma0/h7dmy1S6kjRmlMGxFUZJJIqh4ujP9s3TP/rRK2/8AHms/+XnyNrfuvmc5RRRWhif/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APUvL74yB1pVnuIPljVVU888mhy+SVO3t160q5C4bGPYV4UIqCvTbUvQ8KKt8LaY+OW2+ZpwwbruUYxipBcoQDHd5Un+JQc1UkdBnEZfinCRwo2qEP0z/KumhWcI2lZel7s1p1XFWdvx/wAySaMk/L5u3OclPlz9fSk+3yA4YDA4+WmC4nX/AJeGU9+QP51EzJPKN0oZwfXrxWVStyXlRun+H5kudtad0/68zyxZ7tE8yHUT9pIALFG2kDoMe3HNVb7XPFMBWGFprpHG6Xy1PXPQ5HfA6dq8+j1rU4WLR6hdKW6/vSc0smuajIED3cjBBhQcdOf8TX1KeH+0n9yPcSo9U/wOzs9c8W2ERjghu0TlgrMMKfbI9atWOv8AiCwRjFbeXISxO+RfmJx1yf8AP41wtvqdzJZrp+IHh6fvFwcbSvLDnGDWhbXSSSbTZ2cmGLFvnIycZxhv9kflVxhg2mnfXyX+RSp4Zp3uvu/yOpfxd4hRmnurt403ru8u5Q4BYA4UH0NWW8b3Vlfi1sria7iueRcToA4YjqvfGB3Hc1xUt2biJ4be0tLVwQVlRDuXBHIz9O9V11qRZ43F5d7ozwzJE+PoCv8AWsqtHD81qVrW6r/gIznRpXtTtbz/AOGKEdtGkRa6YwyfwrICAR9Blv0qxDAGUuIba5VedsBJYfXkY/HNVp/sEeGjE0kh+8u8FB/wLAJ/L8aqy3DyqEICxjoijCj8O/1NYPQk0FdhMVMF3EMcoGAAHvkDiq93NhwIpUPHzeWm3HtnvSabc/Z9TtJZcPFFKrFZOV4PoeK3G1rSvMV30Oyleb/XSPIzMx3Hc3opOR06AHrU3A5jexXaWYr6Z4pVPHWt661fT937rRbAqInjUMzNg8AHOecYOM9c5602+1ayuYZt+l2n2iQMBcRuwIxgA7emcD2znPtQkwsf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">8</tspan></p><p
+          ><tspan template-id="title">Hopscotch - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
+          ><tspan template-id="artist">Emmelie de Forest</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
