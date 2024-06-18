@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOL1K4gTWmit7cPJZMVDu5YEkYIx9ePrUUWpXlrbgxwRwxOp2lYguGJ+YZ69ulZUSfbr6ea2DmOSUkqVzgZyPqcZrZtbC4up0clVibLRySufur1x6HkcelZ2S0OuLvqWFvblrtUaOQoGQxjbhSvpj+lVNXtZULQ28Mhk3by+QMc5/DFbselwKxkurtFjVVAlU/Mrk8DJ6dqr6hp8GjzALfzyEuBITICWXPJwOlCVtTSVS/ulW21NUijj1V8s4x9oTHmpjs394cnrms7UNMiuHa4tPLniUkNPaKMrg9WT+o4qrq9hZsoNndSPIDlzJHtA/Hrjp2rKDTWl2J4JHglB37lbH1AxxjrRbqjGT8jV0zUk0/AhiUSZDZYZUnvx2xmrVtq1zbs6xyFyV37nYEKemPp2rDjWW4ZfKUHA2lA/IHXke/T8quwW15IWYw7VVjl4nwMDPAHQ/h/Shq44Ssa9tc+dBbsRL5kjyPJubPmMOhb8ulRT5eeJWOzchLMV29zk479APemRzItsglWWBoQdm6MkbTkdaq3clrcWsKxbpJMf6wsR6knB/rVCumyO8jkEkuWJLbjkkYbv+fHSqRCIABv3ZbnbxyccfoPwrQeVZ9OaEBvtEShRHjnaOGP+fWsR5GJdY8oOWD4I6H27DJpMTsiWW6byNsDOyKoBkVMZOTwf5ZrTivorR95ATEZiCZwS2M7j1x27c5PvWKrrAhRwo25O9c7t2ejD9KRXkhQsFUq45yO3+H+FCIv3OjOprPDKh2AhNoQDjqGzn0qRb20khZ9sMc2FwvJRgMjPI98HjnFcutyzR7WIVQNwGeTn9f8A9dWIp8owWIb+hZWP6f56CqTC5eu7toLoy27qN+0lYycAY6AEDjqPfNVbyCN7uRVcxrJnbHgllzyynsCKbbuDehn+6Mn5V64U8/gcGqku3mFZ2lCkMT2JI59+v8qT3sF9Ls//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APSs8YwPrimmlooASjNcV4g8cz2GutpGl2aTyxbVmmlDbEduifKPQjJ9wK3tC1C8v7QSXsCxTHqqRsqjnsW+99RxRcdjX608lNuApB9c0yloEFBZUUs3RRk49BQTTHJxQB86N4lvJtY1LU7e8uLT7VcNKUhuGXrn35+XjmvbfB+rtq+jK067buAiOYYxnjhsdsjt65rzf4jeBriK+fUtJgHkXZw8UfBWTBJwPQgE4Hoau/CXWhFNNpl7MVmuAHt8jiXHXB7ng4H1qdmU3dHreaWm4p1USFMcNtO0AtjgE4GarvJc/wBooqpJ9nAw2EBBJ75z0FWjSTuVKPLbzM2WK+nmjfybdBEdyB5CwDf3uADkA8fU1DLo2nhYpJ4YkeH7skY2ncWyf1OfzrYqMxK+N4DY9RTJGC7h3FTMmQM53CpI5o5QNjgnGcZ5FRS2VvKrBowN3UrwaIbC3gJZF5Pqen0oA//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">A Decade of Delain - Live at Paradiso</tspan></p><p
+          ><tspan template-id="title">คราม</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Delain</tspan></p><div
+          ><tspan template-id="artist">Bodyslam</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
