@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APH1QjaVPyjPJ71o21pFJLDHNciIyqpGIy23ccKD7nr9Pyqr5QC/KTgmrMM00bRshj3x42yMmWAHQV3WfQ8zmj1GC2t28xzcOhiALAwnj5gvY++fwNLJaRiNnS4dnCI4TysbgxA9e2auW0N7PC4RbWO2C/M0kQVMA5yT9R19sUyY3qFrlJLeVZUCGS3iDLtHYcYGPaou9jRKNr2K1xp/kEkyltu4PtTBXjKnk9GHQ1nMrHg9atvNPhQJeREYcgdU9D61DjJBq0n1E5LoSwnc3qK1dMgMt0cRiQgHapAYFu2QxAPryccc8cVjwgrg547mrkdxCvFzHLJCfmKxuFycEYJx0Oe3NN35TNJc+ux1c/lExma9jkAaPyyG8yI5BXAZUAQ7g3IJXd161Ykgg8mSO3mZ5ImQXBRNkcQVctvkKt/D1QYVRhck8nmrbWNRkuIojdSMshWM2wAMW0H7ojxgAD8e9WNY1rVH1Ga1GoTpaxNiKCP5Y9pAOSoGGzkkk5zWXI9jZVFZszL6EI6tjBYtkjbg88H5eDkdx1xWc7bc5PfpVuWSIqqwxujFw0mWGwY7KOo5OevHSqcwBk68VpG9tTN2ctCJZD0qVXxznkciqaMSRircbRdJBIckcpg4/A0rluOp0ejXlqjvtP7xx5YyEQrkck7QGP0zg9DnpU+pXFoZDJO33GI6IzSZPXa4yPoBzySOa5YeQQAyzFscjYDz9c0AwKP+WwbPaMf41Ftdy76WsTSziWZ5MEAn5VOOB26cflVaRxnn1pXaMp8vmhs9GUY/PNQO5BwRxV30IUdbn//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDUQuSBjj1pXiaMAnGD6GmUUyTpvDvhG41uwub8yxQWkGA8sgJGfQAVk6nYLZynyZ454s4DoCOfoa9L8O2yT+ANNgttQ+zRS3WLvkEEEcg9wePwrzG7dmeRGlDqGO0juM0Rd4u4VYuMo2KVFFFABRVq00+4vcfZ1ViZBEAWwckE/lhTU8GiXtw6LGiHzPK2kvgESEhT+YP0oA2vDV4o0HVLNi0hYblgD7d3ynkeuCckdx9K5ZjxirUVrcJZi8QK0BO0kNypzwCOxPUeuD6U5tLuhpv9oEJ9m7sG5HLDkfVcfivqKOgXdyjRVy40y4tS/neWu1wn385bbuwPwIpl3Yz2QhM6hfOjWWP3UgEH9fzBoAgEjqAFdgA24AEjB9frTluJlOVmkByDkORyOn5dvSo6KAHb327d7YxjGeMZz/PmpptxhWRGIikJBTPAYYyMfkf/ANVJZC1N7AL0yi18xfOMWN+zPO3PGcVY1C5tTqMn9nxYsUkYwxyjJx2LepwBQAgtL+Ri5LFn4JMoy3H19Kr3AuEKxzs5wAVBfcAMY459APyo+0/OzCC3G4YI8vjt2/CiW481AvkwJg5zHHtNAH//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Druid's Awaiting</tspan></p><p
+          ><tspan template-id="title">John Wick (Original Motion Picture Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Celtian</tspan></p><div
+          ><tspan template-id="artist">Tyler Bates &amp; Joel J. Richard</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
