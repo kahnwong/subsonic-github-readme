@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAC8AMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEUurJI4/MgEjYG/bkfrn/OK0Uh09GO8QhWQAh9wIPB456nPJ7CsyPSZXj3s6IpJA3Z5rf0nwFqWsOixzxqueGfNS2hpNlK4W0IRorhIwc7hkMAAB+PJzWLOAJ3G5XwcZU8H6V6bd/Bqe1tvMOoKW46KSPfsKsWnwhifTGuG1SQSKCdqxUudIrlbPJcYbGKZXUa3ofh/R75bb+2p7pwQJRBAD5fryWAJ9q2m8GeErrTra40zxdJPJIxV45LMqyY9s/1quZbk8rvYWztba52tLj5ecZ6+1d74e1OO3aJoIYxEMhj3yK8utbgGdWQNhSOPWuottReNM7gnHJNYSuVGR6jd6wl1AYUdVmfgZ7D1+lRTu1v4ZvWe9hgYQOPMY45AxuwOvJB49a82u/EFnaRhpJ2LdcRnLGue1DxdJfu0STTxxsu1Szgn7wJPsSFX1qHGUjVSS3Ni4+Fw1XwQ3iXSbpUubVCt9YyOrbZEJV2DZ4yV3BT/ewK8800z/adkIJPXArq7bUoZ7eay0u/h0T7Tam2v/tRcxXShi3mZw2G5xjH05NclkW124tp/MRWIEm3ZuHrg9K6VcxY+LUZY2JBQfhVoajP5Py3CgHkrismTls1IskaoN0Ids5yWPT0p2JJXBuCSZPmz6UR2jseDlfWoknCH5UI9fmzVo6ggIZLdAMEFcnB96AJyhVRllyOmBzUT5Ckkrj2XrVY3WUICkE/xbjxUBc+posM/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfGIVSx6AZNYU2pakt2zxxRC2iIMqseShGQVo8YaDc+JNAfTbW8W1Z5Ed2ZSQ6qc7Tg9M4/KuOu59a8K67p8/iG/W7s5leJFt8qsYAH8AAHp603G8dHqb0qUJRcpSSt0fU9AkvZEmSRWhNrnEh3cr6N6Yq3FPDOCYpUkx12sDiuJh1+0u7JkgnAlKFVHrx0rO0/V9Us54nktHR5GWINGNyEk4GfSscJKpXi242aI9xq6fz6HpdFZVhrDXEiQ3Fu0cjDhlOVPGfwrVBzWpEotbhXAfFbTbq60O3voHjWKxZ5Ji55wQAAPqcCu/rz34yX0ln4KREBxPdojemAC38wKaaTuzowlNVK8YNXTZzHhfTkutPj1F2+aP5gPfpXd+HPn1Irs3IELfN2ORg/nXnXgLU/tmmTWqjCW7BTJ2Yknp+Vej+FtOdrFp0uZoASE2qo5A69R6n9Kxw8JxU3Pq3b06HRiKNPDqUYLQ6oRoGLKigk8kClGMkDHHWsc6PcvK7G+lGHBBbkkYHPBGOa0LWNomkUqcDaA5/iwOuScn8a1POLNcV8U9Pi1HwVJHK4Ty7iJwfX5sEfkTXa1ynji1v762sLe2083lp9oEt0inlgvKqR1wT1+lKVN1E4J2bGqsqXvw3Rzmj6Zpll4PtJdOCjzZ28zA6sBjH4Y/WvQNGiSHSLZUOQybifUnk1yulaJqdlpqWEunx+WssjIA4KgsBz9Bziuu06GWCwihmADoNpwe2eKcafsoKne9uptKrKpSTluy1RRRQYH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Embrace the Storm</tspan></p><p
+          ><tspan template-id="title">EVER - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Stream of Passion</tspan></p><div
+          ><tspan template-id="artist">GACKT</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
