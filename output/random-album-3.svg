@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAKKKm+zSeXv2/LjIOev+cUr2Glchoqz9kI4br9Rig2xxx+pFHMh8rK1FTG2kCsdvC9TnpUNF7iasFTpP8AMik7UwAx25/z1qEDJxUnlHj5k5/2xQ7dRq5OsoYIXlYHDbvkzjg4/PNJ5xVcgnIQdU79MflUIRMcyYPpjNKUXA2yZP0xSsitRzzfOwzuX5gCFxnIxmq9S+UfVP8AvoVGwwcccehpqxLEpc8UlSR3E0KlY5XQE5IU4piTG5ozUrXlyww08hHHU+nSj7Zc/wDPeT/vqgfMQ0lPeaSQYd2YA55NKyxBMrIxbA4KY5785oEf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ALeg6BBe2ULyQoxZQenasrWfC8tprv2PRo2luZYjJLbBQVQZ4Yk/dP8AOu68HIj21umHKmFSNykdh/nrVjxp440jwVCp8ozX0ykpbhuuP4mPYV56Tbsb3d9Fc5Pw7oul6jAbBbcwX9uMzW0wAkJ7kccjP5VrP4HtQwMkIGDnBUVyNv498QX6vqdvpkNs82EWVmjgDLngbm+Zh16YHvXb6V4mD2Cvq0kkN0SfLWQiSOT0VZUyrNjscH2rpjhuZWjJc3YzqzdN67eRAfB9v1W2jI/3RVDW9BtbTSJ5GtoySpCEoOD7V6Hp8ttqETPalTs+V+eQSARn8CK8h+I/gjVLjXrrVLa78m1mQMYi7feA+bAHHOAfxNYcrTtLQqMlLVF/w58StI0yyij1JpYQIwqiKEtgj15J9K8+1C+/4SPxXqGs3QaWFA00cbegIWNSPQZBP411lj8KTqelo5vmDtGG2lAQCR7VwkqPourXNjcAB490Eh9B/eH6GlDc73GjKMnS3t/w50Nholxrlje6lc75pbZS0y7N7hckfIvTbweegwfSoQZvDUNrdRwztp18zC6t5cLFKgOFwByGGCQ3Y4x3rV0bVLFNCu9PvL17OdwZEcM215N+5ZDj+6pOMHBJ56CsnXNTk8RanLF9qEtv5gklumGAoCgY6DvuPuW+tdPNpY862tzsfD3jFPCPiXVV1eSRrGNYYpZkQuWwGCPtHqNua1fEvxH8K6rpMptLqdyVOAbV1zx7ivNdD0qf4ieNp4UuHhg8o+cwxtVFKhB+JGea6rXfhzaadZux1OVnVT1C84HpilXs2nLe2oQhy6HpPhWZG023JOMxLx+ArmPiJ8N/7dJ1fRxH/aCriROhkA6c9jVTQvEEdlZRoJuVQcZHpW7D44gWLa86xy9Sykce3cVzR0ZrGUoS5o7nz/dQ6/pDm1u9OmUoThWjJA/mKmsdF8TeJpVtrezm8onnKbEHua94k8Y6bcKRPOsjeronH6UkXjPToBhLrH+4i4/LFaup2E7voS+A/B0HhDRjDlXupsNcS4+8ew+grnfG3irQbe+vtPlvx9qRdrIqM2GK5xkDHcVvt4505wuZgxXrk4Jz0yK841vSfCc7zXMcEjXMpaRpDOzbnOSe/XNRfmd5CSZ//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Muhteşem Yüzyıl Vol.1 (Orijinal Dizi Müzikleri)</tspan></p><p
+          ><tspan template-id="title">Pyre: Original Soundtrack</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Darren Korb</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
