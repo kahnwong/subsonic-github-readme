@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLtHiViNxBr1nQdNsZ9Gj/dILnc6k7+ccYOM/XtzivF9LvUidS6g/8AAsV6ToviixsIlkliWTaMhA4JzjgfTOM1z1G0tDVJc2p65Z6NZpG8cUY2KTht2R93gfXNYkt/pOoapqGlWbr9o0/CTFmxuJHJXnnaeD715FJ421yDUb+5t9TuLaLUmC3PkYJRAONmR8px8uRzgVk6FeXWk30s8LSIFlBDN1Ydww7gjGQalwuvMa016HsOtW9pbQPsnEhiIQndncP/ANfpXmniS1RkaaJuP7prptc1C3RRLbEyrKu4lWBC+2e5/lXnmq6wJFaNXdF9yDmindoUkubQo6QZpSDtgC5xlohz7dK2rOS6g82e+tIPLVcxjywpY9sEc9eaxdLkCmPzWxGDuUHsfar2taqssixRH5Y+R9e3XrWjvcTSat1JYba5ktDdskIjL7VDRrkH8f50rW99AqSBIhHL8ygxAbv1p2i6vFCzQ3MfnLHJ5gRD146d6XU9XjLQWtsrIkSuwD5JGTkCseapz2todDhTVNNbiXdzqEfyxw26xbN2UQELn1NZWoXlzASVEJQng+SCD+la4gY2EG6RmjkLHac4+o456dKxL/zURojxGW3Kvat42ZzWaQljH+4d26IueewqSXbInzRlW52KoI59frU1iqPB5Z4zWlPNCLYxbSjZ5mUZ25549T7VbMefU55Yo5L5N0nlRsfmKHO3mnGJYb12EnmRKSEduA/4/SrktuztMLYOkeN4Lkbj9fr6CptNne2ukMkxNuWBdCB8wxg1BtzKxp2mqebYNZm32BOWRj6jpg/n+NYWpsgLKI2X0y2cfSukvtVE04lRWCgfeBAB/DHvXMalcSXEm52ywGOlVGKS0MlUlJ6n/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdlVFjjAjT7o/ho+T/nlH+VB/1cf+4K5y9utQS7lWKSYIDxtBI6fSgDo/k/55x/lR8n/POP8q5X7Zqf/PS4/wC+f/rUhvdTUZMtwPqv/wBamB1fyf8APKP/AL5oZUaOQeWn3T/DXMWeq3QuI1lleRGIUhj6104/1cn+4aQB/wAs4/8AcFYF3rF1b3EsKBNq8DI56fWt8/6uP/cFcjqYzqE5wOvp7CgCyNfvMf8ALL/vn/69NfXLt1wfK9fu/wD16kGsRgAf2fBwP89qa+rRsuPsEA/z9KYFKz2SXkbTOUXduJPc/wBK7If6uT/cNcMQX+6vLdMV3CgiFgevl/0oYC/8s4/9wVi62YNPs3u00mTUJtwHlQ5LnPfvW0rI0cf7xPuj+KqU2kaXcSvLNbWryP8AfZurduaQHLSa55Yf/ijNSJUAqu3ls/hxTxrI82RP+EM1MqrbVYIPm5AHBwf8K6RtE0hzlrS0Y4AyeenT+VP/ALJ0w+X/AKPbfuwFQ/3QOgFAFPRfIvbNLttKksJSzL5UwIYY4z24NbH/ACzk/wBw1Uh0vTraYTQwW0cgzhl6+tW2ZFjk/eJ90/xUAf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Quantum Enigma (Earbook Edition)</tspan></p><p
+          ><tspan template-id="title">Still Alive (Special Edition) - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Epica</tspan></p><div
+          ><tspan template-id="artist">BIGBANG</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
