@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AN7WdZ1K21i4gguSkSEBVCg44HtVWPXdXdgPth5OPuL/AIU7Wot+u3DdwR/6CKbFbl33MMknJyOtd1OEORXS2PPnOfM7N7m07aksNw/9qkmJ2UZjTGBjr7nNS7r4XZh/tKQ/ICBsTIy2Mn2xzWFrniDTNHS4ZoDLcTyKViQDOOuM9qpr430uS5jlawnjQq4LyIuVZugwOwrmcop2dvuR0qE2uZXt8zWGramGIN1nBxkKvP6Vd0vUb6fUIo5pt0bZyNoHY1WWBGRWjwUIBUjoRVzTYNl/E3uf5Gt6kYcjskc8HPmV2UdTQf2tcHBYkjAXqeBU8MQVckds1LeRqdVd2A3BhtPpwKpak4uLWSC3bIAPmuvRVA5Ge5qFO0F6GrhebObNlFqGvajeboJrWF0RzJluCMkKPX3rE1XTUS2FzbzBMjIiAPH4Gq2i6tZWWrXFjczyRW0+DHMFztceo7g5xWndzQyW9ysBaVEDYlZNmWI4wK8Wc5e05u59BTpx9ly9jp/BE8l14eCSg7oJWjGfTgj+ZrqLLDTRuBwc4ri/B1/JbapLpbwsI5iWjkKnBKr6984Nd5Am2ZeMYr1IVOalfyPFqU+WrbzM3UYfNvJMSNGdwOQAe3vWbc7Uh+zWzSsxBDBVJyPQY6V07Ipk3eXu55+RTn8T/nih1dnygljX+6u3FZ+00saKGtzyuf4fXd25/wBKhhZ/mCqpbZ7Z9fpXQ2umGymt0uwkzgYO0fK5xyfpxXZMrt1aZeMfKwX+lU7y0mn1JrhU3KI1VOR1/i/p+VclenFx0R2Uasub3mY16zRLHc252SRnKgdK6HTrtL+1iuUGN3DL/dYdRWTdaXdzRkLEQT23CpdCs73T5popo8W7/Mp3Dhv/AK/9KnDzlG8WtB4iMJJST1R//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6imM3SID6mpaR2CIzHoBk0mBXIusE5QHsPx/wpW+0sSV2qOcD8O/41j3Xn3s6I0pRD2U98E4/8dxSwSTWt9Msb7ofvKuThefu81j7TXyL5TaiM2SJAMdiKlpFYOoYdCMilrZEBUU5Hl7Scbjipaqy20kkwcS4AIOKHsCKYUpuVQVkB+Xjkj0pBGDtUqTIT82BzVieEsnmhhuB+Y9zzRbwlUEpYbiRtPcc1ly62LuWoCDEFBzt4qWqsNtJHKWMpIJJx9atVqtiGFFFFMCnKQqSA4yeMfj1/KljO5Y14yOMD69fyqxKCQAE3c+uMUkS7E27NoHvmptqO5JRRRVCP//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">1989 (Taylor's Version) (Deluxe) [Reissued-2023]</tspan></p><p
+          ><tspan template-id="title">Legacy (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Taylor Swift</tspan></p><div
+          ><tspan template-id="artist">Myrath</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
