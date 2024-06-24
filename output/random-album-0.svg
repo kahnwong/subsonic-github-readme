@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBgflxtH170dOoFCkA89K1LG0g1IJbxl1uieOMhqTY0jMz7Cj8BW7daEbG4FteRvExGVOMEj+RqKbwxqSRmWGL7QgAYiP7wB9v8KSkmNxaMbt0FIfoKcQVJUggg4IPBFJVEiCp7OWWG5R4WKyA5Ug4INQ0Dg8UhnTXl9qmpC2kv8yLbp5Sv3655ruNIYiOG5WE+Ulvg4+bnZjp9c15lZTM7pnrnHH9a3Nd1S5sFktIZmVpCCSOMLjOP1NZcvQ25+pk+KJGk8R3bkHBYYyO2BWRSszMcsST6k0laoxeo7acdKcsbMMivVtG+GwupEMg3IeorpZfhRZxyA4IQjnmuedZROmGHcup4daI0UpLA4x9Kua/ibUg8ZYoYkI3denf34r1PVPh/aw6U0dsmblpV+bsBUkfw2hvbCEA/6WBg+mKhYiO5o8LL4TxIxsB0qM17LL8Ib2RHIBXHTjrXI6n8PNTtHZRCzYOMgVvGaepzypuLsf/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIrzUJ1F1CLqT7QbhiJvtrAKmfu7c49eakN6YNRgkkkujaeWN8Laly5x94MOmeDj8KoTWD3GoSheS8z4/76NdHovhe5vJFtZ43MBY4KAblPQfUc9KVx2M2xS8vre6SO9cT7laJ31LYqLnpg/e/pgetP1D7TY/Yg90+QQZimqb/MA2g4x93PPr19q7Pw54Hh1zT5Li1hmkWGZ4GLQsMuvUc/WqniXwKmjCB7wtBG8gjUMhBdj0Ue5ouFjlhPPDM19Mt2dOlTbCrX7Jl8YLA5ORkHgZxkc1Xs76YraxfbJjdfaQWlN4SrJxhdueuc/nVrXbbWNSuFlvQwjt4hDDGekUS9FUelY9vbmK9tv+u6D/x4UXCx09ibf+0oVlkVStw4PGf4yc16NLeR2XhjXntZiLmOCXy3T7yHHDA/rXiV5dyJfz7WCbJnwR1+8aJNfvmjljWeQrKMMXYnIxg8dKXKPmPSPhh4k1jT/Cvi1oLqWX/RmkQzzERwvhiz57O2cAfxMBmqfjHxFqZ+Ffg3T3nbGZJ/OWXeX2kbMt1DLkgr2+WvN4JpUt54UkdUlADqp4bByM0sssjW0MDuzIhZkBPC5xnH5CqEeqaRPHq3hi0vtQnV7mZWSRnPL7WIyfwripwi3NugKn/TOCO43CsuDWriG0jtkldUQdOo6/pSW1w82oWoJJHnKQM+rCpUbMpyuipqH/IRuv8Arq/8zVatG/sLw6hckWs5Blbny29T7VX/ALPvP+fSf/v03+FUQQqcA0pYFRxUwsLz/n0n/wC/Tf4UfYLzH/HpP/36b/CgCsasaeT/AGjbf9dU/wDQhR9gvP8An0n/AO/Tf4VYsLC8XULYm1nAEqc+W3qPagD/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Yol - Single</tspan></p><p
+          ><tspan template-id="title">Monster - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Hayrettin Taşkaya</tspan></p><div
+          ><tspan template-id="artist">Paramore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
