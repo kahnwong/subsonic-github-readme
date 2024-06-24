@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJHnwdzHntVuwWa6mCqpYDBIzjiqDqoxxkkgZNdXoXg67v4Ptklv5kcgVolLEAYOTkd8jisEdOvQ9E8MObaBImtXjJ4ySDXUT3S2sWXBrlvB/h+/wBLiEUzMYxliGfOCTwB6DFb/iceU9hg4RnG/wClJ6Gq1KNzqtzJGWTTmWL/AJ6SyBAa8t8aMWvvMMap5g/hcMNwrqfFPh7UNRgXzAZXLbmZXPygHjYOwxwR34Oe1cpeeHbuLS7hpwyKrFokY5KjPTNOyWtyG29LGDFaiZowSAN/J9q+k9Htba302GGFAFRFUflXz5JCqxfL0bkEe9e0+DdXXUPD9vJu/eIvlyD0YcUmOK0OhlwhCqOtc345nEVhbMrDfnIGa6S5e3uLZ4pG2gjllbaR+PauJ8S6fazzwyzam3lrlVjLjpjrQy0dFpkqzaZDI/OUBya4rxzqMUds8K4G7iuiW+gg01BA4MaLtBB6YFeU+JtSGoX7/P8Au1Jy3bHektWEtEUYHEW61fqCdvuK6TwPrZ0vWGsJXAiueUyeA4/xFcneqzgyJw8Z/SoftC3cQV28m4QghgcYYdCKq10Zp2Z75c6VDexGQwCVyckFj8w9K5zVtEEqlYNJMbZ+/M2QtVPB/jqdbdLbVI2aVPl85B976iuh1nxZai1PlBnYjoFNSpNKxspu2hyGtSx6Xof2WMhQo5xwWNeZXl2LiVLRG+8cykenpXS6/Je6nNvcFIRyFrjYIfLuZD74FVDuYVG2f//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGIlFXYYG6gdxVeBehrdtmWC2MpXpjBx3oA2zbq1zNvJ2lBzkAHAxn6c5qC405Eurrn5BE+wDHOScc/Tms1r03kjl2dGOQFBz1HT36dKTJhGN5Yq33U55GMD68mp6D63M25jjTaGiJIAz85/wAKzpvLx8sRU+u7Nbt3IlzAJwoUnjaO1Ysy4BzVCH2wLECt6aIRaWkvnIg3gNlsHGO3rWDa/eFbqqsmlXCugkbZhOcEEkdPyoAS1WGPSmuBFK12SyxkqAowmcj1OOfpVA3dzLcyzzhh5gJOFIHToPrU9hcb9Rto8lljhnPJ4z5T9u1ZdqxMLJufPykYfgc+nept1Kv0N2Owkj0JJpcASuWQd8dM1hT4INb098Z9MtkdwxjTZhegx0/SuenPvVEj7SaKIsZYfMBGB85XBz1rROrxLbvD9j/dt/01OfzxVO3kt1tkPntG+HWVduS2R8pHGD6EcUxpbIg/I4PBHt8uCPzwRQMkivoorvz44dn7uRD85bJZCuefrVZJkEe35R8pB96miureK73qrKPMBDDgKuRnj6ZqYajCSwZpOeMgZ7Dn880gIBd5iEeRgDpmoJTuGc1fOoQbSuJO+1xww9MjOD6H/wCtUF3epLGyKW5bPtjHT86YH//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Voice of Earth</tspan></p><p
+          ><tspan template-id="title">Game of Thrones (Music From the HBO Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">alan</tspan></p><div
+          ><tspan template-id="artist">Ramin Djawadi</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
