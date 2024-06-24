@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGIlFXYYG6gdxVeBehrdtmWC2MpXpjBx3oA2zbq1zNvJ2lBzkAHAxn6c5qC405Eurrn5BE+wDHOScc/Tms1r03kjl2dGOQFBz1HT36dKTJhGN5Yq33U55GMD68mp6D63M25jjTaGiJIAz85/wAKzpvLx8sRU+u7Nbt3IlzAJwoUnjaO1Ysy4BzVCH2wLECt6aIRaWkvnIg3gNlsHGO3rWDa/eFbqqsmlXCugkbZhOcEEkdPyoAS1WGPSmuBFK12SyxkqAowmcj1OOfpVA3dzLcyzzhh5gJOFIHToPrU9hcb9Rto8lljhnPJ4z5T9u1ZdqxMLJufPykYfgc+nept1Kv0N2Owkj0JJpcASuWQd8dM1hT4INb098Z9MtkdwxjTZhegx0/SuenPvVEj7SaKIsZYfMBGB85XBz1rROrxLbvD9j/dt/01OfzxVO3kt1tkPntG+HWVduS2R8pHGD6EcUxpbIg/I4PBHt8uCPzwRQMkivoorvz44dn7uRD85bJZCuefrVZJkEe35R8pB96miureK73qrKPMBDDgKuRnj6ZqYajCSwZpOeMgZ7Dn880gIBd5iEeRgDpmoJTuGc1fOoQbSuJO+1xww9MjOD6H/wCtUF3epLGyKW5bPtjHT86YH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFo0yRVlVpirgVOi1RQ9NscbOwJCjPFammLa31tuiLLIrc7uSKs/D/Sf+Ek8ZR2Eu9bZUM0xU4+QdvqSQM/WvoC58GeHTp/ltZWtvEi8OoCbffNZSnZ2NIxXU8HuNPiWHed6EDIYYKn64rKiuIpZTbqQJR/Cep+ldPr1v8A2Nf3FlBdR3NuymS3mjO5SO4yO/rXnV3K63AmQhHRtw9m9PoacWE1YvQ2k0sYdEG0nAJOKn+ySxBi6YAwD+NVFdgAOwGB7c5z9atJKWXafbHJ4rQzL3hhdRGp6vDplm9zcPbooCsRsXeuW464r3u08O3d14Gi0q/lk81zkGVtzAYGFJ785ryr4Y36ad41YsBi7tjDk/3gQw/MA16bLqmnweJ2kufEckag5+yKcqOBkHg8fyNctT4rHTTTa0OA13wPrPh+0tpb68jlsBOsCrn7rO2AQOwx1rzHxbZnTNduLTIIznivof4l3iX3gO6ntpBNHEYrhHXoQjg5/LNeJ+KbK0vrvUL2S+gSeJkZI2b5pVYdFHfHFOMtRSi3F33I4tAkdQVmU59x/jU66BKrAeaufqv+NZEeq3iYxOw5zwMVYTWb4dLlxn0NdJzmivm6RqEM0ThpYisikEdQenH0r2LRdSsL+Bb2HUzBGxy0UagfN3DY714jDJNezxoFaWVvlVUXJPsAK9Ss/AN3beGYC0v2bUzlzt5UZOQrgdSPUVz1431W5vRnbR7F7xXrtrJp09lGWm8+MxnIxuBGK8S1HR54tTELnzGSJdvuOgr1G18Nav5uy6ezT/pp5jN+mM1Z1XwBHJFLdWsk1zfMihfMGxAV5AUdcnkcnvWNJtS1NavK42R//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Game of Thrones (Music From the HBO Series)</tspan></p><p
+          ><tspan template-id="title">1944</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Ramin Djawadi</tspan></p><div
+          ><tspan template-id="artist">Jamala</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
