@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNaKKK9Y8UKKKKACiiigAqW1t3vLuG2ix5kziNdxwMk4Gaip0cjxSLIjFXU5BHY0AaLeHtXVlX+z5izYwAAevT9eKP+Ed1gYH9nzZJ2jp1zjHWmSa5qku3ffTnaoUYcjgDApx1/VWRlN9NtbkgORk+v17Z96n3i/cK6zaelhNBcBo7suMS7N2xBnPHr/hVKIkx/M245IJxjvWmZraTSbwuc385OWbnPzA5/n35rNTdsG85buaNeYLpw07jqKegjOd7FemMDOaeFgyP3jY4z8n09/r+XvVE2IaKkCxd3P8P8J79fy/WlKwYOJGz2+T2+v0oCxFRUu2DJ/eNxnHydeuO/0/P2priMH5GLdeox9KAsf//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDIQJJFSSYRIc5cgkD8BzRNHJGVMkJi3KGUFSMj1GfWmlGXrXp3hy30jxL4Pml1NN+qWYaOGZ32ZGBhWI+9wSee4rGtV9klJ7G1Gl7V8q3OC03Q73VButfKA8xY8yShME5wee3HWtG58NX1ha5u2gLlCypHJvcEdQcdK1IvDbR6ibCaBJpHwiuoDKB1zk9OPxFaOvaf9js1hgaNnVj5rqOcdfxxyOKwnibtRid1HCKKcpM89ltZULEoRt6j0qMMo4K1pX1hd286NOVIfBXy2DcH7vH4Gst1ZD8wwckYPUV1wldHn1IpPQfJIHPAxXW/Da2F74utbIxu4uHVMKehGSCfYYz+FclFEZDgda3/AAxrEvhTXrfVPJ83y8gqGwSCCDg+uCamtHmg0iqE+SopbHqK6TfS6nqSWmmXMVrJIsdpe3CCMQlkC7l3Eblz1A5xz1GDg6vYDw14qi/tPXreL7H5amKKKSeSddgzkABfnOTye47itzTZU8Wx/btPZpoFk3m3m6wTAFlbduyMnPtnOKw9esEs0tl1mezWeB1niKXQYQ/NkxYyTjqSOx+tedSmlJqS16no1oykk4S9DB+I9laWviYPpyypbS2sEjxMMCFmQHYPoMdeQSawNVu9Nl0ixhs1kNwpYztIc7fQD2qfVPEz6jaXNtLH5rSzeaJ3PzA9K56vQpxdlfSx5lRq+juSQrK24xqTgZOOwpTPIQckkVoafGqT/PnYykGnfZImkJQHbnhcjpWt9SbaXNu08B+JWt7hrWWARrtWYJdlQNwDAN2/P+ozNcfD+/uLeP8AshPPUwrM3mny2Y9MqDzg4LAHkDrUVs94YcLeSxjcXC9snqcDv05p0l7qsUTA3s7OSfn8wliDjPJpXQrM4x0aN2R1KspwQRgg00YJ5rUuIPOmeV95d2LMSepPJNVHtiDwOPeqEf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pure Live @P3 (Reissued-2012)</tspan></p><p
+          ><tspan template-id="title">Slava! Pieśni Słowian Zachodnich</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nemesea</tspan></p><div
+          ><tspan template-id="artist">Percival</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
