@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOJuITIuUI4xn8SBWHLp7ESPwiLuBc/3gentXXwWTS2F0FHzlBgjnGDk/wAq47WI5bdnXeWDMSCOh55r169t30MaXwmJO0iMY2fcF4HNNRFa1mcn5lK4H1onSSNUZ1wHGRU1kPND26LnzF3Ox/hVef6V5m8rGjdkWNJIkzH9nkkIGSQ/9MVdmVY12m3eNjyCXz/SqWmyi3jGBKr5y2JMBvbFXri8imUhhLuzld8uQPwxW0Ph1MpXvsd1p9wsNnL5m4hhs+lctrkYj1AwQZeIlWDBRnB612qadu8LySqC8vmFmx/CF46VwepvIZ3aJti7Rk4zntXoVWmnYVO6SMvVrixucrb+ZEsa7UVxli2ec46fWnWyw2egzyjJublfLyP4UJGce5xWe0fnTvukjBxksc1cQf6LCmD8uN2R0JycV5t3KTbLkrKxHChSDvuJ3H+lVLlzvIyQf8//AFq1eNtY8+RJnJweRn60qisrCg7s9j0XU/Ina2c/JIdy/wC9/wDq/lWV4t0xbaM6hYlVz/rI8cfUVQuZ2h2Sp95CGH4VPrGpxzaaZZGIh2BsA8sT0WvVqRV27mcZNU0jghBcSys628jY5JCEj0yT6VsnybPREaW3llxLvLAEB3IxyfQcVlrrt3EI1jWFBGcxgKflJzk9e+TnP6Vck8QXN7o0lpPN83Gfk5IGMH6+v0ryoyilJdzZKbmnZadytcSymRVS1cEr8wCng1UljQtIWgli2pjDZ5f8Rx34rXWfUryGK4RwyopJZ0AGcg4A6noOfc1jyXkrxx28gRY4mYqoH3c9aUlZaheUpXaS9D//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APElPHvVmLLADqfQVWUVraEWj1zT3QZZbqIge4cUARiGcf8ALCX/AL4P+FMMU/Ty5P8Avg19KvJq+pyO0jTRISeFPTmrtl4fQSI8plds87iOTmgD5Tk3ZOcgj1pi5bIHWtrxLAIvEmqIOi3kw/8AHzWNyhyODQAKAD1Fbvh0Z13TC2fLW7iJIH+2KwEIzyePatnStQt7JfnVmYOrjA7ggg/higD6ujFsq5QRAtns3qacXjCgBodxI2kocZ7V5rafGHQVtYlmTVPMUfMVRCCfxarQ+MvhzI/c6rwR/wAs0/8AiqAPH/FdpMmvalcPHJ5b3sy+ZsIQsHOQD0Nc4wFeneJvFnhrVvA/9mW0N2dQ+3PdK0kYAUs7FmznqQcY/wAK8ydcUARhzn/Up+RqVXP/ADxT8jUQv7j++PyFSLqNxn/WHH0FAG1a6ykEKodE0+UqPvOjEn9atDXU7+HtM/79P/8AFViQaxe28qSw3DI6nIYAZBroV+I3ivHOtXByMfdX/D3oAj/t5AOfDmlf9+n/APiqzNQvhdy7xptpb/7MKMB+prcPxI8VsP8AkMz57/In/wAT7mkb4i+KmBzrEpz1/dR//E+5oA//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">John Wick: Chapter 2 (Original Motion Picture Soundtrack)</tspan></p><p
+          ><tspan template-id="title">Love Language (Acoustic) - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Tyler Bates &amp; Joel J. Richard</tspan></p><div
+          ><tspan template-id="artist">Connor Price</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
