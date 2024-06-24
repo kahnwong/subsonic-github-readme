@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEKACTgUVLCMsSaAFEI7t+VNeLAyDkVYwDSMMDigCpRSsMMaSgAqSH7xqOnIcNQBbzx70KryEKiszH+FRkn8KYDlfejeyNuRipHQqcGgBr2dz5m37NNu5OPLOeOvaoZI5Im2yIyN1wykH9ake5nLhjPLkdDvORUbu8hy7sx9WOaAG0UUUATxyetI75qEHFKTmgAJyaSiigD/9k="
+          src="data:image/jpeg;base64,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"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Parmak İzi</tspan></p><p
+          ><tspan template-id="title">Ceremonials (Deluxe Version)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Şebnem Ferah</tspan></p><div
+          ><tspan template-id="artist">Florence + the Machine</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
