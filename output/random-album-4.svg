@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHooXmcIgyx6DIFSQ2rytH8rbHbaCB3/wAkU6zcRXEbvnaCc457GrUVwEhhQZykhZvp8v8AgaYhp03b5mfN/dHD4T7vOPX1oOnkbD+8/efNH8n3lx161ZiuV2X4O7M+NnHo+7mp3v42FgTGxNtCY2OOvXH160wMx7GXakiqTHI21GPGTVW4t2gkKSKVbGcGth7uNrG1jCkNHJubjIxVbW7qC+1SW4tlKxNgKGGOgxSAopgCtp7SGxsYTN813OvmBe0aHpn3PX6YrGiwzoD0LAGtnXHLa7eFuAsm0D0A4H6CmBVU4yOKXPAIPOaji3SuoUFnkYBVHU54AHvSS5V2U5Voz8y+hHUUwLiW63ttP5bYuI13hMffUfex7gc/nWLJx3rZ0mRk1q1IHDSBeO4Jwf0JrInjCzOo6BiB9M0gGq2K3NSQ6japqUXO9RHcAfwSAYyfZsZ/OufHXNXbHUZ7GQtCwww2urDKuPQjuKAC3vpLW7jnULuj4AYZHTH9aW6v5Lu7e4cIGcAYUYHTH8hUF7PHNdNJFCIVYA+WpJAPfGe1JZTRx3aSSwiZEO7yyxAP1xQBu6TAbS2OoTYVYgRCD1eUjjH0zk/hWPNgKeatXmozXjh5CoCjCIowqD0A7VnTS+9ID//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APM4LOy+zo04n3nOdi8D/P8AWpls7LDDy5S4znGdue2O/wCdSrE4GBnFPEUnON3PWvY9jI8728Bq2mnFQWimXkZ5JGM9ufpUCWdo0wEiSBAv/LPJLNk+vtirggmP96g28o55p+xkL6xAz5bS0CkLDJ5hU4+YgZ9QDz+fpWa9m6DJQge9dbbaLPdxmXkIvG496zrm1aN2jbPFL2MgWJpt8p2KaIMfdqUaKP7tbCX6f8JEdJ+ztgWouPO/h+9jFL4g1D+xtFmvorczvGVAQe7AVyPFs6Fg0ZS6QB/DQ2kjH3a6VQjqjY27gDj0zWXo2pJrFlJceS0W2d4gGHUKetL60x/VEQRL9nsRAqcjNYV3phlkLFeTXQx3wm1670027KsEEcolzw24niqr3hPiVtLNuRF9lE6zep3YIqo4uxDwZy9v4qvzbz3jIzXYkdVYRjAUEALjPOO9aH/CT3N1otqbq1kDyQb5JAVA3hThsE+uDj2rzkXcpm37+cY/ClmuJnj2vIxB9TXG8JfXm/r7ztWLS05T0Gx8UXn2dgwkcK2xB8i4TamD1yf4j+PtWTD4r1GHS7lbYfvgr7DhcK28BeM84QD61zAaXb99wPQUyNDtJLsASelUsIusmQ8W+iR1s/iq9CyyxKFvDv7qcr8m3j06j9abL4quP3T4P2vEg35GSob5cjp0yPxzXKKkfmEtL/Dwc01kh85QJNw28mn9VX8zD60+yP/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Titanium</tspan></p><p
+          ><tspan template-id="title">In A World Like This (Deluxe Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Phantom Elite</tspan></p><div
+          ><tspan template-id="artist">Backstreet Boys</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
