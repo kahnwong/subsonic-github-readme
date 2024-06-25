@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AMC11RlIHT6Gtm21sqwHm8fWvPoLvJ2N97FXorjkZbFezCs0rHh1KKkev6T4klhACnerCtzUtdkGlvMvEh+WNf7zngD/AD2BrybSLwhlIYsM9K9C0+x/tyNJYQfJhwq5ODlsb2x644H1NcOY4yNGHMlqbZbgHUq+98JX1rWryETxvOXaKUxuc9cd/wARiuPn1m4kY4kIB963/GVn9j1K787cgnJcNngkEj9RivNrub7PKweQKvqTRl2NdSgjfHYNU6t0t9Tl7h23rJG5GR29qm+2v5aN0ycEelU8gKAT0o3AgCk5MpRTOs0OeaSULAru2eigmvU9L1LxJosIm/sqQxcA/u93PvjmvG9G1Bre8QbynIGCTXvHh7XrebR0gnnWaN1IIfCshx1PrXlY6E5O9rnfhJxjoefeJ/Gcmp3LNPGivnBwuCMVwGq3fnvuOCB610Xi+KFtUnaDOCxIOc5rjZTuuAjByx6CurDL2cLLQjEP2kjOaUMB1JHc1oWkck6rsjZ2JIXAzkjn+VZiLnHFSLJJHjBYAHIAJFbJ2MpK+hqxCQOsgjb5SCxxwBnGfz4rr7C9uGQIFcKMjJHcda4CO4dOQW6Y+9WhbahLH+9DNkkg/MeQetDaaJUWma/iSV44nj8tgpHJPv0/lXFu7buGIHpmtjVb0yHklg3qTWKSST1xUyt0NIX6n//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP67jwPrAtrgQSNhWrh6mt7h7eUOhwQa3PAwtd0Kimj6FRw6Bgcg06uC8LeLBOEt7huegJru0cOoYHINbKVz7KhXhWjzRFqO4kWKFnY8AVLXM+LtTFnp7IGwzU27K5VWapwcmeMUUUVgfBE1tcPbyq6HBBr1Lwt4pjuIFgncBhxk15PUsNxJAwaNiD7U07bHbg8bLDSv0Pfpr6CKEyGRcAeteS+LtaOoXjKjZQHArKk169ki8tpWx9azXcuxLHJpylc7Mdmft4ckNC4mlXb9Im/KpBod6f+WLflXt6abaoOIV/KpPsUA/5Zr+VPkZ1rJIdZHg8ul3UIy0TD8KpspU4IxXvtxpNpcRlWiXn2rzzxT4TNrungX5Pak4tHJisplSjzQdzhKKcyFGKkcim1J4x//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Manifest (Bonus Version)</tspan></p><p
+          ><tspan template-id="title">The hills - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Amaranthe</tspan></p><div
+          ><tspan template-id="artist">Alexandra Streliski</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
