@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APbtWP8AxKLz/ri38q8d8Svus4PaX+hr1/VT/wASi8/64P8AyrxfX5AbSLnpKP5GumicuIJdPkxGBVfxY27QG/66x/8AoVR2EvyDmk8Ttu0CT/rpH/6FXRHdHLN+4zV05vnt/wDeX+Yr0Gy/4/If98V51px/e24/21/mK9Dssi9hz/fFFYeEehP4ovo7XRj5kxjEsiwgDOXZsgAY98E+wNeTW+nW/iOwN5DcbLlD5YZs43LnKnnHvnHpXa/EC9tIf7Ihu2ZVed5I2HQSIuVzyOOSOa8I0XXbux1eGCC6kNq8qyeTuwkjDHUe5A/KsIRtqdVR82h6DZaDeam93axF7IW0vlSN5uSpDquc4OVOc/QisvURJaHULK+traN47mMymJ93mHeQCec4KgEHjgivSvBUA1OHU7lihlmud24ggoRwV656AHPXJ9q4/wAfSKNH33A33ETxBmPVs5BYnvgr3pxbv6EyS5dOpc0HQXu7a0ubORjFdTtEqGYjy1BOMDqMAEk9eldD4NgawnmsXSWNoL3YVkkLknapJBPYnJxXL+EPE+mafZeHdPiDSXxYTzYGduZGU8+6sOPpXY2en6zZeKprvVbi1dby5i8qK3DYi2jbzu7nANLXZ+Y4pK7Xkct8bGCWekMwJCyykj1GErzTw/4UXWoHvkuWguLe7AVQucYIbP1Of0r6V1/whpHiWOFNTgeTyc7CrlcZxn+QqPSPBmiaCsv9n2QUudzFm3EnGO9HtI8tinTlzNnP+DbNtMs7oyiTzppBI7kffIUDPHfiqGt+GbrW7m4imRY7N8xsBjMi7ywOevevRRCF6W7fmv8AjQYuB/o7nOcjK8frUqok7lez0seU6b4Bn0nWFurWWERJuVN+WZVKoB25wU/WqXgLxD4i8V+MzJqk2+wsU2p5UIjiMpdfTq2M/QGvZfsiMASuD6elYum+CtM0rV7nUbdrnfcSea0TSkxh/wC8F9fc5p+0TF7Np6H/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDWPPNNJpSCc0KjOwVQSTwAO9WMTNGasx2U0koiRS75xheeaWbT7mByjxsrDqCOar2crXsK6K2TQDTzBJx8p56cUmxh2qbNDLCQxZ+aUVu2Fgvl3EgVN0cW4HOM5IHA+ma50TlSCy7sdjWtpusWlrPvmtWkUrhl8zH9K66M4J6mc1J7HqHw48Prfys0cRTPytLtB2E9D9MZqPxZ4YumvdqbEWGUooyC0g9ePyrG8L+N76DVLeGGBUtTIMtEPmYehI5pdU8ZTXGqz3Fw0kcCykrEeC3oB3rqUru/Qwsc7q2hm1uJ4Xcr5cgAHPX0/Wsg6fLC58sBuSBuwB/OptU12e8nkZ5Ad7l2QD5R6Cso3khYHjIOeea5p1Kd9dzaMZFc0lKasRXUccSxvaQOQxJdlJY5xwecYH9a4zUhjlkibdG7I3qrEH9KGmkZtzMxb+8SSasm8gLhvsVuByMBTg8/WlN5AxY/YbdcnjCnj/x6j5gUvrRU1zPHMV8u2ihCjB8vPze5yTUIpAf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Ignite</tspan></p><p
+          ><tspan template-id="title">Stand My Ground</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">和楽器バンド</tspan></p><div
+          ><tspan template-id="artist">Within Temptation</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
