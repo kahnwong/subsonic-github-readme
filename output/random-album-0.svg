@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNpZQQqqu1lzubcTu5447Y6VEZG7saH/wBYfrUGRLMibsKWAz/Wvbuoq59JfQeZgOjE0q3PPJNaK6LEwQlplJbGGA6Z5P5UsmiRCTYs0hOOm0DB56/lj8a5fr1LuLUprKSAQ3HrUyT4VgV3OSNrbiNvrx3zWfIVtbqREZmjViORgkeuKtDBxiuqMlONxqVzTm8J68zNs05znpiRD/7NVdPB3iGRwqaZKzdgrKT/ADq3P4u10hlGoNheg8qPj/x2q6eM/EMTBo9SZG9VijB/9BryX/adtOT/AMmMPfsRP4U8RKxB0+YEHBHmLnPTHWhfCfiIvtOnT7iduN65Pt19albxn4jc7f7Sc7jk4ijyT/3z1o/4S/xFE+DqDq4OeYIwQf8Avmp/4Uu0P/Jv8ibTuMk8IeIUciXS5w/U7iuf51Yt/C2vpsVtMn9MZX/GmN428ROSX1N2JGCTFGSR/wB81Zt/F2ubUY3iknnm3jP/ALLVw/tPtD/yb/I0ip3MFhiQmojGiOCwYx+3X6VblRFVSrlnOdy7cbeeOe9R5x2r1Ek0aWVh9q1t5nyxkOOVLP39sd6ddtbGXMiMznkssmT+Oar7IyehH0NAjjHJyfqay9j73NcY3y45HHlhwvfcc1aQciogR0HSrEXllWLSYcY2rtzu9ee2K3Vooasf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APGktSY9+QKaiEnityzsPNlCsp2L1JHau1t/DmlXVoUjVYyQPnx0/CqJucFZWD3Eiqq5ruNI063t0VHjZm74FaGmeFLa1YMZfNI6Y4Fdlp0cEBfzLaKTI4yOlD0FcxfsdmsPFmDkck1XudHimhzHGBgV6HYwwtFhoImTqBtB206XS45txVVx9MVPNcdjwNZ9MgYk3kkq9CY4Dg/Qk1rWutaYIm2/bNqjj5VXP61zMt1azjygqK/Y9Bn2pUeO+uBFaKzKAMgjGMf/AF/6VDmylE9O0O+0q6CiTUTDKBlkCllHtuwBn2rq0trPO9LtpEH8fljH868Tj1C80wDZuO08pKvH5eldr4a8Yfbz5N0kFuxXdGwfar4OCvPf296ak3uJqx6dYvDghCXx1wta8PlLEd3FcLaeJ47ON1VI426kFgM/Xmrq+MiYC22N2zjCrkfmaL9wPm+CaIIQRuBHKmpLCYRTyRyb0Aw6EEg+n+FZ0UypJhBuPXDLVw6grXcchiVcRlDnv3oauUjrLdIL+EfapZHf7vmA52+g9KfO9tpdi0FpCryZyJnJbGe4B4B4rA0/WDZO2+JZA642qdpJ7c9q2DqWn3EKiUtHKQR6qoxx0yevtU8tkD1Oe+1TPcHzZDlifncscH145rqdMu9HsbmMR6zdlCMSLNDt545GCffjrWTeLoqgKZmcEHmOXBPP0449azpba1Yubdmz1XMmTQB//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Colorful Sensibility</tspan></p><p
+          ><tspan template-id="title">Erosion</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">FTIsland</tspan></p><div
+          ><tspan template-id="artist">Cydemind</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
