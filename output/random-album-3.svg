@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AODoopDkdBmgBaKTLf3f1oyf7v60ALRSAk9Vx+NLQAVi6xDNAFnt7i5G4kGNWJGcdfatqk3j+8PzoA5eLWLqziMbMZWZd2ZQQUb0560k+rX93bIse1CDktE3zN+HpXR3MEN3A0UoVgRwT1HuKLWCGzgWKLAAHJ7k+poAytFiuZ1eW6nuDtbARnIz71uUm8f3h+dLQAUmF/urS0HPagAwv9xaML/cWk59qOfagBcLj7q0UDPeigD/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APeGu7aN9j3ESv8A3S4Bo+2WxOBcRZzjG8daf5ceS2xcnknb1pfLjH8C/lQB4l8XPiX4j8OeJU0nRpo7SKOFJXl8oOzs2ePmyAOPSvR/h94ln8WeCrDV7qONLmUOkoj+7uVipIHbOM496zfGvhWw8V2lxdJaJPfW4MMTBFJyOcZPua4zRbHxd4It5Nj+Vay3eUhkwY1XbyB6ZOOmMkUDPbKTHNZegaymtaaJ9nlTKdk0Wc7W9vY9RWp3oEOHSmSv5cTPjOBmnA8VXvLu2tIN9zKsaMwjBJ6sxwAPfNAEGjqTpyzOAJJ2aVx6Enp+HA/Cub8ZTyfb9PE2Bp0MySXBYgKOeM56/SvMPiL8QNR0vxU9hp+oXNvbQLsWKBtmw9yf72QQRnp2rC1HxU2oaBo+nebdM0cjz3TXIZi7no25uoA6UDPS08VWMXiVW0Fnu1LBWjhQncueQcZ6djXqZ6V578H9NvrHwhJdXg2R31wbi3jxjbGQAD/wLGf/ANdegbwTQIDn/a/MCvKfi5Brl0LWHTrO8uYcfKIFLgPnnOOhxivVWxuzkZ9DXm3jNdS+2TXi35ggjfy9rZ2nuMAHmgDxW48G63BcQalrP33uEDW7S+bM4yPvYJCjtya9B1/wlqOvePvtKotxpccsPmpISuyEKD5SjuMZ/M1seDY31DXTLcyx3X2aJny/J54GAR6muzsLW3u72e7DKwDFBGCCFx3ODn2FAyR764VQqw+WOgALAAdh7VcsriaRvnx/32f60C1hTo8/03VZhgjEgcGbOc4J+WgVz//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]</tspan></p><p
+          ><tspan template-id="title">Время-Река (Time-River)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Hans Zimmer &amp; James Newton Howard</tspan></p><div
+          ><tspan template-id="artist">Дима Билан</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
