@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEY7meJuWJ96dJezknaxXPcVAswPAOPrUowTgjFQpcu6O2VP2usZX9f8yHL53bjn1q1HdSNyGKyj8mpUtd/3SDn9anFl0Rhsb+Emh2eqFBThenNaf1qaWn65dQECUB0/WunstYhmXPmhR71xscLpIEmG0noexqdomhOVJz7VUXczqU3B23RzbRkdqekkiLjhgOgPapg6HkGg7fatJRTMYTcXeLFhuCD0xWqt350OyQBgOh7isfnOFBJ9hmo/MkjY4JU9xisZUv5Tsp4vpUV/PqjXS9khG11E0J7en09KupepNEMNlfXv+NYC3WVIkGD2Yf1FTW8kTkhSUk9B0b6UleO6LklW0jLX7v6f5maGx3ra0RtJkLx6jFM0pOYzGC27pxgEY6Hn39qxniZD0plbnnHYRNYxTwtDpLIylwJGMuRlF2k7XyfmL5x2A/GR10O4jndrK7mvXXDSSMxAcLHk+uCRJjOe3auLopWBm1rsmlm+nGm2pghJASJ9xdMdcknqev0NZKgseBRHEXPoK0Le3AGe1NIHI//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AK0aZxWxbaFf3EZkjgO0dycZrKgfa6k9jXd6YJ7myXyZwgHOa2qzcFc3SuYA8PXW35nhDf3d3/1qrPpkykj5T+NauoZhLf6ZcXE464k7/QCuavNSvVco5lUdMOeT+grn+sM2VK4ssRQkEc1WdKsRyNKmWNRuK6oyurmUlZ2CNeK6XTptUltDDp8cW4rgPIMhfeudj6VrWOoywAxodoI2/KMn+dRiI80NC6T94dcw3OiAPd3SteyNnZH/AAj1Nc3qsks959oZ5HTjG4Y/CuuktG1GZGILMcKCxGT/AErQm8EpKiyXFy8akBdsRB4xzz6V5kFKTskd86kKavJ6nF2vNvk9fSkkrY1HR4tMVVt3kdDknfgkVkSV60FaKR5zkpO6HR9KvWED3N2iISD1JFZ6HoBXc+D9MkXM7xgZ5y36VZjUnyK5u6fpkNrbo0oBfb1PJH0q3cDMZYDjG1VxgY/GrDpIrYUo7dD0wKq3SyfMZHBKjseBWLaSujlk5Tkr3ZxmsP5lzIuAeMZ6YrlbhSjkflXQ3h3zSEg5JJ5rBviPMwKIN3PRio8isf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Witcher 2: Assassins of Kings (Original Video Game Soundtrack) [Enhanced Edition]</tspan></p><p
+          ><tspan template-id="title">Acı - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Adam Skorupa &amp; Krzysztof Wierzynkiewicz</tspan></p><div
+          ><tspan template-id="artist">Sıla</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
