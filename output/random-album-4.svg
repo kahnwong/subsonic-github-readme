@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AGbqN1Q76TfUHlWLUTfPWjHNgVlRdeDmri8Dk4rKorndhW0i95uRVa5kypqMSe9RTyZHWs4x1O2rNumzH8ylWTP1qr5tL5xFdljyLGnBKBjrnPFXd4ZScnPesq3lJ27ulXPMODg8dvrWNQ7sPHQlZ8Gq88lIZSe9VZ5KmK1OisvcMvf70obPeqof3pd9dR5tjZ0+L7QzDzCCvOMZ/rVyVPI25cknnGMVlWlxOFVVlcKOgB6Vf82aRcPIzD3Nc1Rq56eGptx0E3Cq07c1K1Up32tRB3ZtiabjDU//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACwAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APahpaMOQPyoOkRnsPyrUApcVmosZhXGmQW8DzSlVjjUszEdAOtfMnjGS6vvEU8aO5h3FlbbjcuTtx7YNfWF9bm7sLi2DbTLEyA+mQRXzf4kszJrdw6DasR2A5J+4NpGO/TNRJuLNacFNHmz6NeJJjyWJJ4GOtfQ3wu0a5j8F24uQVYTybV/ujPT881y3hPTJdQ1bSWtoJnDkSN5gARQDg88+le72em29haJbW6bI0JI+pJJP4kmlGbkKpTUHoXaKiuZhBCW/i6KPU15zrOlXz3b3ZvJjI2cYdh34FdBlc6zXfE1vplnOYkkmmRT8qDG09MnPpxn2rxPW7me7jnaRvJaZRI2xR+9J4b9ece9dQbe9mdWu7iaQAYYO3OPrXF+JJ7vSpVsnTzIkyYZHH3gecH3Fc9RNtHTQcb2PRfh/qWkaS5tNQurWC62KsGRsQKeSoY8ZyfbNeoghgCCCD3FfHlxcS3LNIXd3Y/OWOc19EeAdQ1efRbH+0ppHkKszNIQSy9s/TIH1pwfKrCrx15jb1fWViuJ4GtZX+zrvXb0kOzcRn+HA7ntmpX1Kxis2meEtlpPkyCQVBJx6dP1rj/GOq32leMQbK5eJZLdDInVX5I5B4PFbOh6lLqepXC3EUGREnzJGFY5znJHJ6Dir51zcpDotQ5zO1O5tizKyNH+8KYJHYDJ+gyKydStrfUdPjt7qwWTDtCVZ+SVGcgryCPX3rvZ7SKeZ2cHJ4JzyR7nvUZ0mzlGJIQwByAR39aZieSaX4V0K11CO8kjvp1Qqfs8jrwxPAzgZHvjP41694c2zWskrWyxksB8hUx4HQJj+EdPc5NL/Y1izIxt03IMKdoyB7VpafawWtqqwxImeu1QM/XFJLUpyb3P/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Weightless (Ambient Transmission Vol. 2)</tspan></p><p
+          ><tspan template-id="title">Hayat Sana Güzel - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Marconi Union</tspan></p><div
+          ><tspan template-id="artist">Murat Boz</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
