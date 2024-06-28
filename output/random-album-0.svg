@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHooXmcIgyx6DIFSQ2rytH8rbHbaCB3/wAkU6zcRXEbvnaCc457GrUVwEhhQZykhZvp8v8AgaYhp03b5mfN/dHD4T7vOPX1oOnkbD+8/efNH8n3lx161ZiuV2X4O7M+NnHo+7mp3v42FgTGxNtCY2OOvXH160wMx7GXakiqTHI21GPGTVW4t2gkKSKVbGcGth7uNrG1jCkNHJubjIxVbW7qC+1SW4tlKxNgKGGOgxSAopgCtp7SGxsYTN813OvmBe0aHpn3PX6YrGiwzoD0LAGtnXHLa7eFuAsm0D0A4H6CmBVU4yOKXPAIPOaji3SuoUFnkYBVHU54AHvSS5V2U5Voz8y+hHUUwLiW63ttP5bYuI13hMffUfex7gc/nWLJx3rZ0mRk1q1IHDSBeO4Jwf0JrInjCzOo6BiB9M0gGq2K3NSQ6japqUXO9RHcAfwSAYyfZsZ/OufHXNXbHUZ7GQtCwww2urDKuPQjuKAC3vpLW7jnULuj4AYZHTH9aW6v5Lu7e4cIGcAYUYHTH8hUF7PHNdNJFCIVYA+WpJAPfGe1JZTRx3aSSwiZEO7yyxAP1xQBu6TAbS2OoTYVYgRCD1eUjjH0zk/hWPNgKeatXmozXjh5CoCjCIowqD0A7VnTS+9ID//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6qvfWiXK2z3UazMeE3DJpdQlkg065li/1iRsV+uK881PTpWsmnZmNwRvBzyTjP6Um0ilFs9GkdIUaSWfy0XqzMAB+JpI5op0EsM6yR/3kYEfnXl3ix9SvdXhspp3VBDEQmTgsVGTj1zmpNDtdbhiv7KCKRIrm2cIW4yw6Y9yMik5aj5NLnWSePNChuRD9olfJILhDgY/pXTI6yRq6MGVhkEdxXksnhlG07IhZbpQWZ3buP4cV6H4UD/8ACMWO+QyHy+p7e34UKVwlGxoXSpdW0tvnh1Kk+ma5dXtYdW/4mc0cUVuu7c74UnjGc11aKNuema8j8SWV3qtzcaiQzIZGCj+6qnAptJhFvVI7bxLp1vq0dvqFtOm+3beJUIYFPw6jOP1qXRr21NxJLcTpE6gDa7AL9QTXAeDdTl0y6utOm3fZ5omcKeArDr+Y/lWHrMk0+sTxtIxSJyiL2A+lS4+9cafu2PXr2zivdUjNtJ+5kG+ZlOVI9vrW1aCKCJYYkCRj7oAwBXm/guxv9LuTMzt5EybTGxP1B/p+Neg28nmIQeopq3QmV9maAGFArmpohbz3NvFFtjV94Y9Pm5I/Ouk3DaDmql5bi4jVVYplwSR6USV0EXZnnXiDQNSuNTTV4Ig1sq7GCn5lAHXHcVANCF7qEEkVuZBKP3pHYj+KvUBtRQi4CqMAVXtbW2trmR4kCmQ7j7H2prRWBy1uZNvauDCkgO5e/rWrbRlS/wBKfOxV9/l5AOBinwucAGMjPU5HFSlYHK5//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Titanium</tspan></p><p
+          ><tspan template-id="title">どうして君を好きになってしまったんだろう？ - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Phantom Elite</tspan></p><div
+          ><tspan template-id="artist">東方神起</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
