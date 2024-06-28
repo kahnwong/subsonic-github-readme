@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHY2B71fs5YkdncL5ajJLDP6Vl24DsMnvWn9nRreSNVyxHAz1NYS7HsQva5Xe9nvLt543ZPQFun1xWg+oXJ2CWUNnnb12tjpXReDPA9lqMSz3U8/mFQdiEYXNbmreCNJ0iwupkV5pHQ7BKw4PtUqrFOyOadObu2eczTYLDAyeeKrmQf5NSXKlTkcLkbeetUS59eld0Tz5EdoVI/2u9dp4f8NXWvMGtMKsWMvjJzjOAO5rjdLsLu7fdDH+75BdjhcgE4+uAa7rRvEcum6BqenxwRNCbR0MiyHcHcYLAjoa5Jxl0PUpVFyanYaRYW8VqZTAEv7ddhx8pUjg1H43tLYWAlWHdd3E3lo+ffjnsKyvDi3k+qXUl0xUSxxF8PlWlVQrEHsCADVbxprsFsbc2F0ktxbXCSkD94qc9T2P0965YXVSy1NK1nC70MK8ttKS0UCWWV+N0yp8ue4wfT1wP61zNyohlKMcDPp0rUhuPt0+pR+ckiq7SRSRqVULnsD0HP1rGuopIhiViVHyhj69f8ivTi9DyZbl6OYzpb2sO9bdR823jnt+v/ANbFas0a2Fkgl+YSuDKVJJdeMjnkf/WqvpGlyXl1b28LK3OD2D+pPoBWrLbNd37l/LMUeYUKn5SRgnH55rKMXKVj0kko3Z0Ft4QvpbNJo5XlhuYmmtxvwrrnA4z7jIPTmuX1LwncNeW9jFIqyScESSICQQTng4wdp/T2rpIPFN7ZW8ujQyRzQODuRwXETE5GwDktnnH8qoapaakdMgmF09pbQ4cKZWB3cgkAHhjnkDvkUnT5NDOd5u7ZzT+Ftctr3ENm4yrsArgcJjPXnkkbR1ORitGXQdTsNNe/uFtjB5hjdvOVwzA4KgY5IIOf61Fd6zf2llMgvbqNwuAGuGLZPIyc9eOlUdL8QXl282n3d9cFLlcBpJ2IDdRnPbtVJnNKNnZn/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APdaTIHekZgO9ZepTyxRGaEFnTkoP4h6fWgDSM8S9XFRm9gH8Yryjxz4ql0M215HIWs7tSUb0YdVPvXH23xO3ygNKQPrQB9DreRMcBhmpwQRkV4P4e+I41HUxHv4LcZNe16XdC5tVcHORQBDrF3FBAd0yo3u2K87vviJFot4E1IF7QnBmj5K++O9dR43043envsWRmI6LXzXrHhnXft0ix2F4Y2PG4HB/CgD1H4o2drqngZ9X0S5hvNPkkWaRUYHy36eYvp6Mv4+teC16Jo/wl8eX1hIbe3FpbzD5o57jyxJ9V71x2v+HtU8Mao+m6vatb3KgNgkEMp6MpHBFAEnhlJX123WN9nzfM3oK+tPC7j+zolUkgKOTXyj4Rt5LjXoQgJx1r6u8LwNFYR7h2oA6B0DjB6VDHY2sUnmLAm/+8Rk1YooAK8b+O3h2XWW0Ga0jzOplic4/gO0j9c/nXslUr3Tor6SNpVDbBxmgDxn4f8Aw/axZZp0+c8kkV7XaW4t4VUDoKWC1igXCKBU9AH/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Saade, Vol. 2</tspan></p><p
+          ><tspan template-id="title">A Thousand Suns</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Eric Saade</tspan></p><div
+          ><tspan template-id="artist">Linkin Park</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
