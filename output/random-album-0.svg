@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJkhYg8+9X7bTGmeJbhpIUkLLv2cIQcfN+OPzzVZf3e3cAQTjk4/WuitWNw6kxx5n+UuoYqXHTJzgfQYrub6GUpWVzK/s8LDGgYtKThkA4U+nuarXFlLavllJUNtJHQN1I+o4ru7CK6s0SL7MJtoBEuzIwPp1Oefz9an1OJpvkhgjt5GGcnkFckk+3f609TP2iOAt4DM2OFULuLHoB/n+dTAdPStC61Y+e8UPlojkh32fM3bPX9O1VHXEpUjp3xinF66l3urmPPIflyDtra03ygVENzuSRS25FwY8DBJUkjPPB+tYkyGVWjTO8gcY6j0z61r+HLizgvopr+KWNuVYiLIkGMH/dYd/pWV/eG9j234VBX0l7ecIzdY9/Ncl8R2EWtSQRlQu7csoBwmOvTrVjSvEc32u1/sGxkS1jPzTTDako6emazvGF5eXln9mSwX7S48uS5CkKQf7pP5fnV8ru2jK6tY8+W1ha6Ry8rQth1GzO/n39cVciiSOMKp68kY6H0pIl+yArdhUKfIhjiBL/U9OKY80bX6rE3G3oVIGPaiK5Xdmm5RjbZJhgAjDk+n410lhBDPNHIGV/L5Qhua5NgWAHVd2a0LbUZrfIVFIYBSG9vpVQlyvVEyjc9AhuDCv3m/M1DcTyOhVSNvbJrmYtfPKyRRqe20E/1p7a0qgKqRv6lgc/zrfnRn7Nj9RB8pjMU2Dr2xWOzCS8HKMqj5WVep4/lVq51AXCELGqk8Hbkcfiaz7dPKDKPu5yD61jJ80kaRi0f/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APDO/PSkNHSrscCJEJZBuY8qp6Aep/pWOx6aTloitb20tw4CLndwM0+eCSBirjBHWtS3MjWjzmQqFyEJ6e+B2qO8lmjjSYsCHGGIwcg9Ky9o3O3Q9B4OMMPzu/Nv5W/MyDyPpUMhzVyeISq0kS7doyyr0x6iqRrdHkVX0LsKCSVUJxuYCrMxaaVUyxzySfQcD9BVeGTy5klIO1WBNWztWdwuGxxkHIx2xWUrnoUbN2JJbsOq26oUiTB57gUzzEaN4iMrj5fYelV5A68NksDnpTVEg6ggdalQVtDoliZuV5eny7EUI2SlGJKg9jjI/wD1VXlTbIy+hIq2PnkCDjPQ+3U1VkJZ2kOcMxP1rdHkVUr2RNFIqsd2dvQgdamhu4Cdm1gOcEnr9aokk/MKZ1b0pcie5f1mcLcppSlopGbBGOBk/wBaYHaRiRnaeoH881RE0iHCuwHsaC7uACxIHbNPkRDxMnsXpJrZCFVS56lgf5VUkk3PkD5ewNNGR2pjHmhRRNSrJrU//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Erämaan Viimeinen - Single</tspan></p><p
+          ><tspan template-id="title">Maximalism (Japanese Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Nightwish</tspan></p><div
+          ><tspan template-id="artist">Amaranthe</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
