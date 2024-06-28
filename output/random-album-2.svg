@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOCa1jb/AFZYj3FRvZNtyVO3OM44z6VrRtCrBT6969ItLDT102OG0FszRQiUShCWkzG5GSeMqxJAGcU2yTx7+zpByVOKs29jucA9K9VTQtMtpsBVYRSFtrupGNrKQQeTyob6mobbw7oy3TIskhlhxuDuhGSRtB4xznj6UKSFY42y0V7g+XDHvYqWABAJwM8etV5tNcgbUxnpmvVrawtI2tpIVIjgLCMBsgFmbJz36EViJZ27whZCuRzk1adxPQ8mQuXGFOa6WfX9Tv7WztflSG1XEKRDbgYxz6n/ABNWLe30yTPk555+Zq02e0t7SKQxJIjusStGOSxOBmsyzLbUJLkk3MW+Y8szZJP1ojuGD7ltUcZ6Lk/1rpW0orJudIoxzyXAolgsrUQqNped9iMGXqR69hxQTdGTB4kvLEN9lVYyUKZPYGpbfVdSlBZbcNnqyismwhnk8WXdndPH5SMfLXgnrwAe4xmu4tdI3qyG9AUjpHMgX86Lgzy+0FzcPthu0Ys2Aq3IDk+wOM1Nd21/AI4pr5YzziO5ikypB+h71zcMNpIi/wDEzVOeA8eD+ma0ZNXeSzEM16ksSdIwzKv1wKjUk2rmWVQd19F5aZETOBtk45wevH09KqxzSXgaKa8RI2IbdESSPwPGa5syAhmURjHG7NRfbXik4YMOwHejUTv0O5sNL23i3FnLBdOq/wDHvKoWVvXDAYJx+PtVCe4gtL/ZdWN9AS2GRJEbPPpt61zsGtTQOJElZJAcqynke4rafx1cXsMkOrW0V6j8GRMRSAfUDB/EULzBX6n/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOD0U+U6DPavYvB+sW1lYzyXU6xRrtyzHgda8QtLlYgrswAHcmu58L61Yf2vp9vc+bKXuRsSNcgsVYBi3G3BI5rmvbU0tfQ9fTX7K/t2ms7mOZFOG2nkH3HUVQOrDcybl2k9zXntvfj/AITvXZLdxHGheN4yRhpAckgddvYE980y71w7l2thixIJ4BB4p810TbU6rX9RaHbJuQq4I49BXDajfQzKcnBqvqniDzIkQtnGc/p/hXNXGoKd+ecj5fakBzN1N8yIDgoPmHoauaTr1zpqb4LieK6XiFosY54O7NZCuCrE43t6mo42AcAhuvatFEVztdPvbmS582ESzTD/AFki5JJbJOfxpzTTLIVuo5UAOGLIeO/8qxvD9/NZ6giJdbBNy67gASAcAk/WtOae4a4uAbqVPMYlgshw3bOO9Zy0GiK4hk+dlinKBiCxiI2/X04qk8aBlWQzxlhwWjwCTTp9Q1BJHVtQmDSHkmZhu4xyahkS/uYo/MuJpF3AfPJlV9OcmjpuBhwusdxHJJGJEVgWQ9GGelaM2o2P2S+ihsV82ecSRzEbWhX+6MHpzjHSsqitmriTsKrFWDA4I5BrSmupTtMhL5HPY/lWail3Cjqa1bvS2iZRFKky44dDgfQ1MrX1EV5JopdqlpEx/eORVq0lgjtJICzbnYPuHGMdqoNHLGoJIZT261EW4HylT6g0uW6Gmf/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Með Vættum</tspan></p><p
+          ><tspan template-id="title">Stay the Ride Alive - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Skálmöld</tspan></p><div
+          ><tspan template-id="artist">GACKT</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
