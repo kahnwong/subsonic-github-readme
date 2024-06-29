@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIwyqpO3IAyQKUruUMuADzluKciFAXjRnGMlev+RVeF2muyVkKfISQecn0rgSvqfXSly2i+pfjtykS3LgAMeCSCSf6VdtbqaXT3uSLcMDgJg5b9eKz7ed57b7KI40CMoeQDHQ8A+p4qzpZSOQvbbf3b/vcj5gOQSPUVnOOjudmFrLnioPRr8f1sTQy/a497JGnOCpHQ+lVLuJNx4wQcEVNp0o82QvAwSSR23hcqT7VVvp0NwylwSOmP60lFqdkaVKsZYdTk9Szp7NtjCEAnnJpptZnla4lSNMN99QB+dZ9lL+637sbOasw6laLJK7mUhkIWMrnLHv8AniqcZJuxhCvSnTipu3z0KhJhvvLYbdkgbH97nrU0Ra21OBYgXYybnC9AvQ5PuO1W4rqyuSgmTDR4IJ52/j+lX547d41mRQG++McHH9acqltGiKOEU/fhNaO/mUVbzkMluyIi7lyW2O6g4BA7elY8xCO3QfQVoHUJG3BJsxsxbYB8y9sdOlZN06h2HVh+Q/xNXTi76nLjK0OROL1/rb+vUW3cKpUkVLLBPLtaFAFbodw5rO8/GKmW8m8tVWUgLyPY1u4O90eXDEU3Hklf5FkWVxHJGrLtUuDyw5PXNbKLIdP8pv8AWIMjnpWCt9MSu9ycHIz61btr9xI3mMSCOtZVIya1PQwVejTbUb66DbuGaNC7AA9znnms3fng/rWleXLyoyhiUPUVkkdcVrT21ODGtKp7mx//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJ5XjMaLHEoIA3PjljQoIwQB+VNPHGfm70q/e54bvXQcVi7bWD3Ee/dtJ/hC89OD9Dg0Xdg1tDvLrwRxgg9sn6cj866WOJpImFtL5irHhtrByeDkjHcfX8O9NkRkj23MgRTHgbmCkemc9Sf8jvTscX1l8xx+FPPQ08OpjeOSJdxU7HA+ZTTOgyR9KaCWJ4I9qR22uA3BfvEfzoBI6/hUZYDgjPoetKo37QASxOAByTSLsbWiWlxcXttKpxFFIHyp5Y56cH+fao9YtZ7e6nkcgxyyFgSenPSoNN1J7AFRDlS25W285x60ahfPfsqiBl+bdnackkYouc3JU9rfoUSWBxmlCtnJOD169Ka+5HIcEMOMHgijI9Tk0rnVbQbuLE5C5q3a/a7G6hu4YwZEQzxkc7QP4/w/mKrTwrGiMkilio3LnkGlhkXaD5rq2CP9YB+n51Nx+aOhttVnkkkWWArtGdkAXCKwUqASc4wPrwvpUd3rM72eYRKilBI24KA0ZwM8c53YwRyMDGKyPNUdJn3YAB8306fhS+amMLK4XBXHm9vT6UtB3kLdi4uru4mMQVxh5NmMDOOT9c5PuTVZT5ZzgYqyzYQkSyMSuD+8ByPSokiRo5GaRQQp2pnkmlcfS7P/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Beyond the Black</tspan></p><p
+          ><tspan template-id="title">Assassin's Creed Valhalla: The Weft Of Spears (From The Assassin's Creed Valhalla Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Beyond the Black</tspan></p><div
+          ><tspan template-id="artist">Einar Selvik</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
