@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOYHxq8eyyXXl31iohyQHtkBcbguF9TyOPTNQx/HHx24lzfWSmNSSGtEGcdvrXHWs3l29+1xaQXVpHcZ8uSQq2856Y5xxk/TrWnpFzpzWy6hMLeS4R2M9sxRFCE4YIh4bKk49GHvUSnyptovk2sbH/C+fHX/AD+2n/gIlKPjv47ZgBeWmT/06JXOT6TBoc97OlxY3loztDZyOBJ5isMh9vb5TjJ6N244htfDkl5dCeze3+zEGX95IP3KjLYbPU4HQdcjimpp6ktWOvs/jd4+vr2G1ivbLfK4QFrRQoyepPYetTp8avHUWuLp899ZNtuRC5S1XB+bBxXEeGDZf8JFZ2sqQut3ILeWSWRo1iRzhiGBHO0kZPHPSruuahpl34n0y10mzjgtLGRIPMG0vO4cbnZh97J6E54qed8/LYLaGd9rvLTfbWZIkM7zSDAIOeAp7YwTnPrisySzllnxDbnDt8oTnr0/wq4CoupPKd1l85mdVbIZAc4I9a0dRsbqyJkkt7m1gfJgZ7YjeBydp6EDIOfcVpcSiUbHQLu6snlJKAgeWpYDOe5HXGKlsH1vSLG8Fp8iTKQ5ADMoBYFlPVTgMCRzgn1qeGWEmHdcM8lzEVRzIFWN8DGQOgySMnH04psp+dFtrjzHkmkicRhzwD8rBjgEYJx+ZpuzQW11K2hiGz8RafdXLoI4Z1kk3chQvPI7jNbmueIzr2paI4sLO2TzVbFrCURSHxtBz83GMn3rMdra0iklWUzbj8wYg4BycEepIBP4etVLMibUrOQbAq3EYA6HJcHNZuEXPmHyO2pm3LAXc4Iz+8bv7mr1vLPLDmJWWEDy/mkLdRyFB4Hb9K7aX4IeO3u5HbR0aNnY/Lewg8n3ao2+B/j9lCjR4go6D7ZF/wDFVoJW6nByxyrE20r5ZO4hXyBxx+n86sW+qyW8HkxTFEx90xhgM9e1dj/wo3x//wBAeL/wMi/+Ko/4Ub4//wCgPF/4GRf/ABVCHOz20MEMNejUKyRmNkQkRkdc47/7JqKKwW2uNLnSZpke5VQwTCjDDv15znp05rrrP4NfEC0SUDRYyz7SrLfRAqQfryOelaA+FXxAmubMSaDbQwwyJnZeR8KGDf3vXP51Otxan//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAKKKm+zSeXv2/LjIOev+cUr2Glchoqz9kI4br9Rig2xxx+pFHMh8rK1FTG2kCsdvC9TnpUNF7iasFTpP8AMik7UwAx25/z1qEDJxUnlHj5k5/2xQ7dRq5OsoYIXlYHDbvkzjg4/PNJ5xVcgnIQdU79MflUIRMcyYPpjNKUXA2yZP0xSsitRzzfOwzuX5gCFxnIxmq9S+UfVP8AvoVGwwcccehpqxLEpc8UlSR3E0KlY5XQE5IU4piTG5ozUrXlyww08hHHU+nSj7Zc/wDPeT/vqgfMQ0lPeaSQYd2YA55NKyxBMrIxbA4KY5785oEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Epic Live!</tspan></p><p
+          ><tspan template-id="title">Muhteşem Yüzyıl Vol.1 (Orijinal Dizi Müzikleri)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Globus</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
