@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/API9N8KX2p6et9DNbrASQS7H5TkjBwOP/rj1qwnhxDavtuYZZsZRldkUfuxJ825AB8vqRkn2NYlo7wliIElDLjDoWHUcj37VdW6PH+ixg8Ls2Ha2OxGeev8AKmCV3qzTn8I3VtaXFw93aEQReayIzFj8zLtHHJ+U59BzWZaRKR1O5jhQO57U+WeaZVPkLHzuDRoQT15z+f5Vb8OWrXetWiBcqjGVvQKgLEn8q0g7XbM5JytHua/ii7j0o22h6bEIktYw1xMD880xHzMxHQdgPSuTFzsYLnAPUCty1mlfV7yFo1cz4LGQjgetYF9bGGZugOT8o7YPSsl36m0u3Q9D8KQ3Ufhyz1FTaKsNvcpullcYTzDICQFxnfGeN3TrjIrZ0qxu7hNJ8RxR2KGW6a+t/NuJH2ytEFbcipk4MfAB6qeTXkInnWHyBPL5IJ/d7zt568dOcD8qmhvbmHZ5VzMmz7m2Rht69MHjqfzPrTTJaaPRPEer31lHa+HsQxxzaeID5EhYRo7K2BkDkKpX6MexrnheRaNHc2thEWmmwGlc/N5YIOPYEgZx1rCWaW7liSaeR9oCJvYttHYDPQV0HirTVi1eKW1YNbXdtHPEoIO3KgFT9Cp69iKrluhKfK9jnY1ne7S6QsNuAW9/ejVBunyo65JJOcmuk8OWTTWEnQkPg/kKg1PQpvtgCIMbTgCps7BzK5ycmVlcejEfrQrVcvLV1nlIRvvnop9aqGNh/CfyNZxmmjpq0ZQdmW4AViMgHX5RmtWCdJ9NuGmJaZZBt5zxtx169qpQ3cR0o2coAZG8yKTHOSMFT7dx6HPrU0ACWaNn5ZtwHH90jmuyGjOCeqNnwfelXms8cs4f8Oh/pXdXT2Vpp8l3dOqRRjLE9fYD1NeT293Np2ox3kHJXqufve1O1TVb/VphJcuVQHKRJ0X/AD6mlewuW7P/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iigdaYHZeEPAV54q0u+voXhSO23A72IOQu7gAVyUlu8Yyele3fCKPUF8MaoljDbyRNMUleViNoMfUYryG6CsHWMHanGWPWs4ybk0bSglFNGVRSng0laGIAEnAGTTjG4BJRgB3xQjmNsgAn3FPa4d0KkLg+goA9Y+D+vfZ7fUNJ85Umu8BA5+98pBx78ivNr8tbtNG2N24ggDGMcV2Xwo0+w1qTWdKvow4lgSWIhtrIyMfmU9j81cr4qsRpfiC+09WLLBMyBick496yjZTZvJt0kzFEbsu4IxXOMgUMjIcMpU+hFPjuHjUBcZHQ45FNkkMhHAAAwAO1amAyiilFAHc/ClGbxejBsKsbF/dcHj8yKxPGmT4y1Zs5BuXI+ma0/h7dmy1S6kjRmlMGxFUZJJIqh4ujP9s3TP/rRK2/8AHms/+XnyNrfuvmc5RRRWhif/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Lullaby of Woe - Single</tspan></p><p
+          ><tspan template-id="title">8</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Marcin Przybyłowicz</tspan></p><div
+          ><tspan template-id="artist">Сергей Лазарев</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
