@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOEtYLJZJIrzd5UyFFmAz5LZ4fGMnGOQOoJqKdNPkfdGJkGNqxqvUDoc+p6k+/SrGmQLeRGMDPBPNbOnaHKrElBjsTW0Wpe9exSg3sjnodPimUlPPDgcjaCAew/l+dX4tMt1iEcscuSC5lA5U9k+hGSffHpU2vrd6RcssD4FxGrMyEHYRkA+2eKu+Hpp9RlkheQOwj3kkcqBxyD0ye1K93y3ZOztYxpdPszGCXuATgFRH04HOT75P5Vk3traoG8uR9wPyqy9R7n1rtru02uQWDe2KyLvS2nwVjHHtWqj5g42G+Dlgk1mAXEmyE8SZ7Dd/ga9wsvClnAiz2jqUPI3tuBrwjT4WV1dZEUjlWRAD+NejJ4tm8OeE/lla8uz8qLnATOeSO+PTvXFKH8xrSxDirROM+KF3HH4yZEnSV7e3VD5J4Vsklf15qt8MhPe+KobTzRHDMjtMB0wFJH61yMtxLd3T3EoZjIxaR39Sep/OrOh6wdGuYr62jcXMbEKwbg9QRjuCDRaysiOf3+ZntmraZaaXDNdyOkixjhf7xrzvUPEF8QRA4UDttHP4V2GpXi6ro9vPHMQGRXZHOSrEe/pXBX1mfNcBCTnrn+tXHmexpWnG6NI2Udsqnb/AA5OG6VFcagn2Zvl3ActuOeOwFYM+sODgMeODnmq9zdxSRgecFXjK7Tn3rslOmtVqeVGNR6Mr3M0k4cbT5eckEdSegFLZSJGyCWP5AxyNuahmltPk8udUBwC21u/U/8A6qZLOFi/4+UUY+6EI/WuRT9652OHu8p21rcQzwBYyipgAZGMY7Uye1u33m1CzKMnCtXLWsiqjMt+DjkAKRWpbamYULCQlyPvdhXXTqQlurHJUhOOzuf/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIoYUaCXMbsxxtZRwuOf1FTiC2kkULFPtdxsAYZK7gP6N+lQwWz3EojjxuIJ5OOgz/SmKFI5XINbCJ0trf70iy4DFjt6bBw3vnOKasNuuUeKVnjibzAGx84PB+mOoqWK68uNEFvCSoAyy5J5J/r+gpGlDxOn2eIbjncAcr9Pb/GizFcYLWEgM0MoXA6N/dB3/rj8KhntEjh3BXDh8HPTBGR+P8AjT9mB0pJYHjVWYY3DIHfFVYVyxGrRSJJGxDqQVI7GrkulXs0Yuo7CURyuQAi/Lnr+A+tZsrEEhScdj6UwXl2sflGaRoycldxwfrRcqKXU6KDwvcyIrs6BTjJj+fb+I4/LNbq+FbC2tAwcXLnkSFiB9MVxsWrXgURpMy8YA9B6CpBc3TL89zMfYuaYTcbaI07ueysC0dpBHJcn70rLlU9lHr71hzFpHLuxLHkk1IQc5zUbUjNu5eaBJPvqM+uMVA1kg5U4PpVs/WjzCECBVwM8455ouTdlRYh0cAn3qYORjIEgHGH9Pr1p0kvmAhkQc5+UYo889fLj67vu+2MfSkFyCQgsdo2j0znFQPU7yHYV2rjIOcc8VXfkUAf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The Deep &amp; The Dark (Japanese Edition)</tspan></p><p
+          ><tspan template-id="title">Rise Again - Single</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
+          ><tspan template-id="artist">Apocalyptica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
