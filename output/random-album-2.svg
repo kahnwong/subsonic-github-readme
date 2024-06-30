@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOsSzPmszSFRkbR29/5/pV6Gy37IxcEFc4fGSfr6+nv7VWvr+CwCrco+T9F/U1R/4S+2gkw2nSqh/wCWkbB/zwc178pOWx5McO10OgurEfaG8pmSPy9q/Nnn+9Ve30W5u5GUXDLGrLmVvYYIH161cs57bU7cT284kjPHHUH0I7VLPemzhLlwkScAY5P+JrHmklZbg6OuqGr4ct1Pz3sxwQc8DPGMfTPPrWbqfhqSCPzLe4aYDHyvwenIHr+NFvq0t6zuttd7c8F1C/zNN1DULmC2VQHJEildw5x3qoqtF35hSpRas4jfH/hd9d0kNbvsuIMsu0ZJ46V5p4f1RtJga01HRbqWcZVf3PU/U9K9+MX+zQLZSc+WufXFciqq1memtNjzvwGl4upTfarSa2jkiLeXI2ec8HP49DXU67DcjSp2trZ5JVGVRJArH6VpwW6tfTzqvTEefU9TV3y89RRKr710Fjxq61yK5042sdpfJfFgoTyG3Kx77h2rsrLRrjT9LsYJ7g3Ujvvmc9/l4A9skV2YhUEnGCetUrt0W7gi8qR2Ks3y9B0HJp+3b0Qmk9y8R70mWHcVHv8ApSSBZY2R1BVhgiuexRQisL+HVTOtwv2Y5JQjnmtXJ9DWKuj28J/do5I6E3EmR9DmrMVhbo/mFG39c+a5z9eeatq47I0t2O9NLKWycZqMP9DS7x6CosI//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAScUqnNM609OKpagSp0ocflTkXLClaNskY71q4PluIr7eCaaOtTbduRTSvzViAIozWpZ6RcXwLRRkooLMR2A6ms2J8NXYaH4vXSNLubVY1Mki/I20YHTOfyFdFLkv7wNspW3hzUmbdFZySKvLFRnFa2keDdT1OSRhZSLDC37xmUj8B6mq+heMLnSb37Tkyg5yhPBq//wALKvTPLcSQpKzEbQ3RR/UnuT1ro9pG1kKTbOS1XTbmyvpIZbaWPB4DoRVEx7T83B9K1ta1651W4MjCOPcORGgWsYtzk1ySUU9AV7akA4NLmkorIomjfB603zSppq9etIR1OR1p3dgHF8tmjNNwATyD/Wj8aVxH/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pantheon - Part 1</tspan></p><p
+          ><tspan template-id="title">Evanescence</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Matenrou Opera</tspan></p><div
+          ><tspan template-id="artist">Evanescence</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
