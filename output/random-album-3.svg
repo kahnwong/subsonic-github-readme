@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEKACTgUVLCMsSaAFEI7t+VNeLAyDkVYwDSMMDigCpRSsMMaSgAqSH7xqOnIcNQBbzx70KryEKiszH+FRkn8KYDlfejeyNuRipHQqcGgBr2dz5m37NNu5OPLOeOvaoZI5Im2yIyN1wykH9ake5nLhjPLkdDvORUbu8hy7sx9WOaAG0UUUATxyetI75qEHFKTmgAJyaSiigD/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOKvGuvPaRpbjDMdihmAIHf6VseFnuV8Q6aZbmdE+0xMVyx3LvA45/P2rpvB1lZ3+rTRPJ5d6toJIpCgYAFircHjPA/A10Ws6ZBp/iDRZbUxeXNdxb4jECcEAHGOw2554+texWnCLcLHn0vaTipcxzfxfu7pPFJWKWVYPITBQkAnnvXmMEN3qWow2i3ciGRsF2diFGMk8V6P8Ys/8Jmw7C3Tj864bw5BLceKtOhieBDJOFJnPyY7g+uRkAdyQKOWKpRduhdKcnOSv1ZnapJDp7rDarNKAvzTXYO5j3wucAfmfesY3Ek8yBiQTwQvAP4V9CeMPh5BrgtJVeOGdH2yyKmA0XPG3pu6V474v8PWvhvxQllaXDSQmNJPnYFlJHIJAx15Hsa5JSUtjtUHa50EGpTaVrtre2w/eRJtI9QS2R+VbsviS78QeNtGF3bmKKC4jSKEMRk7+p7Z6/rWU4SJQ7woGZSvOct8x5/Wl0IK/i7TTKhbF3GAxLYXnA9uDzXrYiEOVztqfMYXEzlJU76G78WlRvGrFu0MRxjqO9ecXA8hlkQgPGcow4wwbIP6V6d8T4Xk8bxKIS5ZI1BwctkY+lcPqdtdafN5c9jJFMvQSx/0NTTUXQjfsjshUksRJJaXZ0118XLu9tJR/ZSxhUAXbOTlv9rjO3r05ry/UdTudX12XULsqZ5n3MVTaOnYV30Hh2H+xo7lPLe8uV3TbnCrFzwvPfuT7VzuoaObe+tRG0ciSOMuuCCfb2rklRiloevCsnodzqWshhZpN4dtmWOPEGJ5B8uT1Abr9eam8P6pbTa/axSeH4YYZHw0gnmLLz14JzWBfXV3PNERHAqQL5akDBbk8t6mtPwzE8mu2AZVVXmRSU68mumUfda2+bPklXtUi7J7dEdj4yvkj8W20l27CBPKe0xGMbiRu3cbunTNZXjB9K+2C8g82WeTO5ZS23A4yM9Mfl9apfFa4aPX0twqlYIk2sR8zcDqe9cnZzia3chUcKQOVwRkZ5/Gpw9JSjB36HdWxMoSmmrq7Oj1B/DYjWOS8vDASSAISdy44O7HPPPbjjA61z89zoQCfY5Lppo5sqJVO3aDxzjO71ycelYusXny7I3duMc9Pw9qx1keRlik2pGT87qOQKKvuu12d+EjKUVNxWp//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Parmak İzi</tspan></p><p
+          ><tspan template-id="title">Saade, Vol. 1</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Şebnem Ferah</tspan></p><div
+          ><tspan template-id="artist">Eric Saade</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
