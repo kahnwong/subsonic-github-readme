@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOdufFNxe2bxTXYghchvIKcbcZGDjPUYxWVJe2q5/wBOtzgZHXk+n+fWsSO3u5l/eTbl7AnitFtPgNtHGYFZl273RRnce3tx2+tdrijh0NbSta0+31G3ke7VokJL+WrDI5wCfwHFdB/wl+l2oeS2s8rMwywJ6854Jx6fnWFp+m2UcSebbguykY+6Q3bp3qrfQySbmtoZV28K67jx9K2hThbVGUmm9Dq/+Fh2YYrsl4HOQMD8c81Xl+IdsVyLeQgHpgf41wwtNQliw9tkDoRjr7nPWkSzZCkd1CsYYbllycH8a2SguhLpp9RIrizhkZjG5TOEzJgg/hVnTzcidkjh3CTG0yNtJ9xUlulrHdeXGkZJJIJ+8fxNF7rENsV2HzJlOGAHHX1PIrJxilcvV6I6iHQrh0Ml03lR43qkMpyfbPX/ABqBL3QbMp/ad0scgfPlDLFRn+IAd65g+Lrp/MSOGCIMODksy+vfB/EVzsjm4vEhRvmkfaDgnqevqaz9q1sUqN9z0e/1XSb6YQ6MYZpSN2MeUgHuTjJ9gKZHo73NqwnA8xuoBIA9MfhWfa+GIrGYXIgnvI1AAMxEZD+u3078106GaWbfFEBCAW+eYgt9FBz+tdEXJL3zKVvsnE200UWx5Y/MLdAeSR7f40XegjUN88c8dszYxGzF2Y9yf8mrcKi+iM8jpF6jbjA9f8+tWDYqY08qQknkOPvD6ioauilKz0MP/hA9aLnyZLeUEcMGIDD24rT0zwYdN/0q5nD3QB2FB8sZ9eepq1LqV3FcJcG43sw2MevQ8Z5x71Dea5PLiOcROD6rwTRGklqU6knodRYaa8cLvvtbgxuFKxNuf6luhP0xWVqviAqz2qxCWeMkGWQYKjuB6+lc419eiOcRTSxxyqEZM4BXsKqBmXOcnthaLu+ouU//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfqKKq3KMG3hiFOAcDpQBaoqvBPvwrnD/zp00wiGByx7UATUVSgDSSiTsOufWrtABRRRQBQniMR3L9zP5URRtK+49up9anu0LxcMRzTLJSFYlieelAyyqhQABinUUUCCiiigCKdS0JCjJptqhSI5xycip6KACmySJFGXkZUQDJLHAFEkixRtI5AVQSSewrgNe11tTdoomK2yngf3/c+1Y168aUbvc6cLhZYidlt1Z//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Apocalyptica (Special Edition)</tspan></p><p
+          ><tspan template-id="title">Y (Repackage Edition) - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Apocalyptica</tspan></p><div
+          ><tspan template-id="artist">김재중</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
