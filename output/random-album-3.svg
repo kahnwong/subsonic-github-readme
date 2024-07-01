@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfqKKq3KMG3hiFOAcDpQBaoqvBPvwrnD/zp00wiGByx7UATUVSgDSSiTsOufWrtABRRRQBQniMR3L9zP5URRtK+49up9anu0LxcMRzTLJSFYlieelAyyqhQABinUUUCCiiigCKdS0JCjJptqhSI5xycip6KACmySJFGXkZUQDJLHAFEkixRtI5AVQSSewrgNe11tTdoomK2yngf3/c+1Y168aUbvc6cLhZYidlt1Z//2Q=="
+          src="data:image/jpeg;base64,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"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Y (Repackage Edition) - EP</tspan></p><p
+          ><tspan template-id="title">The Movies</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">김재중</tspan></p><div
+          ><tspan template-id="artist">Maksim Mrvica</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
