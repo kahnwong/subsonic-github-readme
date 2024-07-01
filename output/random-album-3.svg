@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEnt1XJ2bs9OcYqxb2kU5YGOOM9i8jU+3ZZGw/au38E+Eh4h1EtKTHZQANLJt4612KEbXZy88locqmmRQyxgfZ3Vwfuu5AI9ePf9K6DSdPtYjmWG1cOp2kyuNp4wele1R6bpWjyiysNGinuhIkaSuuUO7qS5GAQO1Wjb6HrFmJZtKCrJcfZrdo0XeWHU/KeBkHr6VV3HVI0Sk1pueLa14c+zWsdxCsE+Rk7GOB7f59a43U9Inhha4mhFvzgKc5fPpmvY/Eem3GlXCiKRhEQWgdf4x7+9cFr08ur3aPdtuKLtHYAfQcVsoOcNWJz9lHmOQssOR619B+ErWbSvhs9xZui3EkbuDKuVY5GFJHTvXz/AKZAxmU8hc8kV9EfDjUPtGhDTjMUaNi6Myhsj0wawj8PMXKk1qWY7x7zUBpF3IlrqskkV2YYn2wSIACCRnIJxyO+BSafc2k9zrF15L2BEyxR3KZEcRzyVI4+uO9VrjS7LT5W1eGOG1nMMkTG/LP5xB6oo6EcnAq7pha2s7HTdNtzfaVdxFnluHCIXIJOCRk8joK6Wotabf1cTqcuHcL+/wDo+/4DviJYxS+BbqQTF3t0Escu4bjz1yPXNfPFpqMUtuVkaT7R5nBz8pXHP45r1/4s+I4tN8LppAuvNv7hV80gbSBgdh0zjpXgUTlGzmuaFRwdugpQUo6ndaJYJAgfyhI3QK44+v1rtrWaWJoo9PH+lHnCDAA/pXOJBPH5UcduFwAWx0+tbui3pj1B5Co87GzHOMHjtXdOi4LRG1etL2dlsdxp/iBpIFN/ZJJNGG2uyY5YYOSeOa57U/G17pNj9g0TRiiLGCjuxkG0envnPHWte91CQ26bpmV8AkbBj3H8/wA6wr+9uILR5I7yVpMEIHVSMHt04H0rmVJt3tp6nnLE2VnueQ682oalfyXeoM5lc7vnzxnn8qxGTaeldprupPdSNJdnzZ8BdxGOB/8Arrj7h8uT0rKokjqpycldn//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APACpHUUqlVJ3Lu/Gr89uB0qm8eKlSudNTDypsTemMeWM+uaN8feIfnTdtJtNMxvIVyGOVXbTadtpQlArNmoZFbrVeXBNRq/FDNWajY9OdZTWo1lHlsfwoMeIkc4G4fyprPlcCgyExqhA+XoarU5W4XfoHFNJpM00nNMylIeGwKQvTM08on/AD0H5e3+RTIV3sNzRmlVEZwDIFGM7iPak2jIG7tn8fSgNRM0maeET/noPy9qZTJaZ//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Eurovision Song Contest: Stockholm 2016</tspan></p><p
+          ><tspan template-id="title">Best of Live</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Mylène Farmer</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
