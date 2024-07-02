@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNPB/ho+INfg08SiLeSS5GcADNdb4s+HLaVcW4glDQzxlnZyuUYAHsecgjHqciuN0HX5NB1uG5iZkZMjcvUZGOK7i48Xa1Pr+nx309pNc297FJbTTRhYzE0RAc4zjG7OR0q5OTehEFFRvI83tPDV3e+IrTS1Vt1xIUU4xwCQTg9MEHrW74m8CJoun2F1DPP5N1uO+6jVNoBIHCknnGegzXR+Nb1Yb6fxVYTQXFuWktYpFugkol6GVEA+6SDxycZ6Zqr4M8Vrbz2yatDFMtxGUt2uXYrCC2DsznBJPsMA1i5TdnH7jdRpq6l95z3h3wbqOt6m+m27wpMqeYWkYBQvHP45H59qzblI41aNFGUJUkdyDzj/Gr1xd391rFzdmER7NxeKHIREXjb1+529way5WdpHDYLMSSw7571slLqc7cehelhtYraKbyXlJ3B8upwe2ADkcUlhqD28kd0kjxSQp+7xnjAwPp1qCfVdO+wSWr2DNKzKyzBwCuM54xznPrVJ72COzkUKzTSnIHG1B7+9O47aGxJqEkaaTbTWyrp8V2z70DEXDDHLLnBYZxxjrVbXXe81ETRQmGCLMZQpt2MSSQRVbTdWy1vbXcrR26StKJNzN5Zx/CvQHIHIGamN3pwS7V455z54kS7k+8SV+YMOnJ6fSpHYlaV40VWkYcbQFHJX0PrVh7C9a2N49q8UeFKNKhHm5J+6cc9DWNc6j/q5Ld0yqDouCD9Kf8A21qV8EFzdySrEgjRWOQqj0Hbp+NVcnlVrmZM+WGKhqYxlR0yx6jHSoypAz2PSoZaJrG6+xXsNyIklMThwrjIOKl1G8W9uHnSFYA7Z8uP7q/T8qpEEHB6inYJXr0PSgYuB5ecc1PZyKu8N3FV8kgDrTolO/0+tNCex//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAKKKm+zSeXv2/LjIOev+cUr2Glchoqz9kI4br9Rig2xxx+pFHMh8rK1FTG2kCsdvC9TnpUNF7iasFTpP8AMik7UwAx25/z1qEDJxUnlHj5k5/2xQ7dRq5OsoYIXlYHDbvkzjg4/PNJ5xVcgnIQdU79MflUIRMcyYPpjNKUXA2yZP0xSsitRzzfOwzuX5gCFxnIxmq9S+UfVP8AvoVGwwcccehpqxLEpc8UlSR3E0KlY5XQE5IU4piTG5ozUrXlyww08hHHU+nSj7Zc/wDPeT/vqgfMQ0lPeaSQYd2YA55NKyxBMrIxbA4KY5785oEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">TRI-ANGLE</tspan></p><p
+          ><tspan template-id="title">Muhteşem Yüzyıl Vol.1 (Orijinal Dizi Müzikleri)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">東方神起</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
