@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOShkG/aBmul0WCOV2Mke/auQOwrnbOHEwU469TXZaRF5YRgud4KOB6e1foeJqWi0j1qU7O7LjwWpYBbcCMjjacMtSbvI+W2jCj+8ygsa0oLO3H8EjD6gVK8NuvS3/76c15LrLbc39rdmE1yFy8scZYfxEYxVM3cTvy/J7mr2tbTa7EiRckZI61y7xupHU5rtoQjNX2L9rrYqwbJHi24yBg4rstLCCNdxAzXD6ewDCtCWWMTNlSSCD8y8nA6A5+7+XPepx0nCNzzlK2p6xpdkl1hVZCT/tCl1GySAldyk+gINcHBd2kNneRrFEHMcflMPm3tv5KE8jjg49O9XNWubCZZ7mAW6qzNEhAAjGIARgYwDu79c1897Sp7TyI5pcw7Vgm0gHJBrBwAzBuF6k+lOYia4U228XBLGcuUyRvGd2BycdMU65wC3HFe/hJ80bHZRTbuchZT4xzXVabqMSKokj3/ADZ64444rhLefBFakF3t716VSkpo5YvQ9Fg1eEBcREYUA/N1PGT/AJ9aeurQhR5sW8jGfmxnnP8ALiuGj1BgM5qUX7MPvVx/UomsUjorq9V1XYm1h1OevA/rk/jWRcXPBBPNZ7XrEEBjiq0krNzurqpYdROmEklof//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOBt4kmBIlwSeVI4rZ03To7rfGhQygdCP1rEsZTKp3PGD2LNg1p6dJLb39vg/IXAYj610Tldqxzxik7SNG10+eOaMSp5g3lY9wJx9SKu3trblCsW6OMMMO44OOo59c1pRa5FaagsP2cqJVLCJvvAEfe9D68/0pl7rGk3tvF9pExdWO1wFVSvTjH+eKzhVi5uDW5tPDuMOZM5LVLeO3ZkV45uCeO1ZSqQSclhxjPWtu5fSxIz/bd6Z+4Fw2PY9K568nAlfyleNT3Z85H4Vk4NPUzbS2Ku9AxXOUPPHetCC8W2gZ0VTMRgHNYjS7EyCCDkLzyMeo7UG6ULhDu9TWkqiWiJjSlJ3ex1MOrExDy0LTNISZd5zggDb7c5/OkunuD5yKyqpOSuBnHftx07Yrnobs2hSZQdzD16/Wpf7TaWSV3J3tzn1rmjZz1OybahpuWHmj3MiqFZR82Riqr3KuS3y7VHHFVixecyFW6cHNMkkKOiodzHls1t01MOtkVH3xjYTuDd6SHMg2IhLDsBk1Ym2bkIPJXJHoarJO8EwljPzA8VG+qNbW0Zq2qRQ2rXNwC2SAoZMhRkc+/eoNQRXtxeQsoBIBCIVH+GarjVbqVFgfy2iU5CmJTt+nHTJ6VO9/MlssaCJYlbOzaME46kY61EYu9ynLoUTdM6jnIHarYCJAc8sw656VTUuzFmA3EdlAH5Cr0FrJLjqVA5AGap7i0R/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Tieniti Forte - Single</tspan></p><p
+          ><tspan template-id="title">Ad Astra</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Sinplus</tspan></p><div
+          ><tspan template-id="artist">The Resonance Project</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
