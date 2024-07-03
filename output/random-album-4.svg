@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO3ooqE3UQtHui37pFZmPsuc/wAjX5Ik3sfWXJqKgt7uC63eTIGKhS3tuXcP0NU9a1ePRobSaYhYpbpIXY9gwPP5gVcaU5T5EtROSSv0NOijviioGVru9+yRs4trmUqCcRRbugrzyy8S3Q8ETW0+n3jzXEd5+9VPkUckc+nzfgBXpnHes9dMij0iayRAFkWTjPQtn/Gu7C4ilTjacb6p/df/ADMalOUndPozgfDniu5spLuS40q9nMq2iARJnBEW0k/XGR61j+L/ABPqOuWDWZsJYlS8WWMsuMKIxhT75JP0Ir1bTdMi09pWjUL5ixg/8BXFVtY0W2u7baluhd5w54xk4x/ICvQp4/DRxPtPZ9tb+SOeVCo6fLzHmmieNtZs9VSW6tLi6hMIR4lxuJA6j8TmvV9O1D+0LSOf7JdQbx9yaPaRTLPRrSxuPNhiQMFCggcjt1+laFcWPxVCvJOnCz7/APANqFKcF70rhRRVe6sobwASmUYGPkkZfzx1rz4pN6nQ79CdHWQZRgwzjKnNLjNZ8Gj28HIknLbs5ErD6DANTTWMczhzJKrAYyj4q3GnfSWnoSnK2qLVFRW8C28ZRSzZOSWOSalrN2voUj//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHk4VSQSCelSxKOcnBzjk022UNjj15q3uaNNqtgdhWqXU8uc0nYY/LL7VKp4xuGDSefzgg8LjO41ILnIOAQccHceKpN9jJxVtyIgjPJ/OmS5XJXOM9M5xVku8iYZiap3HD9B9aGrIcJXdgtgNgPqOa0Y7GOSVFVy2+383bvG4ttJwBjpkCs6yOITkj8auvcNvDRFlIiEWcjptwf61MuZpcprBwUnz+Q6KwjaO4lldSsQI4fb84ZRg5HTBJz7VMdMVZym6QDdkBgMlN4AP4qQ2emKpNeTAv85w+dwIBDZxnPHPQU4Xc7uGaRmPPJP09vYflUWqX3N+bD8uqLGyNY3ZUPEhj5kHoTnp7VWudpzxxU6uPs3lbSXMu8sfoR/WqtySB7VtG6TucdTlc1y/1qVLKTaSp5z1GKmZiF4GPSqcbFeM4/DpUomO1Qcn14qFKysazheV0aMdlJPGGA4PT3qQ2kkUe9sbfUVTjOewzU3UZwKpJ3vcxk1a1iVSOaqXROcg/hThIy5/wps77lYKSRnuMZpyldWCnBqV2f/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Firewatch</tspan></p><p
+          ><tspan template-id="title">The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Chris Remo</tspan></p><div
+          ><tspan template-id="artist">Howard Shore</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
