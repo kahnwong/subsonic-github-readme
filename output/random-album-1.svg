@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AFvNXk0xo1SdQkrbOTjHvXG620l7qUMHnTvAzgHfkjNQaos0N2PPuTLGx4I/g9jmt/S4tOgia81S5jjsovm3b+fxH8hQBQ8QwRW9tb2UcYijB8wEdCTXV+CdHdNNWTcm1uWZCDmuJ134k6ZOwgstKNxGhws07bCQOOBzVzQfi3ZWqxW15pUkEKcCSCTfj6qQP50Aelapbt5MRTLFMg59DUOm3JgkaJTnOCPrTbbV7TVLEXVjcpdW8o+8p6e2OoPsahRwl0JE4FAHll/elrB0KKWfAO/qD14rjtWvjczeSjt5EfAXPBbua9DnvtD1L/WWK72wBIkwHPTOPSuUfQNHTzQ2pSO4OBsAOT7DvzQBy4UsQFBJPQCkrqLHQ9PkEkS3ryy7fmZF2hfXGeo9+KpXmj2trp8JNzi9blkJyu3kcYoAueCPEUuha5GjufsVywjmTPAzwG+oP6Zr2Y7i5A7HtXjlj4at10WDWLuVmg+0PFIqOBwFypXvnd2x2rtovEo1PTJkRMY2gsGIP40AeV78gEdv0q2JQkYO7LHO9h/If1NZyEqcHODUjOdgBJOM8elAGhaagkTMDGArDado5x6daguirTlkYlWGeeMVDshHS5U8Z+43XHT+lLIsB3L9rX5Rkfu2+bigC7DrBj0mXTmXfE8yzAliNrAEcD3B/StfRNRsore4V3MbMwYAnP61x+antnxJgnGeKAP/2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHLXT0m86SVysUIDOFGXbJwAo/qen6VbhtdPmhkKyT28yDKLJiRX9QSoBU/gR9KvaNqAszdXU1vCQFVf3gwclh90+o5P4VZXxMkStEr3U4kbJV3AAAAwp4O7ODngf1rtSRwOTZRSzc6du2gLnPNOvLbOngqM4XOBViKVYdO3MDK+4GTJxtFSykPYxyRkq5+4c549/1qrEXZyZUplWQqfQ00RA9Aelb9m1+kk8to4MrgCTKgnb7ZqjN5sc7Sv+8kY5PuanlNOfsaVxa7XMckWCOh6g1XfTYo8SechOM4zgg1rx36O37yNSj8gucEe1UbpLYFykY5HUk8H1q7GVy74Y0+TxBr9vpkbxI7hid43LwM8DuTjpTvFNg/h/XrjTHlRnVVOVXaBkZ5GeDzWHZrIt4JYnZChyHQ4Ofapb3dJJJNMZHkY53PklvfPegZveEhBFqUzz7TELdi2T06c0moxWl9eM1mVYk5yvQiuat7s7THGTGkpCu+f4c1fEfkXEbpcFo4xkgHt6CnclxsyC00i/eZTcRNxzuzmpb+aO0DCQAMBgKDkn3NaE+uxiEC3JcsvLHjbWBeOigzTIrSN0qdkXu9SWwvvOTZJj5MsuB09qfb65cWNx5i7vK3EhCuUJ9efrWbaXxt2OYIXBbd86ZI9s+lPvbr7UUKrHGoC8LkcgYqOZ2NORX1Gyyhi2Bw3QgcA9fwqmJ7pScdQckjqMVdht2mf91xJxyDUFysq3ZmkjDEHDbV2/pRJPcqDWx//9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">While We Are Young - Single</tspan></p><p
+          ><tspan template-id="title">Nagelfar</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Fejd</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
