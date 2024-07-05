@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+nRxvNKkcalnchVUdST0FNr0D4Y6Hb3urLdzSSrebgunRxqDvm9SSCBgc89efSgCPR/hs+qT3NrJqItrq2HzxvCTlucqDn269856U3VPhw9gYIYb+S4vLhWaO2+ysrfLjjqfU89sc9RX0ELq08M6Y8STJbHejS3ojDPNI+cBFzjAAOSeABVm8u4vENjdpEyloM/Zb4gKjEHaWU5OACcHnBBoA+OyCpIIII4INJXafEDR4LfUP7StPMKzNtudy4Cz9+gAOepx3+tcXQAV6f8JtYjtDcxzG3T7PLHcxyuQHHOCikjkH0BH415hXR+Bb5LHxXaeYheOYmIqFDZLD5eDx1xQB9NJaadqlq1rJf21xB5SwvbyBYywDbhgoPlOMAgDDDsKls4dOtDLdLHp4k8jKwNL8kWQPMXr8xIVedoGFUACvItReSBfs9sMKFPmpK4UKWxjnPBOVyTgZweauaJfJNjTY4/tUkgdET7SpyAAdzHAAJ2jBx0JboKAOW+LF65v7e3lt4IbiYvczlDl2yx27/Tj+HnH415vXQeN7uS78X6gZJPMaKTyd27dkrwfm785571z9ABUkEzW88cyHDxsGU+4OaagUuA7FV7kDNTpDaMfmumX5wP8AVZ+Xuev6UAezKmm69qEV1BOswaKKczyiRWDdwGUYDDIzkc4HPFVrW9XTmv7zULi5tri2t5DBy26ULnCb2HOQD2HfGM157Z+Ir/S4fJsPEFxDGIyuEhweNxVc+mT+G6kvvEd/qdq8N5r13OhLRhJIskpwQSc9z1HbHegDn5ZGmleVzl3Ysx9SetMq3NDZo6iK8eQEnJMO3HJx37gKfx9qrOFDkIxZexIxQB//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KKjlnigUNNKkYZgoLsBknoOe9AbklFNeRIyod1Xcdq5OMn0FKSFBJIAHJJoAWio4p4Zs+VKj467WBxUlABXB+JYbW+1GWLV4JtQMaO0NjakkRJjmVsfx+ld5Wfp2jWOkm6ktoyHuZmnmkdizMxOeSecDsO1Z1IOdtdDajWdJuUd7aHO2VqmpeE549Zvo7jT4h5ltqAfZIqAcM39116Z71lLfahq1noNtqjuNOnu5I3uGBjN0irmMsOq7j+eK6Y6LoF5FPhRJbzTxzSRK58tnIG35emDuBx0PFXNQbRr/AE9Le9eB7a4VjGCcbtoySv0APSuhOK0QlWlq3uZerWVlpGoaVc2Crb3b3CwCJDgSoeoI74HOa6msjTvDem6bci6hid5wu1ZJpC7KPQZ6Vr0p26HNTi1dvS4UUUVBoNCIqhVUADGABSGGIhQY0wuQBtHGetPooAKKKKAP/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Viszlát Nyár - Single</tspan></p><p
+          ><tspan template-id="title">Up To Me</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">AWS</tspan></p><div
+          ><tspan template-id="artist">Sinplus</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
