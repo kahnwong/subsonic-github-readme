@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APUXvBgc9qrSXo9a59tSyFw38IqF9Qznmua5rY2Lu/Un5MgY7moNZ1FXtraG1mYwiHcw6fMScg/yrCe581toJLdgOprOa78+BwG27ehB5IqWyki5p+sXdnrEElvKVIkG5c4DDPIP4Vh+N7dtO8WX8Bh8qN3LxjcCCjcgj/CmSaktpc/a0AmELAhHHyk9s/jXO65rV7q+oPfX03m3D4BbAHA4AAHAppg0dBFqpUYzkVP/AGmh43YJ65rkIrlj1NXbCNr+8S13bTKSgYnABIOM+2cUNCNuDVkuFmRI/nx94twR6VQe7P2gGNhwuD6HPWpTZ2ds8UKSs7XZJtZN2NqbcIzAer8Y/wBk1FDb2kl029mij8gXG7fkqAQsi+5zvx9BUM0Vhk14yLuTC7TkgjIb2I7is64ntZWR1URZOHU5KrnuOvHt1qTWzBZ3k1rHKXMeVckg/Nk8DHoMD65rGWYPEyM4XA6/0pXYyml8zAEGty3uIlsdzwmRiM5D449K41J/LIUcit60nLxKB1xWszOJcN5b55tycdSJTz+lQy3Vuyk/ZWz6+ceD+VVbqVY1PyAEnHFZ0lzgfjWSjc1NO4uISg8uExnuTJuz+lZzTnPB561HJc7lxVXzTvGehHP0rSMBH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCKkELmISbfkLbAfVvT9al/s6+HWyuemf8AVN/hViGy1BbcqtpdhXYH5bYnOORz9RTsSRfZk3SIYnDxjLDf93nBz+NIbdQqkQudy7wd3GAuT+nNWpbLUvMaWa1vRlCrO1qRkHOar5mwqnzsqpQDyegI24/KgCCazngQPJGVXgAnvkZH6VDVuZLgqVKzncwOGiI6Aj+tV2ikT70br9VIpAet/b4hbxoWIjjXMrbsj3xUEmvzXeII5fIth0G7Bce57D2rlJdTVlNsrfKo5IHX/wCtSRXJjthmVJHGOGPH5flWvMRyHRXN40yrHE5RwrMGLnqBnHpWV5N5OHnjc3GxDIwYgEADk5/pWebtpQCcZB4B9mB/pVie9jtNJCKxWVgM4HJNJspKxHFqEtxcW0EYZS0wjkBP06/gT+VGsXAt7uCW1fzYAnyl14fknJHvn8sdsVkadIkEjXEnVcbR2J6fyq/qOo219plnBDG6yxbmmZiOWPp6Dp+VJMdiK3TyrOU7x5xA+Ujoueuc+3SoFjfzFTcSX+6Sv6VD/b0fH+iAkDGcjkeh9qhOs5YN5IBA4xjr6n/PYVFyi+isYVlJ2qr7Dkd6l1WSRrOJdjGbcxBJ5K9zjtyCPwJrJGsusAiWMAbi5Pv2I44x/WmnVWabzTH8+ME57dKdxWLQA8kSKRsxjHuO9NWXyZYjFjex3Zxng9P61VhuTMyW6+XEpONzttX8TVho3t4HZZLMsBkstwC30A9aSGz/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">WWW (Repackage Edition)</tspan></p><p
+          ><tspan template-id="title">The Elder Scrolls V: Skyrim (Original Game Soundtrack)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">김재중</tspan></p><div
+          ><tspan template-id="artist">Jeremy Soule</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
