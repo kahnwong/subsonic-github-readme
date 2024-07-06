@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APIWZBFypLEkZzjpTUR5pAsSEk9FGTTXJLFc5AJx+dbOi6c1003lziKVYyy5bAb1XPvWTfKrmkVdmXDbmaQKW2jufSp9TsoLC+aCO5E0exXEkZyORnBre03R5tSvrieVNi9X46tj0FS6poyQ2klybeICNwcLwGyemOvbnmsvbLm3NOTQ5W4tp7GULcRMpKhgGJGQehpNyNECqlTuC9c1uxPBqumajFMY1u42EltDH8uB0ZVB6jGOBXOKSHCdBuGa0i3LR7ozatsSQiI3REzMqZPK9c9v1rordZdLFtcxCZPMwu/s4xk7eORntWDbW/n33l46sc56AVuyzabNFFbabbXCsjeZJKr5GAOQoP8AM1NR62KgjuvDOnTmPzZAwEwLYJGFPU/1/Ol1ZUhKp5UxRx8yjBH0Pp/+uneCdSnuYXtJ4sPbniVgMtnp+NM8Ras8movBZylBBkS7IgCzAZ5JH/1q4upprzHJ3Gk2+q60qLZyafDEC7zMcZUDOSQMZ6gY9RXK3giFyoiZmYMQ7HudxwR+GP1rq9c11zLJbbRJCUAcrJ0fHzY7YzXGDBlU/wC0K7KKlbUznboXrQpHM8zdBuGPUdKs6LqP9k6rDP5fmQglXUj7ykEH9DWedpT/AFm1gxPIz1NMeU4KA56circb3Fc9GuLn7JAZNPmeNJiHJj6j6muUkvXtZR5jsVMgYknJHr9f/rVBZ6q6WzRSc5GMmqF0/nEsvT3rnp0nF2ZrKatdGprFmthd3ED3UEh2hlMTbuCeMjtx2NYManzQccAgn86UDsTjPc1LGqBT+8yxI9u9dS91WMW7n//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO38wMMjrVi3tJZIfNRV2s2wEnAJ/wA/yrI2O+dpIrVguGt7OEv5bsBsKKPmwDkEn/PWtmYIjRZpmVVjI3EKC3HUZHX2qzYqXAxGST0yKbHfSkhEjOABznHTFXob6bcdwwvA+92pMaJI7cBiWQjMZf8A3cZ4P5GqM1z5bEeXkGrc+qDyJlLESbCB3yTkY/WstWMgywOTSQ2x0UHy8j6URNA141pvBuEQSFMfwk/5/Ote7tPsdrJM6MfLGduOvoK4PRbLVr3X5rpNQ8u5ZGLCVNysM9Me2ePpTWupMtGkdxshuIw9vAVAHPcmqxRwKsWFlNZ2cFu0jOyKAz9Nx7n8TWktt5wxKoPvipuXa5gmAlsnafcVYitBtB/nV6S1hSTCbvfJ4qGQDd8rZA6U7hY6OaMPC68cqRzXGwadd2V7FcQR7mxnbjO5T2PpXU/aMjHb0pyug5wM1Kdimrj0hV0VihQkZKnnFOMBIxkYprTHaAhUH3oSZsHzCpPbbSGQSWhOTs/KqrW/zHKEfUVqectL5oPFFwsf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Chapter I: Revisited</tspan></p><p
+          ><tspan template-id="title">Sorgir</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Ad Infinitum</tspan></p><div
+          ><tspan template-id="artist">Skálmöld</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
