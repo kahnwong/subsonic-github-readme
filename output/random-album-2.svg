@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO38wMMjrVi3tJZIfNRV2s2wEnAJ/wA/yrI2O+dpIrVguGt7OEv5bsBsKKPmwDkEn/PWtmYIjRZpmVVjI3EKC3HUZHX2qzYqXAxGST0yKbHfSkhEjOABznHTFXob6bcdwwvA+92pMaJI7cBiWQjMZf8A3cZ4P5GqM1z5bEeXkGrc+qDyJlLESbCB3yTkY/WstWMgywOTSQ2x0UHy8j6URNA141pvBuEQSFMfwk/5/Ote7tPsdrJM6MfLGduOvoK4PRbLVr3X5rpNQ8u5ZGLCVNysM9Me2ePpTWupMtGkdxshuIw9vAVAHPcmqxRwKsWFlNZ2cFu0jOyKAz9Nx7n8TWktt5wxKoPvipuXa5gmAlsnafcVYitBtB/nV6S1hSTCbvfJ4qGQDd8rZA6U7hY6OaMPC68cqRzXGwadd2V7FcQR7mxnbjO5T2PpXU/aMjHb0pyug5wM1Kdimrj0hV0VihQkZKnnFOMBIxkYprTHaAhUH3oSZsHzCpPbbSGQSWhOTs/KqrW/zHKEfUVqectL5oPFFwsf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+r2nWKX8giM6wMTgSSA7M9gcdPrVGuk8NxafBdw3F7qsNsqNkqqliw7g8YI9qa3A6Kz+E93fiIxXqR5X96AvmBW7EEEZU/p0qtq3wu1DSMl7hZQ2FjJXywx7kkngCvRLXxJpccUNtpuo2jpK+VVwyKq8AKjHAwDzznr9Kt3XifSri2urTU7+ySGCQZMYMmQcghnAIAJAPHp9aq2mxoqceb4tP6/E8C1KwTTnWHzhNL/EyfdHsD3+tUK6XxPHYTahcz2mq290HckfKQQOwXgDH4VzVS1YiVr6bBWlpk1nYyC5uovtLDJSHOFz23e3sOazaVG2uGxnBzg0hG/qGoandzxyXTCVmiJS1xhIoyQRhegz1x9M1JpepaxYXFx9iPksYcTWZGUmjBOcqeDjr69SKybaf7TqJkupyhk3EyejEHH4ZxS3FybXUlmtLhnaMKRJ6tjn8M5q7iHai9ndyfaLOMwkjLw5yFP8AsnuP1rOpWILkqMAngelJUt3GFb/h7wyfECS+XexxSRuAYyuTtP8AF1HfisCpIJRDPHKY0kCMG2SDKt7H2pAdTbeGrCG6jV9TWZ2kWLabbKHdHvGD5gJPYe9PXwlb30/nf2hDaRyKGEAiO9DiTClS2QT5fHJyWrAXUozlWsrZQxBJVTkYz0596X+1UTKrY2rrnOZFJLfXn8vSi+o+X3b3LOu6BHo9rYzRXn2r7TGHfbHtELFQdhOT82D047etYlSTTNK7NtVAxzsQYX8qjoEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Sorgir</tspan></p><p
+          ><tspan template-id="title">The Witcher 3: Wild Hunt (Original Video Game Soundtrack) [Extended Edition]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Skálmöld</tspan></p><div
+          ><tspan template-id="artist">Marcin Przybyłowicz &amp; Mikołaj Stroiński</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
