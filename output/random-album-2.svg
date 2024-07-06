@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APP67jwPrAtrgQSNhWrh6mt7h7eUOhwQa3PAwtd0Kimj6FRw6Bgcg06uC8LeLBOEt7huegJru0cOoYHINbKVz7KhXhWjzRFqO4kWKFnY8AVLXM+LtTFnp7IGwzU27K5VWapwcmeMUUUVgfBE1tcPbyq6HBBr1Lwt4pjuIFgncBhxk15PUsNxJAwaNiD7U07bHbg8bLDSv0Pfpr6CKEyGRcAeteS+LtaOoXjKjZQHArKk169ki8tpWx9azXcuxLHJpylc7Mdmft4ckNC4mlXb9Im/KpBod6f+WLflXt6abaoOIV/KpPsUA/5Zr+VPkZ1rJIdZHg8ul3UIy0TD8KpspU4IxXvtxpNpcRlWiXn2rzzxT4TNrungX5Pak4tHJisplSjzQdzhKKcyFGKkcim1J4x//9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAAM9KXa390/lSAkdDil3N/eP51QFuK2t2gV3nIcnlAvIHrTZbeFYmeOYsQRtXHJFVtzD+I/nS72/vN+dTZ9zZ1Y8tuVfj/AJibWPO0/lSEEdRTgzngFuOwNDK45ZWHbJFUZWYRo0kixqCWYgADua67Sy3h68W90uVftKq6FrmBZUK9DhSMdRwfY1z2ltFDM9xLIE2Kdh6nce4HtU8mtEqyRQgJ0XJ5AHT+lYz5m7RO/DewhTcqu72NnW5JNYv2vdS8uS7CLGURFgVj0UYX8fqBVdYbWFFaOCAMOI2ZdxdjwvB/FvpiscarKJBJ5MRYMX+YE8kY/lTl1q5Vo2McLFHLglO+Mfy/lUOnM6I4rDJ3St8v6/pG46FZWVApcBU6Y+g/E5Y+wFc3ezGWcqH3omQD6+p/E1OusXALErGxbcSSO7dT+XH0rPq6dNxepz4zFQqpKAUUVNb3BgckBWU9Qyg5/OtjzyGirhvic/KmOOPKT/D3pf7Qbdu2oCDkERJ/hSuVy+ZSoqWaYzPkhQB02oF/kKZsYDOKZJ//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">The hills - Single</tspan></p><p
+          ><tspan template-id="title">Daredevil (Music from the Original Series)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Alexandra Streliski</tspan></p><div
+          ><tspan template-id="artist">John Paesano</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
