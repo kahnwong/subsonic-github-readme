@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO38wMMjrVi3tJZIfNRV2s2wEnAJ/wA/yrI2O+dpIrVguGt7OEv5bsBsKKPmwDkEn/PWtmYIjRZpmVVjI3EKC3HUZHX2qzYqXAxGST0yKbHfSkhEjOABznHTFXob6bcdwwvA+92pMaJI7cBiWQjMZf8A3cZ4P5GqM1z5bEeXkGrc+qDyJlLESbCB3yTkY/WstWMgywOTSQ2x0UHy8j6URNA141pvBuEQSFMfwk/5/Ote7tPsdrJM6MfLGduOvoK4PRbLVr3X5rpNQ8u5ZGLCVNysM9Me2ePpTWupMtGkdxshuIw9vAVAHPcmqxRwKsWFlNZ2cFu0jOyKAz9Nx7n8TWktt5wxKoPvipuXa5gmAlsnafcVYitBtB/nV6S1hSTCbvfJ4qGQDd8rZA6U7hY6OaMPC68cqRzXGwadd2V7FcQR7mxnbjO5T2PpXU/aMjHb0pyug5wM1Kdimrj0hV0VihQkZKnnFOMBIxkYprTHaAhUH3oSZsHzCpPbbSGQSWhOTs/KqrW/zHKEfUVqectL5oPFFwsf/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APQNM08BV4regjiVT86cdfmHFMs4gqCkXSIRJvWWUHeXHTqX3+nrWbZpYk1G6aysHlt4ftNwwKwQg4Ej4yAT0A9z/UVJYXaXdqryKIZh8skTEfKwHIB7jnqOKydW0lLLSZp7O3nuTEvmSW8b4eVVw2E7b8qMe2R6VLY6S1/Yrc3Qkt5ZvMeNCBuRZMEhxjG7rwOlAGrLHE4+8n/fQrF1CwBU8VrLo9ujowaT5eAMj7u4Njp6ge9SXcQZTTuSxkIAUU+ZkSFmklESAcuWC4/E9KxtNv4L+1W4s50nhPG9DkAjqD6V538X/GN1Y6RbWelXUMkc5YXW0hwyn5VTI99x/CpWrsW9EerSGC2KedfvHvYRrulAyx6D61JmH7X9lN7L5/l+Z5e/nbnGenrXkngDxJZeJ9FI1o21tcWkiNlpQglaNQDx/dI25H1rlfGXjHxja+P7uKwvLqFDNi0UKu0psDADPXIbJB7ke1UlrYm/U+jLeeGaENDOJVUlS+7PI60szKVPIrxj4Ja7rurLq0WpTSTWkWwxPIB8snRgPqME+/PevVL67hsbOS5uJFSOMZJ9fb60no7DWqueCWtzcW0JhHmrbySDzUU/eC9f978ayPEd/u0IQRwujwXAmAK7GUgkDHc/eGfStK2ucMsflEhchd7DjtxxxWzBFprjz7iK1D7sh84znv1roZgjhr/SPL0y7C2DRLDfCKNg7EqzRNxye7qv6V2eoJcz/E/SrmawtVkxauds3mIETepDfL1OFH5VpNc2UuyKQW0i5DcDdkjpk/41aFxaJM6KLYMowW2gcehNZs0Ri/D/AFK80HRJpFu7e0Mt+5a3nUnzOFU5wMgDBwaveNr/AF/xHDbLNZTafpxAbI5ViT1Y9uMYz0/GrcmpWQjb54sAZOwfhWdcyae8WfMhkRSWABJ/rTS1vYT2tc//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Sorgir</tspan></p><p
+          ><tspan template-id="title">Hehkuva rauta</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Skálmöld</tspan></p><div
+          ><tspan template-id="artist">Elonkerjuu</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
