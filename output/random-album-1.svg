@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APFFGcetSLbs5wB+PpUYHPepopZIs7HZc9cHFdFgY8WcgcLgZK7uh/wpzW0oHTOF3YAOcVYTUWAQsHLKhTduP59aa2oMWON4BTacMeuMZ60ak6lJ1KjBBGfWoW5JxU8rtK+Wd2A4G85IFR7AT1otcpErJt6VJZ2s19dR21upeRzgAf56VHIcLjPFdr8P9YstPFxBKJllndQWQL908AZPOM9veibaWhJUttGt7Fl+1WxumSXowKqR745IpNR0mO9lllitZI3zjIXaigk4z6HoK7efxNp15bzubi9R7ZQQhVd7LnqOOmTioxfWNhKs/m38krANGiuoDA+vpWTjNyvb8SIyqLRq55Rc2M9pMYbiJ43HZgRn3HtUBXaa9P8AGXiXSNR0cRTW0pn3Yg3Y3Jjq27sPUd68wYljW6vb3lqadtRrt+VPtp2t7hJVJBU9vSo2x0pU+8BjjOTU9RncTIq6pqABJRLafd6dP8SKhn1MvF54YF1QZ9nJA/8AHf6VSu7orFcqhB+0XCo7Z5KElsfmAD9KyPOZDPEOjkkA9wR/n8q25El/XYftbuxDf3Bmun5O1TtUE9AOlVd3PWpZYzJJvGcNz+Pem+XjkgkVnK9ydD//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+iiigAooHXmrOoQx29/PDDv8ALRsLv6/jQBWooooAt6YYBqVubkKYd43Bun4+2a1xZLgI1qnm/wBnO5UR8795GR71ztKGYdCRj3oA3bkx2mh2cv2GJLppHhdnjBH7vBBwf4jvwe3yittmsZNfuVlsoJ3kvobdRsUbEPJPA5JIxn0zXDlmIwSSPrVvU7gTancyxvlXckEHqKANUwW66WszwRBWinBfbg79/wAmPf8Apmuepck9TSUAFFFFABRRRQAUUUUAf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Unimagine</tspan></p><p
+          ><tspan template-id="title">Jumyr-Kylysh</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Hands Like Houses</tspan></p><div
+          ><tspan template-id="artist">Ulytau</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
