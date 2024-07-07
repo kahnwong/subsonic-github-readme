@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APCCmAh5+YZ6e+KXZjqaXcGEYGcqpB/MmlAoAQR570vle4qeKIuwA/nWodEu/I8/yWMeM7gOKAMQQ570NFtXdmrjwlDyOaimGYicdCKAKqfeqZRk1Cn3qmQ4IoA6Lw9pC6hdojng9ge1e6aT4I0+205VKZLx7TnuD614x4T1WGwvIpHZI2BwSeNynrXu1h4q0uazBN0m5AAQDTEeP+M/CaaLeyFMmInIPpXDXcWyJsHuOK9H8feIYdTvHSI5UcZrzm7bMLAZ6j+dIDPOdsPX7hxke56UqnmoywwoC4IGD780b/agZcidhzx+JrQj1K4hjZFnYA9QDWKJPb9ad5xzkj9aANOS4MjZLEk9c1BcfLAc9SR+FVluAv8ADn8abJNvBGDz70Af/9k="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ALHxS8PWtnotiESSXzLogrGMHhGNedaf4WGq2vmWlnM7BFAYYAJyMnk89D+ftXqPxnRpvCMDgZEV4hP0KsP54rI+GEDJo+HUr5km4HHalKfKtEXCHO7M4i98Kzafcgtp9zHbshG44fDZ4JwelSRaLY3Vu5ixKc+WqiZd28DkkZ6ZIP6V9Aanq2ieH9Pgm1n/AFV1KIEIi3gk+vtU114M0JS066ZbKx5yqAUKo92inSV7JngN/wCDjp00X2vTZIonKPgyL8ybecfN3NdH8NvBsdzqt3NKIEWCIx5SQPuYueeCey/rU3xT06FNFiaCPDRS9fQHirfwStWh0nU7vPEs6Rgf7q5P/oVWqimtiJQcHa50PjnT/wC1tCmtsEsAWUZ4zjivOLofZ7jTbSO8aCT7MG80SSKIAONxCg5yePbvivV9XzsIzXK6Y19Gwtba6hgbzRvlkiDHaOePbIGQKxlo7mkLONg8P6prNxHHb64lvqdsE3wFkPMnYEkcnIHIz1q7rXjPxU2irBYafHaiOPE93McgNgZVRzz2yfSumv8AUwHhlYIkkJAkQfw5649uc5p9lqFtpkl/HMQYYncFc5OFOPzOP1o0Kae1zzPTLC+8SadrDXt+LpoYwim4uP3M8hwQFIUEYAPTv9K73wZo6aLosVsh+U4cjbt5wMn8cVR1m/iuGFhpsCwz/aA0qvHtw+08n6KTjHrXTWChUVR0A4qorUiT0sY/iG6t7KzkubmQRxJ95j78CuQ0mZpooriGR712TzQ6xjkdiQOB6Y7Ec1w3jDx1ceK4oIBafZYImLFRIW3k9M9On9am+Hes3thrK2w3zWr9bUNyznoVB+nJ9KJK6FTdpHtGneGrW9itr2WWeW6LCVpJGyWOc4PsOmPatmTT7Qa3Jd7B5jpliRn5vUCrVvNO0Cz/AGVYwV5QSAkf41l6xdrGxP8AsknPpWbOiPkcHeT3F348thaRSvYwznzrlRuViE28sO5OPpgV6JZj5RXhHiHUr7Sra5t7K8MMGofvjHF8vlqCRgY6ZPce1UdI+I3iPSCirfGeFQAI7lfMH4HqPzrSGxz1Grn/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Untitled - EP</tspan></p><p
+          ><tspan template-id="title">For Your Entertainment (Tour Edition)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">City of the Sun</tspan></p><div
+          ><tspan template-id="artist">Adam Lambert</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
