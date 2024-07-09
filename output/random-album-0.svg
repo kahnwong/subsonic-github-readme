@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APe6w9R8RW2l3Cw3MhDsnmABM/Lu2549/wDHoDjcrIvkla3kNu0cc+35ZGXdt9T9cZx2rOKGOtNUlvLNLmOMrHIMpvGCR6kdvpTJNRu1PyrH+VcbJ4l/svVCsjFopLaMFmRndp2jDAbvT5snsBjpTNQ+JmiWGrvpaRXd48LeXLNCo2hhwep5q7IR21rqF1NPskCBcE5ArX71g6ZdW99Cl1bEmNxxkYNb3epkMKz3AOQehGK0K8y8b/EU+FNbh01bLzd8HmtJu5XJIAAPXpRAR02pw6dpuly3ckKoLdGaNwu5lYps+XvnAAr558NM0UtxuWJpVXzF83I384P9PzrvbfxTp3iK3fde3ImUB3ilJZlwcggZ5x6jNc/4vsYhbS3EBNu8TNdLMD8vAAVR67ienbmrA9R8CXlzcR3Uc1qsUcYj2Oj5Vsg5AGBgjv8AWu/rybwBqmr/ANrWemS3mnT6e1gZ28sYmWUhTg884zzXrNRMAr5w+NjY8cQ/9eMf/oT19H15X4/+F+peMNej1C2vrW2RIFiKyoxJILHPH1pRYz593dPXsa2rq9DeBHimuneQ3UfkwkcLtJJOfxHt1rvf+FB61/0GbD/v09DfAHWZNiPrdiIw24gRPV3QjK+DMk8vjyCZ1URvZ3ABBOWI2/419Kd68s8E/DDVfCviCG+udXhurWGCSKOCOErtLgDIP4V6nUyYz//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APn+il2N/dP5UuxsZ2nA9qAG0U/YxHCn8qlgtJJsEA4PT1P0oAZBbyXDERoW2jJwOg96cLVi23coPucD862BFFFpq43iMYMi/wB5qkNpH9nEzWxCDltrksB369alO42rFzQvCfiLXtJW60+zgktTIYwzTqhLLgngn6VoH4eeLFIb7DaqC2V/0tOv51xlrq+pWUPk2moXcEec7IpmUZ9cA1OPEet/9BnUP/Ap/wDGnYVzrbvwjruj6fJf6xb28NjEArusockscAYHPWsayvNO+0lfLlICNtIUdcHBxnNZkur6newmG61G8niJBKSzuykjpwTiruiLAn2q4nZ1EcYwRjGSeM575+lOwE91qZe9SLykIGRGwXAZm43EevStezuZ9OlgjudHjkKHcX5bIIwCOcdcEfSp9M1Lw7JLI72UgjlJWWN5BgnHLLhdygHkZ6Vbi0zVWtYoXWGOK4DFUa4GUUZIZsDIBwelTyodzy6iilUZOKoRchT5KszhLdEtmyZX+dwvb+6v9aZEAkO52CgUQbLq6SGIAO5wGbjPt689KAO0+H15pltrsaX22QyRARI4AAl3fd3ngZ46nHrXaX9jaxeII49T1K1tYh+8MltOGMSqWbyx6Z3jJH5V5bbQW9vBLDONwODNCPvIOzrnrx/UEYNZn9plo/s62cOM8HaAf5UAf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Så mycket bättre 2017 - Tolkningarna - EP</tspan></p><p
+          ><tspan template-id="title">Love Death Immortality</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Tomas Andersson Wij</tspan></p><div
+          ><tspan template-id="artist">The Glitch Mob</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
