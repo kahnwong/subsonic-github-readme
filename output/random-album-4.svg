@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APG7FXMn7vO7HQd/auw0u20m/ZRDbXMLMu9lABClByASRw33jnp0rH8Ox2ZvBPdxs8afNsA4P1OeBXfaJCJGlWAIZZcrtjhyVDD5mz0HBHHXP0qfrFOn8bsaLDzqL3Tl9Ym0lo1/eXa714ACt8w4/Kq8Fj4faIqv2oXEBBLL1kyfmBHQbe2OvPtVrXdFjtZpbdkJlgX5ggJKnqRVjSNKTVbCWW09jhkIcqByf/r1vRnGv7xlWpyoe6yxp9rpENhNPuu5DnaBtUZP09q43VoY4GeSNmZ3Y4LDkDP8673StTl8OG7hNvE8ksBjZJRwA3f61w+pLI0rMyLszgE8jPtWlX4bGNP4my7p6PZzrtdVKnJ9R/hXoXhS3i03Tp9RujEHn+ePzJCG255IUd8g81xNm8d1LIj+aBICVIwQvv71v6alxaSpPe2Ul1Dng7z859CeuK8bH0pTg1Bf8E9fBzjFrnZW8VRzR+fPJc+VcXYZgrkAhACST36DH1NZfhrULn7GLeOaJnZN0YI+bA4KD8gfTmpvFT3mqQIZE2hZNih+cZI49Rzjj2pvhKZNFnu4biFiquNk8J+ZDjDAegZSOoxxXXgIzhCKkc+OlGc3YZevumZrpZGdiDhjt+vfmsq+h80nYxEQ5HOQPwrsLu8triZZbuKea3UjCM4Vio9OMdO1c5quqWySrthLoVIIAC854P5V2y6pnCkkk4u5k2YtsiZr+VQPXjFdVp3iqKLTws0xunOB5cjMCT29OnPNebwSlAQeV/u9evpWhFcLI2DkFzjJ/hFc97G1rnR6l4jtrm7t9tpHF5dyZiFOC2BxuyetVJdYtTf3cirI63KozBmOFYcHoeahnvdI5IhVFKgMirlSQSeC2TyMAe4qhNf6ZKq5jmwrA4VQpxnpkf7OB9cmiPuqyCSvubtnrUN7/o0aqDgbRLK3J745rH1qZpLpirjg4KrzjFZfnIt4zxbtm87N3UrnjPvUytEUZ9xJ7J7/AFqnJtWYlFJ3P//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AGbqN1Q76TfUHlWLUTfPWjHNgVlRdeDmri8Dk4rKorndhW0i95uRVa5kypqMSe9RTyZHWs4x1O2rNumzH8ylWTP1qr5tL5xFdljyLGnBKBjrnPFXd4ZScnPesq3lJ27ulXPMODg8dvrWNQ7sPHQlZ8Gq88lIZSe9VZ5KmK1OisvcMvf70obPeqof3pd9dR5tjZ0+L7QzDzCCvOMZ/rVyVPI25cknnGMVlWlxOFVVlcKOgB6Vf82aRcPIzD3Nc1Rq56eGptx0E3Cq07c1K1Up32tRB3ZtiabjDU//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Pirates II - Armada</tspan></p><p
+          ><tspan template-id="title">Weightless (Ambient Transmission Vol. 2)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
+          ><tspan template-id="artist">Marconi Union</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
