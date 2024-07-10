@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADL0lEQVR4nOyWz0rzShvAO5nMNEmnDVZaqbZUuiiKLly5Elx4BUWvwrvwYlx7C12IC0UUBJWiUsS/MUaSpp1JJ8l8vM3He16Opx3Pi+fQA/mtEsjM85tnnuchSmbKSIVkpEIyUiEZqZCMVEhGKiQjFZLxJSEAwBcffr7+aS0Y8X3a/wDj/FTpSl3XMcaU0h/5VJQwDIUQGGPGmKIopmm6rvtjI1WN4xhjHIYh51wIoaoqAABCKIRACAkhBoNBHMeTw00SghBGUbSzs9NoNK6urhhjm5ubBwcH9XodIbS/v1+v13d3d4+OjoIgWF9fPzk5abVal5eXDyNardbx8bGu69fX19vb2xjjvb299/d3AIAQYlxQeQ0RQmzbFkJks9lms1ksFhcXF5NUaZpGKdV1fX5+vlqtlsvlw8PDTqezsrJiGMbDw8NgMDBN07IswzBUVYUQSsPJhTDGwYherwchzOVySdoNwwAAqKrq+76iKL7vG4ZxcXFxf3+vaVq326WUMsa63S5jDEIYBMFX6lou1O/32+12Pp+nlFqWNTc3Rwgpl8sbGxuc83a7ret6pVJ5fX0NwxBjnM/nTdNcWlra2trCGLuuyxgLgkDTNEWRh5uUw+SyFxYWgiDI5XJhGLqu2+v1PM8jhFBKPz4+ZmZmOOeZTObt7e329hYAoIy4u7tTFKXT6VQqFc/zOOfD4fD09JRSOm5A/D+oVJkQUiwWOecQQs55slEURRBChFAcx0KIOI4hhI1G4/n5uVQqPT4+NhqNm5sb0zQppbVardvtlkqls7OzKIp+Pe3ncPK290dIP8tkMsvLy7ZtE0Icx1lbW/N9v1gsOo5Tq9Vs2y6XyxOa628AfkHTtM+dghDCGI9bmzx8rp7fH4w/j6Wq6urqajabdV0XQggAiKIIY/z09NRsNl3XFSMKhYLneXEch2E4Ozt7fn7e7/el8/AP0S9+l5ypUCgghAAA1Wr15eUl0bIsixCSNFFST8PhECGUvDqOwxj7y92+5wa/i9+/MukuQogJE2+60jCBcWf4b/6g/ZtMndDUMXUZSoVkpEIyUiEZqZCMVEhGKiTjfwEAAP//BJ18VXT0BJMAAAAASUVORK5CYII="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APN9CjhsXW+ubcXIjdSlvz+9bPC8c816jd6h4z1yWNJrW00GCRAhD5eRYyemz+hxXMeBLGFrqC4mw8qsrR88biTk/UDiu08TTzTa3aT2s4ZGC43DIjbJH55/QVno7t6mM21awaDZtoXm/ZFjmsy/ltI21SJM7m3Fc7gexP09BV3WdXkLWbTl7ZUkZt0cm4ltuAB0yOR/9es621BbFJ45Lh2EbsfNdVCjeV9OcAL+ZqzdXEOpwIjurW9wSVeNsqMc5HuCDj61oldWRlKEbKT3M23u/tWl/YDP5xF00kiuSp+YDkY64OOOn41wHiKMy2E0bgboGyDjt/nFdhb3D2trJbCTKrckc9ScDn9K5LWZd7aki4AaIN09GFJKy1LgaeiXKxQ6eWcYeckkDb0U/kOa6S6bzr+ygLjMp4I9Pm5rkreSOaTTI1UrEFLgHGcfTNdzaR2zeTL9nE08S4Rzkn8q45VvZ/iXJc0jA8SXJ0uOWEOqs8saJI2cKcZGfc4qWxnubm9lWVCivdyugxwMrvOQOO/b1pfFduby18lRGt5cTRlImTDSAHBKk8AjIz3xmo/D3mRx3NuII5ZYD50BJPBdcNz3HH5g1XtXyc/9f1ctx/d2MObUGkvike4iSbcAOhP+Qaxb26aS2vQyqrAAcdcFs59xwK6G58M6lbSjbbNKH+YGPnaeRj345NcrqFjeWtrd/a4JIgzptLrjON3SunmhLWLMVdM6vTna6FtKbIM0LBAz/Lg85Ueorp7KG6DidIQgRmcBs7WPfgHk+mRisHw1dabeWEkTYgufs52yKjEyc8ksDkEDjGDmul+S3gUW8TlTGC5ETKY1PCsR3B7GvLrqV7I6OS+platqbf8ACTWMz24kkXYpB+UICxYsfTCgn8Kr6FqdnJ4gl+xSARsHEWeNybiy9e+DVfU7B763ae0eO6kOUIIYIhYlM7u4wMHilsNCEd7FJEIhsi+aGBHVihIG4bs5wR1HGDXQ1D2PLfWw+V2sbesXe87hEwZT8pSRQCT/AErhfEcjT2kqt1BB4fd7V3c9rbxyGKaGV41ByLcCY57gkD/DFc74uW0bQEmS6aRpDtgjFsIsJ1yQOntnrWWHXLJEuG7P/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">FINAL FANTASY VII REMAKE Original Soundtrack</tspan></p><p
+          ><tspan template-id="title">Alter - EP</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Various Artists</tspan></p><div
+          ><tspan template-id="artist">Dialith</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
