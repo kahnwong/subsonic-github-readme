@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBqVVLnCjJxmgAnpWvbafCioZw5MgUoFxjnrnP6etaQpuWvQic1BalJLCeRFKRHBbbuwdpPpmi5sLi0JE0Lx+m5SD1xmvRpZ4rbQo0urjYS48u3SMBEwoBOBxnjr71jWWpjVm2SpHIiLiMSgMeTzg+taV4xox96Lv8AL8tzfBUvrVrSV2cRSV02u6QIC0kG0RD5jgkn/wDV6VzjjBOAdvvXJCcZq8TfF4OphanJUQ+3QSTonJLMBx2rq7XRtRvZvOtYEkmiMZJc4UAsI1yT6syge5FcvYTeRf28oCHy5FbDjKnBHUdxXtCRGz07XFRWb7eVitPLJAmVjvXbIOmMZ46dK6qeJhSVpOzPMqxcpbbfl1/T5HA6/pNxpui6VeTtK1w4uxdB3XajxzGMKGHX7p4ye+O9W77wlc6XrCR6TDLdRZtY41LK7maa3EgUjjAJL4J6BaoXHiTVbXQ/+Ecmsbc6akUkTROGYBmkMgkyDw6MSAfTIOc1La+Oddm1Hz7W3g+0yXNrMgjjY/PBCYVGCeQyMdwP4YrCdTnV5M7MNN05J01r0LnkXaabA1zCALmNmR15SRclcqfrkfhXC3MflXLxkglDt4OcY4r067kc+EbNNhil061KJE0m4L+8LEZ7/e/kO1ea3ci3ExcH52ySWIH1rhws1KUnHa57GZ4pV6MFP446P+u/crA4NegeF/EtsdFbTru7NnLbgtC5yyTDI+Rh27YPSvPqUEg5Bwa6K9CNaPLI8WMnF8yPVNW8M3t59ov7qzuBKzKWlhYFZAejLjjjGPxqva6Da6ddpcxK9l5UbEyTnChsDJUtjn0x61wFvq99bokcd1Msa5wgkIXPPOM+9F/qt5qRQ3lzLMY02pvctgenNcSwda3I56f15gpSUrp29F+vQ3ta1i2lgW2tLmRyB+8ZcgSEnPGewwPqa5icsXyxBz82R3zUVKTkknrXdSpKmrIqVRyVj//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APAKKKm+zSeXv2/LjIOev+cUr2Glchoqz9kI4br9Rig2xxx+pFHMh8rK1FTG2kCsdvC9TnpUNF7iasFTpP8AMik7UwAx25/z1qEDJxUnlHj5k5/2xQ7dRq5OsoYIXlYHDbvkzjg4/PNJ5xVcgnIQdU79MflUIRMcyYPpjNKUXA2yZP0xSsitRzzfOwzuX5gCFxnIxmq9S+UfVP8AvoVGwwcccehpqxLEpc8UlSR3E0KlY5XQE5IU4piTG5ozUrXlyww08hHHU+nSj7Zc/wDPeT/vqgfMQ0lPeaSQYd2YA55NKyxBMrIxbA4KY5785oEf/9k="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Poyraz - EP</tspan></p><p
+          ><tspan template-id="title">Muhteşem Yüzyıl Vol.1 (Orijinal Dizi Müzikleri)</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Ekhô</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
