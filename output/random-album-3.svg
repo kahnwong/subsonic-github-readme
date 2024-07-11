@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APBgflxtH170dOoFCkA89K1LG0g1IJbxl1uieOMhqTY0jMz7Cj8BW7daEbG4FteRvExGVOMEj+RqKbwxqSRmWGL7QgAYiP7wB9v8KSkmNxaMbt0FIfoKcQVJUggg4IPBFJVEiCp7OWWG5R4WKyA5Ug4INQ0Dg8UhnTXl9qmpC2kv8yLbp5Sv3655ruNIYiOG5WE+Ulvg4+bnZjp9c15lZTM7pnrnHH9a3Nd1S5sFktIZmVpCCSOMLjOP1NZcvQ25+pk+KJGk8R3bkHBYYyO2BWRSszMcsST6k0laoxeo7acdKcsbMMivVtG+GwupEMg3IeorpZfhRZxyA4IQjnmuedZROmGHcup4daI0UpLA4x9Kua/ibUg8ZYoYkI3denf34r1PVPh/aw6U0dsmblpV+bsBUkfw2hvbCEA/6WBg+mKhYiO5o8LL4TxIxsB0qM17LL8Ib2RHIBXHTjrXI6n8PNTtHZRCzYOMgVvGaepzypuLsf/Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APG403VraTpCaq8lrxHNtMiTMTsUD724emM4I5zx3qjBHuWt2K5l+xC3jSOGJTvIjBDSHsWbqcdh0HpWdWTitC6VNzlZE8/hqyPlJZzRYbhWm3b3bC43Y4XJZQAOmeScGmL4btjJKJZQFiIDNEpyc9NoJO7jkiug0e0tbjS7e8uYCSbhU8xvuxZHBIHvxXOaxYyW2pOiqybX2rnjPJHFedHGNz5LnqRy268ynqWgRWNt58eoQz5kCCNVIbkE5P4Y/wC+hWM8RUE4JxXTanZGO4WHHCLknr+ANZM0XljnBr0aMueF73PLrQ9nOxJpkbyDCjNdBBpvnQyIoKttJIPHFcxZStHggkfSuo0nWX8zbINyg4yfSssVfk903wbtK513hZU0eymuJGC2kts0TDGfNbBxhe5BHPp1qpq1qniG5guogEQjDuF+QN3UjsecgjrUl9JFN4biljuFjKN+6jPWQk4IHvjvUXh9YTpciTXBE7ZlTYAQq8gA+h4P6V8zqk6r3ufQLbnW5g6xHtjjIB3hee9crdmRQSwz9TXWalcJADGxwT1x1/8A1VyN8xViS2QeRX0eCuqep4WP1mVraUFSpPPatTTSJ7xUfiPPJrnNzI+V7Vo2WoPA3Vkz1KgGtZttFUqaR6FBLbgfY5JFMEYJiMhw8ZPYeoNTIyxvDcwXMYWJWDoHHII9PXNcfHcWhuVlbUt+MAoy43dv60+G+03TbicxXoUSHGFGSuCeAea8ieEbbaZ6sMVCMOVk+tNFLIyxHkt5jOSST7GuVurhicHv0q1cakbhZFX5Fckk45P41QlmCgIvOBwa9OknCKR59WMZu5//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Yol - Single</tspan></p><p
+          ><tspan template-id="title">Fire &amp; Ashes</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Hayrettin Taşkaya</tspan></p><div
+          ><tspan template-id="artist">Xandria</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
