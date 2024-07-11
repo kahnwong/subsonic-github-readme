@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APcaRmCqWPQAms7VNdstJaOOdneaQ4WKJdzfU+n41ehmSeMPGeCM+4qCjlm8TatvbbpZ2CQqCVPKg/e69P1p9v4h1iaZUewiiGPmZs4HIB+vHI+nrW1davHa3SwmN3yMll7fT1q6kquSFJyOo9KdmJO45d2xd2N2BnHrS0UVIzzjTVFzbWrSKTMdymST5mZyeTnvXXRMxRlifayHHHpXnGm3rhdPjUCOMTsN/fuMY7+v411b3s1j4fudSGFjj+Z5m6AZ5x64ojLmdkaySijUvlCywgtyCDhuOuf61quxilMqMNp4K9a8NufiBqWp+Fr68mSOGUMhg55yCcED1H+Nc/oev67LqcNvaXVw0s0gREDE5Y10zptR1MFOLd0fToIYAjoeaWq9jbNZ2FvbM5doo1RnJ+8QOT+dWK5yjgfD/gaRrmK/1jKeWzMlqD1J/vY6Djp+ddxPaW9zaPazQo9u67GjI+Uj0xU1Ml8wxnySofjG7p15/SpirbDbueWfEH4c20Xhia50S3uGlgcP9mjII2HhsDGTgdvrUnwm8MJYifVJrOVZGULE88W0r67c8/jXpW282giSLf8A7vFJi+2jLwlu/B/z6Vo5tqzIUUtizRTIvMEY80qXyclenXj9KfUFH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOLiiKu2Ocd+xzW/bIwGCuSo5JHOaqW1pvdOXCDqcZxx6V0VvYysikfOScgA8k169ONtzzas9Cnbhw3l7QfM4z09ajucQ/u/L+ZTt+Xrit610oPOjSkquDhQOc4OAfalvdHV7hmTO8BRt9/Qe3OK00vYwU1ucg6KUbeclqqPbLPMu1QnGG3HoK6eXTW3lSqpjux5BFY17avHLiJs7j6YyPX2qJRNoTub+hWsMkg8zCktnBHBFdDYzyf2dFK1vbAO6h4/KdAPQ7sktj2rhNK8QokiERHfng5z+ldbpF877LaOCSUxYkVTIoxyMc/jRJpq6Zi4TUndHQCeWe0ZorJN8cXnTbpCABzwCPYdTVJ70QiSUWSTRwmMmVpHG0v/AA/UA5NI8Re4Mv8AZgVOpUT446n6/wAqbIWQFRp2IGO4D7SBknBB69elZ6Ds3pYju8MW820i8nyt8e1WwGOeGBwRnHFc1eWphmIwGBXI+lbmrX08CSSy28jrKAhLSKwOB09RXKXGtB5V3Qk8d2rWDVtxezm3ojGtPIjU7YlBPeteCWAAZjTJHBFc4jiPDAPu7dqtRywuigTlW7/Ienp1rKFTl0OudNyOssrq3M8abUO4nA9eOmaL+7tfN3+WuRwc/wCelYFsio6n7Uh2sCBx/jTrpYpVdhdxAE9CR3P1q/aLcx9g7l2a8tRkvFG24+nFZ81xBcAt9njB78dDUUkltC0ayTbjtzlVyP51TmkjWZ2RiWI9MZpOoaRp2P/Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Bottenviken</tspan></p><p
+          ><tspan template-id="title">Frozen (Deluxe Edition) [Original Motion Picture Soundtrack]</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Lisa Miskovsky</tspan></p><div
+          ><tspan template-id="artist">Various Artists</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
