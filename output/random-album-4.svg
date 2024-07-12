@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APNfDOn6VqGlhr2GFZYZJB5pziVWQ/Kw/vI2xgemCQegq1e6XoVnoK3Bt0EptJvMBJYxz7IVQZ7/ADiRge2/muCeV2VUZiVTIUdhzSwRmWZIx/EQKEB3PhW0Fvp73Tg7VUsf513Vt4+16P4eTzQaTaW+hmAwJMZWNwXYkFyOmDzx78E4rxae5uLy6WCOR9m7y4k3YA7frW/4r8SyXUCaHaBE02zCQx7Ty5RcFie4LZI+tDb51YUYrldzmry6e6uWlYnk8VBk+ppKKGNaCnqav6ZFlppjwI42OffFUD1NbttCIdAupW6smPzIpruTLsYkYzIMHGOc0SHLnkEdsVfGh6kPD/8Ab32R/wCzftH2Xz+3mbd2Py71m0igooooAfGu+YL6muiu4pp7Sy0u0jaW4u5VVI15LHoB+JIrnMlXyOoNeifCC609fiJaX2rTCNbeJ/ILD5RIRgEnsOT+OKfkS97nqfjzQoPDXwUtvDETDdhAzgfekU+Y7fi1fM1fQ3xn8RxSNZW1swngERbzIvmUknpkcZwBXz3J/rGOMZJ4py7BF3bG0UUVJR//2Q=="
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOPhtrOOeZLrKwyrsWZOfJJ6PjqenIHUE1XkWwkkJjEqrjARV646En1PUn3qTSIxdwtGBuGM4NbVjpDKciMD61cVza3OhO6ujHhsIZkynnB1GCNoIB64q5BZQxjY0cmSC5kxyD0C/TGc+5HpSa6bvSZ3WBsC4QMzKQdhHAP48Vb0Cea/Z4nkDsE3EnquOOR2ye1TZP3W2R7Rp7GfPptlIM77hW4yoTgdOc/nWZfafAgYxO2d2FBHautubcq+CwI9MVn3lm1xEAIwcc1o4PSzLjJdSh4PWCTV4RPJsixh/YZ/+vXstl4Zt0AmtmynUF2yDXimnQlWV1kRSOVZEAP416InimXw/wCFciRry8b5UXOAmc8kd8frWLgl8RjCs0rROM+Jd3HF4tKJMkj29uFPknhWySV/Xmofht5954kitfMCQyq7SgdgFJH61ylxJNd3b3EoZjIxLu3qT1P51Poerto1xFeW8UguEYhWDcHsRjvkGp9A5ve5mey6pp9rpsU1zI6ukY4Hqa4G/wDEF9jEDBQD02jn8K67ULpdT0i3njmIDoHZGPIYj39K4O+sz5rgISc9c/1q1zPYqrNXNT7Alsitt/hycN0p806fZyVZHGRuLPnH0Hb61zcurSFgqsfQ96qzXzviMKyqTz6mumpOFrxOOnTm7J7Etwks8jR+ZFsZh/FnJPSm2sSwhWmEe0Ekoev0A71JZXen27eaZ3S4H3Cg259Qc8c4p2qNa3Fu84vmDtjgqW49iPSuJTaldnoewUotI6W3WGa3wskCx4wMN09qrT2V1Iz/AGUrKoJPDVy1jcSFMGVgByMVt2Vy8RLNKQxH3u1ddKtHeZw1KEr2jqf/2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">XIAH - Single</tspan></p><p
+          ><tspan template-id="title">The Deep &amp; The Dark - Live @ Symphonic Metal</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">XIA</tspan></p><div
+          ><tspan template-id="artist">Visions of Atlantis</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
