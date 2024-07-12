@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APLJJC59qRaaaAap7jHgbs+laUGh6rLbfaU0+7MBBIcRnHFWvCdgl7rMRnX/AEeM7n46+gr6CstRsZYDDFNGZI1BMZ4ZR24PasZ1eV2N4UXKPMz5fcnNWrKFZ3ClQTh8e+EJ/mBVzxVBBB4n1NLUqYFuWCbDkYPPHtyai0N1h1S3llx5UbHfkZ4IweO/Wt0727GSWrVrszTQvXNOIoQciiSsyUd74LTT3t3tL6LdHcfxgkMp9iOldxHoei22nXdoL0rKIPnkZwHCDBzjPIIHJ715jod1caDeQTXULm0l5DhcgetWvFviCO6gjtLO9jukYH94pyyIf4SSMjP16CuNqUp2R6N4Knd6NI5TkzSSffQk9e4ra0Y6UIHF7JfRS7+PJgSRduPUsDmsc5WMIActwKkWcwsVAzla7akXy8qOOhPlnzN2G6fpt3q1w8FnF5kqoZCucZAIH9a1h4Q1SKU7xEFW5mg3hiVzECWYED7p2sAe5FY0UxtDIuZRuwMxvtOB2z+Nblh4hvLi6keW6umlMZALTZHXP3cY6lvzrOUtLkQV5JHo+k6Dd2Vpb2rIoMnyYLZyc4yfY5rUXwpZajbJHcWFtIkq7g2wdMZyCOQe31rgbDxLd2WAJpxEgY/6zJ5AB5x7f/qrudE1z7TBlJJNsnJAfv8A5A/KuFpRlc9H3pRPH9d0/wDsrX7iyBJWJiEJ6kHBH6GsuY4kB9q7T4iWMh1s36o3kyIoaQc4fnr9RXESFtwzj8K9CE+aCZ51SPLNo//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ANw+tNNaCai8cMMYgtysZzzGDv6/e9etD6rKyOpgtxuYEkRgHHHyg/3eOlfQe92PnbR7mdQK0H1iYmQiC2Uuu0bYgNnX7voee1A1aQPG32a1wilQnkrtPTkjueOtHv8Ab8QtHuUxUmatDVZiEBhgO1txJiB3nn73r170smpSywyxmKFRIeWWMAgccA9hx0pe92H7vcYk9gsMKvaSM4OZW8zG4c8D07flQ9xpxRwtk4YsAp8wkBeO3c8Hn3pqRaeYYTJczCRj+8AjGEHPTnnt6U5otMCOVuZi2QqgoACOPmJzx34/Wn7t+v4h71un4Ctc6blylg4+XEYMpODzy397qPTpSC40wPGDYyFFU7h5xyzcc57Drx70NFpIL4urhgq5X92BvPPB5+Xt60gh0vfGpu58bSXcRDg8cAZ5780vd8/xH73l+A8XOn4TNk2d2ZMSEZHPA9Oo/KlkuLJopRHaFZG4Ri5IUcdu54PPvTRHphCH7ROCzfMNgOxeen949PSllTTxDK0c0zSDiNSgAPTknt34/Wj3b9fxH71un4EcemvJDDJ9ot1MpAVWk5HXlvQcUr6Uyo7farYhSFwHyS3HQdxz19qpHpSGrtLuZ3j2LzaQys4N5aYjXc5EmfX7v948frSDSXLRp9qtA7qW5l4UcdT2PPSqJoFO0v5gvHsXX04RxpIbqAq77VCtlsZPJHbpRJaRpG7C5Riv8I71UHapOtJqXcacex//2Q=="
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Queen of Africa</tspan></p><p
+          ><tspan template-id="title">2007 Winter SMTown – Only Love</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Maimuna</tspan></p><div
+          ><tspan template-id="artist">SMTOWN</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
