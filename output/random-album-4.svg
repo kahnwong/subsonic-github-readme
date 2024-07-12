@@ -127,7 +127,7 @@
           style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
         >▶</p><img
           id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APB2K4VQijAGTjrTl47D8qYBlsVu6HpNvf3U32p3W3t7aS5kEWN7BAPlGemSRz6ZoAy4kaV1RVXc3HSnbTn7q5z3FdVaafpUV/ZOoOHjSVYpH5kLITjd04OOD1xSNpWmSaHp90iTDzLw2r3IJO84X5tvsT09CKVx2OSk3AfdXP8Au0+CaJkeKS2iJZDtcDBBwTVy7szbXU1u5DNFI0bEdDg4rLkXbIQKYhYxmStvTbuXT7uG7iCsy5DI3R1Iwyn2IJH41hK2HzV5JiFABFAHVW+mXV1bW13arL9gtZzGl052hIyCwDEc5UkqePTFQLfi30vSLVQGe2Mt0V/6bO2FB/3QqmqtvdtDpMkLXM8Y2o+xZGCbmY9VBweB3rPaUBYzHkkYLluc8kZqSh7rgEncWPUnvWZcRssnK4HPNaRuQ4OCuR7Cs24lLyYyMfSnqLQqk/N+VPEh49qllgWTbIk0WWUZVnAIOKr7T6r/AN9CmIvvds9oFIB+VY2I/wBk5BP4cUhm22mNvLlQCeuFz+mT+lUhn1H50pLHksD+IoAl84hutQlstmkOc9R+dOVFAZmkXIBwAetAH//Z"
+          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOVEMMmkWVzbYZ3jIlGeVYdf5VBa3wtp1OWAU546iqmiLd3OntHax+aUmw645UMvH8jVvVPDWr6VZ/bbm2YQNIUMq/MmccdOn417saqSs2c3s22zrdI8c3GmhfJkfH4VF4i8TTXZDyyOyuMk8f59a4a1junj88RuIw2MkcGnahJLBpsCyMd0jliCOgA4q0qfxozlGSmo3C8vFdjgnHvVGDE95Gp5XOW+g5P8qpPNnvVzSUMovpR/yxtWb8SQv9aylW5nZHSocqOj+FOpW9l49toLplEN0GiBY4G/B2/nkr+Nes6Prd9Fftpd1pu2CRyqXSN8uO2UPOD6184QzyWt3Bcwk+bFIsiY9VII/lX06uuWcOnWl5OJIkudk6RmIl1U4JUjsRnvXm1u51UrKdr7nBeM9Rk1G5il02zP9nrO0fnHBLMpw3y9hnPJNefeM9R+06sqqfuxqzLj7pKjj8sV28Oprs1qxiD+TJemWMuu0opyT6jnH868u1+WWTXbt5omjYvgKw7AAA/kK3g3GlboYTSda/WxT3kmu38JaYZNE1q4wrJ5CKx3DgFx/hXCqea63wxfeRout7zkrHEU9vnA/rWlFrm1HUWmhmaHqdvbX+buGMRsu1WC/wCrPY/T1r3vRZF1HR4Z47iOdgoDrKdysAAMHHbgYI9K+cYQDkNWtYXlzp2/7NdTxKwOFjbgn3B7Vy1KLnqmdFOoo6NHqWv+HLq200zyT2cJXJWNWOX5zksep7V5Nqct3cXLz3TRhONsTc5/DtWrf+INTv4BDJdSBFzjCqp/HFYjpGm47nYnqxAyef8ACrhCpFWkzOcacpcyWpUiiE0uxP3ZP3d7cH2zWjprPFb6pbsCrtb8qRggqymqBVWYYz75rX0hDdwzKxzJEuwMepRgVwfocGtIq+hnN8quf//Z"
           width="48"
           height="48"
         /><div
@@ -135,10 +135,10 @@
         ><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
             id="track"
-          ><tspan template-id="title">Broken Crown Halo</tspan></p><p
+          ><tspan template-id="title">Мечтатель</tspan></p><p
             style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
             id="artist"
-          ><tspan template-id="artist">Lacuna Coil</tspan></p><div
+          ><tspan template-id="artist">Дима Билан</tspan></p><div
             class="a"
           /></div></div></div></foreignObject>
 
