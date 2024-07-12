@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  width="540"
-  height="64"
-  viewBox="0 0 540 64"
-  data-reactroot=""
-><foreignObject width="540" height="64"><div
-      xmlns="http://www.w3.org/1999/xhtml"
-    ><style>
+<svg fill="none" width="540" height="64" viewBox="0 0 540 64" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
               * {
                 margin: 0;
                 box-sizing: border-box;
@@ -35,7 +25,7 @@
             }
 
             img:not([src]) {
-              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              content: url(&quot;data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot;);
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
@@ -49,6 +39,18 @@
               opacity: 0;
             }
 
+            .progress-bar {
+              position: relative;
+              width: 100%;
+              max-width: 360px;
+              height: 4px;
+              margin: -1px;
+              border: 1px solid #e1e4e8;
+              border-radius: 4px;
+              overflow: hidden;
+              padding: 2px;
+              z-index: 0;
+            }
 
             #progress {
               position: absolute;
@@ -58,11 +60,11 @@
               height: 6px;
               transform-origin: left center;
               background-color: #24292e;
-              animation: progress 273333ms linear;
-              animation-delay: -1321ms;
+              animation: progress undefinedms linear;
+              animation-delay: -0ms;
             }
 
-
+            .progress-bar,
             #track,
             #artist,
             #cover {
@@ -76,7 +78,10 @@
             #artist {
               animation-delay: 500ms;
             }
-
+            .progress-bar {
+              animation-delay: 550ms;
+              margin-top: 4px;
+            }
 
             #cover {
               animation-name: cover-appear;
@@ -118,29 +123,4 @@
                 transform: scaleX(1)
               }
             }
-        </style>
-
-        <div
-        class="disabled"
-        style="display:flex;align-items:center;padding-top:8px;padding-left:4px"
-      ><p
-          style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-        >▶</p><img
-          id="cover"
-          src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADAAMAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AJxo1usQLRblGMY6CtCz0S2n2gQMc9MLmkd5HttNs4WZWupNryJ1VQMnnrk4rstPvEsoP3aKhAILuucY7ZrhqVlBanfTpOT0RkpootYCP7OuHAJGVjzx+dYOsaNosenq0+6KeWQgeYhBwPr712V5r2pRrvhh+0x4+9Gmf0rjNf8AFdteIsF9ZFWA+XI6e4B/pXGq/NLRndHDNx95L5HL3vh21ePzYWOzb8w7g4Pf0JwM9s81y97a21vBsBKMzkEnBIFbZ1dIJyFmPlM2MZ6VW1n7HKS7zhQegxXoRbauedOKTaOl07VPsusaUzOxiRyjgH5lDfL0+v8AOuon8U3UFxJAI1ZUJGGHH864/UrUx+ajAFhGrLMP4dp4xj3xn6UupSf2xb+cR9mvFOySM/d49+oNcc/eR2UmoSdztbHWIvEazWN3bKIVXe7RnYVA5zwefp3rh9ZuNI0fR4dNs4jKD++825Uln3c5Xn5QOmKZpdwNK3sjqGILufOLYwrDaeOAS3+cVymr3aXFolt5UsjxZIdJCu5WC7QMg9h+FKnTd+VvQupUgvfitTAvbxrrU4reEcvIAQPr0rttZhthasvloCqjOPvA461h+GvDZtydVvmVHQHyo3bndjgn09q17s211ZXEk0shKjBGercYB+mDXXJxVkjgXM7tnoIT+3NKtri0g3xseHDYLAjkfWsO5t7KK4gtTfbWmkWOJwoXIzyrHueev4VzWleKzZ6V9mS4dMjZI0Qw7IOFY5GM9AfbnrWcmo2jyRvMkxuOSWMg3IT1wfTrWEaE03robyrwdnbU7HxZBBaaRLFbO0kw+YTKuzpgYJHUc1haRA0VxH5Kq6bAocc5ZRgjrx/+uqGr6xDcBYpbu5kgOHjUY24z37jjkVFZ3NtpwgnSa4keeUokeQNoJ5yBxgnHX0zTjSkoWbFKtFzvY2nnvri/uYtqqYiPLcqAFVh94+p9v/r1UuNMxYFUbCgbnyep/qTRNrUMkQbfMNi+ZsdgNzDucdeAR7Htg5qvJqLXlrCsUsqiIEgyxAgg475A7dqrkdiedXP/2Q=="
-          width="48"
-          height="48"
-        /><div
-          style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"
-        ><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"
-            id="track"
-          ><tspan template-id="title">The Last Hope In A World Of Hopes</tspan></p><p
-            style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400"
-            id="artist"
-          ><tspan template-id="artist">Temperance</tspan></p><div
-            class="a"
-          /></div></div></div></foreignObject>
-
-
-      </svg>
+        </style><div class="" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600"></p><img id="cover" width="48" height="48"/><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#586069;font-weight:400" id="artist">Nothing playing...</p></div></div></div></foreignObject></svg>
